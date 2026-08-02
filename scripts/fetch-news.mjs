@@ -17,6 +17,9 @@ const DATA_FILE = resolve(__dirname, '../public/data/news.json');
 
 const MAX_ITEMS_PER_QUERY = 15;
 const RETENTION_DAYS = 365;
+// Ids of dropped/expired entries are remembered so Google News results that are
+// older than the retention window are not re-fetched and re-reported every run.
+const MAX_REMEMBERED_IDS = 20000;
 const REQUEST_DELAY_MS = 750;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -88,18 +91,21 @@ async function fetchQuery(query) {
 async function readExisting() {
   try {
     const parsed = JSON.parse(await readFile(DATA_FILE, 'utf8'));
-    return Array.isArray(parsed.entries) ? parsed.entries : [];
+    return {
+      entries: Array.isArray(parsed.entries) ? parsed.entries : [],
+      seenIds: Array.isArray(parsed.seenIds) ? parsed.seenIds : [],
+    };
   } catch (error) {
     if (error.code !== 'ENOENT') {
       console.warn(`Could not read existing data file: ${error.message}`);
     }
-    return [];
+    return { entries: [], seenIds: [] };
   }
 }
 
 async function main() {
-  const existing = await readExisting();
-  const seen = new Set(existing.map((entry) => entry.id));
+  const { entries: existing, seenIds } = await readExisting();
+  const seen = new Set([...seenIds, ...existing.map((entry) => entry.id)]);
 
   const jobs = [
     ...PARTNERS.flatMap((partner) =>
@@ -148,10 +154,14 @@ async function main() {
     (a, b) => new Date(b.date) - new Date(a.date),
   );
 
+  const entryIds = new Set(entries.map((entry) => entry.id));
+  const expiredIds = [...seen].filter((id) => !entryIds.has(id));
+
   const payload = {
     lastUpdated: new Date().toISOString(),
     categories: [...PARTNERS.map((p) => p.name), AI_TRENDS_CATEGORY],
     totalEntries: entries.length,
+    seenIds: expiredIds.slice(-MAX_REMEMBERED_IDS),
     entries,
   };
 
@@ -159,8 +169,8 @@ async function main() {
   await writeFile(DATA_FILE, `${JSON.stringify(payload, null, 2)}\n`);
 
   console.log(
-    `Added ${retained.length} new entries (${added.length - retained.length} dropped by the ` +
-      `${RETENTION_DAYS}-day retention window, ${entries.length} total, ${failures.length} failed queries).`,
+    `Added ${retained.length} new entries (${added.length - retained.length} skipped as older ` +
+      `than ${RETENTION_DAYS} days, ${entries.length} total, ${failures.length} failed queries).`,
   );
 }
 
