@@ -142,9 +142,11 @@ async function main() {
   }
 
   const cutoff = Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
-  const entries = [...existing, ...added]
-    .filter((entry) => new Date(entry.date).valueOf() >= cutoff)
-    .sort((a, b) => new Date(b.date) - new Date(a.date));
+  const withinRetention = (entry) => new Date(entry.date).valueOf() >= cutoff;
+  const retained = added.filter(withinRetention);
+  const entries = [...existing.filter(withinRetention), ...retained].sort(
+    (a, b) => new Date(b.date) - new Date(a.date),
+  );
 
   const payload = {
     lastUpdated: new Date().toISOString(),
@@ -157,7 +159,8 @@ async function main() {
   await writeFile(DATA_FILE, `${JSON.stringify(payload, null, 2)}\n`);
 
   console.log(
-    `Added ${added.length} new entries (${entries.length} total, ${failures.length} failed queries).`,
+    `Added ${retained.length} new entries (${added.length - retained.length} dropped by the ` +
+      `${RETENTION_DAYS}-day retention window, ${entries.length} total, ${failures.length} failed queries).`,
   );
 }
 

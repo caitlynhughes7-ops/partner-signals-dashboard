@@ -27,6 +27,9 @@ export default function App() {
     fetch(`${import.meta.env.BASE_URL}data/news.json`)
       .then((response) => {
         if (!response.ok) throw new Error(`Failed to load data (HTTP ${response.status})`);
+        if (!response.headers.get('content-type')?.includes('json')) {
+          throw new Error('Failed to load data: public/data/news.json is missing.');
+        }
         return response.json() as Promise<NewsFeed>;
       })
       .then((data) => {
