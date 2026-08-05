@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:31:02.775Z",
+  "lastUpdated": "2026-08-05T12:27:50.172Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 328,
+  "totalEntries": 357,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -81,9 +81,134 @@
     "2a44479103dd5a2e",
     "399e7fe2a578247f",
     "b37fa2461ffea4a7",
-    "c15dd9115309ae35"
+    "c15dd9115309ae35",
+    "8cbfb817504d0704",
+    "97adaf09817c3219",
+    "1cab26f343ef0fe6",
+    "4eaf0de18d230e9b",
+    "0107e6fe001849a3"
   ],
   "entries": [
+    {
+      "id": "04436edf953ce789",
+      "title": "Compare Top 21 Manufacturing AI Solutions & Software",
+      "source": "AIMultiple",
+      "date": "2026-08-05T10:11:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41V0llMHJ5d0Z1RjB6SlBRQ1oxbm9ZRnVKa0Z0U0NlTFVTcVlsQ0VXQUp2MmlzQTJUMXRONTVJa1owN2ZQX3NNd2JsVFd5UUR5N3RSczJWMkpObnMxMHc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-05T12:27:41.762Z"
+    },
+    {
+      "id": "04f128c39ff33ec3",
+      "title": "How to conquer uncertainty in manufacturing supply chains",
+      "source": "Diginomica",
+      "date": "2026-08-05T10:00:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcGV5XzJSN2N5dUZ5RDQ2aHg2WEZTczJpMGMtbTRwRlZZREN5NzZscWw5ZXl4UVNYZmV4RnZWZUVPRGU0RWNISEI3cUVyVW95cmM0bWNTaHJLeXpBZWNmVmlRTVRDWEc3OUJ5YlRJMHJueXVHNllWZWduX25SQmc?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-05T12:27:30.906Z"
+    },
+    {
+      "id": "179675cc331e2a90",
+      "title": "Top 5 Supply Chain Planning Software in 2026",
+      "source": "Trans.INFO",
+      "date": "2026-08-05T09:45:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uRGVncUk5d2NmQzFjTUh0UHZxd1dzQVV4cnpiT1RMRkFWV1N2Z3JxLVY0N1B0ajF5WUFsZEZrWmNmUGk5UUsxQjNqQlhuRTY0Tmotc0theWFQOUlpT3NsOXdMQ3FpRGxGRlBoMVdGOWlLSC1sNFRHakxB?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-05T12:27:30.906Z"
+    },
+    {
+      "id": "5a129241e69376ac",
+      "title": "Airlines maintain AI investments despite cost pressures: Amadeus",
+      "source": "NST Online",
+      "date": "2026-08-05T07:45:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHVjVmp1cERnUElfYndfeld3Y3M2SVIwVmRaVVNMRzJlSG9LOFhNZUtxNHVySW9iVzNFUVBjcUFoclJhalpjVFNPQXMtdWZJMW5VeTJpNmRqajVkbTVKQXZFTFhWQWdaZnFSYXpDcEd0T2Zuc2l1X1YxOTZkcmRmbGgwbWFqTEJKbEZEYXVfUUpfZzk2SjVVUjRoLWF0RnBFTzF1dGt2eXQxejZaZXFBb2dqOW15U2RSSEJtYXJuUUFJQjjSAcMBQVVfeXFMT0R1Y1ZqdXBEZ1BJX2J3X3pXd2NzNklSMFZkWlVTTEcyZUhvSzhYTWVLcTR1cklvYlczRVFQY3FBaHJSYWpaY1RTT0FzLXVmSTFuVXkyaTZkamo1ZG01SkF2RUxYVkFnWmZxUmF6Q3BHdE9mbnNpdV9WMTk2ZHJkZmxoMG1hakxCSmxGRGF1X1FKX2c5Nko1VVI0aC1hdEZwRU8xdXRrdnl0MXo2WmVxQW9najlteVNkUkhCbWFyblFBSUI4?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-05T12:27:34.093Z"
+    },
+    {
+      "id": "e8a35eaf7db76278",
+      "title": "Why enterprise AI needs better decisions, not just more automation",
+      "source": "Tech Wire Asia",
+      "date": "2026-08-05T04:05:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSllGOW53NlNCbjNES0tGODQ5ZFFRbk5QQWx6ODJNcFdSQnZFUDNhek9QZ054WmwtSW1wdElDazhSYUdsQXhHLTc5T0dvcWNDTURmUDg2OW5EbEUzY2x6UEdXZWpfU3JleENVSGs5bEpJcTNiblowOVVBZFpjTV9HZQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-05T12:27:41.762Z"
+    },
+    {
+      "id": "7a615bcb2c9d6bb7",
+      "title": "Travel tech giant Amadeus beats turbulence",
+      "source": "Daily Tribune",
+      "date": "2026-08-04T19:47:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLV9kY0tmY0kxaWp0MGgyeXJkNHdSTjF3bW5HNk9KNU9TSTA3SjkxWVNMSmxLUzRfZVhkTFhsalF3dE5tN3VSclowTlY0RDdpR1ZzTGRXLXVDM00wYVc0OHoxa2RxUlJ1Q254UjRUN0VNSF9xNTR3a0tlZDIzdml1MkNR?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-05T12:27:34.093Z"
+    },
+    {
+      "id": "483da8449014c11c",
+      "title": "Google Zero – retail media’s clickless reckoning?",
+      "source": "InternetRetailing",
+      "date": "2026-08-04T16:39:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa0ZNYjRLY2x4dHVVNUZsXzMwa3dkeTRlbFVvTzRpcTZmc0ZSMTNIR0tORGJzYUNQNmpPUnJmRTViYWcxRm82cVE1N3JaSDhIeUo3cks2Rkx3Zk4zbkdoMklKTmlKUGJDUk44S082Zk1pZ0xVYV82NGw4TGpjTllkWS1R?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-05T12:27:46.545Z"
+    },
+    {
+      "id": "4cc9fd6b3b574791",
+      "title": "A People-First Approach to AI in Manufacturing",
+      "source": "Industrial Equipment News",
+      "date": "2026-08-04T15:36:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDh6akVPNHNlbTV4MEVLSWdST2hUWk51amI2QkFVSHlKQzVKRG5pblNNSzBDckhRLVNWMGxrRjljVi1kdW9vRkFqNC1uemVmSDZUTXlFbDlOWjJEYmZlR3dldnpabWZ0bm1Xd2NIRkhNUkJHNkx4alpPQkllbVJ0SkN0OWNaVjJOeUdzQkxjeFZnazlVNHN2Wnp5UXBCNm9iQWF3cVZDRlJDQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-05T12:27:41.762Z"
+    },
+    {
+      "id": "8962d20de836f0a8",
+      "title": "Robust.AI earns NextGen Startup Award for reimagining collaborative warehouse automation",
+      "source": "Supply Chain Management Review",
+      "date": "2026-08-04T14:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmVJRWNNYUNwQmM5UnpodGlKNWt0R3lUX3Y0TVZOMVFjY1A3U19ucHA1WjBUcmlqVEZEVHZ0aHB2Tkl6Nlh3Uk0yd1p2d05TaWlOcXlHVmZoSkg1c2Z1MUVjZFU1SXZRYnRlMGNUOThCRHR3RWV1Rk04SmpXZkhfY1U1bUNXUDhqVjdsZ2NOZGk1VUtPamhSaFdiYw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-05T12:27:45.343Z"
+    },
+    {
+      "id": "170448e5d2f77d95",
+      "title": "Havas Market’s Molly Hop: In Agentic Commerce, Only One Product Wins. Retailers Aren’t Ready",
+      "source": "Beet.TV",
+      "date": "2026-08-04T13:21:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEpOV2J4cHhERWRYdGhFcVlONXprWF82VHNmOU9DLWlxak9kODF6TWNRNkwxa1hDMnE2TmdMVTdjRUFvZ3VrZ2k3RTNCZjdLQ1d3enZlaHI5c0lKeHJzZmxzdnVpMkJPRko0VHluU3kzTm5qYnRPdDJpcmU2SEZQUFNzTlgtNzhfdE5zRkN0VUJCb2hjNURNekpkRERYU1NNUERWMlFhTDdoc1Z3Y0N3b1hERUtic2JlQWlTYg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-05T12:27:43.049Z"
+    },
+    {
+      "id": "60ce1cd355ada156",
+      "title": "Blue Yonder Releases Q2 2026 Company Highlights",
+      "source": "Business Wire",
+      "date": "2026-08-04T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdk5ndDhFTXgxVHF6WF9tTUV3TkNfZmNNRFNha0ZoOTdnLUQyOWZRZzgzM0VJQV9oX3J3NmRtYkg0VzU1VVdPRERGNDhFYXE0ZWpldlMxeVk5UGRPS0ZudlNEd2ZqS1BTUkdZSmRKdXZNZUlsanBxUFJidzU1aDJqcEU4MWdlVFVRd1A1M1RDaHY4eHNLOEZZbV9xaWhyZEhhaW1OdTZCWQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-08-05T12:27:29.760Z"
+    },
+    {
+      "id": "eeb6bccb405c3023",
+      "title": "Blue Yonder Releases Q2 2026 Company Highlights",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-08-04T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTluQUREMnB5d245OHNOX3A1eVplQlpXQWllbk9samNhNFNIMk5UN1I2NEpqME9vT3Y2Zm9hMm1zc2JwclBPWW5WRnlxX2Y0TjFBVVkwZTFicV9OajJnMG9CZlozSnAxQXFGRUdlYnF3dEx1Zk9HZHcxWnZkUjhCQURoSQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-05T12:27:30.906Z"
+    },
     {
       "id": "ee3aa996cd609a7e",
       "title": "Nissin Foods accelerates digital transformation",
@@ -93,6 +218,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-08-04T12:30:44.738Z"
+    },
+    {
+      "id": "f7af22a44a984808",
+      "title": "For two firms, better data is making for more useful AI implementations",
+      "source": "Smart Industry",
+      "date": "2026-08-04T11:02:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGNBNUdGbTIxRVN6em0xUEZnNDhmZlJBbUJJbGUxeGlLTHkwUUY1bUxaYUlYVm5Hc216TkEtQXdPX3BJWklCbW5kOElKdTlOZkFCZEdqYUdkSVdmYVozUDMzNl9LSndCVzNMN3owOG55VjFaN3pOdmVoeFl5Z25kUldrQUU1MTVfOVlVajlNWVE3TGxURjhoN1dielUzNkR4LVZPNFpXSUtxdFV0OXFOWUxSQm1nQXd0MDBGbXZiNFZPbzdyY3pR?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-05T12:27:41.762Z"
     },
     {
       "id": "e1f0381e7800d8ff",
@@ -113,6 +248,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-04T12:31:00.376Z"
+    },
+    {
+      "id": "4df13cd7b957a68d",
+      "title": "Yanolja Builds Google Cloud-Based Enterprise AI Agent Platform 'YAPP' — Data Analysis in Minutes",
+      "source": "finance.biggo.com",
+      "date": "2026-08-04T06:55:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CZExXbERYaU8xQWYxaFVySHJycEw5S1haQm1BZ29LMUVvNXI0QnJKLTZCQmFtTEtHYm1CTzRreUZ6cFpneTRoc3dBckZDNmJXam1fa3AtSGd4TTRSSmtxcDlZRWpKMk02X0oyck1ZYlZiaVIzS2c?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-05T12:27:47.739Z"
     },
     {
       "id": "29c80e1ed40fa65e",
@@ -243,6 +388,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-03T15:59:39.042Z"
+    },
+    {
+      "id": "fec9098b4daa6d3e",
+      "title": "List of 17 Acquisitions by Snowflake (Aug 2026)",
+      "source": "Tracxn",
+      "date": "2026-08-02T14:37:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWJzcHM0QktFNkxSSXFDMWlwaXNHUDZpclJ2VUhrMFpoaW12T0dQZkp5Ymp0bFRJMUV6MVZVLVFPZ1lPYmlOZDk0OUtrNGx2VFFnLWRYZFlQeHZXU2ZacHpQTU1femhRbXpIMnEzcW9Fc0V4ZnIweG1pd0FfVWZ0NXh5VlY0RGxoZmdKTHE5RFZ1YXFSRVlkRnBoRDZaYjdqMG1xZ0U2R3c?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-08-05T12:27:19.069Z"
     },
     {
       "id": "3400364794e4d41f",
@@ -485,6 +640,16 @@
       "firstSeen": "2026-08-02T19:17:03.878Z"
     },
     {
+      "id": "f37a6c7ac1d8dfc5",
+      "title": "AI Supply Chain Stocks With Recurring Revenue Worth Watching",
+      "source": "simplywall.st",
+      "date": "2026-07-28T15:52:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmdoR3ZGd01RbDlEMUtKYzViUlJJZ2Q0b0ZCZEhrUEVBWUcyY3JHRTNCMXMzaEV3LWx6bWtGbXBfeTV5M1JFRXVKOVhudGhiZ0FBSWxVRE9maUliQW9Fal8tVDVMV0ttMU9WNFIwdmM4QW1Sa00zYlZsb0VjN3N6UkF2Y2c2WFFqUlgzZUp3MG5jeDFhN0cxZjlIbjQwZTUzNEd2bU5xZHFuZjQtTWRmQUlVRWFBa3NIeUhMTTFqbFRHUdIBxwFBVV95cUxPcWkzaVlhRk91eEZNdHhPNVVScXdxeWNqclg2RDdTUjBQM1U4MVVMLUFMZjNDODRtbmdDZXROQUpFMDd6anFqbFFWR2d4RVlSMlBZcThYMnBmSDdCNENvRWQyZzRUQTd5N3oyUWpqVFUzM3FUeFdjTHdBU1NHYm9JWF9oY3FUdzU5TFQwTFNHQ3NtSzI3WUUwVHllbHJDRGVycVBsQWFnbDZJOVNQRzRkbjRLajMyM0JFUzJZeGJ3ZWRnWkMxVWVF?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-05T12:27:45.343Z"
+    },
+    {
       "id": "c635a62628de016a",
       "title": "How SAP's AI and Cloud Strategy Is Reshaping Its Growth Outlook Now",
       "source": "TradingView",
@@ -503,6 +668,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-02T19:17:15.461Z"
+    },
+    {
+      "id": "550276fc9c427baa",
+      "title": "Snowflake Launches Cortex AI Gateway and Advanced AI Security at Black Hat 2026",
+      "source": "Snowflake",
+      "date": "2026-07-28T15:04:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzlBTHBTNFNIdG9JSGdJMUN4V2ZZV1BtNEotaS1qRVB6X3d0M1NNWTFIQW9NVm5vQXhuUnA0QXpMVFd4dzNFYWhzNnoyZFcxbGtrWUJ5MmItVkJqeHJ0Vjdjcm1hbUtJanJvUXBCZjhwNFFscTZhdzk1SGNtZjhXZE5sU1VMYnc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-05T12:27:47.739Z"
     },
     {
       "id": "a6609448c084aca3",
@@ -715,6 +890,16 @@
       "firstSeen": "2026-08-04T12:30:36.273Z"
     },
     {
+      "id": "111b6eb150e4217e",
+      "title": "Silvaco to Accelerate Physics-Based Digital Twins for Semiconductor Design and Manufacturing Using NVIDIA AI and Accelerated Computing",
+      "source": "Yahoo Finance",
+      "date": "2026-07-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2RNWFhXOEUxVUp1WFU3anM2TFo5d1lud1ZuMDdWbXgtU0J5c3FOZDltWElRbUtkSXpnUlNVTkZ3S1pYZkUzb1FZZGpfUldxOGFmZWJqUGxvZjFiZXV0SGt5WjdFX0JQaHEwMTNNSVRhMjFWUERxaTEtOGx0YnJWM2c4d2FGclJKNWZodVp1UU8tLXZrODZtdkpPalQySldnZEV4SmZNNA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-05T12:27:50.171Z"
+    },
+    {
       "id": "413d7d4c82d3ca44",
       "title": "AI’s getting all up in our business travel",
       "source": "Morning Brew",
@@ -815,6 +1000,16 @@
       "firstSeen": "2026-08-02T19:17:19.994Z"
     },
     {
+      "id": "e0609b1eebe734a0",
+      "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
+      "source": "Business Wire",
+      "date": "2026-07-22T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdlBfUWZXLW5adUlNWnVJZGVnUGtVdjdfT0RabEhNSVpRdTNBc3R5U0lMNTd2MTlNeXQ2eEhTQ3Q1T3NMM20zQi1uVzlpVkJlLVRpU1ptdi1EOXVETnZxYkstLWZaQkdkRTJqTzEyZkFtaGduYVFLeWwxS2tKTTRfVjF1SENJSFh0ZnFyQkJMSjdmUW8yMzViVHpkWmUyQzN0b2h2VUxSQkRUOF84VVcwcS1FSkhBZE0tSXZVeFd6MXRqNDU4YUIzQUJhZVM3a1k3SUNwemNsamg2R1BXT1dNY0FQRTJVYUhocXpUdHhyMVFmUHlkbUJlS01CdlV3RXBDQU9nWlVKbDZjLTBr?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-08-05T12:27:29.760Z"
+    },
+    {
       "id": "7517976ba66528b0",
       "title": "NielsenIQ expands analytics partnership with Circle K By Investing.com",
       "source": "Investing.com Nigeria",
@@ -863,6 +1058,26 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-04T12:30:59.198Z"
+    },
+    {
+      "id": "19d052afc190aa5c",
+      "title": "Technological Revolution: Preparing for the Era of Agentic AI",
+      "source": "Snowflake",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX09IbWMxcjJPdXdxQTZGVzI1T3dld3RkSzJ4VXhyYjFNRHVJejk2MHMxVGkwRFBmQng3bi1uNmV2UDdUbHNjczdxN1NpUUVhLWJRaFdocmdJTnZ0WjVFSEk0VjRNdmVINjVzVm1pcW9MWndD?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-05T12:27:41.762Z"
+    },
+    {
+      "id": "2ef068460eeb1f90",
+      "title": "ESW launches agentic commerce integration, partnering with Microsoft Copilot",
+      "source": "Digital Commerce 360",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1VGb1Z2b21wck1wUWw5cVBEZzl4U1JHYlRITjJlenBXVmZmenJpS1VqZzQ3c0N3Ykw0d3F1YUk4S21qNVo0QkI1SFRPRE5DaG1uZzFWTzdZalpITVlUdnc2eUItaXd6em00YU1XdWNRRmdyNTMwTEprWC1RN2dYWkNoaDVxMHE3R3phMS1ubWRCcHV0TGQ2MWo0M2NFZ9IBowFBVV95cUxQZHZ6WjM0RS1GM1Byd1VBUUNLbkdsWFg3N09ZMXlSM1ZzZDFvNS1YRjVyYVRJUlFpMWJ6V0V1Wl9nRW53NFBnM0FwSDI2QldRb1k2V3l3YW1KMmh5YWhyRnJLLVdEYnpFek1TZ3NNbk5lM1FQXzJOUUh3ZmM5OF92V0F3ckc5MUhsNjF1NEsyQmtLVVJEblZIbERndHU1ODhKMnU0?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-05T12:27:43.049Z"
     },
     {
       "id": "70995e8010058b0d",
@@ -1905,6 +2120,26 @@
       "firstSeen": "2026-08-02T19:17:19.994Z"
     },
     {
+      "id": "ebba14996031c635",
+      "title": "AVEVA",
+      "source": "FoodNavigator.com",
+      "date": "2026-05-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RR0h5Mkozb3BwQldqMnlEeTBmSHk4UG1XU0Q3VE5yaW1XTXZDdUFqQUM4YmJHdHRCbl9KeHgzSmhkUlZIR240aFdhMkFsS05INzFUdGk1T3pGdw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-08-05T12:27:21.457Z"
+    },
+    {
+      "id": "728b481009082f53",
+      "title": "Blue Yonder and Syndigo Team Up to Strengthen AI-Driven Supply Chain Operations",
+      "source": "iTWire",
+      "date": "2026-05-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3UxTE5od1lTd0xDS3VBSnFXbEhPRS12czJCWExiUTZpOXNoVTJ2a29WZVduTEsyOU5xRGYzNE9HcGUycWtWdVZjUVY4R3FOLVBBcFpoeWxLWjkwRlBHY1hQUXM0ZFBza1E0WG9nbDBuXzk2T1NVQVFMcWtjbXpIUHRPdHcyM1FaZTVacFYxNVdiTGJFbzVIeEo1RXZ0M1Z5bDFndWRkaDNncXotWk5hZGxVYXZEdVdDcTRjRXNn?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-08-05T12:27:29.760Z"
+    },
+    {
       "id": "c8bfdf1b1bef7ddd",
       "title": "AVEVA partners with AWS and Snowflake to accelerate industrial AI and cloud transformation",
       "source": "Intelligent CIO",
@@ -2415,6 +2650,16 @@
       "firstSeen": "2026-08-02T19:16:54.886Z"
     },
     {
+      "id": "7eb0ada893535f8f",
+      "title": "Exclusive: Mariana Minerals taps Pronto to help automate a copper mine",
+      "source": "TechCrunch",
+      "date": "2026-04-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1VvRjg1ZGdYam5rZXB1OEVNcHduZkFhTmhTVnFpUksxbHlpWDRRUEFPMExBdmh4NUF2UVZMYTlxS2llcHkwN192YXY0aGxDQXJHNUtGZjhNQjA3aC03cHdSVHhhNHJJWjliampSMHdMT0NnUmJuVGU1eVM2YnZ4MFFkU3NHSlVHT1RmTl9tQWduOE5URnZfdm5B?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-08-05T12:27:36.302Z"
+    },
+    {
       "id": "e8a9d2f7be4d4015",
       "title": "Why AI Integration Will Define Travel’s Next Competitive Era",
       "source": "Skift",
@@ -2505,6 +2750,16 @@
       "firstSeen": "2026-08-02T19:17:17.660Z"
     },
     {
+      "id": "d1805331082cbb55",
+      "title": "How Digital Twins Power AI Cities",
+      "source": "ASUS Pressroom",
+      "date": "2026-03-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16bUoxMndtNDE5NWxkY0hWRktRajd2Mmo1djd1eWVfSTh1TDQ0TXRUM2ZaT25RMFFaQzVqRi0tZ0NKYnZvaWhrbFFWSWV3dUo4b1UzSWJ2UDNDMXctZHdxbFJiWlRhSmlSNzVTczRtSQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-05T12:27:50.171Z"
+    },
+    {
       "id": "82f06b7bdfaf8331",
       "title": "Rethinking manufacturing and logistics: The power of Digital Twins and Edge AI",
       "source": "Reply",
@@ -2553,6 +2808,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-02T19:17:05.879Z"
+    },
+    {
+      "id": "553995466505f352",
+      "title": "The conundrum of scaling retail media in 2026",
+      "source": "Retail Brew",
+      "date": "2026-03-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHpGUlBPWUc3V1IxcnV1dFp6VnJEQzZ1RnVYV3FyNXlnS01wYU5ncjhwZlV4aUJ2VFZmc0MwbXd2ajBNQ0l4ZVdHc1RMeFpxNTVVRGxzc3lTOVBGaC1fRlhYaTBKdlpDVVM3eGpTV2tqdTA1bUU1ekEwN2U0V2o0c3k4OA?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-05T12:27:46.545Z"
     },
     {
       "id": "5da70cdb84bc6b19",
@@ -2785,6 +3050,16 @@
       "firstSeen": "2026-08-02T19:17:07.960Z"
     },
     {
+      "id": "93754ea04965f02d",
+      "title": "Nuanced & Data-Driven Strategies Key in Europe, MENA and AI Markets",
+      "source": "DesignRush",
+      "date": "2026-02-17T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFQjBNQ1hNV29WeEhUMy1SRzQxVmtEeE5hRTJ4UU1tMUkwaXhmVnhXTG1SZWNKWVZMTWZNXzJvWGhVTkdxb2ZTb2ZDQ2YtM3RCdmQwQzRheUFGalI5V1JubFJtcllDWXJOOWg3UFcyQUFFeTNmT0E?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-08-05T12:27:36.301Z"
+    },
+    {
       "id": "34509b9d5976865e",
       "title": "Industrial intelligence: Fabio Terezinho from AVEVA explains the next frontier for connected enterprises",
       "source": "Technology Record",
@@ -2833,6 +3108,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-02T19:17:05.879Z"
+    },
+    {
+      "id": "1abccfda206aeda0",
+      "title": "The future of AI-driven Unified Engineering is here",
+      "source": "AVEVA",
+      "date": "2026-02-10T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR25rOXJoRU5Tdk8zbU9fbGpucy1hdHNGekViV1VqTERTaG9FVWlZSkdQQTlpbU5YblRzSllkV2tDZlYxTFdFRkUwdHVqRlZwNDNIY2kwMi1HM015QkF3Qm5NMFF6dEppaFRtbUZtY1hRUllTcUE1angycXh1eW8zUEhnaElwbXR1ci1WXzRORUZCZzlMT211S3VXQQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-08-05T12:27:19.069Z"
     },
     {
       "id": "ae00cbabb66a132a",
@@ -3123,6 +3408,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-02T19:17:05.879Z"
+    },
+    {
+      "id": "1328075e315baf5b",
+      "title": "Inside The $209 Billion Battle Powering AI's Web Data Infrastructure Future",
+      "source": "Forbes",
+      "date": "2025-11-20T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGxzdkFjV3otdk5xb0U5Z2pDVHBsMFNvMVlhNFRaNmZTeHV6anRzWkI3WXZSand5NjJWMUllNU9DSWk3Ynk3VlNkTjN3djFCYVQ2VEFpUjhqSnUtMUMxWGVkR1UzY2N6Z05uUGM3RVV5Rlc0M015ckFZQVhMMElJRWJOWEUtUEsxMG1UNndsY25BaVVwUF9CbjNxbVM3b0EtY1FZRWpjZHl4eGY3N0xHTHVOcFlYcUxzLXBtaTU4blNRandJ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-05T12:27:37.470Z"
     },
     {
       "id": "8201092d5ff78a52",
