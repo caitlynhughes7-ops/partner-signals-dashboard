@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T12:31:14.398Z",
+  "lastUpdated": "2026-08-07T09:36:20.257Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 383,
+  "totalEntries": 397,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -90,9 +90,84 @@
     "0ca2132c392d3bff",
     "43cc229a9a38e1d7",
     "8af00b2b59d04a19",
-    "0d7ed3cd0e26d5e5"
+    "0d7ed3cd0e26d5e5",
+    "9e6553d0ea19b5dc",
+    "b986c1f4a7702349",
+    "ecefe784eae05b4a",
+    "e197713ed569c5da",
+    "280d3faf6c799ee3"
   ],
   "entries": [
+    {
+      "id": "7bf5096780dec32e",
+      "title": "Conversational commerce, retail media, and a 0.2% June sales print are rewriting the enterprise retail playbook",
+      "source": "MarketScale",
+      "date": "2026-08-06T23:48:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS0lZLXh6d1hsTUlkRzZSTndBZkR2MERsNFNaVkZaeGZKbmpvZVhncnZGRVFYODZfN1RYWndCZXpxYWpsaGRRelZvOGR1czJQNXRyVExULTFuMXI3R3pxU3VGUjhCZFlSUjhyUnpobFNwaWpUUGR3Snk0VzZBS2dHOWFPWXlEV0N6Z3N5NW9Jb1FYanhHT3llb3BQVVlZaGxmY0JKRWRrX3NUdGtodVZwMDVGSTJIRWhwMmhLWEZaVXV5SW5iN242RzdqNWh5UExqWkw5SFA1azBSdUd4eU5Gcm9fdWFaNEdy?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-07T09:36:17.891Z"
+    },
+    {
+      "id": "2f6ef715bb857417",
+      "title": "Palantir (PLTR) Deepens Defense Role With Military Supply Chain Automation Deal",
+      "source": "simplywall.st",
+      "date": "2026-08-06T23:41:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2xnblJfTHNBNGpmT0hfQXo4ckhTbm9NaUNUNnFZeEx2cWxPMmtEdW1val9mM1JKQ2R1cEtocDlWS2xwUm1BWDd5ZDU3Y01ORkloamNaXzZuZVpBLVBCZjkzUVJsWUQ3S3h2LW11MUU0SXR2Rl9xWmE4bXFEN3hCMXhoQ1BuQTBaci1XMDBZZDFTTXdvMFZjQnUzeVJlTEh5RmdiUFl3azRDSHlRLXhOa0tUWVpUZzFmcWNuT2xEZUpicUJPNE81YV9WZ3FvS1BRVENUak9jRdIB3AFBVV95cUxPS2YwSGlNdDNmbHNNWk4zZVNWN3JYbE5PTWN4ODM0S0xFb2toTUVQT3lNNE9oY25QMzlTZDA0eUxMdHA5aXJ4TXRVNUhYZWp5LUhEQlVrUkNqTGQ2djNLd0FHdGVJemp6Y25JdGw3SjUxY3RBcUxYaFB5ZnljUzk1MEZBYlV4Qmczdlp4dlJxTzZhR2tFcnUwZHBNRmZoUGJkZzZnSC1mRHFKdXA3azhkc1ZwNUV2dTZpZm1HMTktSzRCWXg5R2NDNmN1ckdoNW10TXpqaXdvbFBaZUJf?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-07T09:36:16.724Z"
+    },
+    {
+      "id": "8c5aa143d39affc9",
+      "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven",
+      "source": "ADWEEK",
+      "date": "2026-08-06T18:33:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhaU09NbVFJREdFelhYbmhGSktneVk4NG42TW55ZnhTTWgxZWoyeUxDaVNuOFRQUkx2TWYwT2RXUlZhRVhJV1ZhQXVFVDR5aVFRNzJoNm1ZT2FOVnE3X0l6aUdNQXVzQjJXZUFyMFZiMlN4TElzVm00X01HSjJSTWR3Njdoa25iT0hYTkh1X2pnaUNKQS04VkVlQzlRU3Q3ZHRfQm9DX2U?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-07T09:36:17.891Z"
+    },
+    {
+      "id": "0d4ee39865c69b39",
+      "title": "Snowflake, phData partner to operationalize AI",
+      "source": "No Jitter",
+      "date": "2026-08-06T15:38:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdElDdTczMm0xRUF6LU9nMlgwd1UyOWZVSjM1TVYwMEFJd2hNXzgzMkVPOWoyNnVPdFVrenJsMThKOHotMm9vZUZ3ZE8zY1lqS1dnOUpRMzN3aFNCSFluZTByNEVjeHQwNGNFdFdyZUd4UU1PSFpzRWJjNlY5LUVsM1BwdTBwWmJuOHhB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-07T09:36:19.045Z"
+    },
+    {
+      "id": "149e174db24aae03",
+      "title": "Salesforce: Retailers respond to agentic AI search growth – here’s how",
+      "source": "Chain Store Age",
+      "date": "2026-08-06T15:18:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzdvbnZpa1B4R0xLNEpjc0FMNWlyYWIwUm1RUEZzbFN2NHFyTGlaOTZ6dzg1YVRQdmdmTzB6bUxMaHk0bXdtem9Mc250NTZ4Q0pVdEdwLW9ySDZOTnAxVWxmWnc2M05IV3pLdDhzemdoYWdpMjZ1YnRsTkhVNHR3MmRqODlYWXloemRFZ0pWT18xZUU?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-07T09:36:14.493Z"
+    },
+    {
+      "id": "0c7fd7570a47b871",
+      "title": "Talking Supply Chain: Cleo CEO Mahesh Rajasekharan on why orchestration is supply chain’s next frontier",
+      "source": "Supply Chain Management Review",
+      "date": "2026-08-06T15:06:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0M5QzNHQ1ZlNlFFcTZxcDBvVjVzRW9Lbjg3S3I4SDR0ZVBTSjJfV1ktLVdOOFAxM1YxSVB0N1MtR1JhTDFvTEtpY2YyQzhGdVNkcmZ3YUo0QVQwOGowQzB0NHB3dE1CZG95SmZUeGN4bkpTVWlwczlSOFlzVVUzbVVZVGJlZkxNa3VHR1U0VDRUZm5leF92SndISjNjTG8wLV9ZR1g2MzI3d3ctb09QZ3VrcDVQcGxnY0FLcF9Fd1gyMy1odWdnSVRB?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-07T09:36:16.724Z"
+    },
+    {
+      "id": "0bb0716a2984c99b",
+      "title": "Belden Q2 Results Highlight Demand for AI-Ready Network Infrastructure and IT/OT Convergence",
+      "source": "ARC Advisory",
+      "date": "2026-08-06T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzlzOVpHTDJvUkFpcXZvdVg5ZXV4TkQ4ZWdxTGhUX1FkdXNvMGV0N2l2OFBaVHZsZ0RxMWhtWEwwMF9fbklKak1GQWhfODVyT0dSdFV1M1VyYkd4WjBYdkVHdldDR1pmZ0VybnBLdldyc2VoaUxnVEFZZ09pczJZWkxtbm5LZWlFT3lVY0hCSlNZWHhlQkJVczJ6U2RCWEFzZmpnYkZGTXhWTWtLZjNMTA?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-07T09:36:15.571Z"
+    },
     {
       "id": "563a308554ea456b",
       "title": "Purina Named As First Publicly Announced Client In NielsenIQ ConnectAI Charter Program",
@@ -574,6 +649,16 @@
       "firstSeen": "2026-08-02T19:17:19.994Z"
     },
     {
+      "id": "3e88465beb0bd92e",
+      "title": "Amadeus adjusts 2026 guidance due to Iran war's impact",
+      "source": "Travel Weekly",
+      "date": "2026-07-31T19:19:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFJ1cGphRW5ZSU9ILW9ZelNBcWhhVHEtQ3hRRW04eE9NZXdaWmdYbmJQU1FXWnpWb0cyTTVBWnJwTGpJMVI2TkVTbnFVV3RzWTNScGJKSXpXem8taThxQkZEMzVORlhQNnZ2eHluY2lmYmFZUUhfYU00a1FHN2QybllhSVluUE1FV0c2MnV1OGIyQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-07T09:36:05.932Z"
+    },
+    {
       "id": "3f29a72f987438e8",
       "title": "Intropy Raises $11 Million Seed Round to Bring AI Automation to Spare Parts Supply Chains",
       "source": "citybiz",
@@ -622,6 +707,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-02T19:17:14.320Z"
+    },
+    {
+      "id": "bff139a263938138",
+      "title": "Software-Defined Automation Emerges as the Missing Link for Physical AI",
+      "source": "ARC Advisory",
+      "date": "2026-07-30T15:31:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnBSdWk1dUQ5X2NXaDFEYmlrVXljT3l6OTM2YjFIY0dsbFNmNHpIZ1VXM0J2TEFMdFhaeW96SjlaSWdGTE5zMnNrUkxrejdrdFF2aFpKRVVKWG4tV0pkeVRmM0VRQVllOEx0NXg1cmQ2WTZRWDZDbGJTb0hxMDBGaTRWWlpWaHFqSDdlYXhzY0FSMUQ5ZHBJeWxCRE9mNEVvc2xLSjBRRjdYd2M?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-07T09:36:15.571Z"
     },
     {
       "id": "99f70c65d22c6d75",
@@ -924,6 +1019,16 @@
       "firstSeen": "2026-08-02T19:17:18.851Z"
     },
     {
+      "id": "e17f5365df77eb78",
+      "title": "Shopping's New First Step: Agentic Search Grows 200% as Purchase Journeys Start in AI Chats",
+      "source": "Salesforce",
+      "date": "2026-07-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGSnQwcmxkV0RPaGdpR3pGVi1JMUo2c3lyN0hmVmhFNnk4ajVnTFp4WFlCMko5UkR2MEJ5Qm1qc29MQUF6WTk5U0ZCWDNqb0xlQ05RZk5RT0E0bURnSnprWFc2REthcEFSTGpyYVBBcw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-07T09:36:14.493Z"
+    },
+    {
       "id": "25e8f6c5754d58f4",
       "title": "Leading Companies in Digital Twin Manufacturing Solutions",
       "source": "The AI Journal",
@@ -1162,6 +1267,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-02T19:17:12.124Z"
+    },
+    {
+      "id": "91a17df12e8e7d26",
+      "title": "NielsenIQ expands analytics partnership with Circle K By Investing.com",
+      "source": "Investing.com Canada",
+      "date": "2026-07-22T10:17:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk5Ud1ZZa1gybDBXQnhJRTlVeDJITkt6QjlBaDhiTTc4RXFmbUJ0eU95RFVSZExENEdNZDlIVmE3bmdyS2pEdjc2RnFRcVBPY3FVNnpFNFVYaGhzNzFTeTlfbkRmQ2I2WlBCUGlGalQ3M1lnZDZYY1Uyc3U1bjJNVXhGd1BOZlg4aUlkOEUyOFBZem42XzcweFlJTU1VYXVVdjNNVC0zd1RPcjVpcS1RQ1p1U3A?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-08-07T09:36:11.199Z"
     },
     {
       "id": "bb538c6d83c2ad50",
@@ -2814,6 +2929,16 @@
       "firstSeen": "2026-08-03T15:59:43.792Z"
     },
     {
+      "id": "91395b79eb001951",
+      "title": "Shopfloor Agent: AI for Manufacturing",
+      "source": "Bosch Global",
+      "date": "2026-04-16T12:57:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Uk1pWHZ5Ry1wRzlscWNWRHhpLXpFN3RmVEk1V0h2RjJabVpuRWxCOXU3NHZ6WDVSQk0xcVRIcTdiX2NMOVhzam4xX0VFamR6MWxhOGdfUW5EVWQ4a2FpSW1yVFJPRG5LWHJIcWRpTDh4WGxN?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-07T09:36:13.356Z"
+    },
+    {
       "id": "b2cc10648941f07e",
       "title": "The top five industrial software trends to build resilience in 2026",
       "source": "Technology Record",
@@ -3032,6 +3157,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-08-02T19:17:03.878Z"
+    },
+    {
+      "id": "e98b6bf28cc47cec",
+      "title": "Shoptalk Spring 2026 Day One: AI, Retail Media Trends",
+      "source": "Coresight Research",
+      "date": "2026-03-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaGhqMGdTQVZYeG0xV0ZrWmp3OWg0YW11bElVWmNhTVhZM2JVOTNtT2xhSWVkcUstQ1czcWR6YlBhOFhmR3g2N2VhdWNHMEhza05GOUkyUlNFeHlGMDJZWkNVRlhYdnNQbUpMb29zMFhfb2pidUdlVEVXTmd4SzNUWHlmRVl4a2FVejBZY3d6a1pQb085alZYamdfb3k3YndyZTdrYkE1VkxoMlIwNEx0VFFkM0gyTXF1ZFdmUkljUnpCUVF1VjhrOVpNaHAyLVZkc1Q3Yjg4QWoxSW9kVGpxeHUycnU?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-07T09:36:17.891Z"
     },
     {
       "id": "92e532632ea412ac",
@@ -3472,6 +3607,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-02T19:17:05.879Z"
+    },
+    {
+      "id": "b7b4781ac1580dad",
+      "title": "Aveva launches 4 AI tools tied to its cloud engineering platform",
+      "source": "Engineering.com",
+      "date": "2026-01-15T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWRqSmcwSnd2ejRFTWdjSlhPb2NBcFFoQm5aNkttdFA5T0ZsNVhuRVFJLTZNcHhBVzdCYmFlX1FQa3VpODBEay1GamF0bGR0LWVINE9nclcwSThLTUpyZDJPQy1EYnFMQm1qNzlFOEVxbjhLaWZUeHcxZXRPdmV6VEpxdkwxNUs1SldjSWNDM0RYOEE1bnVyNQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-08-07T09:35:53.526Z"
     },
     {
       "id": "4ba279b5906b0a4d",
