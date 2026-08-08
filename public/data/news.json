@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T09:36:20.257Z",
+  "lastUpdated": "2026-08-08T08:06:44.622Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 397,
+  "totalEntries": 409,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -99,6 +99,16 @@
   ],
   "entries": [
     {
+      "id": "0eee56a72ab92213",
+      "title": "Emirates adds rail. Amadeus’ solid growth. Ask Maps adds hotels. Trivago ups AI spend.",
+      "source": "webintravel.com",
+      "date": "2026-08-07T05:14:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXRMQ0dTWEVwTEZCRjFOSVlacXoyOUhfZWd4QkZuNnFTQ0lrZnJfbDk4NGZ6T3NtY2o2N3pLSlpuM2lYQzJjdkI1WVZyc0o4M3JyM3JDZm5aMVFFTm9TbUlVYjJ2TEQ1WlNZMHJjRXRtb0NLMHZCYi1vekZGSjRtaUlqMF8yQ29nbFQ1eE1HaUFkdzNubW1uOVNzOU14NUkwZ2ZqUGNoRk13dkw1UnNz?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-08T08:06:30.468Z"
+    },
+    {
       "id": "7bf5096780dec32e",
       "title": "Conversational commerce, retail media, and a 0.2% June sales print are rewriting the enterprise retail playbook",
       "source": "MarketScale",
@@ -157,6 +167,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-07T09:36:16.724Z"
+    },
+    {
+      "id": "b4b0ac4b4c2ec348",
+      "title": "Ryder and BJC HealthCare earn NextGen Partnership in Execution Award",
+      "source": "Supply Chain Management Review",
+      "date": "2026-08-06T14:28:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc25VcWVzaUE0RkZkTUJpRWFCV3Q0MEE2cFd0X05QNXg4bEwxS1N6Zkp5Wmg5UndVckxxOWtFS3BOWlUyMlRKV0JaR1FHYUMtRzBYU0tsczE4UUE2M1ZMMlZ4cG00Ukh4LWc4OHNFcklmTnBPcUJvVEhBOXVNN1JCNEFmc2ItM1JTRHdMcUt3eXQ0ckJfd2s2VGdXYmFqOFJIbHIxbGppTGhFdw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-08T08:06:41.182Z"
     },
     {
       "id": "0bb0716a2984c99b",
@@ -297,6 +317,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-08-05T12:27:34.093Z"
+    },
+    {
+      "id": "2cbbca41c7b174b1",
+      "title": "Airlines maintain AI investments despite cost pressures: Amadeus",
+      "source": "NST Online",
+      "date": "2026-08-05T07:45:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczBlYVN3WU5XODY0MzRva0ZFNnFPdG9WZHdJM0o2cmlFa1Bpek9HSjlISi16ZzZ4R3ZnZFF2eHk1b3dCQ2tTS21ZajV0bVhRSS1MaUdMQklmcFdfUVdGVk83S1JDa29aaVBsYTMxdF9zampOWkVzeEJHaGJaWUFPZC1xUEg3QlkxMjhhRzhqOHJrVnd4NVN4QkFJTU9uZ2VUN3FxZGx0d3FTSUlQWlo2OHU0MmxPX0J2b1VBMWx30gHDAUFVX3lxTE9EdWNWanVwRGdQSV9id196V3djczZJUjBWZFpVU0xHMmVIb0s4WE1lS3E0dXJJb2JXM0VRUGNxQWhyUmFqWmNUU09Bcy11ZkkxblV5Mmk2ZGpqNWRtNUpBdkVMWFZBZ1pmcVJhekNwR3RPZm5zaXVfVjE5NmRyZGZsaDBtYWpMQkpsRkRhdV9RSl9nOTZKNVVSNGgtYXRGcEVPMXV0a3Z5dDF6NlplcUFvZ2o5bXlTZFJIQm1hcm5RQUlCOA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-08T08:06:30.468Z"
     },
     {
       "id": "e8a35eaf7db76278",
@@ -849,6 +879,16 @@
       "firstSeen": "2026-08-04T12:30:51.428Z"
     },
     {
+      "id": "f0a35b3526f493c7",
+      "title": "Nimble launches agents to cull relevant web data for AI",
+      "source": "TechTarget",
+      "date": "2026-07-29T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXdKQ0RIZGN6QVFseWVvVlZWVWotVnFLVDJnUVdkdXJYMm5sQmgwRUNJcnVSTlpwcVMxQm1EdmlhSUdHeXFQc3BWWjNoaHA3SVc5bV9RODMxd0VSZElUTTRkYk8xRXA1SndxbFF5a1lhblB3dGFfNXkzZjB6UUVaVWRsZG53S1ozdDZxM3dhdXRtU3hmSzRFQm91bW9paHlJNVNTb0ZxOFUwbjE5TVptNTlSZ2xGZw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-08T08:06:33.728Z"
+    },
+    {
       "id": "e10248cd164b753f",
       "title": "The Agentic Commerce Debate: Two Expert Perspectives",
       "source": "jpmorgan.com",
@@ -1249,6 +1289,16 @@
       "firstSeen": "2026-08-02T19:17:19.994Z"
     },
     {
+      "id": "ecfaba61ed66cf33",
+      "title": "AI is driving change in supply chain skills and talent",
+      "source": "Supply Chain Management Review",
+      "date": "2026-07-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTENzb2lrdzNLX0t0b0JlNUxHcFU0MEhMdVYxZk5YdWNEOTI4UlNnbjNiR216YXlUcHcxc19BMjcyaTFYRGItbWtVZmc2RldzM3FzOHBuMGlBaDctcWJVNV8xQkpYTHBOVWdja2lVcXYzOUxORWRKdE1FQ3B1M3drdk5RdHVXbXFYMUhV?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-08T08:06:41.182Z"
+    },
+    {
       "id": "e0609b1eebe734a0",
       "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
       "source": "Business Wire",
@@ -1337,6 +1387,26 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-05T12:27:43.049Z"
+    },
+    {
+      "id": "754a19ce9ad7ab84",
+      "title": "Best LinkedIn Proxies in 2026: Automation & Scraping",
+      "source": "AIMultiple",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RMlJiNkJOVFFXYkVIaHkzSE43OEJCd0VlZndwZkhzUXEzSlh6RGJWaTAtd3N0ZnNqRDNCU1ZqNV84OEJ3OENVeGJuRW1iRWlw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-08T08:06:33.728Z"
+    },
+    {
+      "id": "80fa8f9148c2a03f",
+      "title": "Best Static Residential Proxies in 2026: Pricing & Benchmarks",
+      "source": "AIMultiple",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KNnJPNFA2RDU2TXVRa1lKbEl3Zk9nVjFDTzRlOFRWdTNDZHRoeEVRaUE3bDFJX0RKbG1tTEpYWnRHaEgtRmxURTZB?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-08T08:06:33.728Z"
     },
     {
       "id": "70995e8010058b0d",
@@ -1617,6 +1687,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-02T19:17:10.166Z"
+    },
+    {
+      "id": "92f1028d422a36e1",
+      "title": "Schneider buys Cognite for $3.1bn to strengthen its Aveva business",
+      "source": "drivesncontrols.com",
+      "date": "2026-07-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDRZcGJac2FKUkVZaHRnb25PUXZwT3ZIRTV4V3JjU1l2TXNyOWFhd09TVk9CMmhiMU9fM2NVbS1Fd2l2R0kxSHNfM1ByN2J3UmNLQ01vQ1JtVzNpNHRXZWJMX0JGOTdGVXh0WkY4QWpaNl9tOGVtejVyellnRU1aS2xzZXVrYVBOWG53S1NodzJEcWh2MmZ3MFZR?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-08-08T08:06:18.172Z"
     },
     {
       "id": "b8b532a73f65ccdc",
@@ -2109,6 +2189,16 @@
       "firstSeen": "2026-08-06T12:30:53.026Z"
     },
     {
+      "id": "fb15dd4693c796a2",
+      "title": "Free Smart TV Apps Are Secretly Turning Your Devices Into AI Proxies",
+      "source": "linkedin.com",
+      "date": "2026-06-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGxmOFlORktCVWMta0U3MF9CdkRwYWNpZGFsMTNQaHRXNEVodUpGOENVWFlKOWhTbHFHZ2Ital9XcmR5dk9tUjRnSHhOOVdNQ1c5bi1hbndCN19GOTFQZGVqNFdIdFUyWmFOZE9pWmJtQ3Q5SWNPWTl6ZTNISjkwc2c5U3dIaDdFTTRVYWJjQQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-08T08:06:33.728Z"
+    },
+    {
       "id": "a65c107392f0fdab",
       "title": "Bright Data's AI Agent Builds Web Scraping Pipelines",
       "source": "StartupHub.ai",
@@ -2539,6 +2629,16 @@
       "firstSeen": "2026-08-04T12:30:34.114Z"
     },
     {
+      "id": "5e05dab65fab3109",
+      "title": "Agentic commerce: The rise of the delegated buyer",
+      "source": "Bessemer Venture Partners",
+      "date": "2026-05-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkb2JYWTdoU1EwUF9VNUozTlpkVFRWMU5GZmhEcWwwc1ZBWnlWX1I5bDBJUW9nSEpUa3FqVDQxVVNFSkxZanVTYy1SMGhpZkxNZ2dxVml2a29Cd2IzZHZma2ltNUoxOGZvZ1J4eUlrWF81ZTJZRG1RbF9zdWJwVkU?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-08T08:06:38.954Z"
+    },
+    {
       "id": "4736160dba32c2df",
       "title": "AVEVA launches the first ever Industrial Intelligence Report with IMD Business School on Digital Ecosystems and the Future of Connected Industries",
       "source": "AVEVA",
@@ -2799,6 +2899,16 @@
       "firstSeen": "2026-08-02T19:17:13.156Z"
     },
     {
+      "id": "4f4138dab4899c77",
+      "title": "Manufacturing Intelligence: Agentic AI to Unlock the Next Level of Performance",
+      "source": "NVIDIA",
+      "date": "2026-05-05T18:12:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fWTg3WVpPREFMcGFGNXhfUFhMU1NBcElVamlwM0pyU3laRDdnVFpGQXh4cDAxeHZCUmdIektGVExXWUk3dUl4TE5CTjRGSUZHR1BIVHpKR0ZWNE5qazctdkFUc2RCVGxKSndGLQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-08T08:06:37.840Z"
+    },
+    {
       "id": "687b56ccbe34e6b8",
       "title": "42% of Consumers Now Use AI Tools to Shop, NIQ Data Shows",
       "source": "NIQ",
@@ -2927,6 +3037,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-03T15:59:43.792Z"
+    },
+    {
+      "id": "e75445057c58c9d9",
+      "title": "Wipro at Blue Yonder ICON 2026 for Supply Chain Transformation",
+      "source": "Wipro",
+      "date": "2026-04-17T17:11:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05U3pfTXRWZFdvVGhSMUxuQjdBNjZiNG5xVUZXcmlZTWk1ZGxlVmNta1VlbmJRdDUxR1VDcmxLVDd3aFJ4dDBCZGlqaXlrQkFjdWhval83aDNJNlNpR2F5UFlsS2ZPYTZ1R0wtQ2pwOWlLdnc?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-08-08T08:06:26.229Z"
     },
     {
       "id": "91395b79eb001951",
