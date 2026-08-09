@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T08:06:44.622Z",
+  "lastUpdated": "2026-08-09T08:10:11.856Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 409,
+  "totalEntries": 415,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -95,7 +95,10 @@
     "b986c1f4a7702349",
     "ecefe784eae05b4a",
     "e197713ed569c5da",
-    "280d3faf6c799ee3"
+    "280d3faf6c799ee3",
+    "90048f1e9f66daa5",
+    "550c3b375818773d",
+    "b7f9f5848de3824c"
   ],
   "entries": [
     {
@@ -527,6 +530,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-04T12:30:55.702Z"
+    },
+    {
+      "id": "5448e2efb72507e9",
+      "title": "New Amadeus Study: While 3 in 4 U.S. Travelers Use AI for Travel Planning, Trust Must Grow When It Comes to Bookings",
+      "source": "Business Wire",
+      "date": "2026-08-03T16:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU2lJLU1VUk85XzNrakFTUGxnd1Y4YjRwNkhaSmxkWDZ4UTRXbEFlUkdzSkJrcUtsUlBlemx4SFBadU9OTWNQanRBV3BiX3JDTTN4TnE2ZVZTNWh2ZExmdy12Wk1pSVUzUHZORWRvcm9OUk05SllZNFZiX2pwTi1wbGJBTWtpdmZTaEhtVWI3QXEtS0VUajNoRFdKamo3cHVXblhCMktQZnhhRVZqMEMtNFBHNnpxZ0N5dDlBVG1fd19NTWtqamtsSU9hbm1YbGhvX3lNSk1EdXA2TjVNOW5kX3pmQkdNQzVaeDBjcGkyRl9tV2xSWnV6SVRzeVBJZ2F2?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-09T08:09:57.602Z"
     },
     {
       "id": "0feee47fe88db9e0",
@@ -1809,6 +1822,16 @@
       "firstSeen": "2026-08-04T12:30:34.114Z"
     },
     {
+      "id": "c6188565fc9c76f1",
+      "title": "Amadeus Has an Answer for AI’s Infinite Search Problem",
+      "source": "Skift",
+      "date": "2026-06-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ19pRjg4Qk1VSnN1cTBDWDM0UmJ3ZTNDeGhhNzQzMXFvb3JDZUFndFQ2WUYzMFVpWHVQdU1waTRGRHhDdVJCaTZLSG51VFZhV1pkb3YzMTU5RTgyVzFFbVQxbVVrOGp5ZWJSNUxpN04wT1d0S201ZEF6NEw3S2d2VE1LU2xlaEVEamZn?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-09T08:09:57.602Z"
+    },
+    {
       "id": "950ed8b5ec1bca9f",
       "title": "dunnhumby launches new retail media network alliance",
       "source": "Performance Marketing World",
@@ -1939,6 +1962,16 @@
       "firstSeen": "2026-08-02T19:17:21.138Z"
     },
     {
+      "id": "3b9ff800a01353be",
+      "title": "Tesco, B&Q, John Lewis and Waitrose among names to join dunnhumby retail media pilot",
+      "source": "Retail Gazette",
+      "date": "2026-06-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjFJSGU1cXlKTnlPeko5MzlSNng2VjE5UUg2cGxXTzd3ZzdnNk5Zd0tQLUxNbGVFZXJiX0hBMlg1b3pSa1JPUVRZcTZnVlFXTzNWYXhFdERHVFJPdW9uUjlkcGJyWmF0N3pReWt6c0RpMElnR1hnM1pla3dHMUVSVXhRWDhSb040aENvWjlUMG5DNmQwNEdtejRn?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby partnership",
+      "firstSeen": "2026-08-09T08:09:50.275Z"
+    },
+    {
       "id": "26cc3e48638d68cb",
       "title": "B&Q, John Lewis and Tesco pilot new retail media initiative",
       "source": "Retail Week",
@@ -2017,6 +2050,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-02T19:17:09.069Z"
+    },
+    {
+      "id": "e2918de45fbec89f",
+      "title": "Everpure Introduces Data Intelligence and Enterprise Data Cloud Enhancements for AI Workloads",
+      "source": "StorageReview.com",
+      "date": "2026-06-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdFNkLVcwVWZZRDdGQUowc1lMS3FienJSTnZOX0VxTlJIckN1VDdNcVNGWnpFT2FKamx2SnhORk9feV9mN2dBbXBtbHc4MTlRU09kSks5elFEQnpvR2NaR1F3X2JBdWdOUXRjUzVONUxyRjRuMlgzNVF6WlBxejFvS0FMSUgySTNrOGpkNWY0bmJnNlI1NU94MUEzcGppT0ZvTHNzMG1Tc0tfSkJiQWpvYzlSckc4STVadWlDLXpSMHVQUFo4LXUw0gHMAUFVX3lxTE1LV3JlZEhoOG82bldoZ0JVQWJwQWdMUlpJem5uLVJxeFhhd2lLbjZRTnpmYzJkQWtnTDFoc0dkVUdCRFg2MVpaemJQQXlzNkxMQ1RLRGxNbWZpek41MjhZMmFzbWpKZ3pPSnFmcnFMcXRnc3E0dnpiVnp5cFJBWkM4TEhDY3UwMTZ5OHFFRURGYmVSQ2NpMGpMM0RnNlQ2ZnRsYXFaV3pyQXpheGU5aUdGSHc5cnpZTFgzbUpCUGgzQktFSUZRNXppalJvdw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-09T08:10:10.692Z"
     },
     {
       "id": "bf927109c8b611c9",
@@ -2497,6 +2540,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-02T19:17:21.138Z"
+    },
+    {
+      "id": "1480c197238e17d5",
+      "title": "New partnership to develop Egypt’s future engineering workforce",
+      "source": "African Review",
+      "date": "2026-05-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjZTWC1paVRZYkhRX2xxamRvdUZTX0FJOFpEMFpfeWlKdktDbXgyMUxxYV9nZF9WNURzb1owcXNmVlNYQW5BSWV2ZEVnaV9zb1ItOTByLWlWRjdvX0VCZzhmaVlmdEpHYzR2ajRqQmxjc1FORHphaWtGQmUtVm01b2FCX2lZMTV3ak9yTFE2WVNTZ21JTml3?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-08-09T08:09:44.321Z"
     },
     {
       "id": "c812121b57b43c74",
@@ -3357,6 +3410,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-02T19:17:17.660Z"
+    },
+    {
+      "id": "f5fd0dc84e17f6b6",
+      "title": "Blue Yonder Expands Agentic AI and Mobile Experiences for Industry-Specific Supply Chain Execution",
+      "source": "Business Wire",
+      "date": "2026-03-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1VBZkdVdDNRN3JtRHI0VHVyeF9maGEwdXdhYmdLMEc2NDJHMXB4TWdVMGtRRzQ2d2tqMFpTMDlhSXBweVI3ekt6TjJFZUo1TDg1bjRGY0xZenpPR2NFS1VSdDRsN01tZ19jLXRPdWFLbzNRMGVKZjN3bWV0RHVuMHA3WDVDWFR1bkF5R0Fmcl9tY0prcXpEaFYxc2RqRl9HTTM5R1owdlY5cmNKQ29ua1dPemRIcklzcHA3emtZdkRzVndqRkJfNVVqajhyZHFJempnV0lMSmpFRjJlYVk1enhIOFZLckowSmtv?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-09T08:09:54.477Z"
     },
     {
       "id": "eea45ed1c94a7084",
