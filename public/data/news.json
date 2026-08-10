@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T08:10:11.856Z",
+  "lastUpdated": "2026-08-10T10:40:54.599Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 415,
+  "totalEntries": 426,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -98,9 +98,52 @@
     "280d3faf6c799ee3",
     "90048f1e9f66daa5",
     "550c3b375818773d",
-    "b7f9f5848de3824c"
+    "b7f9f5848de3824c",
+    "748b033252dfaafa",
+    "f848fe8a10b7516b",
+    "2f8d19f7c5c6dea5"
   ],
   "entries": [
+    {
+      "id": "f3075ec6d5a2beab",
+      "title": "Agentic AI Shopping Experiences",
+      "source": "trendhunter.com",
+      "date": "2026-08-10T09:02:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yem1TOGhMUW9xemc1Q3hDUERHdVZwSjNzbVlOQVdBMExSX0dzNmF1WWM1RnJVd1Y5cW15c01tRTM1U2hzQVdvX0pINGNYR3k3clozcVRsSVZJanhXN1ZUNmlwRFpobU54NzVjMUhPM2NzQ3J20gF0QVVfeXFMTVh6bVM4aExRb3F6ZzVDeENQREd1VnBKM3NtWU5BV0EwTFJfR3M2YXVZYzVGclV3VjlxbXlzTW1FMzVTaHNBV29fSkg0Y1hHeTdyWjNxVGxJVklqeFc3VlQ2aXBEWmhtTng3NWMxSE8zY3NDcnY?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-10T10:40:48.866Z"
+    },
+    {
+      "id": "89c3d3f78596481f",
+      "title": "Saviynt launches Snowflake integration for AI agent risk",
+      "source": "ChannelLife Australia",
+      "date": "2026-08-10T03:54:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUI1YjByTGFIMW1ubWR2d3lXblY2MDhQREU2RF9hbi04RzE5NFhCZUhTYWJXQUtTeUhKbU4tX1RiTjFUUEctOFRTa2htamhxY0lEMmlTemR4RFcwX3huTXpOY29QcllzajcyVXl3aU9TXzFGMklCSnUtWVZqbmRWR1Z4QmlidDZ0OHRfaVlTc0dHVjA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-10T10:40:53.432Z"
+    },
+    {
+      "id": "0ee36e7d63492cf7",
+      "title": "Is Snowflake (SNOW) Quietly Building the Control Layer for Enterprise AI Decision‑Making?",
+      "source": "simplywall.st",
+      "date": "2026-08-09T21:26:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVE2ZWxFZ1FPeDRyUGExS2hGZnFIYTNnRzQtR2VRRzdKUlpsR0VNTmVWenYyV1RDb0pPQnpUV0phWXhvSGdNTUxQdUd6TWppNzVlX0ZzOTJzMmJrQ21CM0hhQklzRDlVQ2pYTzM5dmF4aXZXWU9LUHQzeldzTzM5RFVqNVZRUVYyTUNtc29YMmFkT1NwQ1A2UzRwa2VBZ1NSWXUxSUdaXy1XYXZaSUFhQ1IxengwTUpNUmxYUHZuRm5fUzBmRVFZRi1R0gHKAUFVX3lxTE1RUTZlbEVnUU94NHJQYTFLaEZmcUhhM2dHNC1HZVFHN0pSWmxHRU1OZVZ6djJXVENvSk9CelRXSmFZeG9IZ01NTFB1R3pNamk3NWVfRnM5MnMyYmtDbUIzSGFCSXNEOVVDalhPMzl2YXhpdldZT0tQdDN6V3NPMzlEVWo1VlFRVjJNQ21zb1gyYWRPU3BDUDZTNHBrZUFnU1JZdTFJR1pfLVdhdlpJQWFDUjF6eDBNSk1SbFhQdm5Gbl9TMGZFUVlGLVE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-10T10:40:53.432Z"
+    },
+    {
+      "id": "cb4cd937e05aef05",
+      "title": "IntelliAM launches agentic AI platform",
+      "source": "Machinery Market",
+      "date": "2026-08-09T10:16:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk90dlg5aUdBZlJiaGJva3RRZ0ljYTlTR3F6WGZqemJ3bU1mLUVieU9xdzlUSnJUYlVlNjFxQ0lxMExUQW12UWxWNW9vNmJsbHNnWW02YWU5S2hmVVVsREZ2QnBYcEx5X2tCUl9ZN0NTVmNUck1jVXdXVkpjbWdYZ0tmTFFCeWNuZHo2TA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-10T10:40:47.680Z"
+    },
     {
       "id": "0eee56a72ab92213",
       "title": "Emirates adds rail. Amadeus’ solid growth. Ask Maps adds hotels. Trivago ups AI spend.",
@@ -140,6 +183,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-07T09:36:17.891Z"
+    },
+    {
+      "id": "e6e64e824f7b5417",
+      "title": "I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How.",
+      "source": "Towards Data Science",
+      "date": "2026-08-06T16:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3hkTFZjNF96Zjh5RHcxOU1fMV95WDl4U3U5ekdnc1VfZGJjR3lycVhxRWluQVctUm0zVC1YYU5sTDZrRTMtejJweTRIOHRReks2R29sSExHVDlOWFFCampfZjJkeWVxRE00OHFFb0l6aXNZRFowVlItekNEZ2N5emZHdDlkS3BMcDBSZ21GdFpLM08wQ19NZngtSVE4VEF5ZEY0b2NTeHh0c1lweGtnVG00Y3A2S1hy?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-10T10:40:53.432Z"
     },
     {
       "id": "0d4ee39865c69b39",
@@ -1712,6 +1765,16 @@
       "firstSeen": "2026-08-08T08:06:18.172Z"
     },
     {
+      "id": "efa7947dbf63615f",
+      "title": "Couchbase brings persistent agent memory to the edge",
+      "source": "venturebeat.com",
+      "date": "2026-06-30T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzYyUlZBQzlVbG9sREE5R2doeDF1VFJtY3NUTUJRNG5jTHJhVHBMMG9IWGU2dERWUkVNZkVkVnNyNmhLd0lDSWZvcW5qTjRoOUhFeTdjME53b3JMSktXWHJMTDVWLUJkNkJfQk9YVzRRajJGMFdwYlRyd3IwX2tlM2dSWkw3U2lNQTdlRXdQbEZ2MDVzdDdMLTd6azJnWnZCTGNfQkprUQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-10T10:40:53.432Z"
+    },
+    {
       "id": "b8b532a73f65ccdc",
       "title": "New integration to give Bright MLS listings a boost on Google",
       "source": "RealEstateNews.com",
@@ -2060,6 +2123,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-09T08:10:10.692Z"
+    },
+    {
+      "id": "78b40bb5ad72cbd7",
+      "title": "AI Agents' Web Search Claims: A Deceptive Loop?",
+      "source": "StartupHub.ai",
+      "date": "2026-06-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWhOOVEtdFRreTdEQ3FnMldzWjlvNmZWYWl6ZFZrdXNCQ09CMUxuZzF5VjNMemFXTzVlTWlQa3VEM09kVDB5cXhFd2k2UWFoZklDMXpWdW1HZzFSWjJsSzFhQWUwZWJiUF9tRnNySnRqTS02eUVkRUFlVTZsR29rS0htNmRzSlk1SkJ5REZhVDVXdXBLYURxbDRFVWdLRW92bW53RGZGWHFvd0U?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-10T10:40:43.521Z"
     },
     {
       "id": "bf927109c8b611c9",
@@ -2982,6 +3055,16 @@
       "firstSeen": "2026-08-02T19:17:09.069Z"
     },
     {
+      "id": "3c2c326ed21123ce",
+      "title": "Survey: Shoppers Want Personalized Pricing, Smarter In Store Media",
+      "source": "The Food Institute",
+      "date": "2026-05-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYllibU0yZGtQTWwzdUNhSXVBYzJJd05hS3ZBcHpiQUpxRVR4cWFwZG9Od21DWUFXY2hodktQYURmTXh1QlU2WVdRS0MtUTJEeVhIeE1JTDNIcDk2ZVZhTmFjOEhqYm5YZlJoR2Z1UkhraU1PZnZpbldWdl9fVEdzVDdVVWxnc3Nya0NLV0dLcVh3VGx6RlN4Q1k5UFRVdw?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-08-10T10:40:33.843Z"
+    },
+    {
       "id": "44a0c92403370c8a",
       "title": "NIQ Research Reveals New Rules of Commerce: AI Is Beginning to Decide What Consumers Buy",
       "source": "NIQ",
@@ -3422,6 +3505,16 @@
       "firstSeen": "2026-08-09T08:09:54.477Z"
     },
     {
+      "id": "037e22617a41b0ba",
+      "title": "Uzbekistan Plans Tourism Partnership with Expedia Group",
+      "source": "Kursiv Media",
+      "date": "2026-03-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajE3ZDFORGRiZDdIMEpIM2xjSW9POGp6WS02Nkp4YVBmQUdValZyWTJ4T1NISUxJVW9nNkllR1pSeWNOQXc3cmZ3eC16RWJtNDV2QXY1ZU9EVFNaTVBJQTNqV0dadDd1dGU5TlRKOWY2Q2FTQTE3dEdLLWZhLUJHM2JNN2paSjloVGhzTnFmaWNYMTVKWExUNHZB0gGfAUFVX3lxTE9UaDBDNnNUWmhidjNVR25HM3FnNEdhUnMtaC1iT3Y0Z0g0bGFMa2RQUDVYMUNLNkdXZGRBRWJTYlRJYXBxMWduYjlFYTA0QnRzeUVyaFFGQUFEbFN5WWpfazc0TkdLM0wtRlVtQmc2UVpIOGFIWjhSY1JvSzV6Uk9idjNxREk2UkhkblVfS282RTBieURGck9pbElXeWNwQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-10T10:40:39.106Z"
+    },
+    {
       "id": "eea45ed1c94a7084",
       "title": "Contentsquare Strengthens Executive Leadership Team to Fuel Future Growth",
       "source": "citybiz",
@@ -3580,6 +3673,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-08-02T19:17:16.521Z"
+    },
+    {
+      "id": "5d7ac679032d9696",
+      "title": "Agentic Commerce: AI Shopping Agents Guide 2025",
+      "source": "Deloitte",
+      "date": "2026-02-24T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzY0ZGxrSGJkMHJZbW9MRUczcjdNR3pBaGdieXpfVlZhSG80N2JIc1JBV3M5eVJuNG9XUDJHcWpCekUyY3BhNW9JQjhVWjgxSldSbVZabVVqdk5TR2FybDh2cXVqaEpiSHR1V21EQlowMVF4TW82aWxZeWdvNERQVmVSUjVLc180TmxvVGRFYnhyQVVUYkpUZ25HRDF5dXQwczhFRm4yWXFnQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-10T10:40:48.866Z"
     },
     {
       "id": "d2f907e617b6ee57",
@@ -3890,6 +3993,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-02T19:17:18.851Z"
+    },
+    {
+      "id": "1802ee2932319c52",
+      "title": "New Shopify-Contentsquare Deal Targets Major Conversion Leaks",
+      "source": "CX Today",
+      "date": "2025-12-18T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDhSRnJhMHh1UzB3R1VXTG9aX0laX0dOX0VDYndTMFFUcjAtQUw4OUZibG1LV2ZaWWRVc2t0NGstYWNSNjFPMkJKa2Q4SFNDU2J3Sk1BRFU0V0t5LUZmRkVNSWoybG53N2Q4dkstY09qcDU5NTl6VUlMWmJVd211aEhSS1JPWWRJM2RORDNHb3l2bG1BeHlKUGxGOVBTSE5RLUZiVFVUSVp3eExVSU1v?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-08-10T10:40:29.796Z"
     },
     {
       "id": "2ac1f1bbc0edf350",
