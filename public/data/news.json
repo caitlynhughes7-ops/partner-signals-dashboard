@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T09:47:24.067Z",
+  "lastUpdated": "2026-08-13T09:47:08.060Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 468,
+  "totalEntries": 488,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -105,9 +105,61 @@
     "f1c9a89580647138",
     "2d5041ec246cbcc0",
     "291ca37d51bc2fc6",
-    "c9a2e657ecf63ef4"
+    "c9a2e657ecf63ef4",
+    "00a8fba1b79f0571",
+    "5e61421e87b6a15a"
   ],
   "entries": [
+    {
+      "id": "0807bab4451cf609",
+      "title": "L&T Technology launches AgenticIQ to scale Agentic AI across engineering and manufacturing",
+      "source": "Indian Chemical News",
+      "date": "2026-08-13T02:49:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGswZ1pvaE9wNlhPOFRCV3lzaTg5SDM5Z19mUHQzbEdnVm41NkdfSEtRbkY2czFIZXNQRFJ6UDZ4ZTRCdDBlbzhfa28tdGc1SGtsRUtGNmVLUkktdHBBOTFsdkdBOGJQNnBFaUhqMkF4X2E1ZHhjdzdEVzVsb1hsQUpYQ2xHQW5qcXplUk9NS2V3RklXSkdEQ19IaEFmSmJ3em55UGlmU1VUM2Fob1c0YW1fZW1KZkNwS1k5Vmx4YnN5blJad3lERXZOeXhNM2JoZDlxOUpkdmxza2PSAeIBQVVfeXFMTWpzLUV2TVF0ZGlPQUN4cmhBdjdfb3dxbFBBdDRzMzk4UEZ1S3lLNXl5dXJQMWNjSFg1Y2RPY1pvN2dnUnh4QlQxNmFjcVB1aVNVdjQzYWdnUTFTQzhLdWFTWFlXZmQyYzNDVHZOVlk2dk1hMGtNWDVxTXluWGlpRWVHbEV0ZGlPN0pzZzhEQ2tiODYxSkpBQ0ZjUTJaOW4wVWJiRG1mcTNqYnA4VzEyVmpvbU1zMW5XbkhSc3QxaVgxcEZKSUtIZ3pzREdiR0o2UGI4UlpmaTU4UW45NE5UNGJFUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-13T09:47:01.238Z"
+    },
+    {
+      "id": "7b7f35e70b585131",
+      "title": "Startups build digital twins to train physical AI, race to close reality gap - CHOSUNBIZ",
+      "source": "Chosunbiz",
+      "date": "2026-08-12T21:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGtiNnlxS1dIVFRpWTRmVVQ2eWtLMlpyZllhTllNanBwOEhRdlg4cVZLRU5SenNZZnluTFBPR0haVlU0QjZ0R1RJNUM1bEI4T1luWFJfc0NZRG5Lbl8yOEtPSXlocksxUm1oQmQwNkJueEJvS0ZiMEprSWJPZUU5dnRR0gGWAUFVX3lxTE1vcGMyVlJha2piTWNwOEdrcXZhc0dzRGhSRHZFY3BNYXhiM29hMTRyYkNQRnhoMWp6M3A2ZHNRemdKWlRvTzUyS0dVNG9fM0RxbkRyM0w4LTdxWVduZ1JiWlNmSGdabGFVbjhMbGFhaTZKTjBlbVROUlRIM2ZqZnU4YlNGazk0VFB2aDZackpUZS1yTG93Zw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-13T09:47:08.059Z"
+    },
+    {
+      "id": "ce9dbec520523f76",
+      "title": "Rise of agentic commerce may change retail space",
+      "source": "BusinessWorld Online",
+      "date": "2026-08-12T16:04:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb042WFM5U2I0ZGtjUkVvNzdaRVhJNnhqek55ZlJYUGVzSWM1TzRDTUszSThaX1NTT2d1YXh3MF9ldThRQ3dXMEJSN2RqT3N2dXowdjdVZnRlbGU3MnBmUzc4b1RyZzZPcUZLUG9NWnljVjRzYjlDOGF0cWxwc1BhWXdWRWF2RVRZdUQ5dTJBclVPMXdSWU1LaGhySXgyV1ZKbzFEaDZn?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-13T09:47:02.392Z"
+    },
+    {
+      "id": "d5e4332297b7c6d6",
+      "title": "Meet the agency behind the event: Contentsquare CX Circle EMEA by Headbox",
+      "source": "Conference News",
+      "date": "2026-08-12T11:52:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVVTZlNZSXNhendyT1ZoZk5TeUhHcHNnOV9OeFRhNHItZ2V6ZUtJWkw2aGpGcGVMWi1HTWpYaHZIT0R2NWZvNFBiMHM4UlpjQks4cUFLSDF3ZzZRSC15M3gyck1qN1pfaURkQVp2dHpZdkNnNWp3MmhmUHJEVWw4cmlSaFd2amRoaDk3MGNlQUtpTzhKdWdsZHo5eUxPamVEcHphaWE5MFVUcFg1dkRSeFNVVGVXZEE?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-08-13T09:46:43.605Z"
+    },
+    {
+      "id": "3a9da7474cb6fad9",
+      "title": "Bullen Ultrasonics Receives $23,100 Ohio Smart Manufacturing Grant to Advance AI-Driven Process Optimization",
+      "source": "StreetInsider",
+      "date": "2026-08-12T10:11:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPclJhVnNFcTJVelZaeElhMnMzcWZUZUNTUDdhMDJKQ0d2c0NUT2RzTkN3YzhRTnNPZjM2cU5uWE1odFEyeWNLaTU0aEM0RWpZbG1maVlnYmY3T2hlT2xpRF9FRm1YNUhwX2k0Sk1GazdsTnJzcjBQeVFscm5DUEZWS2E2clFFTFNHdjNLSUFxaEV1UGRodVlmd0ZyMUNFRGN0Z3lOZlBlcU1oUk1rbnl1T0N3cHAyOHh0RU9fREFXTWVGeHRVTFI4eXV2cTZCeGEzTUprV2RzRmxYWUMzVjljcW9qcm5JUnhoTVBZVXJkN044ZFlsa3NLMVhGTQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-13T09:47:08.059Z"
+    },
     {
       "id": "be2b9403797be959",
       "title": "Fusionex Tech: AI-Powered Digital Twins Help Manufacturers Eliminate Production Bottlenecks",
@@ -117,6 +169,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-12T09:47:24.066Z"
+    },
+    {
+      "id": "71de97e262536219",
+      "title": "What is IT/OT Convergence? Benefits, Risks & Cybersecurity",
+      "source": "Kings Research",
+      "date": "2026-08-12T08:14:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOck85WkF0dXNNLTR5em8yZVFZb3dOaDIzd2w1UGtvVzd1MnBRYW9QWXh2TTF6ZHFFSmpuOHUwX3JUY1A0VHFCRC1icmgtcGNMSTRmU1VJZUVGY2dHNU04ai1hbDlBNExkOG1INEVTMjJaY3VnYXlyT01aYWRranNNRGtnaUttVklaQkprSDJSakU?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-13T09:47:03.436Z"
     },
     {
       "id": "ae5bd474c30838b1",
@@ -129,6 +191,16 @@
       "firstSeen": "2026-08-12T09:47:17.112Z"
     },
     {
+      "id": "792a57eaf35494f4",
+      "title": "The Automated Dispatcher vs. The Empowered Planner: Why Agentic AI Is the New “Best Buddy” for Manufacturing Executives",
+      "source": "EME Outlook Magazine",
+      "date": "2026-08-12T07:51:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmRxS01wN1o0c0xUbVB2eTY3UDVEVDZRTHlidG10aXRzZURVOUhMV0NIZzlET1M1Z1JtUF9KTk1OWFZCR1k3aVUxb010ZHVLa2g3T2I5a2tuOVQ4YnFzOVdnOTJ0Z0lnVVllN1NpdWU1UDNVb2VOM2xPWW9qUkV6aDBid0oycF8xU1N2RnI1alpFMDVRVFpCYXRNVVpNQVhWdk5lLXh2VW5vVjFIUlltV1NQRE1HeU1SWklQdldlR1UtVHc2ajJpYjRXS3pjX192ZTdOSERBeXptMmFqbWtSTkMxUlZtX2lhbEpEUVEtbmk?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-13T09:47:01.238Z"
+    },
+    {
       "id": "ae97302c185ca08b",
       "title": "Corporate Travel Management Forges Five-Year Global Partnership with Amadeus",
       "source": "Sharecafe",
@@ -137,6 +209,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-12T09:47:08.443Z"
+    },
+    {
+      "id": "a2f96d575db336ec",
+      "title": "Corporate Travel Management Forges Five-Year Global Partnership with Amadeus",
+      "source": "Finance News Network",
+      "date": "2026-08-12T03:22:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2ctZjVTclN2cTc5VkpaS05LNVhGRmhSU01tOGd6czZfeHFvV2ZfWU5icEh3bmJmWFFjQ1hBU05yMVpKeUNfbk1DdHN2OGFBeVJCeHZDLU9jUmR6TmsyZFJSRDNvd1V0WnZEeldzSlNzVGhfSndfekpRaU96SmUxOQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-13T09:46:52.809Z"
     },
     {
       "id": "eb5d1e900f88c1c9",
@@ -179,6 +261,16 @@
       "firstSeen": "2026-08-12T09:47:17.112Z"
     },
     {
+      "id": "660b8ae3fe67892d",
+      "title": "Fusionex Tech: AI-Powered Digital Twins Help Manufacturers Eliminate Production Bottlenecks",
+      "source": "The Manila Times",
+      "date": "2026-08-11T09:43:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMm85VV9CeTdxYVpVNFI1Smk0eWYzd1ZGTmwtQUpscW50VE9BMXM0QTlNQlZJTm5VVTJSYngzUkpKa3VBUUJFRFY1YXhfbmdsUDU3Z3MwMUlrWVVGRkVkbVNKNGJZMjg1Q3htQ09ydG05T0YyVnhvQ0tHWlNHM25pQTVoWTdlR2JweVRuNUY0c0tjd0R1VEYtNVBULVJqbXh4Z2RtdjZXTTYzYnBBZll2MV9mSUwtaUFfUEtKNDc5dkNYWVVGdHBDOU9OSzJodFNnbEJsYU16YWF6SnljMHZCa0ZiNjI4NmZ5QzIyNkxrNnMybURYNnYzbNIB-AFBVV95cUxPMm85VV9CeTdxYVpVNFI1Smk0eWYzd1ZGTmwtQUpscW50VE9BMXM0QTlNQlZJTm5VVTJSYngzUkpKa3VBUUJFRFY1YXhfbmdsUDU3Z3MwMUlrWVVGRkVkbVNKNGJZMjg1Q3htQ09ydG05T0YyVnhvQ0tHWlNHM25pQTVoWTdlR2JweVRuNUY0c0tjd0R1VEYtNVBULVJqbXh4Z2RtdjZXTTYzYnBBZll2MV9mSUwtaUFfUEtKNDc5dkNYWVVGdHBDOU9OSzJodFNnbEJsYU16YWF6SnljMHZCa0ZiNjI4NmZ5QzIyNkxrNnMybURYNnYzbA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-13T09:47:08.059Z"
+    },
+    {
       "id": "db5d0885829aa065",
       "title": "LTTS Launches Agentic AI Platform for Engineering and Manufacturing",
       "source": "Machine Maker",
@@ -197,6 +289,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-12T09:47:17.112Z"
+    },
+    {
+      "id": "6dfa958782ad39f2",
+      "title": "L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
+      "source": "WBOC TV",
+      "date": "2026-08-11T09:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORXIwUUF2N1FiLV9DRWVXZUhlMENIQmFBb1gySW9hWFREdENzZHlEcEFNMnBscHQwTy1RUEx0cm4tdEJ6OEE2U0ZOQ0Y1dFdWUGE3eV9hQ3lBSVNXOFNNUzR2bm0yVE5kQzBfajk4THNfbG5YWmpfV19NYjhKN0tpczVkMFNMNkZDaEVkcWlObF84V2xqU3psY2ZaQ0VvN3FuYnpaU2RaQURXTzRIZ3VzZVNvMXJEam1MSGhlZlN1aTBpdGFJQm8xUHFDcWF2LWhtR3ZzRFc5Yl9Za1JfMkZRa1JBUUlRQ0RkVUgxRWMwVXZFM3J3UUVfQktKamQ1WDBjaUUtbTlPOXNJVFZmNnctamVZbFVUUmVZVVhFdExtcw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-13T09:47:01.238Z"
     },
     {
       "id": "6c4197fafff93fbe",
@@ -329,6 +431,26 @@
       "firstSeen": "2026-08-10T10:40:48.866Z"
     },
     {
+      "id": "7470c4a4ee19f603",
+      "title": "Agentic AI Shopping Experiences",
+      "source": "trendhunter.com",
+      "date": "2026-08-10T09:02:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45eXhrX09kajJUOHJqMF9EOVlyWDh2U3dyNDhaRGF3cEV0MHpzcHY4NzNfX0FYMGhQdVlnOHdPbkFGb0JLc0pkZ3ZZY2IyUS1DRzdmTWQwOUU3TUlxNnRfSmlnc0ZaMDhveGF2NEVFRdIBdEFVX3lxTE1Yem1TOGhMUW9xemc1Q3hDUERHdVZwSjNzbVlOQVdBMExSX0dzNmF1WWM1RnJVd1Y5cW15c01tRTM1U2hzQVdvX0pINGNYR3k3clozcVRsSVZJanhXN1ZUNmlwRFpobU54NzVjMUhPM2NzQ3J2?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-13T09:47:02.392Z"
+    },
+    {
+      "id": "7a5a677ebbc2256e",
+      "title": "Watch: AI: More Than a Buzzword",
+      "source": "Supply Chain Brain",
+      "date": "2026-08-10T04:43:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNG5yZVg0NzdGRGVLM3hJeEx0TjRsbm5vY1BnRXVjOXE4RUxnQ0RBREJBSGJaek9oQzZ5UWRWUHoxX3VaaWhUOUg4TDc4TTl0aEVvbFJOYm1OazhkZUZ0M1BxaXVkWTY2bndqOHp5V0NDLWV0NUd6S19XTm5HcGdNZFNnOA?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-13T09:46:50.791Z"
+    },
+    {
       "id": "89c3d3f78596481f",
       "title": "Saviynt launches Snowflake integration for AI agent risk",
       "source": "ChannelLife Australia",
@@ -367,6 +489,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-10T10:40:47.680Z"
+    },
+    {
+      "id": "df37e7bfd4cb89ad",
+      "title": "Blue Yonder Survey: 66% of Leaders Are Actively Working To Reduce Their Supply Chain’s Impact",
+      "source": "The National Law Review",
+      "date": "2026-08-09T09:52:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnNpT3JfNVVWT3FYdDBTWXJ5VzQ2OGFQaGc0cGtsWExBMS1YXzFwWDRqaE85YlJQMWJHUmFLQlo2ZTh0MjRiRlk1TnBiTFA1SEZSc2NlVFV1UzNrOXV6TFpnQkYzNUd6QWhEZWQ2SFlfaHJCdXJtVG9RZzFYU2VvOUhzLWdmaUNPSGFaUFlhQnpsTHZOUjRhUVVaQ1UxT0N1T3JwYzNIcWhPc2FKMGlzVVFvcDU?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-13T09:46:50.791Z"
     },
     {
       "id": "28403152e5d4a653",
@@ -1109,6 +1241,16 @@
       "firstSeen": "2026-08-02T19:17:15.461Z"
     },
     {
+      "id": "2db5d610c3b8c078",
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout",
+      "source": "STT Info",
+      "date": "2026-07-30T10:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUUJ1dGFfOEdDSU4zcTU1cm5vN3A3MTJOSDJIcWRLWE5mU3pjb05raGgxcmhjbmxSc1hIc29tZnUySWhHa1o3TjNkZmtQeWNLTGhLbW1xbjQtUVlEY1ZERjljZnlKalB5UXNNTUQ0SVFHYkRERVZ3SnpuTzdBT09FR3h3UWZ3SWJkS3dlMHIwZXlzcXVTM0owNVZWTnNTVnRNOW5ONnNWTEJQcklCRjZMXzY3TmVmcjBHSnljdlRya05uenVaY0tWV2VXWGJiTUxBbk1rTFdkUEFjaDU0OXBjNkpka2RKRDU3bFlDYU5YMTVfRjN3Y1U4ZA?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-08-13T09:47:00.111Z"
+    },
+    {
       "id": "e2ec7ac0b128e85f",
       "title": "BMW’s Smart Battery Factory Combines AI, Digital Twins and Inline Inspection",
       "source": "Metrology and Quality News",
@@ -1539,6 +1681,16 @@
       "firstSeen": "2026-08-02T19:17:06.971Z"
     },
     {
+      "id": "ea81c99715f0dbb4",
+      "title": "10 Best AI Web Scraping Tools (August 2026)",
+      "source": "Unite.AI",
+      "date": "2026-07-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZXhxV0RvQ3lDZFBlOEdRM0hNdUpJcXBHR0RNdHlaM0NwVUhhZjhQbzBjb0N6dzFRQU43eXRIT2Rld2xTXzE5NC1XakNMeElqUzNBdUpRTVU?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-13T09:46:57.176Z"
+    },
+    {
       "id": "b6ac02f0b4f6965e",
       "title": "The Real Bottleneck in Agentic AI Is Not the Model, It Is the Handoff",
       "source": "Industrial Equipment News",
@@ -1759,6 +1911,16 @@
       "firstSeen": "2026-08-12T09:47:06.391Z"
     },
     {
+      "id": "b9bdc90f27c15917",
+      "title": "Analyst Perspectives on Oracle Base Database Cloud@Customer",
+      "source": "Oracle Blogs",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXhReUkxU3R2Qjg1aW8wcUhkWlpPMHNBV1lMSTBVWWlrQUZQamFPVnVJN3pJSENHZ0cyX0hRQk5jaWFnTWpoSlJ1X29ZTnBoX3hPQlhVem03MlFrRmV0TFVHMmQtTlUtUEhYUW1sSzR1Q0ZwVjhoa3JFdXN6b3FXWkU0MU42V05oV25BLUd4eTFXS2hxbHRJ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-13T09:47:06.885Z"
+    },
+    {
       "id": "70995e8010058b0d",
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
       "source": "Salesforce",
@@ -1797,6 +1959,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-04T12:30:50.252Z"
+    },
+    {
+      "id": "6f84f57dfa670bf8",
+      "title": "5 of the Best AI-Powered Scrapers of 2026, Compared",
+      "source": "HackerNoon",
+      "date": "2026-07-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12LVpxWnF5MTB1UEt2UmxxVW5ob05KZ3BwVXhrZlBXYXRSc1ZZQkVHOG83LXNxeFRhc1U0UklVakFJXzlXUUJYQTNiTWNMc0VkQUpkV214UzY2eWNpMDNrX3kwSGplTVBsc01vNDhxbWk0RXlITVkwMy0xZ19KQQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-13T09:46:57.176Z"
     },
     {
       "id": "ac212b2094246b67",
@@ -2089,6 +2261,16 @@
       "firstSeen": "2026-08-08T08:06:18.172Z"
     },
     {
+      "id": "e2982f2d382343e2",
+      "title": "Digital twins, software maturity and other automation trends",
+      "source": "Manufacturing Dive",
+      "date": "2026-07-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzA4eWFaNzlxVU9PSDBrNWgyVDBkRGpwVjNMM0hZWDRxdzhDOFRheFBZUENvWmRUc1JZVkZicjktNVo3bVNjNFNRb0JPZEhieWJDdUgzZFBzOExfUlV4YjBmRFVURkw4MjlGS1ltMVRSSmtkSTBOSHE3RTJaczBza2NqUDdFamVjaXNmdUR3cUE4RUlCQmUyQ3BR?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-13T09:47:08.059Z"
+    },
+    {
       "id": "efa7947dbf63615f",
       "title": "Couchbase brings persistent agent memory to the edge",
       "source": "venturebeat.com",
@@ -2117,6 +2299,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-02T19:17:09.069Z"
+    },
+    {
+      "id": "00c0ed1dfa14b16c",
+      "title": "Agentic commerce: The future of B2B commerce",
+      "source": "Deloitte",
+      "date": "2026-06-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXd3TDd1TVVFeThZS0JoelIyWFk5eXIyZ1VoSlNhek1IQmh1dUhrcnVweTloSzFSajdLMjVBNF9sdENfcWZsTGRTYU9BU0Z0QWkyQ2wxYnVaRFRXb1Y5eGRLV2N5eGhhXy11emJYZ0dXSWRnaFZkeG1NQjRPMzRIQUdMOTZuUWItb0VBQWhBX1ZCalVVMGtvX3hKZE5lU2ppNGdWd0U5d0hpTExJNjF1NDlaZk95ZjNrZlJMdUpR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-13T09:47:02.392Z"
     },
     {
       "id": "0137842eeacc72ca",
@@ -2417,6 +2609,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-06T12:31:14.397Z"
+    },
+    {
+      "id": "f219e05964d588b4",
+      "title": "AI-Powered Digital Twin Manufacturing: Unilever Scales AI Factory Replicas to Improve…",
+      "source": "trendhunter.com",
+      "date": "2026-06-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkVsdkVhN1B3Yk4tTHZFVDlIVHh1eDZxWmpSU3dsQVZPSnBOSy1oYVZwRmNHTFpJcnJsNWNxR25GRC1qOEt6bzNXUFVpcVpjRGdrZkEtbTVBUVB5V0xwR19ZN1NXRFVjdzZXVkRDeHQ1ZEpVWGtHWHJyVHlCMTR4bQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-13T09:47:08.059Z"
     },
     {
       "id": "c41898f8f2556d09",
@@ -3407,6 +3609,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-08-02T19:17:06.971Z"
+    },
+    {
+      "id": "151f61ad1cb460ea",
+      "title": "What Is AI Supply Chain and How to Use It",
+      "source": "Salesforce",
+      "date": "2026-05-06T07:36:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYS1hDLVVBWHFjdGJOU0puZjllZHB2UjZjS0xWWnliYmZoUGRhcmczVUlZOWRTRllmclRHQlZSeTR2SkdOLWRKaTgtOU5qLXppVWRMME53U2tFd2Rld1hnTW9CRTZxbE1pemotNGo5dmNOTF9SQ0E?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-13T09:47:04.568Z"
     },
     {
       "id": "4f5fb59658470baa",
@@ -4777,16 +4989,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-02T19:17:12.124Z"
-    },
-    {
-      "id": "00a8fba1b79f0571",
-      "title": "Dentsu Digital CAIO Satoru Yamamoto Spoke at the “CX Circle 2025 Tokyo” Event Hosted by Contentsquare.",
-      "source": "電通デジタル",
-      "date": "2025-08-13T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BaVAzQjhBejZDMk5HbEx5ZDBET2xKdmVIMjNVMHdjNHZjR0xueGEybVZnamVhTmZnZVpNMHdjRGFtWi1VVzRfRmpvdjNIRTdGNk94Q1ZWdndrdzF0Y2tiQXNnVzJYMlp0cHRycjlST0NQb0w2TFFvdmREVDR1dw?oc=5",
-      "category": "Contentsquare",
-      "query": "Contentsquare partnership",
-      "firstSeen": "2026-08-03T15:59:19.249Z"
     }
   ]
 }
