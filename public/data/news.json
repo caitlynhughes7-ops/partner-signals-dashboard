@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T09:47:08.060Z",
+  "lastUpdated": "2026-08-14T09:42:01.455Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 488,
+  "totalEntries": 509,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -107,9 +107,91 @@
     "291ca37d51bc2fc6",
     "c9a2e657ecf63ef4",
     "00a8fba1b79f0571",
-    "5e61421e87b6a15a"
+    "5e61421e87b6a15a",
+    "89c781ab770a1852",
+    "22f083e44191b906"
   ],
   "entries": [
+    {
+      "id": "65ef0386f9a5c8e1",
+      "title": "Supply Chain AI Deployed by 88%, Governed by 12%: IDC Finds Trust Is Real Barrier",
+      "source": "Tech Times",
+      "date": "2026-08-13T20:13:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmgtdFVuakhtbXRKaFhoci1fRjBQUW5YdzY2Y0RVY1NtTUFXcURsZHVqeWZURDYtX3lBRE9YaXQydDNkVmI0ZHZZNkZ2X1VDSEpOR3kzcGZDVzE4RGNQVDRXaWd4a2ZEREp6MDBwNXJtLTVWNDd5cGdaaVV4LUJJTFV4Z3hpYm5rT0YtZ0VZZTVqTWJjcWpCNUlRWXo5QWdGNnVBUWVRVjN6R3k4RzJNNjdnbm9SYjBjeXNRMXFCOHU?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-14T09:41:57.914Z"
+    },
+    {
+      "id": "66e218969d1deb47",
+      "title": "Agentic Vulnerability Remediation",
+      "source": "Manufacturing Business Technology",
+      "date": "2026-08-13T18:12:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3l2MDZnYmRmcW94U1FkMWx5RHNFbS1BeEVpaGVoeWF6SkxfR1pBU2FDQ1c4VVdQalR5QzhmUERtTHFkTWc1ZzE3OThoWXB0QWhuX3FIOUJ1M2Q5ZzgwZmp5YV9uQ0puaWVXX2tJblpwSVIydnVvaE5reEk2MGx1YXRxZ2taMTVYczhnQ25VOWJseUJQVVd0eWtR?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-14T09:41:54.515Z"
+    },
+    {
+      "id": "deecad1ac67168dc",
+      "title": "Scaling AI hinges on the enterprise data layer",
+      "source": "CIO Dive",
+      "date": "2026-08-13T17:30:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFloMzlrVktOeWlBX0xTX29SeWN4TUdTYVNXWG13QkFNLUNFcGgwcGZSZmtQeDRNYklETTBDQ3dPX0poZldndXJ2WkFHak9fRWxJYTM4dTc5eXh0WEJOUV9zT1pqUzlYaVJVWlJKVXFJdVdBWjNwTFpOcjZMcDRwVnJR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-14T09:42:00.285Z"
+    },
+    {
+      "id": "6cc321a7af491152",
+      "title": "AI and Automation: Exploring GXO's Robotics Adoption",
+      "source": "Supply Chain Digital",
+      "date": "2026-08-13T16:21:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXV1YzFkanJfekFNTjJtRE83aUVMS3lHYWpsTDJsOS05blpGZlpLN0RzRW1qc05reGQzVXlIbFhDeUtnVmZWNzU3dmRLajl1TGo3dk1EX2Z2cnB1N0gxT2VGckE1Y202SVV2SExpZ0lOQzB5d3NYWDBSOHlRWndTdXRwZnQ2RUxFYTNGakZ2TQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-14T09:41:57.914Z"
+    },
+    {
+      "id": "8b3f78cbb9289ce5",
+      "title": "Agentic commerce threatens brands and retail media: the risk is not losing traffic, but losing the customer",
+      "source": "InformaBTL",
+      "date": "2026-08-13T16:06:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWZFZ3pZWjc4S0tQeW9ZUkw0dVBnT0F4WDRFLUVmZHJsQzJlR1NXZ2RwVkdKUkw1Ny1XdzVaWFhpU0o4VDU4eXg1dUhzaWVjaUJ2VURrUFoxUk9kWmoxNHVUY2JnQVBCV0I1eVNXOUNVU3pLeGNHdG1OUndvc0pWMmc1QWtVbWxENHBPREJsdU5nenAzWENRZ0NhN3NJTDN6aDNBYThfd3I0LU1NWU1iMWtqa2R5VHVvSHd6ZWd0TUw2OFdvWUJJOEQwSzZVUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-14T09:41:55.672Z"
+    },
+    {
+      "id": "d956c9d77461e382",
+      "title": "IBC2026: Tedial to focus on the AI-driven media supply chain",
+      "source": "SVG Europe",
+      "date": "2026-08-13T15:24:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjdGNU1TcFpJbl9ORmwzWnlzMEZfaFYybGsyUFE3OHhiNjNuUXEzUkdWY1Y2WTA5a1E5djJkOXdzNlBaV0NwZjYwMWJnZWJNMGFaN1ZfRkpibzQ5YnZnb0taLVU5MEpjZEtWMTd5alJodmJueURFR2JqQTlaX2psV1ZQNlBITU1VV2JMd1V6dmJhTGx3UzZpNERhSkJocU1lNElDdWJzNA?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-14T09:41:57.914Z"
+    },
+    {
+      "id": "dcd40d4a92b42a86",
+      "title": "Successfully scaling AI agents depends on data readiness",
+      "source": "Technology Magazine",
+      "date": "2026-08-13T14:05:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalFzaENtdkdGMXlqa1ZfcnQ0NUpfYUgtV3o0SGM4WWp0VFl0R0hYZjJmdHhGTE9YajlsR2Z5bzNTTlplNHg3T2tHTU1XeDlKMzRrLV9ZWVRjbHA1Qno3bDJ3R3FmeHpMSnZPdlFGb0d3ZkdONjNqZU5uSGxmYlAwZlFSemNjMnJyemRzR0xYeXQxbWhiYV9Z?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-14T09:42:00.285Z"
+    },
+    {
+      "id": "8378876b11fdc905",
+      "title": "Unilever scales AI-powered digital twins across global manufacturing",
+      "source": "World Aerosols",
+      "date": "2026-08-13T09:47:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUl6c0kxcDdYVGYycEZkQ1k3MFkzbUVoS01RQ3NHZkMyVXVaTWxlcW8wREhBWWJzU3VldWRrNUp6Rk1vYm1KR3dnTk5Dc3JHYTBzT2g0WHJvejJ2ZmNfSGcwSXpEODZnOThOWjIwQ2c0d0J5bjFPa08wRWFlUjhXQVJvOVpGSHliWTRTZ294T3RJMUx6UVV1NmlMbS1LMjFyM0E?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-14T09:42:01.454Z"
+    },
     {
       "id": "0807bab4451cf609",
       "title": "L&T Technology launches AgenticIQ to scale Agentic AI across engineering and manufacturing",
@@ -139,6 +221,26 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-13T09:47:02.392Z"
+    },
+    {
+      "id": "11f7adbe452d3aad",
+      "title": "It’s not all doom and gloom: The case for optimism in the supply chain",
+      "source": "Supply Chain Management Review",
+      "date": "2026-08-12T14:01:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVy1OUEhVUU13WmpOaFc1YTRjdEtLT1NaM3JtdzI2VFktOV85QVZzRUItUjl3YS02Sml0NS1hR3lnbXhKQVZVTC1qMVdKNVBFUDFSanByN3RvTGp6Z0ZoaWVraWY3NnFDdlBMdUdfUEsyakgzenlxTXd1TGdtNDZFSEx2X20yd1JyUFdrVTk2aEVKYjhua3g1eUNmTmc2dw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-14T09:41:43.915Z"
+    },
+    {
+      "id": "c596c7a25249c85f",
+      "title": "L&T Technology launches AgenticIQ to scale Agentic AI across engineering and manufacturing",
+      "source": "Indian Chemical News",
+      "date": "2026-08-12T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanMtRXZNUXRkaU9BQ3hyaEF2N19vd3FsUEF0NHMzOThQRnVLeUs1eXl1clAxY2NIWDVjZE9jWm83Z2dSeHhCVDE2YWNxUHVpU1V2NDNhZ2dRMVNDOEt1YVNYWVdmZDJjM0NUdk5WWTZ2TWEwa01YNXFNeW5YaWlFZUdsRXRkaU83SnNnOERDa2I4NjFKSkFDRmNRMlo5bjBVYmJEbWZxM2picDhXMTJWam9tTXMxblduSFJzdDFpWDFwRkpJS0hnenNER2JHSjZQYjhSWmZpNThRbjk0TlQ0YkVR0gHiAUFVX3lxTE1qcy1Fdk1RdGRpT0FDeHJoQXY3X293cWxQQXQ0czM5OFBGdUt5SzV5eXVyUDFjY0hYNWNkT2NabzdnZ1J4eEJUMTZhY3FQdWlTVXY0M2FnZ1ExU0M4S3VhU1hZV2ZkMmMzQ1R2TlZZNnZNYTBrTVg1cU15blhpaUVlR2xFdGRpTzdKc2c4RENrYjg2MUpKQUNGY1EyWjluMFViYkRtZnEzamJwOFcxMlZqb21NczFuV25IUnN0MWlYMXBGSklLSGd6c0RHYkdKNlBiOFJaZmk1OFFuOTROVDRiRVE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-14T09:41:54.515Z"
     },
     {
       "id": "d5e4332297b7c6d6",
@@ -209,6 +311,26 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-12T09:47:08.443Z"
+    },
+    {
+      "id": "4e88e5fcbe4409c4",
+      "title": "Agentic commerce is changing enterprise shopping in South Africa",
+      "source": "Portal ERP",
+      "date": "2026-08-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzd1UmxCblE5OG92aE82c3R6YjR0TTdhNGFpRmZVWDktOVFGUFZTdEJIX3B1RXJVWkRJMUVEN1R4eWpacFdMVTBGWWZHNURtR015MjNfR0g4WE85UmctZDNCNnNuOWdoQUJqYWRGV05Cck80V2RGNXZvRnhKS0t2YzdJbEswVkIzSm02LWtRUEV1NjVLWkMtWVBR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-14T09:41:55.672Z"
+    },
+    {
+      "id": "5a8874d4283b8df8",
+      "title": "CTD:ASX Announcement - CTM and Amadeus enter multi-year global partnership - 12 Aug 2026",
+      "source": "Market Index",
+      "date": "2026-08-12T05:42:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpTbUJIa2ZNQzRQamlWSGRyTkR6THpKcUV5cHF4UHRYYVdES0JxRzVYX0hlUmsxSmNYTmZGZ0ltQTAtSGVKc2tCXzROYjdGMmRIYkllOGVwZzc4SVU2VnQ3YkNKRzZSZzgzQk9YZk9Ua1N6bzRiNUM2ejhteHZVV2tJNlhwcEdpNTlhZ2pyeXZKT0h6MVNpUUh2NU1nUUViTHNPcHFhWm9XRWRURS0zZWtyOHI?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-14T09:41:45.952Z"
     },
     {
       "id": "a2f96d575db336ec",
@@ -299,6 +421,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-13T09:47:01.238Z"
+    },
+    {
+      "id": "88b5177c60b43853",
+      "title": "L&T Technology Services Launches Agenticiq End-To-End Agentic Ai Platform for Engineering and Manufacturing",
+      "source": "marketscreener.com",
+      "date": "2026-08-11T09:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYzMtaV9TaVJyN0lSV1ZrSGdzU0tWX1hsbXNuZnB3YmhIU0lEdjFIeklrdDJQN0ROUVVraUR4TWQxMWRENjhDQm5DUVlFaU00S1Ftdjh4Rkk0dEJlUUE1bkpCeERWc05PUlBxU25fX0tnS240bmU5MDY3Z0w0TnFfYjZ5cHRJdWo0Zk9zSVFHajJERm5UVFFoRWlsUXBIWDJIZEhrV2gtaXJTdEhaZnNJZlVuSWdDdUFicnNSWlJaY0hJMHpFNkxid1pUWEFoOU5oampFVndRbWJDMVBDTmlvd0FQNjU0dnRS?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-14T09:41:54.515Z"
     },
     {
       "id": "6c4197fafff93fbe",
@@ -499,6 +631,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-08-13T09:46:50.791Z"
+    },
+    {
+      "id": "1e1780f904606d0b",
+      "title": "Algorithmic Shopping Is Here. Is Your Company Ready?",
+      "source": "Harvard Business Review",
+      "date": "2026-08-07T17:48:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fVUR1MC1KYTAyczc2bGJ1bzJmUjZvWjV6REVmVEdtMnhxMmlRaE83NUhGX3o5SFZxOXVaSjlpVmd6SlczZ0Nmbnl0U2QteWpPVXlTOGkyWHQxMVQ5MHdoYlhMVFRRN2pOdkFlRUFHemQxelBoamFIVFpveVdHaWM?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-14T09:41:55.672Z"
     },
     {
       "id": "28403152e5d4a653",
@@ -2231,6 +2373,16 @@
       "firstSeen": "2026-08-12T09:47:22.866Z"
     },
     {
+      "id": "c5ec1261499f793a",
+      "title": "The AI-empowered supply chain leader",
+      "source": "Supply Chain Management Review",
+      "date": "2026-07-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52OEhMdTc2WEZkTGh0cFdNb0c4R2c2SmN3RTd1dHE3TlVCNVQ3a2xfcUtFVF9lVmlIM05uLW02S3N0NG1mRDR2eEQwdjBTaF96SlZnUkdaLWRKNkw3VlE5azE2X3QzOS1tYjJGbk9pQlJXRkU?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-14T09:41:57.914Z"
+    },
+    {
       "id": "1da3f6a01a1c6d4d",
       "title": "List of 17 Acquisitions by Snowflake (Jul 2026)",
       "source": "Tracxn",
@@ -2731,6 +2883,16 @@
       "firstSeen": "2026-08-04T12:30:57.997Z"
     },
     {
+      "id": "23bf3384ba2f74a6",
+      "title": "AI-powered supply chains require work redesign, not just process automation",
+      "source": "Supply Chain Management Review",
+      "date": "2026-06-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1ZpaTNnVHZCTHlWR2xhS05uX0hsY00yRmsyN3dtX1ZnUTJLV2tyaW8zbEQtcEhONXVxSlpJbkRNVWctV0t6N2xndEd1dG1wU05tTGdVZ3dfWFdySHBwYXZpQnJfNGdNUkhIbTdVTUUzcHp0YVBjcHpPRERiQjJmaQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-14T09:41:57.914Z"
+    },
+    {
       "id": "f4dfc4ba8d5fa098",
       "title": "Myrealtrip, Amadeus team up on AI-powered travel services",
       "source": "TTG Asia",
@@ -2939,6 +3101,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-02T19:17:15.461Z"
+    },
+    {
+      "id": "dc84aab70d54e180",
+      "title": "Bright Needed Legal Threats to Stop AI Scrapers. Its Leaders Think the Future Will Be Collaborative",
+      "source": "RISMedia",
+      "date": "2026-06-04T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3N1ZmhiNll2N3d4LU1oN21pRkxKM3FLZkhZZk9UQVR2cm1hLUhPazh2SUVrR0VMYnp3WDJRa0pJekx1NWpZVkk1UEJjTm13bi1leTlWUnRyMkR2REUtVmZGNG9YdjlVb1ZLMHFVYnF5LVBYRi1jRFNJcGpkQzktWXFVeEE3ZjA0b0ExN0lsYmQ4UFJzNzhyQW5Say1ISjVOVEdR?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-08-14T09:41:49.204Z"
     },
     {
       "id": "448c03ace1569b3a",
@@ -3501,6 +3673,16 @@
       "firstSeen": "2026-08-02T19:17:15.461Z"
     },
     {
+      "id": "0c11aa1cff8e6392",
+      "title": "NIQ Announces First Quarter 2026 Results That Exceed Expectations",
+      "source": "NIQ",
+      "date": "2026-05-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamNoMFk0M3pvVkM3X2V3U3ZvMlJaMEd6TzVMWHBwSG9vQWJsVzM5SVl5bTY3aVJHdWxjaXotaHh4VzRQdjhZT24xZWhPSy11U1drazhKMUhjcFdRNXJrd0gyUVg1X1JJek83bVp2VE5ZUjJtXzR1VFNaLS10aUszeF90SU9lRUktZk1jNUYyOVZ5d1E2bUdEMHd4X3lXaUg5bzc4SEdQVGljdFVyTWxuTk52czdIUQ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-08-14T09:41:53.337Z"
+    },
+    {
       "id": "499c8c1f836315ef",
       "title": "MC Advances Supply Chain Transformation with Blue Yonder Cognitive Solutions",
       "source": "Business Wire",
@@ -3629,6 +3811,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.156Z"
+    },
+    {
+      "id": "b4c352062a06421d",
+      "title": "How Retailers Can Thrive With Agentic Commerce",
+      "source": "Forbes",
+      "date": "2026-05-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamZ2Vkw4eTY3Vm5lbXpfMmhPZG5RcUk0OGdBUGdPbWxGNnhsZ0VUTW1nNElNYnJhdjNDd0V0ZW5uVlB3UHJrYlplVGpfTlFpOFEtb25ndGNLQm5UMzB4VTZqWmsyTG1JSjVZaWNEZTNaZ3ZYWXNvVHhvTXBUZkZRZTcxbkY0ZlJGdk5rTkZRMnZBckdmMTNyVGUzektueFBpTnc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-14T09:41:55.672Z"
     },
     {
       "id": "4f4138dab4899c77",
@@ -4169,6 +4361,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-02T19:17:18.852Z"
+    },
+    {
+      "id": "2d5b5e2a14a491f0",
+      "title": "8 China stocks to ride the industrial AI upgrade",
+      "source": "NAI500",
+      "date": "2026-03-06T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjI2Y3dQdndIaEtESkdsaDgxc3B4VGhXV2Zqai13TldBZ1l1bGdMYVJXMk9sVG90aC1qbWNsWkRnVDBZeVZJSlpJaHhQT0xHRDg1dWtJMi1ibkthcmlQcWtRLUNZNWo0cjRiN0U3VE0zWlpGYnQxcEdCQ3FXMHY5MXdmZXJTR0tD?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-14T09:41:56.731Z"
     },
     {
       "id": "aed7b44e28e35faa",
@@ -4859,6 +5061,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.157Z"
+    },
+    {
+      "id": "199be770b16b8b27",
+      "title": "Contentsquare previews agentic AI-driven content analytics",
+      "source": "TechTarget",
+      "date": "2025-09-30T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0pnbHRRMm9IczhyV2JkTTQ0NHJPSzNWTWFmODd4RmVvVEUzWkNvRE1BdDNqSWIzY2EwS1RFRkx0bWZhTE1OdVAtc3RSQWxxcmF5TVhvVnREcmJiRG1QdTVqZXRjOGJjbFZPUjJMaFBrbl9DOWNyQmdJMFJKbWtQYkdtRFNScUlzRjZPS0dZV1RwcHhieVdEZkV5SFdFbFJrLTdkQmt4ajNPODFiVVNGZHliWEl6am0wMC1ictIBxAFBVV95cUxOMjAya29seWpaX1Uwb2ViRVZOdm96TWhSVEotbUNoUjVxbnl0dzh5YjA3V2tMZGs1Mloxc1dka3BtTFp0aHFSd3RDWXV0eXhNc1hibm5PdEFBMGRaNFJPei1DRi13d193b1RXU2RTclZTQjZBNTcxQmZydDhDeGdscUxiYjk2cTl1eTBBVlkxNFp2UlhSNXNMVGZrcjNVN095NmdiSGM0dnd0UXltWnR2UmQxUFNIUWRwdkhlUkZfbUdZMVlx?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare digital experience analytics",
+      "firstSeen": "2026-08-14T09:41:37.716Z"
     },
     {
       "id": "96aa6d595a509e54",
