@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T09:42:01.455Z",
+  "lastUpdated": "2026-08-15T07:19:30.482Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 509,
+  "totalEntries": 519,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -109,9 +109,91 @@
     "00a8fba1b79f0571",
     "5e61421e87b6a15a",
     "89c781ab770a1852",
-    "22f083e44191b906"
+    "22f083e44191b906",
+    "20a01b51fc3e645f",
+    "86243405bc400650"
   ],
   "entries": [
+    {
+      "id": "c41176505f0d9a8f",
+      "title": "Omer Primor: Owning Web Context for AI Agents Beats Renting After About 15,000 Queries",
+      "source": "finance.biggo.com",
+      "date": "2026-08-14T20:12:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJcmcxRjNwNTA4Szd3RkNjbTRGOXg2ZngwWlRlSmh4TDB3alBRVFVhTkJJNmtibUpHaEJ3TmI0MWhWcUZJMDF5bFVvakNvVFZoaTZDSmM5OWtESUU?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-15T07:19:19.446Z"
+    },
+    {
+      "id": "76eeb0f6e899e4f6",
+      "title": "AI Agents Ease Simulink Model Adoption Process",
+      "source": "Design News",
+      "date": "2026-08-14T19:41:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGJQOHNZVGxYeXE3TkNWQ2tfMmdoUERaLXNzVlp6cUtNeGl3emZHbi1Jd0I1cGprQ2M1UHFDQVNrWGNSUmJYZEJBNTZpdGNYRG1LS2tXd0RNUmUyc0d0TC0wLVU3QkZlbVJnMnluX3hrZEZyOHlzdDJhdV9lNmxkcVRxV1ByLWtERm5lUEFtSFp0dS1KcGV4R1h5bk5oYjJQazdxNGlJcURUSzBUREQ5UQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-15T07:19:23.626Z"
+    },
+    {
+      "id": "6b784e0495f76e17",
+      "title": "The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data｜AI Engineer",
+      "source": "finance.biggo.com",
+      "date": "2026-08-14T19:26:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVnY3MXhYbW4zcFpYMjJzd21qWF9ueUhMYkRDYnA2Zmt5TUd6SG5uNGNiYktHQzh4d3NJNEI3aURnNW9RSGluNkRBUXRqZUxmV2xZV1RWWElrZFB3Vmxv?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-08-15T07:19:17.137Z"
+    },
+    {
+      "id": "50a5e12b7f9e5025",
+      "title": "Graas Raises $17M Series B, Acquires Trustana to Build Data Layer for Agentic Commerce",
+      "source": "AsiaTechDaily",
+      "date": "2026-08-14T18:21:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm90ejlJanRYd0x5ZHNtVnc1UGtCbE1XekVvYlhabWluM3NFajhXenJjTGF3bGRRS3F2R0MwNEVyZ1NsR2FOeXVwRWFOQTltMFlleU5oUWQyZk1Md1IyeVh6dzU0b2FHN2dUalBxYlFMT1VGRW5aelg4R3JuYzBKa0swbU1pRzdSSFlwclVCSUFjVWhST2YzblZqMVlVZUt1akc3WGZqV1BxT3RoRDJSMQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-15T07:19:24.759Z"
+    },
+    {
+      "id": "c8ce1b24e2f62ad5",
+      "title": "Beyond the dashboard: Building the control layer that makes supply chain AI actually work",
+      "source": "Supply Chain Management Review",
+      "date": "2026-08-14T15:34:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGM0RFVRVm5WOFRwMlNWN1VYbHpRMkxta2NqTFVKMl8zc1BMN0FlYVhDVFhZbFdHeGVmQnhjOHdkZVVMdkp3OGZSbFA1OURNaTdDWDNLVGFMdEM5a2tSWTR5U0xXOTROQnBOdmlWNFNpNnJ3VFJFdXFwN28yd2wzc1pRempDMFpDNGo4eV9zelpXdGdTMjJuTFNHa0ZwYVFCOExpNTFuSmhSVU5vRHpaaFFka1h0U3dD?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-15T07:19:26.982Z"
+    },
+    {
+      "id": "fe6b617f1489c141",
+      "title": "SAP Completes Dremio Acquisition to Expand Business Data Cloud for Agentic AI",
+      "source": "ARC Advisory",
+      "date": "2026-08-14T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRINXJKNUJJNWVDQTQ1bFZDZWRVVWVsb2hVR05QTjVnMUFKSTVjenpuLXROWEI5NkFmY2x1alE3RnRxT2xDSkZyS21faVd6VURpVVpGM3owRHVjcjVGZkhrcC1EX0VKUk1ZSGdGdkJVeFR3VmNESHc1MXlMbW5GWDJKS3huczVNRzBUYXFUcGZDcGxSTmNrR05rdWlpUTQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-15T07:19:29.323Z"
+    },
+    {
+      "id": "66f6493d356edb82",
+      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics",
+      "source": "Deloitte",
+      "date": "2026-08-14T10:11:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1NVmtRTVNUMkljOEdQTklLcXpNa0NFOGFocWhRZ1FoTXdiZjZxQXptNElHMTI4UWdleGVHZzk5ZDJEcmZEYUlCMDFobzM1aGZZVzZzcC1VN19UT1p1VDBHcF9TelZmaXZEMUk1UTFnV0JhY3NyRmo0RzQtRDNWXzA2NHNvYmIyamZwZ3AxQmQxRTA3ZmdSc2s2NU1ldFNsWVIzOVlfNnRONUs3MHhRRm9DeU80YlFwckpTag?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-15T07:19:24.759Z"
+    },
+    {
+      "id": "837bd419e157d726",
+      "title": "Retail Roundup: 9 Commerce Moves From Target, Kroger, Walmart and More",
+      "source": "ADWEEK",
+      "date": "2026-08-14T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWZxb0ZzdlRaLWh1cmZBa0VpdTJJcW5TSkZTdDFEbEd0b3FjbUVrOVprSlY2c3RBNDFyWGdoUm42V0hkWFVVUnF4bEtaZzFtaVlkS3B6Qno0Z3ZneUFlTk5xb0lEaWNoM0RLRlJoVHVKTlRnbm1yQ0VSWHNvdlpVenkwMW5BOGlvTGlCeHFMOVlRZ2VCaGpSenpFNGRGRE9EeVE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-15T07:19:28.148Z"
+    },
     {
       "id": "65ef0386f9a5c8e1",
       "title": "Supply Chain AI Deployed by 88%, Governed by 12%: IDC Finds Trust Is Real Barrier",
@@ -2423,6 +2505,16 @@
       "firstSeen": "2026-08-13T09:47:08.059Z"
     },
     {
+      "id": "dd7c21f221a57617",
+      "title": "Agentic commerce is going to require rethinking consumer payments",
+      "source": "American Banker",
+      "date": "2026-06-30T11:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdZbTFkTkFzYTctaE1WaWhlX0dWbjlGcXduRndGVkdQbno4ZlhsZ3IycUQ0cDc2U05IbngxcWdOUDYxSmktTThHQWZuUGRDVUZud1NjZWFnT1ZMWUlEaVlCYTNwUXBJMW1EM1phaHBncnRWeW1NQUVqajU2eksyR0cxZjlUNnh3ak51NWZSX3l3VlNPb1pTR2w4OHdZeHpaeWllSFZMcnJHeGlTLWJzNGg3NA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-15T07:19:24.759Z"
+    },
+    {
       "id": "efa7947dbf63615f",
       "title": "Couchbase brings persistent agent memory to the edge",
       "source": "venturebeat.com",
@@ -4501,6 +4593,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-08-02T19:17:16.521Z"
+    },
+    {
+      "id": "53c50df944ab311d",
+      "title": "Amadeus Acquires SkyLink to Accelerate the Deployment of AI in Travel",
+      "source": "Business Wire",
+      "date": "2026-02-25T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTV95NVB4WlNCS3B4Zm5yeEhNZFRONGc3V2x4ck5VNXNoa1R4c3VGQXlNazQtb2hLbVdMTUtLOS1KSTB1NU9wS1FueUk4TTJRNXREbm9RSjI3RFVpQXBReGtkVmkyRjJONjFJMU5fOTZyWkg5VVJCVFV6RW0yaGd5S1ZuS0hIeHJyUUpQSkN6Z0h0a3BwVk1panlFWTdzNFZhT0ExVWRpdHI0WjZZY2RpODFDak0yNWE4dHdVY3FXWWpaanZW?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-15T07:19:16.076Z"
     },
     {
       "id": "5d7ac679032d9696",
