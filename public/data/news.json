@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T07:19:30.482Z",
+  "lastUpdated": "2026-08-16T07:44:56.737Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 519,
+  "totalEntries": 532,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -143,6 +143,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-15T07:19:17.137Z"
+    },
+    {
+      "id": "6b5a2c75fef07f9b",
+      "title": "The Human and the Agent: The state of Agentic Commerce in Europe | Deloitte Nordics",
+      "source": "Deloitte",
+      "date": "2026-08-14T18:25:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZPczlYYzl2bm1qbjdOZjFmMnE1bG9EeVV6RmcxelJWMmV5V3RtWVhTTGNYeldRUUdhbnlxOTBNRkxvUGd3SnpOSFUybEItZldHMHlwVC1WMzNCNkZPM1dGTVJJQzNvcG1hanpNQkM2UUl6alZWdlV0ZUY3VU9LWVJMNjk1YlZxOHduWFVZRWVOME9TbDlnWDdCUWJTSDhLVjFwNTB4YlBJN3BfemNEMzFIRjZ4V3dvZGVVeg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-16T07:44:50.930Z"
     },
     {
       "id": "50a5e12b7f9e5025",
@@ -653,6 +663,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-13T09:47:02.392Z"
+    },
+    {
+      "id": "737aa8d228c3e734",
+      "title": "Koddi Revenue 2025: $28.2M Est. ARR (Bootstrapped)",
+      "source": "GetLatka",
+      "date": "2026-08-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteDc1MU1rVGZrM3E0dVpfcFZnZTNQTjVMMko2ekgwSnljRXVfSElaMzk4cm0teVJFSVNMc0RrVllEMmlwaldzN2drS2pQc2llSUE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-16T07:44:54.384Z"
     },
     {
       "id": "7a5a677ebbc2256e",
@@ -1835,6 +1855,16 @@
       "firstSeen": "2026-08-02T19:17:17.660Z"
     },
     {
+      "id": "d0cb1b41d0becc48",
+      "title": "Silvaco Announces Collaboration with NVIDIA to Advance AI-Powered Semiconductor Digital Twins",
+      "source": "Quiver Quantitative",
+      "date": "2026-07-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWx6NTRmRWV6eGIyQlYxUjNGbTFWd3ZkRkF5R192bmg3bnRla01IcU1CQkFpYVpuMHVrRFIwS05udDJTSkF5S254eHcxSDR2ZXAwa1VRNk81V3JFdndFTXRwZ05jRVM2eWdCcW15Q1NwalM1YUh6ZkhJbGlVZWh6UURwOUItV3RRbUwzeXlyZGJfMmtGSk5oRWl6NDU5Z0NUbnp5QUptaTdxUmRpRWYxMk0xSVJjbTdUbW1qVWZySFZ5M0FJ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-16T07:44:56.736Z"
+    },
+    {
       "id": "5d376f3a577a31b0",
       "title": "Former dunnhumby executive Jez Collins takes on Head of Data Monetisation position at Kingfisher",
       "source": "Retail Technology Innovation Hub",
@@ -2145,6 +2175,16 @@
       "firstSeen": "2026-08-13T09:47:06.885Z"
     },
     {
+      "id": "fa43a37fc6567883",
+      "title": "Best Static Residential Proxies in 2026",
+      "source": "AIMultiple",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KNnJPNFA2RDU2TXVRa1lKbEl3Zk9nVjFDTzRlOFRWdTNDZHRoeEVRaUE3bDFJX0RKbG1tTEpYWnRHaEgtRmxURTZB?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-16T07:44:45.648Z"
+    },
+    {
       "id": "70995e8010058b0d",
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
       "source": "Salesforce",
@@ -2173,6 +2213,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-08-02T19:17:03.878Z"
+    },
+    {
+      "id": "e8ce3f2007a9de52",
+      "title": "Factory of the future with AI, IoT and Google Cloud",
+      "source": "PwC",
+      "date": "2026-07-20T21:25:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDhmampHYm9lNDZVazI4RThLTVZZemhudjktMDBVcUR0cFhIaDhpcHRVZEdzdHNZV1lGbjJteUxEMUxhbDZPQUl6ck1hR1FMbmtFbkVqZzVOd0VYWEZZZ1ZMaTdnTDNEeFNjVVpGVHlaX3N1RG4tLXRVMDhYVVFmRFBnNnpWelZqN25nMk1oUklZbV9aZS1hVkZWX21BQTJGVXBQZ1RaRjlZTGhP?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-16T07:44:56.736Z"
     },
     {
       "id": "7eac8b4d7e20a46d",
@@ -2435,6 +2485,16 @@
       "firstSeen": "2026-08-04T12:30:47.984Z"
     },
     {
+      "id": "9d3c902cc2c09a75",
+      "title": "[Physical AI and Autonomous Manufacturing①] IT and OT: One Factory, Different Languages",
+      "source": "thelec.net",
+      "date": "2026-07-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GMkNQOFN1N3FQMUFGQWhqR25EVlBoTkJPb2hSNTd5WFg0ZTBQcTF6R2dfVG5CdlRIX3pWcDk2ejdKblgzbGV2cmFNNU9NRC16YmhBUFdMRmZxcXFxb2FYWkhUeHIyejQ?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-16T07:44:52.004Z"
+    },
+    {
       "id": "7c0eb81a60320f1b",
       "title": "Industrial revolution - Schneider Electric powers ahead with a $3.1 billion gambit to plug Cognite's industrial AI into AVEVA",
       "source": "Diginomica",
@@ -2583,6 +2643,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-04T12:31:00.376Z"
+    },
+    {
+      "id": "d4814ccf2cf6edf1",
+      "title": "Workday Data Cloud connects HR data to AWS for AI agents",
+      "source": "Techzine Global",
+      "date": "2026-06-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDVCSEVzMlRmRzhnc1loS0NETFdQNUdZM0drR0dXWDFCM2tMQWkzWUdoeE9uWm52c1hucGFRekszVHpJWF9VbGtLYkNCYTlMX3VkOTNOZmh2dmpGcjRfYno3dWtZeTJLUmhlS3dCRjlRakQxM3JHSHdsMm1KdUw1OE9SeXRqeUVPMDgyUGFvOFFtdlFPdXZMemRDcXNwUjh6M0VvMHhjNWdiZw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-16T07:44:55.549Z"
     },
     {
       "id": "937577d5c40b1a74",
@@ -3305,6 +3375,16 @@
       "firstSeen": "2026-08-06T12:31:06.099Z"
     },
     {
+      "id": "5dd59a0c48171109",
+      "title": "Build the Interoperable Lakehouse: Agency Over Your Data",
+      "source": "Snowflake",
+      "date": "2026-06-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14d1J4UGQ0TWNLZGYyaHpBVjFPdGp4TlI0MjB6aWZPZ1VOaVpsTENkQU1Fd3ZMdTJZYU5YN0ltNllOdExLU1piMmhobGVHRmIxNFJSVmFSaUJNZ0JCV0RodFA2R3lNYW5qbmkxWlpvdFlidEVQc3hqQ2Ribw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-08-16T07:44:27.734Z"
+    },
+    {
       "id": "ae7d22db9ddc1f7f",
       "title": "Infosys, TCS gain up to 4%, Nifty IT jumps over 2.6% as strong AI demand boosts Snowflake earnings,...",
       "source": "Moneycontrol.com",
@@ -3975,6 +4055,16 @@
       "firstSeen": "2026-08-06T12:31:11.977Z"
     },
     {
+      "id": "0afe8db001ea0bfa",
+      "title": "Looking for a Cori Leadership Partner",
+      "source": "Österreichische Akademie der Wissenschaften",
+      "date": "2026-05-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZVHNWNkhVNmFUWkZySlloMTQ1SFd3OGtPTmRIU0dsTmdPV2l3MmRWYjgyUTBpM3dadEVMU0xpeWZOQzFzU0UxWmpMWnB4OEdvMUoxWTlVWlFJQ0tpeFUwUXJSUUJVUHNwM3JCa2JQajdDMllBUFdYYWhn?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-08-16T07:44:31.952Z"
+    },
+    {
       "id": "f179ff29f8e6d42f",
       "title": "Announcing watsonx Orchestrate eCommerce Pilot for AI Agents",
       "source": "IBM",
@@ -4355,6 +4445,16 @@
       "firstSeen": "2026-08-12T09:47:08.443Z"
     },
     {
+      "id": "9b0884ab468529f2",
+      "title": "Amadeus and TCS announce global strategic partnership to accelerate modern airline retailing",
+      "source": "Tata Consultancy Services",
+      "date": "2026-03-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnEzS3psYnZ6UEwzcDA3YUdOYzRjU0ZLbFUwV3RPZ0U5SjVVTGo2QjI0WFR5c0RyZlVuWm56X0dkVF9uWDZwcmNFVGdsT1VCYVBKb2d1bktWemcydENpWF9Gak5DdGR3X3ZoT2VSb1ZudFBER0RHeHRKbzlVWTJlYmROZ0l0S1BTSXlTZXMtSTdEMnd4MDVTTzB5eHFQeXl5MWREdWJEZ2s2RUM5OFl0Yk54Mloxb3J1cjM1VExTNHVkZS1tVEY5eVNycjh2RE1Mdy01ejVB?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-16T07:44:41.273Z"
+    },
+    {
       "id": "553995466505f352",
       "title": "The conundrum of scaling retail media in 2026",
       "source": "Retail Brew",
@@ -4483,6 +4583,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-02T19:17:09.069Z"
+    },
+    {
+      "id": "5568b32900003c23",
+      "title": "HBX Group announces strategic partnership with Outpayce",
+      "source": "Travel Daily Media",
+      "date": "2026-03-05T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmlYUWc3ZlFaSFF6VkExekZKeEJrSnB1VUdDMDltZGt6dUo1c3paajB2U3NqSWdwLXRUN2JqZnBMWU0zdnBPb21NTExERUNzYmlqSHJkTG9QX2stUVpldkVadDRhYy1SVFEtaXVRMnhxOTBNUVdJNVRSclgwRjI0ZXFwekJwS2FaWm0wdzRPSUNDUk0?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-16T07:44:41.274Z"
     },
     {
       "id": "a8732108db3ecab9",
@@ -4755,6 +4865,16 @@
       "firstSeen": "2026-08-02T19:16:53.804Z"
     },
     {
+      "id": "ad2d98a31aa2d03a",
+      "title": "The automation curve in agentic commerce",
+      "source": "McKinsey & Company",
+      "date": "2026-01-28T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDF1Yk42R0Z2SUN5YWM3NVBXY3kzN0hWLVBhTTNwX3pqZW1ScU5tM2k5Z05ncFpNclBBQVd3eXhFNlZrS0hfeGRCNE9xQWJDWC1yNjFKWktia1AtbHZFeGlFeWJiTnNQS3NrUXZ6ZFdWNHBQLXBuQTlrbm94RmxTQTBEbnRKVV82NmRIUnhzT2JYOG9jbGlvQmtxTlVuSmVQR1Q4WGFMMA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-16T07:44:50.930Z"
+    },
+    {
       "id": "373c21810de5ba98",
       "title": "Snowflake Energy Solutions: Powering the Future of Data-Driven Energy",
       "source": "Snowflake",
@@ -4953,6 +5073,16 @@
       "category": "AVEVA",
       "query": "AVEVA Snowflake",
       "firstSeen": "2026-08-02T19:16:52.728Z"
+    },
+    {
+      "id": "9133df8a8a541912",
+      "title": "EURONICS and NIQ Forge Strategic Collaboration to Elevate Retail Pricing Intelligence",
+      "source": "NIQ",
+      "date": "2025-12-09T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFlYWTBWQ2RvLWY3dlRualBVd0ZsU3o0Vk15ZktDeDRVTjFIcjZvWG5CdXF3emREWVpqUnBOX2NhcXJ3Tk90SlEzR1dQYi10ZjdCM19PWFJVYlR3NE1mSVQzcHVkUFlLang2YXFJN3pqajIwc2M3b3R1WFdEQmZYV2ViekZiSlVkWEpTYlFTSUdTLXBGaU5lQjI3Ny1Telc4endfLW0zRjhSRmc4bGF3aXA2cDNsYVBqdU4yMGUxeWNibFVUNy1USmF3QTVwcjBt?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-08-16T07:44:47.628Z"
     },
     {
       "id": "303c882073fcd66f",
