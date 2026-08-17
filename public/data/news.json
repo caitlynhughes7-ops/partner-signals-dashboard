@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T07:44:56.737Z",
+  "lastUpdated": "2026-08-17T08:08:00.232Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 532,
+  "totalEntries": 537,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -115,6 +115,16 @@
   ],
   "entries": [
     {
+      "id": "c7a06145082b8182",
+      "title": "Perion Network Bets on AI Platform as CTV, Retail Media Spend Accelerate",
+      "source": "MarketBeat",
+      "date": "2026-08-16T10:28:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDFKR2YxcVBXUmRNTG5FYTRBbFdHd3pvZXhBZG82RENnR05PSFd4RUpCUG1NOVd0YmZaUS1TRzlGaDJUc2VIR2xLX1U1dUtpNUdTU0xkZXAwYTZrLWhwUGJJdWtUUGczNExDb0VCY1ZVN0VnMUxzWnpRdlZidEtlLUJMeUFjZzBOSUN3cHQ1MkZSYmpjZkh0N3pQem5UUEZ1cjNwTFJxQVZKcFBHaHo3azduY3h2U0NPS1l5UzFIb3FJQnM?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-17T08:07:57.873Z"
+    },
+    {
       "id": "c41176505f0d9a8f",
       "title": "Omer Primor: Owning Web Context for AI Agents Beats Renting After About 15,000 Queries",
       "source": "finance.biggo.com",
@@ -173,6 +183,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-15T07:19:26.982Z"
+    },
+    {
+      "id": "3e4df94e8fabb38b",
+      "title": "How Unilever's FIFA Product Plan Came to Life With AI, Data, Digital Twin Tech",
+      "source": "Consumer Goods Technology",
+      "date": "2026-08-14T15:01:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGc0NnZnZFBBeXh3UDctaDJXN0gta3E5bzJoNzVMcm84TjY3MVp4eUJDaEpSUVhMTV91S2FYa1liZ0hHYjZRTUhpQ0toUjd5T3lYVm1VX3V4WXA0MU90blE3elhQUG5zcXgwLWFjVUVMZ2xhWmlabkhONWF1WF80MGVqV2N2T1gzbE9oZnNPYjlMREpQR2hXOA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-17T08:08:00.231Z"
     },
     {
       "id": "fe6b617f1489c141",
@@ -2315,6 +2335,16 @@
       "firstSeen": "2026-08-02T19:17:17.660Z"
     },
     {
+      "id": "51864a39a7b6531e",
+      "title": "Siemens showcases industrial AI at Farnborough International Airshow",
+      "source": "Aerospace Manufacturing and Design",
+      "date": "2026-07-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3lySU1SSDF0U0NkQTBFbTQ5S2JBX3owRjdxaEFsZHhNR0M0c0ZVZEJUakYyeHhhTWw3Z2sxQzBEaG9Jb3d1eTdZaU5tdzNCdjJWbVh6emJqaVd4N1VNb2FLbkl3WFVFaklOTUFkX09WdVQ3dXpmVGdNRFZiQWFHbHpUZVhnOTNZNl93QkhqWm1sZlNlcUFXYmZhc2J1SF9sVFBTczNSa0lNTUx4azBhMVZWYVZnZHZVSy1J?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-17T08:08:00.231Z"
+    },
+    {
       "id": "9df0c7e7444ebe80",
       "title": "Rethink Retail forms retail media club to survive the AI transition",
       "source": "Retail Brew",
@@ -3153,6 +3183,16 @@
       "category": "Amadeus",
       "query": "Amadeus Snowflake",
       "firstSeen": "2026-08-11T09:34:44.928Z"
+    },
+    {
+      "id": "4322d3ce5e905e99",
+      "title": "Visa Partners with OpenAI to Power the Next Generation of AI Commerce",
+      "source": "visa.com",
+      "date": "2026-06-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUdzakFXOGNKb3hHVkVNMktMb191cEx2MVhpYTRoM3BtazUwUU9TYW5pLTJHN2FISHFOVEpYM0dPQTZkR3pXU3pEbER2RGZzWUo5NE81ck9NYlIwYUVPWmpzMnFOTnFHUFJsWFRhRE5WTmhmNnVKSFFjbUtzal9xXzFB?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-08-17T08:07:35.259Z"
     },
     {
       "id": "0a39f6216ed45ad9",
@@ -5013,6 +5053,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-02T19:17:05.879Z"
+    },
+    {
+      "id": "c19d768f60554b5f",
+      "title": "At CES 2026, marketers get serious about agentic AI, creators and retail media",
+      "source": "thecurrent.com",
+      "date": "2026-01-08T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWS1UY3B6THAxdVljTk1kZkJDNDJ0REZuQlZUbjZfY2oyd3ZKRnI0TFdQY1NDRWI0YjFiLWIyVVRXUFp5UDBPMXR0WmJHV3RUVXo4TE0yYlMtaUdTbXpwVzg2SEdVX2Rmb0lFUGRacnRiRmFYSEl5VHd1R25PRXNKWDFfbnlxVFhmeUVYT3lXTl8yY2JPblE3ZGo3UjlXZw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-17T08:07:57.873Z"
     },
     {
       "id": "0793d3295fc2f29f",
