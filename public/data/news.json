@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T08:04:01.174Z",
+  "lastUpdated": "2026-08-21T08:04:21.813Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 586,
+  "totalEntries": 597,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -114,9 +114,42 @@
     "86243405bc400650",
     "67d6a5f55ca29c99",
     "99443927ad1c41e2",
-    "9682a65fba093ae3"
+    "9682a65fba093ae3",
+    "f98ebb065e1ba468",
+    "b695ee65de4e0fa3",
+    "02798ab2242aa5db"
   ],
   "entries": [
+    {
+      "id": "bae8a0746b0f72f4",
+      "title": "Amadeus EMEA’s Maher Koubaa on the AI reshaping travel and the barriers that remain",
+      "source": "Gulf Business",
+      "date": "2026-08-21T04:03:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkc2MUpzNzR4SXVxQUtJVVFMQ1UxMUd4M3dFb2lWdWJxTGduQW0yVTU2Z0E3Nnd2QzF4T0ExYjFHRnRMeVpaOXlGVWxCNkpUX0hJZndHRkNiUThCX19wbzhpWlhiQ1hPY0J2ZkRRQnBpWmxBTXJIU2M1aGR2THBHRkM1NXNlTVZHalNNSk5yY1hRNnJIdlNlVDJ1QUlYMzBWd2F3MzdtRC1CLXhVdHhJT2FZMENDbG9tNHhLY3ZsMFA0dw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-21T08:04:07.561Z"
+    },
+    {
+      "id": "950fc0a794f35f28",
+      "title": "CelcomDigi launches agentic AI for small and medium enterprises",
+      "source": "Digital News Asia",
+      "date": "2026-08-21T02:49:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUItV0hQRTlDTGJSclJNajJOUHEzdTJ0bWFOY0UtSDNQd0Q2WXFic1FycVFJN2V0ZGVwSmtrVWdFQUhMV3VBc3FSOFAxdDNsaERtOVBHeHBoRGRrekhVUnNuMk5Mc1ZlTVBIdFRJb0YwTjRuek5ldVlmdmI1aGN0M0dBQ3hYX1VtQmJrVzIydW50MGNVYnNsYlV5QXg2SlJFcUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-21T08:04:14.948Z"
+    },
+    {
+      "id": "56740b6abc7c5561",
+      "title": "IBC 2026: Veritone To Showcase Enterprise AI and Media Supply Chain Automation",
+      "source": "Sports Video Group",
+      "date": "2026-08-20T12:54:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV9WVjU4NDM0dG9UdjhLVDVzcm1Dd0tNQ2djSVFmOUVVaDEzb1FOQkhBSEprTDBSaS1NcVpUT0NKM3RaSFJwS3l4aWE4REFQVHdRcmxpU093YlI4OG1vZDNfdmd6QW85NWtJcDZjblVOa1FoUmhyVm5xREtyTHIxM1g1UEZZak5CUkdVV0NiUFhtUGFxQWNhblNNVnZGVHVLR1ppejgxUV9WTFVibzdkcTBOYUhqX2g0?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-21T08:04:18.289Z"
+    },
     {
       "id": "a639f9b1006e2e33",
       "title": "LEAP 2026: Snowflake to display future Agentic Enterprise Model",
@@ -266,6 +299,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-19T07:58:25.818Z"
+    },
+    {
+      "id": "d9db005a8abe29b1",
+      "title": "Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers",
+      "source": "Snowflake",
+      "date": "2026-08-18T13:38:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2l5TVhaeV9uc1VkOVdaOG5HVXlhekowUG54TXZqdDRkakpVM28zTER1cV9tMlFJVUtkVW43dzVzS0VZdm5kdFNCSGlmRU9kQTY0SEZ2X0toNzc3djMtdmY4ajdkdlpIRzFYMzNaMGhPbnBDdVdZdDZXUi1aR1dfeHI3ZUVNS2JRQThuWFJOUThWcjhNMWZwV1RLNTY1dU1zblBibHliaEQ0UHlQZFE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-21T08:04:20.667Z"
     },
     {
       "id": "cb497ae057122f1c",
@@ -1788,6 +1831,16 @@
       "firstSeen": "2026-08-02T19:17:14.320Z"
     },
     {
+      "id": "c7a24f4e913a3440",
+      "title": "Build L1–4 Industrial Digital Twins with OpenUSD and SDMA on AWS",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-07-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFhYX2ZwZk1BMGtIQjZnQjN3dWoxNGJ2UDUyb1ZWRGp4LWNRamRvbV9fejZlNjAyMlJBZm9kTWlIOGpDUHdvZTByOG5seGNIYWJiTU8yOXhwcXdMU1NwYWFTV05JbzZ3ek1pNm9zUnhXT0tQVkpXUFgwbjhzUWdMZVBiUjNHamtYX05jWGdNS1hDUl9nOTBPcjBiMTFzYmxxT3FWcmdGdm0xQQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-21T08:04:21.812Z"
+    },
+    {
       "id": "bff139a263938138",
       "title": "Software-Defined Automation Emerges as the Missing Link for Physical AI",
       "source": "ARC Advisory",
@@ -1826,6 +1879,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-13T09:47:00.111Z"
+    },
+    {
+      "id": "a98b345ee9ffa8c1",
+      "title": "120 Million AI Pay Transactions in a Single Week: AI Shopping Agents Move From Theory to Checkout",
+      "source": "NIQ",
+      "date": "2026-07-30T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU1NCU1EwczhDOWJSMnhEN0E0aUtBU0t0U3F6RFBmWGlscXJxblRySTB3NGxQNUlvZjR4Z2hlbmtRZ1hJX3lUaERxUmhoV2c5YTVscGptNkxURlhRMUd2LTRoZHdtU1dhaHV4SXlaMVUwZmVrdnk1NElNRFFhU3dUbHNQemo1eTlXdXNjRXd6Q0VOclY5N09XOXJ4Q05hSE5WTFk4WXBEcG9KTUR3NVRtdkdmMW5zdy1EcXJob2hJQkd0bWNGUmVOT09PZE9mR0hUZGZlNmQxeGdDeUliakE?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-08-21T08:04:13.834Z"
     },
     {
       "id": "e2ec7ac0b128e85f",
@@ -1946,6 +2009,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-08T08:06:33.728Z"
+    },
+    {
+      "id": "24b086a272589ddf",
+      "title": "Top 10: Industrial Automation Software Providers",
+      "source": "Manufacturing Digital Magazine",
+      "date": "2026-07-29T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVBBb2NGUmVMVXZCaUhFdG94UGExUVFVbWpXa0xpZDFfeEdwNWJ5bjBHT0VUel9ILWxfSGhyRXRETl9MT3lGYXJZWTRiVTdsTEJWN0tjQTVQb1piRjRQaDhtVkQtR0MwX3VmQklSZ0k2TFFNa0FBTC1yUURPMkNrZ1U3M2lEQW80eXhqVU00dw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-08-21T08:03:55.186Z"
     },
     {
       "id": "e10248cd164b753f",
@@ -4278,6 +4351,16 @@
       "firstSeen": "2026-08-18T07:58:32.082Z"
     },
     {
+      "id": "b9e6faaad88ef62f",
+      "title": "NCC Group warns ransomware attacks on OT-heavy industrial environments are intensifying amid IT/OT convergence",
+      "source": "Industrial Cyber",
+      "date": "2026-05-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeGRmdF96Y002ZTdvaW05TEZLV2VNVFV4N2dlUjMyZHI5M21LN3o4bEJZemluUWhMZl8tNHcyMXpvQjEwdHNmUEc0RmlScm1TUEt3TWVWQklIYWZPMVRhRFBOeFVoSlRiZ3p3dktyaF95YlFVLTk3WWxnS1Q4NUpFMHVSUF9QRDItRG5Wd0oyMVNfcklUbTFrU1BhenEya2RBVVlfQUN1dVJRQzQ1cnRyZTl6Nm9PREdvWDNBeGFYUVBOc3hpbWRabV9LZ1YwQjVsNmpCbHBuWXJhdGc?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-21T08:04:17.141Z"
+    },
+    {
       "id": "00addc5259a74e79",
       "title": "Drocke, Amadeus partner to unlock zero-interest infrastructure funding for Nigeria",
       "source": "thesun.ng",
@@ -4828,6 +4911,16 @@
       "firstSeen": "2026-08-20T08:03:54.104Z"
     },
     {
+      "id": "0f421643e1938026",
+      "title": "Social Media Intelligence: Turn Signals Into Enterprise Insights",
+      "source": "Snowflake",
+      "date": "2026-04-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUtpSldkMmczbW96dFk4ZS1aOHVTQkNEWFkxY0JnXzB1XzVHN3lsamw3aU95RHZFQTFaR3RnNjNjUjVwUUdKVjN4UzVzeXdQbjIteVBYWEczMUZCclhDWlFZbXZGYnF6Wjk1YUNpY1d5d0RtakY5OVJuYmRzNlR3SUs2OExldw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-08-21T08:04:08.540Z"
+    },
+    {
       "id": "9900335fae483330",
       "title": "Global Beauty Market Grows 10% as AI and E-commerce Reshape Consumer Buying",
       "source": "NIQ",
@@ -5038,6 +5131,16 @@
       "firstSeen": "2026-08-02T19:16:56.796Z"
     },
     {
+      "id": "a69387ac11a6a7f1",
+      "title": "Partner Interview: NielsenIQ",
+      "source": "Mobile World Live",
+      "date": "2026-03-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dakw4Q2VraVVlT19ieUpSb3h3bFgyNkFFV2JKUC1WaWVZMVp3LWhPelhoT3NldVp0WXZaMDVraURFWklpbnV4M01nV1hib0FkMDBLaUQzT1hWZzRZN0U1SlltQzA2LVllSHhPcQ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-08-21T08:04:12.828Z"
+    },
+    {
       "id": "178cbc4e2b84d777",
       "title": "AVEVA and AWS expand cloud capabilities for industrial operations | Amazon Web Services",
       "source": "Amazon Web Services (AWS)",
@@ -5106,6 +5209,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-16T07:44:41.274Z"
+    },
+    {
+      "id": "86c569666352a502",
+      "title": "Daily Research News Online no. 39512 - dunnhumby Partners with Retail Innovation Council",
+      "source": "MrWeb",
+      "date": "2026-03-05T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUjlQVTNqMVYwbFVGTUVrVU0tRUxFNG9uc0ZsYjhPU3VxTEJweDdMX1dRVHo3aTRyU3Ytc3ZOZm43WkZEZ3JnR0EyM19SbWhoOEE?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby partnership",
+      "firstSeen": "2026-08-21T08:04:00.129Z"
     },
     {
       "id": "c6384beba2bde93e",
@@ -5538,6 +5651,16 @@
       "firstSeen": "2026-08-02T19:17:16.521Z"
     },
     {
+      "id": "8c9aaf3cfeefc0bd",
+      "title": "Breaking the gridlock: How AI and private 5G resolve IT/OT friction",
+      "source": "NTT, Inc.",
+      "date": "2026-01-09T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1E1X3kyank1TWhyMmpQbElGOVJYWFlXTlV4VUg2ZktXM3FtcDNWUTd2MUlvX09QenBDaE56eGZRQUp4aVEtOUFxY0FjWWtaZFJvM3RTNTVQeC13ZjBORVZjQjVSOS1SM0JqSHI4VFpBNUdRTnpZNEduMk5mYjR6SEJuSUNaUHlxV2hnTmVsaVI5LWlFM0RjT2ttUjJ6UVZndjctcG1PN3d1WjRSYnF1XzlVZ3M?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-08-21T08:04:17.141Z"
+    },
+    {
       "id": "00e991ec129c904d",
       "title": "Lufthansa, Amadeus partner to implement AI-native retailing solution",
       "source": "PhocusWire",
@@ -5966,16 +6089,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-18T07:58:26.538Z"
-    },
-    {
-      "id": "f98ebb065e1ba468",
-      "title": "Wakefern partners with NielsenIQ for AI-powered consumer insights",
-      "source": "NJBIZ",
-      "date": "2025-08-21T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53Q1JJT09nQm9DQTM5ckVuUUN1bHBhT3Ezdm1aRHJXZUJKYXhpVXVpR3FzU3ZYUmVzZGEydkRDaWxBTlRmUWZCaDJEbldwdnJjSjlkcWJpNUNXRVdZNzJlT3o3WDZSa0l6b25vQ1Y3eHZfUVlNaXJqckZ3?oc=5",
-      "category": "NielsenIQ",
-      "query": "NielsenIQ partnership",
-      "firstSeen": "2026-08-02T19:17:12.124Z"
     }
   ]
 }
