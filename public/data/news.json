@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T08:04:21.813Z",
+  "lastUpdated": "2026-08-22T07:46:09.611Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 597,
+  "totalEntries": 618,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -117,9 +117,103 @@
     "9682a65fba093ae3",
     "f98ebb065e1ba468",
     "b695ee65de4e0fa3",
-    "02798ab2242aa5db"
+    "02798ab2242aa5db",
+    "d0b6a4fccaa9b7ca",
+    "b4b098c367a393b7",
+    "fa070a5ce7340d9c",
+    "7eb43071ea3ea739"
   ],
   "entries": [
+    {
+      "id": "aea0d3d8f14b2c08",
+      "title": "Amadeus EMEA’s Maher Koubaa on the AI reshaping travel and the barriers that remain",
+      "source": "Gulf Business",
+      "date": "2026-08-21T23:48:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWVuaThFcnhmZW1YbEk0Z2xjZEVWVGpSS3c3LXpGZnlycXJWcmFPNGYxOFd2VGkycXNTX2ZIR1Nxa1UyT3BWTVBzT0ppZkplVExENDMxMFlqVHEtLS1Hb0cwOGpKV2M1MEtQSWI2WXhlR1pnbkU4TnNZZjlyMjBMOGdxb0RjZTFkQVRNZXd6YThXdG8xcGw5Ync5NkVwMW1CY2tEeU5mTnFzSFRKek1sbUtMZmprYmNXRl85T2Vjbw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-22T07:45:55.019Z"
+    },
+    {
+      "id": "8371f02bd5df8a24",
+      "title": "AI Disrupts Glass Fiber Manufacturing: Predictive Maintenance, Digital Twins, and a $6 Billion Infrastructure Deal Signal a New Industrial Era",
+      "source": "Yahoo Finance",
+      "date": "2026-08-21T15:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXpYY1FBdVZmY3laSlVreUMwR2I1SjlnMGEya2FaVmV1YXFzcUlZV2Foc0hhekZHRWJlNW9ma2Vzd1BublFiVm90akZsQjVSdHhDMld0a2lzaWgxNVpDWFhTaUw5QkRpZ0dpbmpnWDhHS29OcjhGVVlMbDdkYnREUDBSOXNrcUE4SUk4Q2laWHBqUmVkMmwwNHRCWGU0ZEZKR2Zn?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-22T07:46:09.610Z"
+    },
+    {
+      "id": "c6fcc7b718f0e0c9",
+      "title": "Snowflake positions itself as ‘agentic control plane’ as enterprises take AI into production",
+      "source": "Fortune India",
+      "date": "2026-08-21T14:17:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUWlIVkdhMmtoV19qRW15dUZmeFluWnVDM082eGh5QzdHeWgweTkxTnFwa2NkbnpsNy1zNzhHdEgxU0h2QVd0UzNLdTVOUjZFdkUyUkFuNnVfYU84VEtTRGQyT2szY09PMVozVVF5NHN0VnNRV2lTSWxlazRwc3duaW9NOXFHTDVtRTZyaE5mblJoMEljcHBXNHRwQS1nS1pkanVNcUc1VXFWRG5waGtuV3RId1o1UEhHUDF1YTh6N2laQ1lobjRzeUE1MjBSYnk4bFAw0gHgAUFVX3lxTFBrdFlXYllwWjJhdzBYQmZYaWlldjVxXzVWQndyb1JXbFE4NzVsR0s1RVFTaUtTNHNoUXktRG1aSVhtVFVTZTluazZFTDlvSEtsZVVnNFlMR0ZYeTFYTDBZQ0hNUFNab0owamktNHJhdEZFLXRHMFhFZ3I2WXFwUzktN0tiUEJxN3ptaWt0VHh5OUFTT3JyMHNfM1gwVll0RHp0aXl4Ynk4ZlRScjBHQ181WElBS0d6ZmdneURidnd6bldCV3Z3OXMzZGFfSDVaY1hWRTg5MHRFdHkwdzJNQWtK?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-22T07:46:08.428Z"
+    },
+    {
+      "id": "073a30be747023c9",
+      "title": "Can SAP Business Data Cloud Become Its Next Major Growth Engine?",
+      "source": "TradingView",
+      "date": "2026-08-21T12:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVd2SmtwVWRTSDN2bzhmVVlJb2NpR2J3aXdhTmZhS2Y0el9KanhKdWllYWJ0U3BHMTk0dkotaGo5Y25laXVHc0lTU1JFbG9pN0VUclFvNW9iN2lYRXpDSGt1ZDQtNlpFNTNZNGx1M0NONEJVcUFweGRKVHdlUWUyV1VSZmlZdzFHTEpDckxtbDFneFVBLWx6dmY3UGo2V2pRUHhnUnowSXlWcVlQRVowUDJYMHJXeFh1Yy13?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-22T07:46:08.428Z"
+    },
+    {
+      "id": "9abdd0f2c1c7a67e",
+      "title": "Amadeus IT stock holds steady as travel tech demand supports valuation",
+      "source": "Ad-hoc-news.de",
+      "date": "2026-08-21T12:13:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ19ndDJiSXJVWHRrcnJ4cXNVR2U2VGlYNDRiY0pUZGNoelpYNFU1WUw2ekE0V2xFd1dEYjVCaGNRemZoQVZrRGFtMmViTVg4REpza2RmbFVvYWFmTkpac2cxMTlHZTE4Yy1xTWlZUGFmV3ZSNVZiN2kya091eGZkN29kdUtjQnJGMEJfVzV6RlhnWklnWGk2MWUzWnpfMThqZGJpZ2ZLUHZhT051VnZYRVRXN3pPNDFBeVJsb2xpNFFzTXRFUGNMY0pJZ2dUUQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-22T07:45:55.020Z"
+    },
+    {
+      "id": "fc7ddd225a610ea6",
+      "title": "Groceryshop 2026 To Focus On AI, Retail Media, GLP-1 Demand Shift",
+      "source": "The Shelby Report",
+      "date": "2026-08-21T11:30:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVJsRHlkMG1KZGFrQ0FjZzNxZHV2Tm1Ra2U3TTNGTEhiQU8wTS1zbURvS0VGYXI5U3BCYW0ySWV5aFVrQ3V2Z0w5dzdCYlEwVGpXSmVkS0hGRFdna2lqVUc1ZUIxUTRlNGtnMm1oeHh3ZnFQcFlOd2VJMnl6Q2RBeUwxal81OFUxeVo4clRrZTJ3djBKN0hsdmM4cDZWd0s1SGRFcGlR?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-22T07:46:07.193Z"
+    },
+    {
+      "id": "6c94a984c2a8a232",
+      "title": "Epicor Prism Transforms Latin American Manufacturing with Embedded AI -",
+      "source": "Enterprise Times",
+      "date": "2026-08-21T11:00:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHlQdUhtVnRLXzZJaUM4a0VLb3ZqZkFsMWZmUzNVT01FeTdrMGFVWGxtcTlCZS1lVzlJRTdLV0pWcWVET0VWbUMxSUcxUVpoNEFheVFfUldpS0VYMlM5ZXBvaGxBcDNJbEg2NHF0Ul96d0hTbUN3dzNjVzZuakFmMlc3ZzBubjl6M1FkU2VLakJNNHpUd2wzYlBGUHRzb090X0czOXczSTdwbFdYQnJjMlBoRHcxdw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-22T07:46:02.563Z"
+    },
+    {
+      "id": "2e9a3702bd039d72",
+      "title": "Retail Roundup: 8 Commerce Moves From Target, Citi, Klarna, and More",
+      "source": "ADWEEK",
+      "date": "2026-08-21T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWRTOTFfS05ERmxLaHVtMzZTeDd5VHM3OXRSczRZa3A2aW9ITGNJdlB0SjlSTlp5Q2hxVDNrZHBxZkxESjQxeEhOU2x3V2tiT1pxcm1BcHJZT283M1J4bnFTYTM0ektlMC1UZGszSFk4dkJJZ0xsd1YxTDc3ZFQtYy1MSkN0MlRwZExEcGE5N09xOG0tQ3EyZmlrTzl2dw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-22T07:46:07.193Z"
+    },
+    {
+      "id": "35047b2c16a71f8b",
+      "title": "AI, Data And Automation Drive HAVI’s New Kuala Lumpur Supply Chain Hub",
+      "source": "BusinessToday Malaysia",
+      "date": "2026-08-21T09:08:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWxyTWlqczRydEtjTU5VZlZBZkljbmlhaVVmWE9xWFZqZUcxMGprREFrdHRxRUR6VmNSNnZtOVBFeF9leVZVN1U2RWZZQnVvN01ncFFYZUg0dnk5NXoxTnJqM3lCdE5ScWRFc0Nkd3g5dDd0MDlaTzVid1BTX1J1T1ZiRExSVEstSFh6eG0xVGc4OVdWaTNsSkRQZjEzdzI0cjQzZ1RPUkZEbUtQNGVBand6dw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-22T07:46:06.004Z"
+    },
     {
       "id": "bae8a0746b0f72f4",
       "title": "Amadeus EMEA’s Maher Koubaa on the AI reshaping travel and the barriers that remain",
@@ -149,6 +243,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-21T08:04:18.289Z"
+    },
+    {
+      "id": "3e9b97d75d4614c6",
+      "title": "True Fit Introduces Fit Intelligence Layer for Agentic Commerce",
+      "source": "WWD",
+      "date": "2026-08-20T09:12:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3F1ZzdmSFh6QmZLN21kNVJ5TW14STAtdWFjSFo3eGstbmRoZEtxMXg0WGZYOGYxdlJsU3E5Y24xWnBiUTlfc3RDMzFHdDBGQ2Rrek9XdUJxT2RETFBGeWZCdS1kU0xVbktjN2pyV3Q2WFBVc2RhcGFLalBzYzNmcEZXYTFuXzlLSjEtWU12VUhhSEM3V2xMYzdRX2lFLU1SSGwwanROeERTRk5kYnpV?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-22T07:46:03.757Z"
     },
     {
       "id": "a639f9b1006e2e33",
@@ -219,6 +323,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-20T08:04:01.173Z"
+    },
+    {
+      "id": "7115c831aa472448",
+      "title": "Delta Showcases Embodied AI Dual-Arm Robot Platform and AI-Enhanced Production Line Digital Twin at Automation Taipei 2026",
+      "source": "Yahoo Finance",
+      "date": "2026-08-19T12:44:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjJ5eUpQM2hkNTZIX1lWMC1vNWtIQ1Jra3daTWdua1lPNEVYUkxHV0pLQ2RHS1p0NzBJdk1uNFgySmRtV3ZrWDJGMGpndUY0ZjBCS3MtemY2U2lRM3NoaXdHRXpTb1dvMUFIMWo0TlNiVE5rN2ZmVWlqTXB0R25tdk05and0clFlRkhGVHE2R3JBSFFLNTBxbVNOVGI?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-22T07:46:09.610Z"
     },
     {
       "id": "c772b666fb6deb82",
@@ -2601,6 +2715,26 @@
       "firstSeen": "2026-08-16T07:44:45.648Z"
     },
     {
+      "id": "5bb362021a1544af",
+      "title": "NIQ and Circle K Expand Global Analytics Collaboration Across More Than 12 Countries",
+      "source": "NIQ",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHBHZEJiYmxVMFFrSHZDRDZTeDk3Q1QtYjZXekQ0cW5HSGVPTDl3MXktZk9IS2x2cXd4YkxXU0lfRVBoYWlzUlZRN1ZDX1ZXRmYtbGhWaWRGeGNvSW1FRXlycS1FOEZiWG5hTm1YSzBwUzVfT29xNDJFaXpNYk1lN1ExVFVzX0VXNTlzZmZDZnJKUW8xUkhSS2ZSQVI3TG51WE1LcnF4MWFzMWhVNFMyaWZ0Vml0VXFxaWNVUUwxQ1pmVXVKQ0Z5Zk1VcWlNeWs?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-08-22T07:46:00.279Z"
+    },
+    {
+      "id": "acdf6326f45878d7",
+      "title": "Circle K enters global consumer intelligence partnership",
+      "source": "Chain Store Age",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXhWY0ctdkV2aDZ5U2MtZ3Q2TWF6QW93azlvRzBQNFpPbm5ITE9xN2hfZ2RvcmFCaWd5NEFwOEJpVDJpczhHa0xXU1JnaHp2cE5wbndzbmhWT3NiV0tINDhtTlFpSHliUE1iWXhkaWJ6TnUySHV4NGZRdEZhMFNKaHlLa2tHQnRMdkE?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-08-22T07:46:01.353Z"
+    },
+    {
       "id": "70995e8010058b0d",
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
       "source": "Salesforce",
@@ -2659,6 +2793,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-13T09:46:57.176Z"
+    },
+    {
+      "id": "a5d9139ea1c3125c",
+      "title": "Where AI fits in modern supply chains",
+      "source": "Computer Weekly",
+      "date": "2026-07-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmhpUEcwczlHUUVXTmJJc1g3b1k2MHhHbkdHOExaM0o5Y1NORUJ0aW9LekY2WXZfaHFFOEJCUF9RMzRvb0hPdC1aVkxfbUxLNG1pRHRvMmVWS0JpUGY2Wlp5UFlEU2k1LXdna09UMDMycmdZeHFrT2pRcXFYUW1vaERxS0dhYmk0eXhN?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-22T07:46:06.004Z"
     },
     {
       "id": "ac212b2094246b67",
@@ -2829,6 +2973,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-02T19:17:18.852Z"
+    },
+    {
+      "id": "52276be874a4eeaa",
+      "title": "Ten companies shaping digital twins in manufacturing",
+      "source": "Manufacturing Today",
+      "date": "2026-07-08T18:41:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUxGaWNUN0hXbzN0VzdfNkc4eGNzYnVNcC1SUnJtU29qbHozanIxbWQzS1J1TFAzdjRwVGw5Ukc3R0tIOFQ3UWNNQjhUVGE5RjNxYnBmc1FLMUd4Z0s2WTJYUF9UMUs3Q2R4bklHdzJIdE94VDBtbFFLN1pmTnpvaXhXOE9IWmc?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-22T07:46:09.610Z"
     },
     {
       "id": "c5222a4338c95845",
@@ -3521,6 +3675,16 @@
       "firstSeen": "2026-08-14T09:41:57.914Z"
     },
     {
+      "id": "21b79fe5f7e3181e",
+      "title": "Unilever Scales Digital Twins Across Global Manufacturing Network with Accenture",
+      "source": "Accenture",
+      "date": "2026-06-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnFqY0xYRFp0c2U2Y195LUlpT2ZMd0ZYR0M2eFhRTkozNDhWMmFRRUpyeDQ4SkVUTWEtZ253bmVFeW1nSTdCajJVZkNwYmZEXzExYnlBRzQ4bEFGaXZ0TG1nNUQ2Ukl2UVhDMTduZTVYYXlVYTlIWUNhRlJzMDZPejlQNlZBUU9yVTdyNm9jNHliZTNWb0lONi00a2FzZjNBMVBTUjNNaTczNjBSaGZLZU81Q0xkUXlQTnpiR0dB?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-22T07:46:09.610Z"
+    },
+    {
       "id": "f4dfc4ba8d5fa098",
       "title": "Myrealtrip, Amadeus team up on AI-powered travel services",
       "source": "TTG Asia",
@@ -3639,6 +3803,16 @@
       "category": "Contentsquare",
       "query": "Contentsquare partnership",
       "firstSeen": "2026-08-17T08:07:35.259Z"
+    },
+    {
+      "id": "885292c3503be6a4",
+      "title": "Intelligent data pipelines for industrial operations: Introducing flows in CONNECT",
+      "source": "AVEVA",
+      "date": "2026-06-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV3VRZTh1SGI1QjZ5NTFFQWNoRFczOXBoZkxQVzhidXhnOERZZmxFRlhvNmtMTWwyUTA3NXF6QlQzeER1UlVZQklJZ2M2bnFueWE3NmduakRfaDNOdDVwQkZQN3lEWVBiSUtNTnoxcFdTbENoOWdRRTJDNTRYTXhWRkNpaWpjNExFTjBuQmRmNkJORUx3VGxNajduVjBDVDlKMnNSc3VHUVdhN0FlWmktdU5Nd0xrUENsSzhvX0dRYnAtYUU?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-08-22T07:45:40.343Z"
     },
     {
       "id": "0a39f6216ed45ad9",
@@ -3909,6 +4083,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-02T19:17:19.994Z"
+    },
+    {
+      "id": "601d40a259307bf8",
+      "title": "Workday and Google Cloud Expand Strategic Partnership to Bring AI Agents for HR and Finance Into Employees' Daily Workflows",
+      "source": "Google Cloud Press Corner",
+      "date": "2026-05-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMno5WW05RC0xZmJoUkUwRlhObzI3ZlY1c29XdjF1Vk15SnB2bEtlLU4wZDJmM1hJbmpmZ0dpRG0yMFdXSHVSWjRiaDZHLUJndHlZVFY2bm5FNzVSbENXdnl0ZS15dGthdlJJdlpCYkdGTkhyOUxMd2VjMk1VOWZwenA2RThxNG4xcFFmMTRJOTlNNTZaUHMzNzRFOUdWeW54eEdWQk9tSWtyZVR1b0ZMWDlOSXh3b2t0YmFMNVFHb0ZtXzhaaVEwVkNWNDIxRjFRVXRlcnd1RnlySzNHOEFrTE1RNjBqcXEtR0RlUHBuY1FkLTc2NkttQjIwSzk4MDZvcHc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-22T07:46:08.428Z"
     },
     {
       "id": "f49b4bab95b44c6a",
@@ -5781,6 +5965,16 @@
       "firstSeen": "2026-08-02T19:17:07.960Z"
     },
     {
+      "id": "35fc8ec264c005ed",
+      "title": "The Pioneer Woman’s holiday kitchen collection is merry and bright",
+      "source": "ABC27",
+      "date": "2025-12-03T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU9TVEVwTFQ1UzhKazcxeGxWYmpnejU2MTR0RkFpcG94OElieVM1S0NLMHMwWGN2M01Da3dWZ21OQUlnN3hlclRaam5aZU1EVmNkY1hWYjlvUV8xNHFWLXV4RmZPOWpadFBEaDNBOEZKNTQ3dFA2ODZpTE1Yek1VSC1jdUhwN1BDQTV2SjVzREdDYXJETjlnaFpPakZTbjN10gGmAUFVX3lxTE43NWpBcUdURDc0a01xUDVPUmpnZUFNWjBkUW82UWZpUDBWOTdCMUx2YmIwVkhGbmp6TzFGMVI1VnpiN1EtZmlOMTFmM3hVRUFaaVFZaTA2Q0d6dGVsaGVGSzV4MGZEZG9nTzNfNkxtUEF5Vk1jRzNuUk5yREY5aVA5YnhPNUU4bmE4WDc5bTF3ckVCMlk3NGQxZVNHREtLcVhWbE1jZmc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-08-22T07:45:56.026Z"
+    },
+    {
       "id": "21b652c4dc6ef3e1",
       "title": "Digital twins and AI in biopharma manufacturing",
       "source": "Drug Discovery News",
@@ -5849,6 +6043,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-05T12:27:37.470Z"
+    },
+    {
+      "id": "d4542bc5a23b0a7a",
+      "title": "Bright Mountain (OTCQB: BMTM) Wins MarTech Outlook 2025 Top Integrated Marketing Platform",
+      "source": "Stock Titan",
+      "date": "2025-11-19T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2hZUDk3Q2V3bk13SWFCS0ZjbTlHbWQ1MGppQ045X1M3alBLb293NElpUUczZG4yVHZWT09HQ0VuZTBsUk1CSzc2RTl1VFEySlZhdnpZSmVoenpOTUNGZnBCbHJ0a3J5ME9OVFdXRVQ4Y252a1NxZG40TWNkNDJIM0I5eFVpa0VWY0VQLTQ2MVZVQmxaQkl5ZWVCcnd1TkVIOFZaOGx6Qjl6d3d4aF9EdFR6ZUxnWmNySE92Wm1Kc2I?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-08-22T07:45:57.144Z"
     },
     {
       "id": "8201092d5ff78a52",
@@ -5949,6 +6153,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-04T12:30:49.072Z"
+    },
+    {
+      "id": "5c4fd28c6d1acd45",
+      "title": "Daily Research News Online no. 38890 - Senior Hire and Promotion for dunnhumby Ireland",
+      "source": "MrWeb",
+      "date": "2025-10-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqMlNDaFFqQ1JpOHlNMHR4am9aN044UmpaczhKS0NFdVVaLTdjXy1TNVB1Vkd1OExyRWV5Q0JUX2FMbC1VOW9fcHJBTzRYQ3lvc3c?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-08-22T07:45:48.610Z"
     },
     {
       "id": "736f393628a0d4c0",
