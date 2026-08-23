@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:46:09.611Z",
+  "lastUpdated": "2026-08-23T07:48:04.089Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 618,
+  "totalEntries": 628,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -121,9 +121,24 @@
     "d0b6a4fccaa9b7ca",
     "b4b098c367a393b7",
     "fa070a5ce7340d9c",
-    "7eb43071ea3ea739"
+    "7eb43071ea3ea739",
+    "bdd99c5670d49ae3",
+    "bd0cc14c3a7ececd",
+    "59bae1ebbcc6b027",
+    "3cdf72e6a3d8e1d9",
+    "91ee7900505478d9"
   ],
   "entries": [
+    {
+      "id": "b4b6480906f3a951",
+      "title": "Anz Agentic AI Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "source": "MarketsandMarkets",
+      "date": "2026-08-22T16:51:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdCUFN3b3I3S3J0U3ZiNGlJQzdzQjRWZmUyeF9yTnhnUUhhWXZmLWJiVlN5ekVFT0hfWXdJQl9KYXdheV93M0hJVTVPNlpDazJSM0ZCZk9jQjBkWmhTRjVPaVB0cXpZaVpSTXQwSHZ4Q1ZzWWxHYUFqdThnazJZLWlmMmtnSVE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-23T07:47:57.087Z"
+    },
     {
       "id": "aea0d3d8f14b2c08",
       "title": "Amadeus EMEA’s Maher Koubaa on the AI reshaping travel and the barriers that remain",
@@ -153,6 +168,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-22T07:46:08.428Z"
+    },
+    {
+      "id": "38a3fa3fd4549c60",
+      "title": "Can SAP Business Data Cloud Become Its Next Major Growth Engine?",
+      "source": "The Globe and Mail",
+      "date": "2026-08-21T13:38:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXhaYWpMWC1DQ2d2cGRVZkI4ZlcxRjJxOUs2MW41b1EwaFJnbVB0YmhGcGE2OWQ2d0dMY1dyZDVSYzBJYzQ5UXpLcy0tSzU1TkRiV3Uzc2prRE1mYS1WbXotNWlQLTE0TmNmWjh3UVJhbHFVSjY5SjhzQ3VORDE0eDZfWDVRY3pPREI3eEFoSTYxbDhrRFUwcDhLSE85V1lHb2VEYnJtbGNIa2VPZUJ6djVRSmQtcGhmWk44X3kyU0R6V1VHdElpQ21TcGExbVhHYmVSSWIzckpqUVFoTHAzdmtB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-23T07:48:02.927Z"
     },
     {
       "id": "073a30be747023c9",
@@ -263,6 +288,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-20T08:03:59.972Z"
+    },
+    {
+      "id": "050100daf652dd9b",
+      "title": "Weigel’s deploys AI payments across 90-store network",
+      "source": "Mobility Plaza",
+      "date": "2026-08-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEtSZUwxNGFIYUxQWXdEcU9KNHZDVzZ4Ny1NVFlsWkhEQkN1SFJpUHFNSGQ1REFaMDZLWVJXeHRmRmFuMzNRQ2pkcVpiMzA4TU53Q05lbkpPd0ZYRDg4YmpsQllTOHpGVHdVZHhxbGtzNWNPQjZwQ3o5OGRSNjd6bU50SkhXSk5IWVhVU1Ntc3U?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-23T07:48:01.665Z"
     },
     {
       "id": "0fb9478ee414f087",
@@ -523,6 +558,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-17T08:07:57.873Z"
+    },
+    {
+      "id": "9803a46783a4eaec",
+      "title": "Perion Network Bets on AI Platform as CTV, Retail Media Spend Accelerate",
+      "source": "Yahoo Finance",
+      "date": "2026-08-16T10:01:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2lQTXBXNzV4bGVXQmFQbmgyS21XYmR3b1o5N1FoZE9odTNMcXNYamdRNklmY01kVXhVZFFYVGdHSkU5THFYSTNtVlgwUmdiUy1fZDFpT2J3S0Y4VUlsdl9fSE80ZXlGT2RKZDVZRktYNUUyYXRLNVZZREZlWDMxSUdUZC1OUWN0NG1MX2tseEY5VU8tYlgwQTNPMURKSEI3?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-23T07:48:01.665Z"
     },
     {
       "id": "c41176505f0d9a8f",
@@ -1245,6 +1290,16 @@
       "firstSeen": "2026-08-20T08:03:55.261Z"
     },
     {
+      "id": "3b45936f07142f2f",
+      "title": "Keepit AI Truth Cloud protects the data behind enterprise AI",
+      "source": "Help Net Security",
+      "date": "2026-08-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3NVSHgyZnY4WWY3M0ZXeFNVZ0VCU3dCQmdUYnlrTUVYZC1oZ01rSUxNQS1iaEM5U0dxT0hway1TbkswUHozdHRyWGRPUjNoSUlybjBQUUVQUVRwNHJNREx0b0tVSFpmdTEtNVc2eUZXT2lhRlVpeF9HYmgyblVWcHJPMi1TaEhG?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-23T07:48:02.927Z"
+    },
+    {
       "id": "0eee56a72ab92213",
       "title": "Emirates adds rail. Amadeus’ solid growth. Ask Maps adds hotels. Trivago ups AI spend.",
       "source": "webintravel.com",
@@ -1663,6 +1718,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-12T09:47:12.916Z"
+    },
+    {
+      "id": "af9951e47fe096ad",
+      "title": "POSCO DX Makes Major Transformation into an ‘AI Native Company’… Leading the AI Market with Physical AI and Agentic AI",
+      "source": "포스코그룹 뉴스룸",
+      "date": "2026-08-04T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTUdwRllXXzRwMFZ2UGlrUS1vdmNlTTBjN1hab293VkREMlVlUy1uRHhWQVNsdXRxT25hYlg0Qm9Cb21yZWdyZXZuQjdTR3JwNU9rTWtJVzEwOE5LNjYwNWVScnFmdzRkMTgxN1AzUGp2S2JQOEZRT3BZeE9zamE4Rzd1THR1b3lUSUN6WVVkcXJiNzRLdC1rMWFBdjRQQ0pYNk91TUNWQzNrMkpVSnZUdmJodjBERXdseWUwSGVHNS04Ulg1ZmJyX2FMM1RlT3ItVzk5R1dGakFQczRhbDBZ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-23T07:47:57.088Z"
     },
     {
       "id": "4df13cd7b957a68d",
@@ -5205,6 +5270,16 @@
       "firstSeen": "2026-08-02T19:16:56.796Z"
     },
     {
+      "id": "a4024f9a5fbfd5f6",
+      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+      "source": "BleepingComputer",
+      "date": "2026-03-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHFoODlUQmNFU3h4SU9yWFctc3pOcy16ZUtvM3dkOEV6dXE1ckZLLUtCRTMyOUwxOVNEREZidmVaRktGNlByRm9lMGZGZUhhOEtHNmR6ZjBnS0UxUHNiY2x2LXdzTlR3dlgyX2I4TmZCZFg4cnY2U3hFSTRLbVFaNWdfLXdpTHJpc0pnRVU0MDE0VTBPWGtuQVRnTFVGSWdqU2tMN3pNWkU1NUVzWC1Lc2xpRndyT3MwdUHSAb8BQVVfeXFMT0pEeF94NG95N1RILU9sdUtrLU9NdFpMb1dCSXloMDEwUU9NeEVvQWJFS2NhODdBdm85TjhrYzRQTFZBS1hpM05jV1o2VjNyTkRVSlhUa3c1czI1V0pJWjhsRGtka1NGNVQ4MzlaLTRMTXAwUHZJWmZrZXdlUGwxMUltSTRMRE1kREVTTjIwZ3VFVVBhLThsMEJqUU93dFVOdXRzcy01TG1GSUtBcU4yWmZjX19rT3dRSWcwRWhXSzg?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-08-23T07:47:50.480Z"
+    },
+    {
       "id": "d7093d3c6319674e",
       "title": "TCS bags deal from travel tech firm Amadeus to accelerate modern airline retailing",
       "source": "Moneycontrol.com",
@@ -5433,6 +5508,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.157Z"
+    },
+    {
+      "id": "24727660f1318f88",
+      "title": "Snowflake’s 83K Midtown office lease is one of the only bright spots in February Manhattan office market",
+      "source": "Crain's New York",
+      "date": "2026-03-02T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkp6Mms0VzdZMzNVeFZJYllzbjl1MUsydDFfZ0NsdGVhWUM0dmNnel9od1JhdjVfeEJveVlvX1ZYNjJINXRVTHVsY2Y4YlVuWUZRY0dGYkN0WFBrQThfNFZGVDc5WXBlRGdSSUM5ZTVQX29ta0FlUTl6VWFESF9OWEthQnJReXU5RGVpbUR2TTFpSllFWVduaU9fWXFMRUM2M3IyajR1UTFLajBtU3B1blR5Q2dBNEJlZGc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-08-23T07:47:50.480Z"
     },
     {
       "id": "8fe962b0b1bd71ba",
@@ -6243,6 +6328,26 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder Snowflake",
       "firstSeen": "2026-08-12T09:47:04.103Z"
+    },
+    {
+      "id": "5fc87e946ef6cb7e",
+      "title": "Suger Surges 17x to Process Over $6 Billion in Cloud Marketplace Transactions",
+      "source": "Business Wire",
+      "date": "2025-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYU55VDFoQWpQZHNJSUpTeUtDRFZRUHI2bTN6aGlqcFA0VzRMczNpR0U0S3ZleDNDbXRrbHFhRUR4YTZ4WFc3VS1PeGY2c25oSk9RUkM1OHk0THgxUzdIZlBjV3BPbDMzZTFyZXA4Q3NZdC1aLUg2SjVFQUd5aVBqTFpxSGdxZnBNVDN4UFBEWHNOdVlhVUs0bVhxRWJNaUstWFkzVG95Z2FJazVkcVZEd3d4SlNkVi1oYTJtSDJzeDBFbHRHdnBtdWxuOFdneVp6R2c?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare Snowflake",
+      "firstSeen": "2026-08-23T07:47:38.192Z"
+    },
+    {
+      "id": "53217207b8c69bae",
+      "title": "Airline Ticketing Platform Amadeus Gets New Digital Transformation Partner",
+      "source": "eTurboNews",
+      "date": "2025-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81eWVzanU0S1lxRzc4emVnWGhzQmVmQ0dMc3Q0SVczMU1FYlJwRnJzcGtZUU1DREJMUzFjR242eVVEM3BLM1Y5WWdvWWxpY2FHRGtFX0xER0IxeHNNTW9WZ0xqVVdVeDFnVGFIOTg2Tld3WFRCZEN5eThB?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-23T07:47:48.379Z"
     },
     {
       "id": "fb0f1b65b474f2b5",
