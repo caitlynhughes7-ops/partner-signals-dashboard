@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T07:48:04.089Z",
+  "lastUpdated": "2026-08-24T08:26:42.653Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 628,
+  "totalEntries": 639,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -126,9 +126,33 @@
     "bd0cc14c3a7ececd",
     "59bae1ebbcc6b027",
     "3cdf72e6a3d8e1d9",
-    "91ee7900505478d9"
+    "91ee7900505478d9",
+    "e19e24e7cc137927",
+    "8346b5c6e28a1a23",
+    "8d1b5e8bcd02ad0a",
+    "1211be37e377fa1d"
   ],
   "entries": [
+    {
+      "id": "6f7e95d6bb994f84",
+      "title": "StyleBuddy Launches Expanded AI Fashion Commerce Platform for Fashion Brands",
+      "source": "Bergen Record",
+      "date": "2026-08-23T21:53:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3VpVXFxOEpEdy03U2Vwb2tlbXp3cV9lOXdRcUg5cHBVbHl2bjFWQ3hEWVZmQ0hxSG91dzVnN1N0MHpHRWlFZVR2Vl80RzF1Q0VxcmFHZVJDV0k2ZTczUjdNYzNuMUc0TDBpdzFwRy01WlVtQTJadEJPbFdpNVZIUTdMWnppWmRpYmxJamF1ZF9BS0c5bFBMdXFCYUtJLW1zSUVGWXc3Sld1b3RpOTNjSWpGRlpBS2FNNVNXb3JGN2RhSUo2LWxFaXlOVU8?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-24T08:26:36.968Z"
+    },
+    {
+      "id": "7ba8a7468736eadb",
+      "title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk",
+      "source": "finance.biggo.com",
+      "date": "2026-08-23T18:11:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LN3BVSnB5dkxpdmJRQk1zRFRfZ1YwaUJuTnkxYWk3Tk80ZGQzU2R3Q2NqTmFRa196TGx0MUptcnFDWm52Mmk5QjJldVdhVGVvS0F5QVJUbWdJbDczblZ4Zkx1TGdpTTNVMF9nZHJFSXU3Ykc3bVE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-24T08:26:35.795Z"
+    },
     {
       "id": "b4b6480906f3a951",
       "title": "Anz Agentic AI Market Size, Share,Trends, Growth Analysis Report, 2030",
@@ -518,6 +542,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-18T07:58:29.844Z"
+    },
+    {
+      "id": "f4cd7ebf92f3d85f",
+      "title": "Synchrony Announces Enterprise Collaboration with OpenAI to Power the Next Era of Agentic Commerce",
+      "source": "PR Newswire",
+      "date": "2026-08-17T15:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQjM3S3NEZ2QyUkdndGVwR08yd19nYWtlNUhURzQ3RDMxd0E0aVlySEtYVGhORlo0dG5iMHMxWUhzV1d0RmdmQWE5SEc2VHY5TFpmYjNZT3Itd1dhS0lNZXFzdjM2ejF0WHMta0IxVWV1TlhzWTBQN05DdHRFNnhyNkI2V09zNFZzN2FVeUJnQkxESVpmT1BnOU5yX243blNfYV9uVFlkUklwLWljUTczUDF4X1hxSWpma3drRHlVVC1yY2tPRVVwMlJJc2pUd1FzQ0dLOC1FdkJyalJFTXlhaVFucUhHOWJuNmc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-24T08:26:36.968Z"
     },
     {
       "id": "f631e478fb3fabe6",
@@ -2800,6 +2834,16 @@
       "firstSeen": "2026-08-22T07:46:01.353Z"
     },
     {
+      "id": "0fe4563545c92ded",
+      "title": "NielsenIQ expands analytics partnership with Circle K",
+      "source": "Investing.com",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3Jfd1lDVGwxLWQyOVoxcloxOHhUQVh0MG9RaVU4ZU82YkVmbmNOOUhBWGRzYXhmbzVzTXRpVENwS0FzbXFGWk04eFI1UnBCcDlVeUxDOXpNak9DbTg0c3BYelR0NkFVbVVCR3I0N1U2VEJhS284bFJQSS0yWjFNSzVWTV9kTDNvRy1VNk5Iamc2Z2JXVDcxUzRCYmNNa2U3OGVzbkR2cFpCZ19EZklv?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-08-24T08:26:33.611Z"
+    },
+    {
       "id": "70995e8010058b0d",
       "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
       "source": "Salesforce",
@@ -2838,6 +2882,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-16T07:44:56.736Z"
+    },
+    {
+      "id": "b315974997410888",
+      "title": "Contentsquare Partners With Klaviyo for Targeted Campaigns",
+      "source": "MarTech Cube",
+      "date": "2026-07-20T07:39:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2FZdlRENEhoUGVfc0t4N1FKU28xQ1FhVXBZdkxUNzBzV1d6bUUtbkRYX3daaEdQYkltOTBpOURVdFotR2R5M0QyRUxtUTBOU2dkWDcxV29FeF9rMC1hTVdzN3BvNFYzMmJtRklMd3NnWkVXajBPTWVYem5YWkZKY2VxWXhyeU1FLTFLR3FMTGw?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-08-24T08:26:17.437Z"
     },
     {
       "id": "7eac8b4d7e20a46d",
@@ -3500,6 +3554,16 @@
       "firstSeen": "2026-08-02T19:17:02.775Z"
     },
     {
+      "id": "0504a85349010a67",
+      "title": "Tesco, B&Q and John Lewis join pilots for new retail media alliance",
+      "source": "Retail Bulletin",
+      "date": "2026-06-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGV2djR1LVJVNnViRzlBVGlTYzViaTVEUVZEczUwRkx1eFR6RVJxcDJuTTVBRXVNMXRTeGZ5Zi1xZnY4MXpFS2lnMVc1bHNWTVY2RVhJRmtQdEVWSC1RYU9WcnNPUWtUbFBHU2lZekRoaTlSQjVDZGx1clJDaU9NMnJaUk5EQTRzajZmVHdiNFQtcjJoakRsWVdfdGNqcEZoS2k1VkJ0aWtTcTZiQ2JROWpUdzRzMFdKTUNibTlxZ0RPYURIdTV2N0NIMA?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-08-24T08:26:21.871Z"
+    },
+    {
       "id": "dda31e86dee8e271",
       "title": "My Honest Take on 7 Best Session Replay Software in 2026",
       "source": "G2 Learning Hub",
@@ -4048,6 +4112,16 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-08-18T07:58:07.873Z"
+    },
+    {
+      "id": "854a2b55ea5a0020",
+      "title": "NIQ Named 2026 Retail & Consumer Goods Snowflake Product Partner of the Year",
+      "source": "Business Wire",
+      "date": "2026-06-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHBRNUpHRV9vMGpPWHQyU3hzU0xZVE9kRlhkbFVfS0diMjMzRnIxN19XaXBnaWtlU05ES0pqRUNsWEFmdkQ5SVk1dnd2VVdzUFRSVTYzcEFTRFdWZ2Uwc3NNZmFQcE5fNHRJUGhZUHVDbDBBQURmSE53OHhMRkx1NXUyWlhDR04zb3FOZVhMNTNKSUhQOHFycHpYLUl2b3huMjljTlVoeGI3OGFUeUdXTENyckVBaHVjbm9kal9rclRWT2RRSHRleVFBSQ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ Snowflake",
+      "firstSeen": "2026-08-24T08:26:32.567Z"
     },
     {
       "id": "e8697c7809a5f8a1",
@@ -4988,6 +5062,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-18T07:58:34.416Z"
+    },
+    {
+      "id": "ef248825a782e145",
+      "title": "What it takes to make AI work at scale in travel",
+      "source": "PhocusWire",
+      "date": "2026-04-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTld0eTI5M2RPUndZaVk4aldKUzlNTmhXOVhCTzc5WlI5WEk1enZHZWRub096N2dGcUdNb0k3ZFZFWlpvOGJfUTdYLTBwcGozRkNrUGRraExNeEtiNWhOR3FvN2JjdG85UFdkQWFtMGI1SkhkSjZSYnZURWdnUEhuTmdXQnExcnM?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-24T08:26:28.332Z"
     },
     {
       "id": "e75445057c58c9d9",
@@ -5970,6 +6054,16 @@
       "firstSeen": "2026-08-02T19:17:05.879Z"
     },
     {
+      "id": "15376df984e17d23",
+      "title": "Lufthansa Group becomes Amadeus's next Nevio solution customer",
+      "source": "Travolution",
+      "date": "2026-01-07T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXRJbVdSSTNOTDZlUHlMRC1kYjgycDFENnhxLXl5dXVabGJFRHdRNG9oaEZhdTZ3bTh6M1dXUmJHZjFHN0lnZEtJUjNsUWNuZ1dXME1QSVU1ME5yQXAtYXpkQ3ZHcVBlcW9kNnk0bnlTanhqaHowbi1ldk4zMW15TEVkQVNsRy12YlFvX2dJSC1xb1huVkFtc0dHbmRydU5IYkhpY25idDdoamVzQ3ZQODZYWjhCZ1BE?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-24T08:26:27.207Z"
+    },
+    {
       "id": "0abb15a998194735",
       "title": "AI-Driven Retail Media Networks",
       "source": "BDO USA",
@@ -5988,6 +6082,16 @@
       "category": "Contentsquare",
       "query": "Contentsquare partnership",
       "firstSeen": "2026-08-10T10:40:29.796Z"
+    },
+    {
+      "id": "d381fbbb1f46bc5e",
+      "title": "Generative and Predictive AI for digital twin systems in manufacturing",
+      "source": "Frontiers",
+      "date": "2025-12-17T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZE9mM3lTX2hpUUdkdTQ4blJjZHM4ekZrV1RpbUlsZFpWMVQwME9RcHpQeWFjYk1GTUVYbFBRLXE2dmJOS25TaDM3bkJYMk04UlVfZjJJWkNCWUtBWlVGVktyUElfM3FEaFo5WDZBVFJRNVRwMG9iRXlib0NCTkhiRW9EeGUyMk8zSk1uZURxemcxbDltcnN2UTdET2pPRGQteWc?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-24T08:26:42.652Z"
     },
     {
       "id": "2ac1f1bbc0edf350",
@@ -6068,6 +6172,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-11T09:35:01.327Z"
+    },
+    {
+      "id": "6a3cee5d48911b7e",
+      "title": "Schneider Electric, Aveva, & ETAP Join Alliance for OpenUSD to Advance Industrial Digital Twins & 3D Modeling",
+      "source": "Design News",
+      "date": "2025-12-02T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSzFTcjNVVmVvZDRYM3lLUUdPd1lPLVotSkR6WlY2TEpRVWVoXzVRR0RzNi05TGJocWhEclRJX1hENXFqQjdpc19EYm9obkQ4MTZqN1ItSVlMb3ZYWVZSaHVuYmo2V2xBVHdsby1QZjQ1c0pkdE9FcGEzNnFDamVKUXdxR1R1WTM4V2FFTE01cVpkSl9HbHB6Y0lETmlhTjVMN1pDaDR4WERPUThHbGRza1dEdnN5YXB3dXAwd0ljZXZ6VzFlV0hGMHRwMFJRbkNZSW5zbHhBSW5NYUdmc2JxekdScw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-08-24T08:26:14.343Z"
     },
     {
       "id": "9f384220be3f90b1",
