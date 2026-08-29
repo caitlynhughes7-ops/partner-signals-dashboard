@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T21:29:09.051Z",
+  "lastUpdated": "2026-08-29T06:05:18.976Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 715,
+  "totalEntries": 730,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -144,6 +144,16 @@
     "96c6d27d4adb0941"
   ],
   "entries": [
+    {
+      "id": "f7c141af7b5e1ddd",
+      "title": "Supply chain agents replace apps as Blue Yonder rethinks work",
+      "source": "SiliconANGLE",
+      "date": "2026-08-28T19:34:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpnX0NveW02TjVTYTdCU0czMkhsWVlOcGVyVXdmUDgzM2o1NUJxbEhGMUdIV1U0T3hWU0NYMUtpMWtqSE51eGRFVlNOLVZsVDdRUkd2WUU0RndPbm9JZVcwaDRLM3ZtTUNyaGZicDBOc1VhUUI3TUdOT2tiY2NzRVdQWmRyUG13TVdQcXpsMzJBTnhkV0dINEhxd3BNbnJxc1hjTEdQZlVKZw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-29T06:05:01.586Z"
+    },
     {
       "id": "df5b51a68de14d6f",
       "title": "Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial…",
@@ -295,6 +305,36 @@
       "firstSeen": "2026-08-28T21:29:03.136Z"
     },
     {
+      "id": "bf391cabafb4ed43",
+      "title": "Hyundai Mobis Unveils 40-Plus AI and Robotics Manufacturing Technologies, Expanding Ecosystem with Partners",
+      "source": "finance.biggo.com",
+      "date": "2026-08-27T03:06:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wY2N3TENOdDlWdmUyOUo4OEtfWkhqMmotdE5lVU5xZF9UcVB2Wl9WWWt6UU45Ry1DdHFiY0o2bDZDcUtIQmx5eTFFN3FyVVNRTVVwczZXM2NVNG13emN0T2M0bWQ0bnFkNnlCVGo5VEhfNVVOeVE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-29T06:05:18.975Z"
+    },
+    {
+      "id": "78492c4f34ae5c54",
+      "title": "Blue Yonder adds AI retail tools for returns & stock",
+      "source": "ecommercenews.com.au",
+      "date": "2026-08-27T02:16:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazdlMVFyMU92RUJtV1NRY3g1S0N3WmRaVWVHdE9jU20tSzFmYzQtMjZ6QkFLVUx5amFUOExtUXY2YTlQNFBlTUFQZXV0SmI2dDlCS1FpZmdNYUlvZGxhMUQ0UUo2YjdwaXUwcWpNcGMyZDdNdmFDNGZtVXVMbTRfWHhERHBXcTNXY0tCN3R3?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-29T06:05:01.586Z"
+    },
+    {
+      "id": "0924d0c2e706ed77",
+      "title": "\"Robots carry parts and AI learns processes\"... Hyundai Mobis unveils manufacturing innovation technologies",
+      "source": "매일경제",
+      "date": "2026-08-27T01:57:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZdml4XzNXSjM0bjhvU3RwZk1qSFhEZVhzLTFHWUMzcEdoNS1fcDM2dUNkaUtXSVZpZUx1aXh6T2tCZjdsLVlQcXRVSHRScGdDYWk0?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-29T06:05:18.975Z"
+    },
+    {
       "id": "65da7505fff617a0",
       "title": "Capacity Gap Pushes Supply Chains Toward AI Agents",
       "source": "Supply Chain Digital",
@@ -353,6 +393,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-08-28T21:28:31.239Z"
+    },
+    {
+      "id": "8eb0f07336c475d7",
+      "title": "Blue Yonder’s New Agentic AI Tackles Retail’s Costliest Problems: Stockouts and Returns",
+      "source": "Business Wire",
+      "date": "2026-08-26T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmx5X0d0bGJvUERVNGZHb3IweFZwek44RWpNOUYwc05FZnc1dVQxOVZzOU13Tm1wcUVUVnBsekNOV3NPVXVyeUU2cHBjR09ZbGhjX25zZGpNazdLQ2QxbjBLaXRIWElsNDVNU292eUNPZE5KMkhVcWF2QU9WSUNmVUFCZzh6dDJBX1NhcmlYMEJvMFpXUnZJZjhMeGUzZmswZXRwbnVRTGFhUkZmR0RnU3NRcUhfZnl0X1A1eHNodzVuTEJTR05KYmpOeFg3aXd6dlRTeEtFcnY?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-29T06:05:01.586Z"
     },
     {
       "id": "6fadbc84b5e4acba",
@@ -663,6 +713,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-25T08:08:53.964Z"
+    },
+    {
+      "id": "59daa02af6f2c0d8",
+      "title": "Can SAP Business Data Cloud Become Its Next Major Growth Engine?",
+      "source": "The Globe and Mail",
+      "date": "2026-08-21T13:38:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUtRNndHbjdEZEpIS2h6b0tPdWJTLWJHSTBlZXNUQWVVWU9lX0lhaVdSdWtwcEhjdnBlWEd0ZHFuSXJzM1drNmtLRUNNZjl3M1dNc3BqSmpEUDNRbm5MUGptV20xd3NLM2dON0ladFBSQnBlRGpWVjl3aTNXMU9EWlV0RmZOa0tvTFQtVHc0LXFPcTRJNmZtMk9naDgzd3FVZVJzZWFtZ2g1VUdWMXNOM0g5VkpFTWtrVDVXWEZkRURWa2M4R3QtME00UWs0VXVCSkVEWnpKZXp6Vk9HLUJ2RQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-29T06:05:17.941Z"
     },
     {
       "id": "073a30be747023c9",
@@ -5235,6 +5295,16 @@
       "firstSeen": "2026-08-26T08:09:03.169Z"
     },
     {
+      "id": "242b69436ee2e560",
+      "title": "Outpayce From Amadeus Partners With Hands In to Distribute Split Payments to the Global Travel Industry",
+      "source": "Financial IT",
+      "date": "2026-05-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkdkZ2pTUnM2cXpFdjc3dTdRR0pTWXNmYldCcVFmQ2RRX29aTWVNelh1LThaYm54NndXa2stVWVqOVJNTWpQS0JVUDR4cUdKM0c0Z0NJajhLcUEzM3dmTkNLVFlLRFBnYjRvM2pHdENjWFpENkNNNmx0SnBla01IMWp0Ny1VRDZYR2JwWnlmZjNRUEd1UGZPMmw3SXdpR1dzLUVlNENpRHFib0U2NHlLMl9ZT3dDYVQtN2c?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
       "id": "3f8971a6a1979fcb",
       "title": "ICON 2026 - Blue Yonder partners with NVIDIA for its model factory, as it targets owned - not rented - intelligence",
       "source": "Diginomica",
@@ -5283,6 +5353,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-08-21T08:04:17.141Z"
+    },
+    {
+      "id": "1eaa0616dbe7174a",
+      "title": "Drocke partners Amadeus Int’l to facilitate funding for Nigeria’s critical infrastructure project",
+      "source": "Vanguard News",
+      "date": "2026-05-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEVZUWJiZ1JGN3pVN25fTFhxOGdHQjczVGc0SGFGVmF2MU9xSjVzdXAybTZ0bzY4V3E5RER6T0RzLV91cmp4ZTNFeUpINzlJX283TmpTSXhmYUVaVF9qZVZXY1A0SWM4S2RRQlpmV3hXdFJtTTUzNnhrTmtWR0MtN0hpVlV6b2JhSUVBbVppd1JEcERxNXllWlRKdW1TbkVDaURZci1PaU52TjJ3b21DdFVyb3dsX0RqTF9mNm9RLTZ1dkExckMyMDlza0XSAdIBQVVfeXFMTmZKbFkyYnc0cVhwMDc4Sm9QQVBfcW5ERmFPWF82dGxlMXM2ZGphcEdYUmZXV2tzYXVZaFhWNVg3S2dLV2VOZUJSRTZXVUYtS2tEUlBaMjZjS2ZSQTZaZVAxcFdZLTliY2FTc081amYzdWQtVFRwcnBpWVRva3M2NjNuaDlZZ2VEUldUMEJnMHRITnI0aGd2RDJsSW1nMXB3ZVh5V3ZyMXdnNXFPQUtvMUZKY2Y3bFNqSktEeHFRVExPZWpOQ3h5TF95WURTZThjY0pB?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
     },
     {
       "id": "00addc5259a74e79",
@@ -5623,6 +5703,16 @@
       "category": "dunnhumby",
       "query": "dunnhumby retail media",
       "firstSeen": "2026-08-06T12:30:53.026Z"
+    },
+    {
+      "id": "7b5b86b60d407a1b",
+      "title": "Supply Chain AI leader Blue Yonder secures US Air Force FLITES contract",
+      "source": "OrangeSlices AI",
+      "date": "2026-04-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkd2TUZWOUl5QW5KYnZvRUI5OWFuTExIY3JpT3dkb2RnMzVkMXFhWUdBYWItYXc2SlBJVjVrTnQyR0I1RU5sYjVobEFaakw1emlPNF9XZjBZLXhKTnJvVW5mOFVEQTdoMkQzMUdOckt6SDlvdHR4ZWVHT0xGcXhZX2Nxd2hxTXltMm1KU0lJcmhJZ3lwbDQ4ekFNLXo?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-29T06:05:01.586Z"
     },
     {
       "id": "5d6525168ef3d405",
@@ -6005,6 +6095,16 @@
       "firstSeen": "2026-08-02T19:17:03.878Z"
     },
     {
+      "id": "34101991a53c0ee0",
+      "title": "DPO Group partners with Amadeus to offer mobile money payments for international airline customers across Africa",
+      "source": "Africa Business Communities",
+      "date": "2026-03-26T13:38:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdEZhUzB0bzZ2eldySFUzSG1jYV9leHRyNzNPNV81cHltdW5Gc0tnQ1J6SWI0cnZlcHNhV3VVYlVwRU10Qi1TUF9wOG5DMVlQQzhQdVFZWFo0TFpGZkJCb1hRZ0YyOXZoRGdsRXFhNzh0UUM3TFY2NzVFbE9JaXBxTk5vT0hROWFKNjFIQVRWV19FRE95MDhJZWVDdk9fZGZ0M1dBcFFjdmVmd0tqcXB4UE5lbDFpSWEtdVZKbnFxazl1TzhyUFZoTDF3Vmx3X3U1ODNCVGluS1k4WGk5WUdTSWxBUTFKTzNwM3A2d1p6Mi1BUnliMlp0LV9aUG1PelE5d2c4dw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
       "id": "e98b6bf28cc47cec",
       "title": "Shoptalk Spring 2026 Day One: AI, Retail Media Trends",
       "source": "Coresight Research",
@@ -6313,6 +6413,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.157Z"
+    },
+    {
+      "id": "1a6f2b8284b3dfa1",
+      "title": "What is a Digital Twin?",
+      "source": "Databricks",
+      "date": "2026-03-02T18:57:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PUnpSckRqRFkxRFFFNjlWMm9UZENldGNOQk44aTBWN2FIbDJTZHVBWlpES0l5alcxMW54b3Jmakp2V09zUkJNSmVLZkR6U2Rad1hYRHdKUk9BeVlOWTBDOGdB?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-29T06:05:18.975Z"
     },
     {
       "id": "24727660f1318f88",
@@ -6735,6 +6845,16 @@
       "firstSeen": "2026-08-02T19:17:05.879Z"
     },
     {
+      "id": "a6afa9f4faf7fd25",
+      "title": "Lufthansa Group and Amadeus partner to introduce unified ‘Order ID’ for seamless travel management",
+      "source": "ET TravelWorld",
+      "date": "2026-01-10T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmlJUExDb0hFeVVoY1ZrOU4zUm1laTZ0TDJFTDVwMlRfTGNJLUpieVoxdFlheFh1VnE2RUZmeWhZVmZzVGxRMjdWVUJxWHNmN0hQVEdjOEE4LUJwVHFZY3ZUTTl5Rk1hTENxNVlqZnB5SkNpTDc0dmR6ZEE3M1VDdWJDRXlidzVLZHRmVDR4ejlzWlhQeHJxcjhySkY0RVA4WVRUbVhsNENRUGRYTE5wVlRuTHlsQkpyUlJialdqLTNwbHpuZDV3RWJULTVvOFV0cjhEODhncWJleTlROXfSAeMBQVVfeXFMTVpRUmprNG10MTUtUDhwNWh1cFdVLXNVM3RFWHhwcms1bm5DOVpoeDgxTVVtczNWVG9uQm1md2pxZmFSNUtXMndmSS1PcFZ2Y291eVRkRVhUelBIT0dpajVLN0xmUzRGTUZuWE9vWmkyTUZhQ2k2VGdsZXlHY054dnQ1TVpFOEg2NndqS1U4bmppUVQtaTFKc3RmX3B2MkY1XzZSTjNUUlJFc1hhREdiU3dIUk1jZjM0aVFZeDF4d1IxbDVINkhWZEZVcTRZaXNJQ045Z21oeHJuRjBteDhzeFpPamc?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
       "id": "b7b9caf47ddd47cc",
       "title": "AI and private 5G: Bridging the IT/OT divide",
       "source": "NTT, Inc.",
@@ -6815,6 +6935,16 @@
       "firstSeen": "2026-08-24T08:26:27.207Z"
     },
     {
+      "id": "dd654517ec4aebca",
+      "title": "Amadeus Moves Deeper Into Airline Commerce With Lufthansa Deal",
+      "source": "Skift",
+      "date": "2026-01-07T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NN0FPUTVzWGFmR1c0SnFaN3RjTVFXZlRwYlBrdWRvVzNFdEJpTXFqOXRBOXRRTHlIdzF3TGZrTG9aMHBLcGhpNHZiN3FNTURlczJtMmZpaXdMSnNKOHVzemh5bjhCUHJ1NHJCMmg4VjMxZXoyaUstbW9OR01Qdw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
       "id": "0abb15a998194735",
       "title": "AI-Driven Retail Media Networks",
       "source": "BDO USA",
@@ -6883,6 +7013,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-16T07:44:47.628Z"
+    },
+    {
+      "id": "e37be2cea1d38fa6",
+      "title": "Digital twin driven smart factories: real time physics based co-simulation using edge a.i. and federated learning",
+      "source": "Nature",
+      "date": "2025-12-09T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSWWUxNFVBdlE0VEVGNlJtU2RFa1hna3NvV2dscU5ZaVZhX3VyQXRVWDBzcVZkNlVXNmRZY3VpVE5kejVnTWhIS1gwWnpIQVgwbzdHRGd5RFVFRXdNNHhZ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-08-29T06:05:18.975Z"
     },
     {
       "id": "303c882073fcd66f",
@@ -7253,6 +7393,16 @@
       "category": "Contentsquare",
       "query": "Contentsquare digital experience analytics",
       "firstSeen": "2026-08-11T09:34:37.714Z"
+    },
+    {
+      "id": "87d12f1cbf4301ed",
+      "title": "Perth Airport partners with Amadeus for biometric passenger system",
+      "source": "airport-technology.com",
+      "date": "2025-09-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEhobXA2UEN5TTdOa2gzWjE1VTJtTDlrU1NvY3d5Wl93bjVKb21ybk9rV2hRRmZnbUt3cXNxQXN4OEg4RWFtQkVfazJVVTZuampwMmh4ODBONW1nb2kwQkZXZWJKM1BQRDB0aXNvaGltREZ3NzRWSU42VUtZSHNmVnVQSThxdXhJ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-29T06:05:03.618Z"
     },
     {
       "id": "0b1031bdc32d0107",
