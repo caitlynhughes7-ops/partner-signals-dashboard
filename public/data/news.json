@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T06:05:18.976Z",
+  "lastUpdated": "2026-08-30T06:05:03.653Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 730,
+  "totalEntries": 740,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -141,9 +141,31 @@
     "4ecbe6fcb35e696e",
     "7efa6486b8fa151b",
     "fdf206c7704b9ba1",
-    "96c6d27d4adb0941"
+    "96c6d27d4adb0941",
+    "81969d5bde968e58",
+    "8834e478000bc0b3"
   ],
   "entries": [
+    {
+      "id": "16a4ddbe132b95c5",
+      "title": "Google Cloud Announces Strategic Partnership With Verizon To Scale Enterprise AI",
+      "source": "Pulse 2.0",
+      "date": "2026-08-30T00:33:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnpqNzAzaWp4dXVUOVc1UFhycnZxd3FyTVMxeW4xaTNGTEdEMzllN3Y4X0ZVLXZzSmlfYTZXai1XbTNUTUJ0cC1VTzFCQjVhQkZIMjBoVmdzUFUzdFZOR1VIQnF3ektxcjhWNFY0eVpJbmdQaFlWMlhyZTIyekJ1R29MRk5ISE1ORWpWOUxKWC15M3lDTkdRaWpDU2ZxU0Q5a0HSAacBQVVfeXFMTnZuOUU4enFxMEtmaE53LW01ZFZ6QnhmR1cxMTFiMUlkcXZzZ1JHemd5ZGF5bVBrNmRWLUpWV19XWFZOVFlYYk83a2xCdW9RdkN0ZC1WLUZOMTk3WDlBQ2t2Z3ZhN08zZzE5a1MtOUkxUzEtR0tiQXhSbTc1alJzVWJSdVpHM2xpZ3hMdWhRR3Z6b0lkb29Cckl1WmpnUk5QbGZzUU1IMVk?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-30T06:05:02.459Z"
+    },
+    {
+      "id": "9bf19cb46b40fb59",
+      "title": "Global Supply Chain Disruption: AI in Industrials [In-Depth Analysis, 2026]",
+      "source": "Klover.ai",
+      "date": "2026-08-29T21:13:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzlhc1NsaGpFNTIzMzQyYUhnc096ODVZYlpVUThoczdLSzVsNkZXTTJVRGdsVnhiU0FhLXRsY0NnNWo5VEs4QkZXWEtNenluQ2JaUHdVQW1MdTZvMUktOVpfSy1DYWtNb1loZnVYX0poWFRlaUF3bXVQVGItdlEzM2lVYjlUTVdKdHFXVDBYRWhjZ3FWQzJzUA?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-30T06:05:00.019Z"
+    },
     {
       "id": "f7c141af7b5e1ddd",
       "title": "Supply chain agents replace apps as Blue Yonder rethinks work",
@@ -245,6 +267,26 @@
       "firstSeen": "2026-08-28T21:29:03.136Z"
     },
     {
+      "id": "4e3b1f515f835d47",
+      "title": "Blue Yonder's Unified Platform Eliminates Retail Stockouts and Returns Waste",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-08-27T14:45:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXlYc1BwMlJLRHVlUjBWcU5lNnltUWJ4dkdWQllwUWh6VURGWkNSdDVGUzVXTXoyZ0NZUmNidXREckhUVXZxclg5T1RDN1JaUmI2czlpeklHdGVHV2VnenE1T0dSdTc1LWdLTVdjdWhKbmZidGRubU5SbXhTcFgza2cyMlpDYzBoVXZHbDZLbE5iX2txQ3RJZ0ZYSTFzZVMwSlJfZlk5WlhQQkNScUhMQnNNXy1ZbVotNnp5cjVBaTdzSWJmejVCLVo2MjRkRnZlWXJqUmUwTG00Q0ZheklXbElvMUVUUQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-08-30T06:04:45.694Z"
+    },
+    {
+      "id": "d52ba31223b9ed23",
+      "title": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI",
+      "source": "Databricks",
+      "date": "2026-08-27T13:29:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjVWTjVwdWszb2VqTEwwY011QTljNFBpSm1uSGZianJ6YmdCTVVCa0Zad2c3RmM5UGZ2ZWJBVG9fQ0VxMGt6OVJlejd3aUFnRFFDYjhhNGlkdGxZcnpyRG5QODk4bGhPWDh4MDduYzNEWUFIV2dveHlwLW83MlhjdHY2cHozeUpZS3YyaGxyUmlnNWozblNNS0NkSWszNlE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-08-30T06:04:56.587Z"
+    },
+    {
       "id": "a699eed1673c1498",
       "title": "Pharma's Next AI Problem Is Authority",
       "source": "PharmTech.com",
@@ -285,6 +327,16 @@
       "firstSeen": "2026-08-28T21:29:01.948Z"
     },
     {
+      "id": "35d31e42ea75b100",
+      "title": "Synchrony Says AI Has Put Every Checkout in Play",
+      "source": "PYMNTS.com",
+      "date": "2026-08-27T08:03:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlVsc3dsRWhGamZaRk1Eeko0RXY2Qi1SZ29ycDU1WXk1cXdlWWhxS2dFZldjYmpJTFE5UENvdm9ZZEJ5S29YaDg3dHZjLW00LW1BTmZ0ZERUZ2pSMFZnSnJyZS1RV09IbUhNZnBDdk9FamVERjY0Zy0wY3NYVzVrN0FfTWF2ZGlEREdnNXJ3VkVXbWNtQ05MTlVzaHZ4SGZhazNyRVhlSDBFdw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-08-30T06:04:57.773Z"
+    },
+    {
       "id": "fcb8253db7015807",
       "title": "Hyundai Mobis Unveils 40 AI, Robotics Manufacturing Technologies",
       "source": "thelec.net",
@@ -303,6 +355,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-28T21:29:03.136Z"
+    },
+    {
+      "id": "1fe8098324906f50",
+      "title": "Best LinkedIn Proxies: Automation & Scraping",
+      "source": "AIMultiple",
+      "date": "2026-08-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RMlJiNkJOVFFXYkVIaHkzSE43OEJCd0VlZndwZkhzUXEzSlh6RGJWaTAtd3N0ZnNqRDNCU1ZqNV84OEJ3OENVeGJuRW1iRWlw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-30T06:04:52.373Z"
     },
     {
       "id": "bf391cabafb4ed43",
@@ -3155,6 +3217,16 @@
       "firstSeen": "2026-08-13T09:46:57.176Z"
     },
     {
+      "id": "876fc8ba88a34c29",
+      "title": "Snowflake Advances the Trusted Agentic Enterprise Era with Unified Monitoring and Cost Management",
+      "source": "Snowflake",
+      "date": "2026-07-24T20:29:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNllLdE80dDVjQUNpanFrRDNCR0xkZDUzMG41UGs3czI3ck45TDNaRnU2U2tCLUlXcVVnVHV3T2xEbFc0Y3lad3F4cVRFWl9fQTRUNlh5cmhOMGtYWGhQbm1RQk4ySERKZ3NycTk1LTMzZlJXWGw0SHhsS2FXeXAyNGk1SC1RaU1xbUlVYmFIZXNnRHpqVVZyaThOVnMxbVprbVdwM25PVmJwanRWUXB3MWJheThEYWwtRUp3alB0LVhaY20yUHl6bXdEdGZMRGFZdlFzcVJoWVRBaU12OTRtNA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-08-30T06:05:02.459Z"
+    },
+    {
       "id": "b6ac02f0b4f6965e",
       "title": "The Real Bottleneck in Agentic AI Is Not the Model, It Is the Handoff",
       "source": "Industrial Equipment News",
@@ -4685,6 +4757,16 @@
       "firstSeen": "2026-08-12T09:47:09.598Z"
     },
     {
+      "id": "705308bc551b3502",
+      "title": "Amadeus Report Identifies Opportunities for Airlines with Agentic AI, and Recommends First Steps for Adoption",
+      "source": "Airport Industry-News",
+      "date": "2026-06-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFBTcVdIaVZFZHNyd1hoLVJBbnBneFZfNmhGalNOT2dMSXNjSGZ2bFdYMmRGblZTMUxPY0VIZUo1T25PVV9qbXlBSVJNZ0RReWEwa3h5aGN1d1pya2JpM0xLRC1hTW10UF9SQUJmX0lxNVlSV2IybUhwR2tUUFdiM1dHYllCd2c5YVQtMkc1Y01PZW1zRWh4VXlfR3NGdVZYTGRSeTdoLWJULVRWNU5DVUFCWHdUaTdpY2tib3drRHVvR3IxWVhsam5EVGNoV3JOOElBdGZzRWJUUQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-08-30T06:04:48.977Z"
+    },
+    {
       "id": "4815fe319412ef6c",
       "title": "Agentic commerce puts data quality at retail's center",
       "source": "siliconangle.com",
@@ -6155,6 +6237,16 @@
       "firstSeen": "2026-08-23T07:47:50.480Z"
     },
     {
+      "id": "86dd21e7366adab6",
+      "title": "Amadeus Partners TCS",
+      "source": "fintechbiznews.com",
+      "date": "2026-03-19T10:31:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlVIbFViMXFYTzJOeUJuUEdWbnc3WnZkTmtHeTZGN2FxcUtVck9TcTRVb1hxdkpNOEI4VGltS01mVjVHVW85am9hUmVXRjNwdjFFVWE4akpSNWR3QmRKaEdhVU5lQm5TTXMtMEhDZUN1VnlLMm4zWF92azlTTkYzRkdLOU53aHphV2xZ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-08-30T06:04:47.835Z"
+    },
+    {
       "id": "d7093d3c6319674e",
       "title": "TCS bags deal from travel tech firm Amadeus to accelerate modern airline retailing",
       "source": "Moneycontrol.com",
@@ -7123,6 +7215,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-02T19:17:12.124Z"
+    },
+    {
+      "id": "5b1df37ebfd1ba84",
+      "title": "Bright Data crosses $300 million ARR, eyes $400M by 2026 as demand for live web data grows",
+      "source": "calcalistech.com",
+      "date": "2025-11-23T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TazdLVHpXMUhvS2JNOGR0SDNpUXhxNWVnSGc5VlFfMk4tMElsdzAzeGR4MnRKT0pRbnFFdTYwTnJsMGRNMkVINEs4dDVENy1xZ2pWTG1Qb0xYTUd0Nk9nS2JHal9odERD?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-08-30T06:04:52.373Z"
     },
     {
       "id": "c3d3b4ae4a13f67e",
