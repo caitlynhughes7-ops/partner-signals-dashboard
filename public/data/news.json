@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T06:05:03.653Z",
+  "lastUpdated": "2026-08-31T06:05:36.148Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 740,
+  "totalEntries": 746,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -143,7 +143,10 @@
     "fdf206c7704b9ba1",
     "96c6d27d4adb0941",
     "81969d5bde968e58",
-    "8834e478000bc0b3"
+    "8834e478000bc0b3",
+    "2ec222804443ad73",
+    "61fe13189fed673a",
+    "bda97dfd16d29235"
   ],
   "entries": [
     {
@@ -235,6 +238,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-28T21:29:00.673Z"
+    },
+    {
+      "id": "395c4046b0df7979",
+      "title": "Digital reshapes the path to purchase",
+      "source": "Retail World Magazine",
+      "date": "2026-08-27T22:15:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Da2VaRWRWU1lCTzhOREw5elU1VVVrazhtQWRTNHdpaDZ4U0NRLU9NX2NVdHhPd0pVMW91Z25LaTJOTnVHMmZrV2RtWUZTc1BmbjhsV09zYzdXNXpkWnpjancxc2tWaDNqSGl3TzVjZnlZRkpyeHpmR1ZVWUFNQQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-31T06:05:33.778Z"
     },
     {
       "id": "68cda4bc8ee44744",
@@ -485,6 +498,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-28T21:29:03.135Z"
+    },
+    {
+      "id": "23fbf02217a3ff8f",
+      "title": "Most Supply Chains Are Optimizing for the Wrong Future",
+      "source": "Gartner",
+      "date": "2026-08-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aTDZ6TFNQZ1MyYzBwSHhTWDN3eFdYdzJsXzBuZk1BR09SR2x3VlljTFJ0NWwwdVR1ZUJrT01QNWlnQkFBUXJ3WkNydUtBZGJVZEp3bXdHb3FES3gzRjFsTkdvd3BCN1VHOFlj?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-08-31T06:05:32.755Z"
     },
     {
       "id": "58ddcf2bf3b5d471",
@@ -4327,6 +4350,16 @@
       "firstSeen": "2026-08-09T08:09:50.275Z"
     },
     {
+      "id": "a613786b4ae4cb5a",
+      "title": "7 Things That Hit This Week: Meta’s Next Stab at Commerce, New Hires at Sephora and Lowe’s, and Pinterest Goes Deep on AI",
+      "source": "ADWEEK",
+      "date": "2026-06-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTWM2UGJacE1IQUlVcjhHemdqZ1dHZmFhbzZSeWV6UVQ2NUg4MlZBU3NVZ0lYZExmaEZVbHhYOWEtME1HcWZ0Z0RqLXd6M0pQX01UT3g2SGVxb2VYY1NqMGZXVnp4Ym9GTkh5RXhnVjVYNDlJMWNLSXlSYldfTmlESWpQS1YxOTFUWU55X09YLW96VWFsSXg3S3o4V2tVR0xzS3pZSU54Wi01X0d0cENERl9ZYW9hS01jdm5ncWpfMGFNM3FLOEQzdUZ6ZGd5bkp2c2t2bm1BRDZsLTMtVEZTZXV5WQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-31T06:05:33.779Z"
+    },
+    {
       "id": "666e70dbe4ffa184",
       "title": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence",
       "source": "AVEVA",
@@ -4455,6 +4488,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-25T08:08:47.174Z"
+    },
+    {
+      "id": "5fc403815fada9cb",
+      "title": "Unlimitail Chooses Snowflake to Power Privacy-Preserving Retail Media Across Europe and Latin America",
+      "source": "Business Wire",
+      "date": "2026-06-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSEc5cWNlaFRJRGYyaUhnSXNVQjRhXzE2Vlp0NmFILXFhUFRzM3pfZllNWEE0Zno5MnB5VzQ2SnNuTU5wSG84OWRsZExnQzc4NnhsVmtFYXdNeXBlT2doZHl0dE42WC1KbmtJZmFzWkRPaDlfaG5DTXE5dEEwd0J3Vlg2M2FkMWtXNUdXVDVfbnpzMnpueTdtQnhLWFYtWmhHTWNiZFBGSlQ4NkkzelBRekxqWkNSYVdTZnQ0ZGdGMHBmUXBpWE5kQzU3dUN4TTBWNmMtMkFrMXFHdm9WQjB3TWNVZi04T1ZGZDltWGtVSQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-31T06:05:33.779Z"
     },
     {
       "id": "bf927109c8b611c9",
@@ -4655,6 +4698,16 @@
       "category": "AVEVA",
       "query": "AVEVA Snowflake",
       "firstSeen": "2026-08-22T07:45:40.343Z"
+    },
+    {
+      "id": "edf6149517b24416",
+      "title": "Loblaw Advance SVP Leanne Gibson on the future of retail media networks",
+      "source": "Canadian Grocer",
+      "date": "2026-06-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0FuUUtrSkFDOFAyc1h0T1pnSHN3WHl0R2ZDNkNzN3hoR1p5ZF92U2g2S1FmTi1FYTU1QVgzZHlMVktlaXZyNm10Ymh3UnlfazZsQm1EQ29yOUtfNHlOU2ozZjFOVHJxVDVaY2drUlFiNm9TYWdWMDkxLWJjVW1lOHN0b1RhN3ZQU1hod2RqcWxwUQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-31T06:05:33.779Z"
     },
     {
       "id": "0a39f6216ed45ad9",
@@ -6215,6 +6268,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-25T08:08:52.791Z"
+    },
+    {
+      "id": "a2192056531cad84",
+      "title": "Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping",
+      "source": "Accenture",
+      "date": "2026-03-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWxTMEpkZzdCQjRlbzEwSGdCRFZNb1N6d3ZsY01SemJHR3RwU2g4SVNUMTcybG13UzlNalBxSFFWQVdVM2ZURm8yNDhVQWdfdHlBSzZPb3RmOWhmZmoyV2I5VE53ZHJWamdfOXd1YTlQUWVIeUZoR0xxRVdSNXBXaV8yU2d0YlNYSTg4OXZHbzBBb1pwbGtIVTRHcTBlMzRkQ2UtcG9nZW54bXNlR3FTdl9rQQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-08-31T06:05:33.779Z"
     },
     {
       "id": "92e532632ea412ac",
