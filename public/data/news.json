@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T10:28:51.264Z",
+  "lastUpdated": "2026-09-05T09:54:05.283Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 892,
+  "totalEntries": 904,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -191,9 +191,42 @@
     "ec6cd0d452f25332",
     "7d355bea28f90490",
     "4dfe9fa57d623cff",
-    "b737132f681a337c"
+    "b737132f681a337c",
+    "606e086727829e87",
+    "a2a9eacf88494746",
+    "157830bbf56c55dc"
   ],
   "entries": [
+    {
+      "id": "b25a17ae1722498e",
+      "title": "How is Caterpillar Advancing AI in Robotics?",
+      "source": "AIM Media House",
+      "date": "2026-09-04T21:14:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5jTkFXcDd6dzk3YnJDUC1SMmdjNkZ2RHRYbUFzeTBXTW9KMU9JY1czZ054ZHRPNE1Gbjc5czJsVGh5Y2FKNUpKN21EamFaQnRfRXlpSVdCTmt4Y1l2LVZyOHl2ejJleDB5Y3Y5dmVKNHVqdVRLT0lJY1RoQ1FrekNmSVpad05iTmxHa2lsZ095Q0lhdEtGYmxjWjVVWVg3RVBCN0dDeXN6TXh1T1RmcW1R?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-05T09:54:05.281Z"
+    },
+    {
+      "id": "083d4e57a410e25e",
+      "title": "Amadeus IT Group stock gains as AI travel platform partnership boosts outlook",
+      "source": "AD HOC NEWS",
+      "date": "2026-09-04T16:43:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNF9oTGRwYUx4ZVF1OVZxdEVYVjFITkppYXBsa3ljcTY0VzQ5Q0FQRTNuVGZCWndIdzJRVC1NOXp3d1NNX0oyckVTUndpWTFtal9vU3ZXZEZwNTlZUXVBTC1XWWdQa3NMNXlHbVRNU3lfb2xqdG9BOXgydHhjZEstellVRldhbENjTDFtb0FxdVNIdzNON1VnM1k1ZVdDbTJUVktBMWU0UHN1ZHRTZlFvU3ZuSGRYdEpfUEpYZEMySlNBWjY4bWZvcVdqZGQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-09-05T09:53:50.248Z"
+    },
+    {
+      "id": "4a17a3d9f6819cf7",
+      "title": "IKEA Supplier Cuts Changeover Time, Boosts Productivity with Redzone’s Agentic AI",
+      "source": "Manufacturing.net",
+      "date": "2026-09-04T16:23:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWExPUFpyUkwyVjJaY3RIOE90N09PTWFkc3FESnRHYzRCT0dZd3BiRWpUaHZhNUFKeHB0UDNad2RCV1U0UG9pSVJ1VFprM2VlMVhvSXVrQUZzTHFib3h6VVZ3Y2tBLThoN2JLUVZDeE5CMkcxenhxZVBrczFOclFCOXBTSFg4Ujk3X3JyQ3dJbnF1amh2MzVvNF9oTDZkVXVPYWlPZVBhY19BNjczVjAyWjhkTmZHMXloTmZmNDh5UlRIS0dzSG1NRWh5Tmoza3hqWnFOZ0V1eXNNSlBTTkMyQg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-05T09:53:58.608Z"
+    },
     {
       "id": "4d3ea774c9451dd2",
       "title": "Saudi Firm Humain Unveils Arabic Language Model Developed With China’s MiniMax",
@@ -203,6 +236,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-04T10:28:39.106Z"
+    },
+    {
+      "id": "135773e8d12fcdc8",
+      "title": "Atos-powered agentic AI solution wins IDC AI Innovation Award",
+      "source": "Macau Business",
+      "date": "2026-09-04T07:45:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJBNHdocWtsZmVkN2Y4cDVwXzJQNFFVOWxjOHp4T1NkZEVYSU04R2IwQmVxZzJiZWlPTWxKcDhRZXpvaHRPaDNUSDQ5cDJxZTBFMlU5VzdZZFJPR3pxeVlZWFAtS2JsVFBFUFJnem4wU2NJOW5UaHF1cU1QellERmVmTmRrZEZBWVAwTU1ZcTNBQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-05T09:53:58.608Z"
     },
     {
       "id": "8b0d0f1e6e5a10e0",
@@ -273,6 +316,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-04T10:28:44.314Z"
+    },
+    {
+      "id": "a6b246a59cc366de",
+      "title": "Amadeus Partners With Anthropic on AI Developer Access",
+      "source": "konsulteer.com",
+      "date": "2026-09-03T18:41:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUG54VDkwS2NiY1pZakpEb1ZfeGJ0ek1feW1XSUhsaElTck4yaVdZVHBvTTczVWJxQ1Bwcnh6Q1QyZW4tSW1TRE9sbDBXbUZZd3RRaWlMX0Z6c3A4NTZ1UUJVNHFfN3ZLT2FNa3NxZEpnY3J6UTZNTWh6aDEtckM4YTc4RUtWbWJDV1NvTDB6R3hRZW9QbU9PWk82YXBJNU5mRE80UXBOU1R5Y3M?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-05T09:53:51.357Z"
     },
     {
       "id": "46f181bb3cf499fb",
@@ -483,6 +536,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-04T10:28:45.446Z"
+    },
+    {
+      "id": "36638afa253a3287",
+      "title": "Caterpillar and FieldAI Advance AI-Powered Industrial Innovation",
+      "source": "Caterpillar Inc",
+      "date": "2026-09-02T13:45:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN25uMXpYM2Y2Q2lLWHpwLXBjWFA2bzlrMTJONkUzaTR6VEpwZ1ZrWUc0aGZfdl9MQmg3bE00eHZTbG9SQ2pEOWQ1SU1LcG9WTGItYjEtWnc4dElmeFY0bWtPLUd2QlZjejY4bDNTX09WYVlCVkU2UHBOZVdZWFRnajNBYm1paGFfZ3p0cXFfbnBhQ0RURWp5Yk1fZHJvZEhPc09IWXlILW8yNDNWM1pmbkRpNkU1OFk1UXdWY2JnT2pkR3ozSG1hVlV5dHU?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-05T09:54:05.281Z"
     },
     {
       "id": "48c6915b299a132e",
@@ -2595,6 +2658,16 @@
       "firstSeen": "2026-09-01T11:00:20.355Z"
     },
     {
+      "id": "efd5c403fc60a0c8",
+      "title": "Using AI Data Platform to Unify Fusion Data Intelligence and Enterprise Data for AI and Analytics",
+      "source": "Oracle Blogs",
+      "date": "2026-08-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbnp1c3NlS3FUdlRtM2gxM2x4dlJkZFE5TUp0ZHpQdW5NcGUtN3FhdUViaTJuNGtYOGRuWERVNVd2Zm15cDFGazR6SFk4RXhpOE5EdXhJQTE4aHpoWGM5T3NuWkRhNlc1RE9PR0w0WHZIOFRPajlTVGIxYXlnQms2NklBN0E0WXA3ZHg3M2w3UE5OeXZZRVR0UEdnRjZHVzVhTlllU3JwLThVdjlhZzc1YWJuc0Q4TmI2NUh5Zk1mNFdxTUYtZFNYWTNFb29KMTQ2YzdBMlUxcXRGZw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-05T09:54:04.104Z"
+    },
+    {
       "id": "7a5a677ebbc2256e",
       "title": "Watch: AI: More Than a Buzzword",
       "source": "Supply Chain Brain",
@@ -3433,6 +3506,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-21T08:04:21.812Z"
+    },
+    {
+      "id": "2336df954ee24510",
+      "title": "Schneider Electric Q2 Growth Highlights Data Center, Automation, and Industrial Software Momentum",
+      "source": "ARC Advisory Group",
+      "date": "2026-07-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmluRkY3UkNWY1BndFVMS0pMMmNnQWVoZHNkQ0l1ckJMUnE1QjVMcWtJTHFNaHNHbWlqSlg0UnlUVk9ORGxDaUxGSHpTSklDQXZWMC1KaUMtb0daVTNMeUtVN0ZrMUFxeDlNMmJqWGNUZjNuU21qdWNuaDAwRGlBQko1cnVUcVg1SHdlRTNNcnFSWk11M19CTHl1UzVOOXdMNEgtMUpid3cyUWUxb3oxUi1GSUVKRnBqdnA4?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-05T09:53:39.277Z"
     },
     {
       "id": "bff139a263938138",
@@ -6595,6 +6678,16 @@
       "firstSeen": "2026-08-14T09:41:53.337Z"
     },
     {
+      "id": "80c4a8ccd269cd7e",
+      "title": "Top 6 Apple App Store Scrapers: Bright Data, SerpAPI & Zyte",
+      "source": "AIMultiple",
+      "date": "2026-05-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YWEdZeVZ3X0NFNzhDcG5malQ0c0FEQ1pDU0d2Q2x6YTIzRHlhVU9VQ3h1RjRtYTF0Y3JkVkViOU5vQWM3dmRoUDRNdWhLaWdUcGc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-05T09:53:54.541Z"
+    },
+    {
       "id": "499c8c1f836315ef",
       "title": "MC Advances Supply Chain Transformation with Blue Yonder Cognitive Solutions",
       "source": "Business Wire",
@@ -6733,6 +6826,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-20T08:03:54.104Z"
+    },
+    {
+      "id": "868a66ba8e4f0ed4",
+      "title": "Best YouTube Datasets: Bright Data & Oxylabs",
+      "source": "AIMultiple",
+      "date": "2026-05-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpTlN4eTFfcmFFd3phT01oazJ2Tk9wWThYbldpSHh0eTliQW02UXZkUEg3VFNRWXFlWmNiTUZVNDNzalJBX3lBM2hPTFhsTGY2?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-05T09:53:54.541Z"
     },
     {
       "id": "91f79bd48aa86c4c",
@@ -7423,6 +7526,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-02T19:17:21.138Z"
+    },
+    {
+      "id": "6f65a929046d0901",
+      "title": "Pacvue, MPG Expand Partnership to Power Integrated Commerce Operating Model",
+      "source": "martechcube.com",
+      "date": "2026-03-30T13:02:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHgxXzdlZGxvWHBZczNNdVZJV0RJbXcxd2lQV3BzUzY4aTcxRDVyd2oyT002eEpBbFJFNzNzVEVRSFJ3TVRzMzNEMERCMVdKN0hSdGt3NTNuSGdzUG53X0hlcHRyY0F4ell3YmwxYjdRRUk3TFMwYkJyelZERlQ5QnM2bWhWblY5NlRwQ3NSZkoxaGVFX0xUX2NyVTgtLXBwSUVMWFFB?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-09-05T09:53:41.197Z"
     },
     {
       "id": "3a18bdcaac42a5b5",
@@ -8503,6 +8616,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-09-04T10:28:46.460Z"
+    },
+    {
+      "id": "a04b74c3ea56cd2c",
+      "title": "Lufthansa Group, Amadeus partner to introduce Order ID",
+      "source": "TravelPress",
+      "date": "2026-01-08T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUtHWGN3ejVHNkVZMjBob0hGeTdOdjViazJITlMyLUVkT1ZOMVUtMUMyYmNNQmdxSWdYcUk1dVl6MndsS3RSMERyT21iMDNqUnhsZVVTZ2pRTU5uYXFrN19lYzNtdjJsUzRLNmNXTU1nMXJkZ21pU3dKUjlQZUlqcVhvS2lQdEpobXc?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-09-05T09:53:50.248Z"
     },
     {
       "id": "0793d3295fc2f29f",
