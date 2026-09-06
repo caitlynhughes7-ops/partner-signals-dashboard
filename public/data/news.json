@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T09:54:05.283Z",
+  "lastUpdated": "2026-09-06T10:11:17.766Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 904,
+  "totalEntries": 913,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -194,7 +194,13 @@
     "b737132f681a337c",
     "606e086727829e87",
     "a2a9eacf88494746",
-    "157830bbf56c55dc"
+    "157830bbf56c55dc",
+    "29b1d8ad285ef7a1",
+    "d01e75e949117d63",
+    "f713b8704db0889f",
+    "0fff54a05977b31d",
+    "658318f7d8b439e5",
+    "91d430dd29a46bdf"
   ],
   "entries": [
     {
@@ -348,6 +354,16 @@
       "firstSeen": "2026-09-04T10:28:51.262Z"
     },
     {
+      "id": "9dd8e2052e97ad8c",
+      "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026",
+      "source": "Morningstar",
+      "date": "2026-09-03T15:19:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVE5KQzZGSFF3RVdjUVNteWlBYlhCVWF3eXo3N2JMMEdWaDN2aXlUSDlIS01hTXBuZXpoMXJhRXRCNWotOU9IOHljVlB1WFVIWXpWQzR2NkVSWUtSNEwwZHN5dUZZek9DSEdoSjBCUUpQRnZFVzFGY2R4ZHBVWVhGbGFnUHBOVkNSNHVYMFdUTzFIOU1qNUhKTXhDWnBqZE5pcWhWSmZodVMzd0pjOEdiRzJfREJ2WUcwcEI5MF9oQVgyRjg2cFVRODQ2dTJjYnRDOVU2S1ZLeHVMMzQxZVE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-06T10:11:17.764Z"
+    },
+    {
       "id": "b1b74184759947b8",
       "title": "Amadeus IT Group stock edges higher as AI collaboration with Anthropic and Paris travel data spotlig",
       "source": "ad-hoc-news.de",
@@ -456,6 +472,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-03T10:35:54.487Z"
+    },
+    {
+      "id": "43e458141fe5a4a9",
+      "title": "Human-in-the-Loop Models for AI in Biopharma Commercial Analytics",
+      "source": "BioProcess International",
+      "date": "2026-09-02T22:58:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkJwUWlSanU4NHV6UXQ5RHBsM2JSYkx5WXNTb282UWxXV19vWW42RWY0N0lUTDZpY2Zxai0tc3pyT09NWTYwYkM5ZzJuNVdZZHhYWkNzZWoyLVNQN2lBZkFzS3k0TVNsMFQwWEJJOWlaTzVtdFNmWXdSbUR1c1BudFV0RzU2WWgwU283TG9peTFrSjEwTXdOVHhNUlBjcmZJVTVMQ0prMW9fWTQtQUc2VER1bGpHR3BRVDNwT1AyY3pYWk5JdXYzVVcyX3VTeF9z?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-06T10:11:10.970Z"
     },
     {
       "id": "a96723d2d53b64df",
@@ -2498,6 +2524,16 @@
       "firstSeen": "2026-08-12T09:47:17.112Z"
     },
     {
+      "id": "7e63f619292541de",
+      "title": "The Rise of Digital Twins: Transforming Predictive Maintenance and Manufacturing Efficiency",
+      "source": "Metrology and Quality News",
+      "date": "2026-08-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2NxV2Qybk5aemtxUWl4UTNmNGNoT2F4NGFsUThzbElUOUZLMWNXc1ZuMG8xazJiVm5OWDVMenlRcDMycGhzRDFtdE1lcU1zVEdlZzJDRFQ1MW1WNF9GWjE4VmtyWGZaTktHaHEtX2UwOW9Yc19hNl9WZHZkS3RqTXQ3d1JoT1RBc1NhUFJfQWhsYmFRM1RkT2p1YmMwZG1GeGQtc1VYeHNsVWJwY3FWNGhhRlQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-06T10:11:17.764Z"
+    },
+    {
       "id": "a5dbf3b4733efb58",
       "title": "L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
       "source": "ThePrint",
@@ -2726,6 +2762,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-08-13T09:46:50.791Z"
+    },
+    {
+      "id": "26514742a6b2ade8",
+      "title": "Agentic AI in Manufacturing: A Leader’s Playbook",
+      "source": "Snowflake",
+      "date": "2026-08-08T21:27:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWN0eWUzMVVITG1MaU1BQ0lFMUJQS25BQVRETVpuWE1fT0xLbXVoRFdIWDJMNUg4NW1ZR3BLMTdYWkF2ZVZoV2tjalVhRTRnSk4wOUdOM0xYTVVGLTdXTnM3ZXl2bFNsYkFCeVFuMWlNMmlqZkh4ckpQcGdBcjBveVZOTTZqTF82X3VkVDdTSjlSUnlTbTI0Q1dLVkNyUllmVHpYNmUzUldGdERobGpnYg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-06T10:11:10.970Z"
     },
     {
       "id": "1e1780f904606d0b",
@@ -4238,6 +4284,16 @@
       "firstSeen": "2026-08-08T08:06:41.182Z"
     },
     {
+      "id": "6ef7edd6111c84ef",
+      "title": "Bright Data Appoints Efim Dimenstein as Chief Technology Officer; Ron Kol Named Chief Data Scientist",
+      "source": "EIN News",
+      "date": "2026-07-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmNydTctT19EZGM1OU9fY2lyb0Nzc2FSZDQ2NDZVZ3ZPd1kyMjd3M3d6TUJoVFZZWG1CbUMzTjVhUlRBQjR3U0lPVUxLYmZ3ZFJvWEo4WHFrcWRuc1d0a2t4VXZDX0xuVW9LR0FWY0s2UDNISWVxQlZmeGFPN3duLWxObUJ3TmtrZXNnc1UzeUUyeFJ1V2lHVG1BNWNJdnl0RE8xeHRjXzFEb2pOVDJaeXNHUUpkcW5HM3FHeFpiWHdUU04zVHVGZ2dsbU82cWpSYVE3UTJsRlI?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-06T10:11:06.743Z"
+    },
+    {
       "id": "e0609b1eebe734a0",
       "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
       "source": "Business Wire",
@@ -5588,6 +5644,16 @@
       "firstSeen": "2026-08-02T19:17:14.320Z"
     },
     {
+      "id": "8e09f7ab1b9ccf2d",
+      "title": "DeepSeek Closes Record $7 Billion-Plus Funding with Unusual Deal Structure",
+      "source": "The Information",
+      "date": "2026-06-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFFNdkNNTTdkVnBPSGJxdjNISV95TEY3bWY2bDBZbW5Vb2JqRlh6Nm9mcFNHbFJjcVBXZWotV3FoOVBOWllDbmtFSUx4SDlQN3NNbncyUXlvMzhXR3hxZGhJak1fUGVGVjNRVXBBMEU2UDlscWhEN1BCcW5JLU8xaGk5MEpNQ0htU0lTYkJWNlFyT01na2c0Wk9PUmlfbnR4WDNQTFJMdVFub0xV?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-06T10:11:05.607Z"
+    },
+    {
       "id": "2a3a3cc753f2a445",
       "title": "The Intelligent Factory: Navin Nathani on How Manufacturing's Next Competitive Edge Is Being Built on Data, Resilience, and Industrial AI",
       "source": "Express Computer",
@@ -6108,6 +6174,16 @@
       "firstSeen": "2026-09-04T10:28:37.972Z"
     },
     {
+      "id": "45af219c30fc7519",
+      "title": "Snowflake Inks $6 Billion Deal with AWS Tied to Graviton Chips",
+      "source": "The Information",
+      "date": "2026-05-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSW0tX0YyS21yRXVGWG9nRzhYRV9PTjZvMVJjRHdDVldSQmpEWEtLbGl5WkJ0aTJ3c042am1sb3g2S013ekRUYlJsaXE3aXhRdEFmNy1wUzhKU1RyNWpwR2FuUDI4TGNkOVNPZlBIU1RnOGpUVVlPYVd5Tm9xLUxNR2h6eWlxMUFSdjk3SU5rMk9PYTJObm1wRmp3?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-09-06T10:11:04.462Z"
+    },
+    {
       "id": "b5f8fc751f498fc5",
       "title": "Three Strategies To Amplify Conversation Intelligence",
       "source": "Forbes",
@@ -6466,6 +6542,16 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-09-03T10:35:44.170Z"
+    },
+    {
+      "id": "94a15ecb64026a5a",
+      "title": "Aveva expands cloud collaboration with Amazon Web Services",
+      "source": "channellife.com.au",
+      "date": "2026-05-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejNOVWJtRUJoUXZkN3IxOC1RUHVTUS1Ib2tXbzJydFkxeHZLZDZ1dkY4d0dfdlRKV2tZaXQzV041SFdVc05CMkV6dkdWSkloaDN5Ql9xcXpxakttVG83YWhld0VfZ2FYbDBpRklDcmxDRThhLURTY0ladFJudXRHNUdES3NuN0t3T1k1M2YtTDFkVW1zWWc?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-06T10:10:45.204Z"
     },
     {
       "id": "4736160dba32c2df",
@@ -6846,6 +6932,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-08-02T19:17:06.971Z"
+    },
+    {
+      "id": "470b2a15143cb40e",
+      "title": "Cambridge-based Aveva's £30m HQ investment hopes to boost growth",
+      "source": "BBC",
+      "date": "2026-05-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ISHlLdUdUaTAxSVlHMlJaaFlZaGhlLTlxTjU3LThQT3ZZLW5nLWdDZW11UjhicV92aG94WG1od0xmeDJMT2xNQ3duMDdjWl95cG1oOHNUVjkzWEdH?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-06T10:10:45.204Z"
     },
     {
       "id": "ad6d4249f067147f",
