@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T10:11:17.766Z",
+  "lastUpdated": "2026-09-07T11:27:16.038Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 913,
+  "totalEntries": 920,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -200,9 +200,40 @@
     "f713b8704db0889f",
     "0fff54a05977b31d",
     "658318f7d8b439e5",
-    "91d430dd29a46bdf"
+    "91d430dd29a46bdf",
+    "b448cc1f4e95af73"
   ],
   "entries": [
+    {
+      "id": "854dd117d49376cf",
+      "title": "Tech Mahindra launches AWS centre to scale agentic AI",
+      "source": "IT Brief UK",
+      "date": "2026-09-07T07:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQel9TbTFBeUxDVDc4SEo1aUVnZFI1QzE1NjBwN3RTUjJzTHIxeVB1NFU0Q2dhekZBcVJla1BaUlBmcHp6T1Zucl9vRFpsSHZzM0xBY3ZFNUpwSmF2RFRSOTViSWFua2lfbTNGaHprVS10dkVYQllnLXRKSzM3MDZpeVN6czlzR3kw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-07T11:27:09.117Z"
+    },
+    {
+      "id": "87b7189c57a1dff0",
+      "title": "Anthropic Launches Agentic AI Commerce Blueprint for Claude",
+      "source": "Fintech Singapore",
+      "date": "2026-09-07T04:48:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1Jvd01oeV9uS2ZGUktwZFRuOVNHR2pSUmlXeE9ueFg1Rlo1SkJkTTJPVGhnczVWNXhNaUJmYnVWVGtrS1Q2MkdzMWtubEtuY3FkUHduTjVKRFBOYjNhUWlZaUZJbTFYQno0cTQxWEJLTzEyRUg5cHBQQkJVUWVwTVdDd1VWb3M?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-07T11:27:10.251Z"
+    },
+    {
+      "id": "ceb5bee96949fb99",
+      "title": "Fynd founder Sreeraman Mohan Girija: here’s why agentic commerce represents the next frontier of retail",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-09-07T04:12:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSTlHVlJ0ZUlrdDRWOE53dVpzV0FvbC1QMHZjUGROS3N3dk1nR3ZpZHZuTzFYTmJGSHhmYUFqQ0Ixdk1Uc0lLUTQ1YzZPYjBBck9GdTlmQmI0OEhlU1pUZk5wYm4zbWlLSmRmZlo1R3g5RTl4YTk2WEFDUW16dV9Rd1NQbzk0bnp6bDFjcmRraHQwY1U0dVNYWklPNjFWdDNnUHdlSjdraE4wSUQzT0JUYnJHaGdWVy1WWDY4SjY5d0pIeU8tQjJSZ19kb25VeWdDaGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-07T11:27:10.251Z"
+    },
     {
       "id": "b25a17ae1722498e",
       "title": "How is Caterpillar Advancing AI in Robotics?",
@@ -232,6 +263,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-05T09:53:58.608Z"
+    },
+    {
+      "id": "586bc489cb149c18",
+      "title": "How Andreessen Horowitz Turned Its AI Bets Into an $8 Billion Bonanza",
+      "source": "theinformation.com",
+      "date": "2026-09-04T16:01:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTVvUEFGOTNDVDctQmxZTlo1T1BXR01mbk5QM3ZBVVQ3NW1na18wZEUyWmtVU29tY1VKN1R3OTdmSUQzLU1BYTBpYngyMzFkSVVsblZDM0dSMFVmUTVlcEgxMmlBT3BQTC1oVEp6ZXo0eEo2T054S1JRTElXOTVkVTB2YUtIUVE0bEk1aGhTRUVENnVOSDhJ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-07T11:27:03.899Z"
     },
     {
       "id": "4d3ea774c9451dd2",
@@ -342,6 +383,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-04T10:28:45.446Z"
+    },
+    {
+      "id": "30863a7c10255512",
+      "title": "Anthropic’s Merchant Blueprint: A Key Step for Agentic Commerce",
+      "source": "PaymentsJournal",
+      "date": "2026-09-03T18:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXhnYXJzS2FwcjJ1NWVHNUVqRlVXeHNlSlNTY1JHNzFmV1RFWWFEQ3lDeWZaTXc5LXRVVnRKOTFocnB6T3NITGg1bUg0Z1dXcjBEcnlMQ2VUUzg2cGhPNFZBM0lCSzhuRWhldzRQVEEyWFpxbmhmYU1HOWNGeVBUcmNYdGlHVzcxYVlIRkxkempKYU1NNGFCQUV30gGfAUFVX3lxTE1RdGhEYmt4WGUzRkZzRm9kTUhGNkF0NkdNUGpVVHNpbjBYTzZTU3BqSlNDUFJmZWFNMXNrX25nSHlMVUFLRjFBV21vc2J2Y1FuanFtc29Dd0dlNTFKWGZOMGY4bHFkMVprS3VWZm9fNFJ2QTBYcDM2a2FqTGxyMUdOUU94aGwzSkU0Y0pqWWQyM21BM18yajRJUUQzanM0dw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-07T11:27:10.251Z"
     },
     {
       "id": "03cdec0da2f240b3",
@@ -832,6 +883,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-08-30T06:05:00.019Z"
+    },
+    {
+      "id": "6e85c25d68dd6e72",
+      "title": "10 Best AI Web Scraping Tools (September 2026)",
+      "source": "Unite.AI",
+      "date": "2026-08-29T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZXhxV0RvQ3lDZFBlOEdRM0hNdUpJcXBHR0RNdHlaM0NwVUhhZjhQbzBjb0N6dzFRQU43eXRIT2Rld2xTXzE5NC1XakNMeElqUzNBdUpRTVU?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-07T11:27:05.027Z"
     },
     {
       "id": "f7c141af7b5e1ddd",
@@ -7272,6 +7333,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-08-18T07:58:34.416Z"
+    },
+    {
+      "id": "981439b8f6b84aa3",
+      "title": "Dunnhumby Research Shows Evolving Customer Perspective Of Retail Media",
+      "source": "The Shelby Report",
+      "date": "2026-04-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlpIT1FDWjNBVDBvTW1ReVJxZlNacmNqRmZRUGFhSDVNdVlsQl9tMTllUnBRWFVzNWJXOVYtXzJpcDZ1TGVld19LTnpTTFRMazFaZWVWNzR3cGJEQmxTd2VlLUM2WHBGZDVQRV9FOXdxU25zZU9rVWkxcnJDMUtfcW1hdWp1UzRCUVA3ZEJPWF91QzZJYTRTTmpwZGFoQUUzQmxodVYwTnI?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-07T11:26:55.382Z"
     },
     {
       "id": "ef248825a782e145",
