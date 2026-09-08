@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T11:27:16.038Z",
+  "lastUpdated": "2026-09-08T10:30:25.750Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 920,
+  "totalEntries": 928,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -205,6 +205,36 @@
   ],
   "entries": [
     {
+      "id": "972a5866b180f947",
+      "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
+      "source": "Retail Dive",
+      "date": "2026-09-08T09:00:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZjZWFzdFdzWXVPZkpLclJwZ3hnNDFvdTY3OFJIU1ViTlk2Tjh6aXFOTkgySmlNZnVYR1JVRWhlcW9rTGxacGNtOUVndEo1aS1lWENWUTVBVXpHSFljWEhtSzItZ0pvdkNmZkdrN0oxbl9DXzNueWJud3gya243cmdNV0drU21RaGZoWUg5OEdpS1J1WU8zZDZUM0dSTUQyWEs3Q00xSEs1UE9sUklCbVNFLXd2dw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-08T10:30:19.858Z"
+    },
+    {
+      "id": "7ec017221c39737b",
+      "title": "AI & Automation - the Future of Citizen-Centric Manufacturing MSMEs",
+      "source": "ANI News",
+      "date": "2026-09-08T06:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2FmcTk3eWhTNEpqUS1nRTgwRGhVMVdEOUdwTV9JX2djSUVQQUhUZXVIaGU3UVRhN2ptZGNVQmJmTlluVTNDeVY5SjJ0M2lBQy1Pa1hoM0VIZjdxaXJsQU9GNnpUclhtWTF5WVlveWtERFlKVW0yWVZEbEExOU11ZGQwMzlSbk9qWGVYSVpqLUlJRkdqckdZd2hmX09OQTRXUGt3RTVUOGdTcmVueW9VYTJLM0NucmhiRkE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-08T10:30:22.108Z"
+    },
+    {
+      "id": "62cd0ec0ccd219da",
+      "title": "Agentic Commerce Has Arrived, But Not Without Complications",
+      "source": "International Business Times",
+      "date": "2026-09-07T19:30:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1oyUHhGTkVJUGc5dmo3UmxoV0w3WjdpSHpFUUNJaE1LUm9Wa1RyQjVEZVktOExVb09rZXpzSGg2aExTNDUzdFRRQ2lzeHpaTVZ0Wng5THVBTS1kbU8tYzdWQjRLQ08wRUpuWnJhQ1p2eXBqODNlRm5ySFRpbnpHcWxKUW5NZV9SYWlrbXpnTQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-08T10:30:19.858Z"
+    },
+    {
       "id": "854dd117d49376cf",
       "title": "Tech Mahindra launches AWS centre to scale agentic AI",
       "source": "IT Brief UK",
@@ -233,6 +263,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-07T11:27:10.251Z"
+    },
+    {
+      "id": "bb8131e13dc96090",
+      "title": "Agentic Commerce Starts With Product Data as AI Shopping Metrics Take Shape",
+      "source": "eweek.com",
+      "date": "2026-09-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQb085bExONHpsb1lkT2dzeGt4WTVISXlNZURfV2VuOHlMMWtsR0FXRjNPNS1aNlhqMVgtZnBZNGNQeEFyR21rcXhEVTZPUTVGRUJGNi15U1dtZ25HaFVCaWhvZ21nSHlK?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-08T10:30:19.858Z"
     },
     {
       "id": "b25a17ae1722498e",
@@ -273,6 +313,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-07T11:27:03.899Z"
+    },
+    {
+      "id": "5ec4142cffa6bd0a",
+      "title": "Anthropic launches AI commerce agents with Visa and Mastercard",
+      "source": "Finextra Research",
+      "date": "2026-09-04T10:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVVNdTBUdnhDbEFnNVFYX2NBcGdnSE5vNXFOcGNvUTZiQzgtcWpLU1BwMTA3dUFGOVp0TXdwbDlYOUJ4cVVKY3ZpTFJCY2tGUkVadnNfU1lSZVZLT0pQSWdBNk90bm5OUnNfam5va3dDVzV5WWZ6UTBLSDBLLUdJbHk5dzNtbFNKcWhackxFRXBoMjhBc0h6c1pwcFVjYkZuRjZMM3EtVHU?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-08T10:30:19.858Z"
     },
     {
       "id": "4d3ea774c9451dd2",
@@ -2283,6 +2333,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-09-02T10:30:35.453Z"
+    },
+    {
+      "id": "791aeb82dc76a0a1",
+      "title": "AI Just Made Retail’s Long Tail Pay Off",
+      "source": "PYMNTS.com",
+      "date": "2026-08-13T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajJpWm5hSHRHeHU1NGp3cm5LQm5GUm1XRUdKOWFxWEZSSzZ4NnpzU0FweUJzVFppd1ZCYkVWMlB6a0pIZzdkdTVSc2ZWd0hJSHlIX2dGX0hvMjZOQUtNYmRjVFFtUDVoVmRzWmNib1VzVTZYXzFLVU1memdJMVJSZ25IZjIwUQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-08T10:30:23.378Z"
     },
     {
       "id": "0807bab4451cf609",
@@ -5905,6 +5965,16 @@
       "firstSeen": "2026-08-12T09:47:18.273Z"
     },
     {
+      "id": "2370ae3dd58da3e4",
+      "title": "Researcher finds Bright Data iOS SDK turns smart TVs into web-scraping nodes",
+      "source": "SC Media",
+      "date": "2026-06-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2lEYl9WWS1JUUpqT0xMSURmTnppWjdxc0swaE1zUV9SOHJYNFNPd0F4Q0NMQVdUOUVaYjFTckQ1MUdzeGgxZE56MlhEd1FjOGpONi10SHp4ZXNWQmxmNUJxYlltOV96UGEteXoyN21MR1VJbE93bFRuMzdhVnQ1a01nNUlTRGNObVJabHpTT2FFTXotcjdQLUpB?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-08T10:30:14.449Z"
+    },
+    {
       "id": "a65c107392f0fdab",
       "title": "Bright Data's AI Agent Builds Web Scraping Pipelines",
       "source": "StartupHub.ai",
@@ -6733,6 +6803,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
+      "id": "06b8817917f67583",
+      "title": "AVEVA Announces Collaboration with Snowflake to Accelerate Industrial AI and Unify IT/OT Data Ecosystems",
+      "source": "PR Newswire",
+      "date": "2026-05-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSEhBUWJkUWxWazFYNWhQaHZya2tYZXlqbmx2aWxROUVfRVNvVFlIQXNNZ29rZW9GUG5MbnVpN2RIV21ZcjBiRktZSGtKTFdKb1FhZXNjc1p4N2RXQ29hU0JQSlZrMzdPSkVzT1B2Zkk4TW50ek5LWUlRTnRSZ0hVblFmd1dPZWN0ZTlrWW5BcmdaWDdLWGJ2eVlLUUJzNUNqRlhOZWR1NW92WWs1YmpfY1FOZlhoTXNSV3o1M0ZVQU0xMVBfc1l4eDc1bmpvYmxaVjdsaTVLeUluQ0VNUDZLR3YzUkdKM1MwSWlsU2RBSks?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-09-08T10:29:56.384Z"
     },
     {
       "id": "3f8971a6a1979fcb",
