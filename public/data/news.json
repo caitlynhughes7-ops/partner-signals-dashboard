@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T10:30:25.750Z",
+  "lastUpdated": "2026-09-09T10:41:27.579Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 928,
+  "totalEntries": 935,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -205,6 +205,46 @@
   ],
   "entries": [
     {
+      "id": "884d9f7c612e9ded",
+      "title": "TCS Launches India's First Lights-Out Factory Lab To Drive AI-First Manufacturing",
+      "source": "NDTV Profit",
+      "date": "2026-09-09T08:28:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejhYTWplaU5ESlEyUVR2LVF0bTlxbFgwaTdhb0RHby1TbnBWbjkxd05YcERuVHg2eldxc3EzX3VJdU1BNW1IYlJBR3FLSWItdjI1ZnNiRDBHb2VxMW1ObFpta0FWRm1jSVpfaUdaLXVEZThDN3NITVllYzNCaFFaQjcxRTFsTDkzMHBIZGpSQ01WeTQ0TXplcm83OFN2dDBjUll3cHNzTmFabTNxS0J1MDMyaEE0WjVOQ1I3QndCNi1GempqWlc00gHPAUFVX3lxTE5rXzluNGozZ2pPUmJNLVlkOVdYb3VLWjZ3aFBQal92cTRRclg5V1ZOVkV6ellOVXBic3NfRTBVYkNUMnptbURyM2FwUVRRdnN5Nm1VZlNWYVE0ZGxaMkNwR3FwUlRnQzEwLWdWZXVadWJFNFlMeDdVX2w3QkwtejNUZk9wOFg5djV4OXY4enQwS2FlVFpRMks2eUlPYk82WElIQV9kSXllUVhiZkRpclBwdF84TXNXR0NlTHdIdUViTG9fdjJsTDIxWU5IRGM5VQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-09T10:41:27.577Z"
+    },
+    {
+      "id": "9bc300e246df945c",
+      "title": "TCS takes AI-first manufacturing to the factory floor with new Pune lab",
+      "source": "Techcircle",
+      "date": "2026-09-09T08:02:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzA0eERQQXFOQnM2SHBqMDY1dmdUS3RHU1NKOGppWnZIUmEtcEtpVWc3WTdUbUdZRkFzRWd6TWU5cDFLSmxNNVdxN0JIRmZwb0xJdVVSMHhGMXJjMkQtcXFCamJ5YjcyWE1ZOUxYMUkzMzkyUnJhV2R1TDQ4WlN0NlRwUUt3Z0lScGk2RllrWFJndlljYTFVLWdNWXc4WW05eDBDRWgwWVJZbzNw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-09T10:41:27.577Z"
+    },
+    {
+      "id": "c541a90d67e2cd06",
+      "title": "CRTO: Agentic commerce, retail media, and OpenAI partnership drive growth amid strategic transitions",
+      "source": "TradingView",
+      "date": "2026-09-08T20:51:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUl9fUjBDYmUxQXZQTmxZNkJQeHZTai11MGtqc1gyNGJISzFnN0pYQ0xnQkxSUDUtRkt4X0hrWXlJS2pYUVFVUHlBMEx3a2NqNUp3T2lOYkZIOUM5VmdsNUxOTlFaUThoaWlfS2dra2x5WHJac2ttVEk4aWxlVHUxTUNETGtOSGRNNkVYRndDTXZCSEVnemV6OWVVVXlPVERlaWhLOUJna0V6U1R3Y2JWY2NoWk4zQzItUEdjSjVwMnh1R0dWYVhfTGNERy1QNW5RaDNwYTNYazYycHhhNndEMHZuMkN6ZU9FWWw3OWx4OW0zZVpkTnJ3V1FBeHVHdzJ0ek5iUldxdjJTYWt6UzJEOTJB?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-09T10:41:21.825Z"
+    },
+    {
+      "id": "bd5ce4dce97d2ee4",
+      "title": "CRTO: Driving growth through agentic commerce, retail media innovation, and global tech partnerships",
+      "source": "TradingView",
+      "date": "2026-09-08T20:13:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdlBpTjNGT3NReUplc2doRi1VRXhQRGFYeUVNVkc5U3UyalktdmRvM3NGQTh1MjVsQzRmbjBYVXFYXzJfdy1ELTN6RWp0N3ZJNE4zbEpjTXZPNlJteGFIeUFDZUk5OWhlZ08yUDhra243THZzOHM2UHlSS3dVcDBITUFEZlpiS1JnV205WGk4bjlaUXlEdEhSZXhNZFQ3bEZJTmZDdkhPbVNjT05XMFIxbHJjekVUOHdfc2RGUVhaYjItM3dJTG1wWHJnUlhvaTkzU29PX0xIcVNIOEQ3c3ZlX2xtNWtXSU8tcUVkZWZWNG1feTdUemFyQTJpVDNIQWhSaDUwUEZucXl1alh0ZlZPdXB3?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-09T10:41:21.826Z"
+    },
+    {
       "id": "972a5866b180f947",
       "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
       "source": "Retail Dive",
@@ -313,6 +353,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-07T11:27:03.899Z"
+    },
+    {
+      "id": "361ecf6c2256d350",
+      "title": "How Most Manufacturers Are Adopting Agentic AI Without A Governance Plan",
+      "source": "Robotics Tomorrow",
+      "date": "2026-09-04T12:54:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjQ5Zm91andiazVrQktPVXhCcWN4VEdmWVhHcC1UOUhRTmIzdDI0YzFYVjZiRHZ6WFBNNS1rdmdVWGtZa1dWdWMwUnVpVGVDamY4Z1JkR3ZieHJfRmFmTlNlQmo1WHJpSkozR2lLNFhVdV9wX09xSEtPdS1tN1RENHFtWkVrbXRMQ2N2VFMxenpqLThPY1ctcnFHM3JQXzNicExyY3M4cU9ndU5Xa05UNk82UU0xMnBmZF9vQW90RXRjdnRr?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-09T10:41:20.618Z"
     },
     {
       "id": "5ec4142cffa6bd0a",
@@ -4955,6 +5005,16 @@
       "firstSeen": "2026-09-03T10:36:10.968Z"
     },
     {
+      "id": "a134a066fa2edb26",
+      "title": "SoftBank, Altimeter, D1 to Invest in Thrive Holdings’ $2 Billion Financing",
+      "source": "The Information",
+      "date": "2026-07-06T20:10:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamNtd19oME40eU9jZHN5dF9QMXM1bGNXbDNZTjBLMk12aGs4eHFyQUk5a1Q0TWQtQjR2VmZYVzlBVlRJbmp2cjRRN1ZyeXJGNEJxRHljTkJaNzBrZVJaT282ZVNCTmRTQm1jeVlvNU9fSHFFNUExakgxU0pnMnh4TnJWanY0T25tYjVqNU8tQ2o5c3NhZ3VtOERyQkpDbENuZ1Z0T1dDMA?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-09T10:41:15.059Z"
+    },
+    {
       "id": "b745998b43d330ae",
       "title": "AI and Digital Twins: A Powerful Synergy for Industrial Transformation",
       "source": "ARC Advisory Group",
@@ -6913,6 +6973,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-05T09:53:54.541Z"
+    },
+    {
+      "id": "7e49492d58a25c33",
+      "title": "Drocke, Amadeus partner to unlock zero-interest infrastructure funding for Nigeria",
+      "source": "The Sun Nigeria",
+      "date": "2026-05-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXZQMElxSWt5a1B3N01WZHMzajlJbFA5UFpGV2hXS2Z1bl9kal9lMVoyTGhRMUJFWG1wbGpIRGIyOEtPQXFrQWYzWmVrUnpBUEdNSDlXSkhObFJ0b0l2eHVTakJiczlNb2FrT3Y5ZnlGTmsxV0oySFg0Y19UaW5uZDQ0bDlaanY2bU5hREM2TGtabGs1U1lCNWp5QnhiWVlyOWc?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-09-09T10:41:11.668Z"
     },
     {
       "id": "499c8c1f836315ef",
