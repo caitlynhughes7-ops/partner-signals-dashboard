@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T10:41:27.579Z",
+  "lastUpdated": "2026-09-10T10:30:14.242Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 935,
+  "totalEntries": 953,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -205,6 +205,126 @@
   ],
   "entries": [
     {
+      "id": "cc6dfc6b6ac48200",
+      "title": "Bosch SDS Partners With Dassault Systèmes To Drive AI-Led EV Manufacturing in India",
+      "source": "Sahi",
+      "date": "2026-09-10T09:49:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0UyNHR1ZWpTRFV0d2o4Q2tGTkhjTjc2N29HYlNkZjQzZ0d6ZzliSGZ3WVNlSUY3UTZ1TmtrNkpOLWhDakdDaEc2OVp6Njd1NFJGN3IwX0s3bGhLaTJLOWVUZnBObzJuOXJRQTN0OVpkbkt6YXg0UHJUZTRBSC1qWFdnYmFmcF9JcDJ6MnZmaWdUcVVESWcweVZremRmWk5uZUpYMlM3dnRGYUFMV2lTdGtzNVJSZm5UQS1Fc2RiWQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-10T10:30:14.240Z"
+    },
+    {
+      "id": "7c7a57e1722d2894",
+      "title": "SPAR to launch its first retail media network across Central Europe",
+      "source": "Performance Marketing World",
+      "date": "2026-09-10T09:29:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmU0ZEtOUG5VUzZRUHVKaE9rWDVMX1VNQVJCZVE5S011VFBPbHVlOVktY3pfaDlwT2xtR3p3SWwyMzROSWRycHFMSkM1NTN1Smg3UDctUTBXdmdPZ3dQTm82Z1R1QmZBd2R0WUlqaUV5Tkl1MmxYTnNRbjBkaHNHVHVVLUpmM2tmQnJ2bG4waXg1UDFxakQtbENBQ2M0UWsyaEdFV0UyNmM0OE5leEwzR2psUTRCZ1Jha1I4eG1hWQ?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-10T10:29:53.277Z"
+    },
+    {
+      "id": "db15384dfa963718",
+      "title": "Agentic commerce: Why B2B haggling is ripe for disruption",
+      "source": "Business Leader",
+      "date": "2026-09-10T08:27:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHNtNGpfbThvbHNFdnBnWUY2WjdsYk5iX2UwVlEyWlhWc2JwNGE3d3haVHhuempERFhXOElGTmUtZGs1X0tvUEo4Y1R6VlJIa0JpMlQ1cVRwcTloTjNOaW1xeUFMT0thVkhJSElabFZjVWozZmVlY0k0aHFZb2dxZDhPUW94a0ZVaGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-10T10:30:08.375Z"
+    },
+    {
+      "id": "e63893a618dcd092",
+      "title": "37 South Korean Construction Equipment Executives Trained for the 'AI Agent' Era",
+      "source": "finance.biggo.com",
+      "date": "2026-09-10T07:06:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclp0SDZlUHFudlc5UGMyRmlDWmtDc1VTYndlS0FDdS1rVXVKeHcyMnFWRzctWjNNdk9MU0tXRG01aWM5RENMeXFqamdGN1c3SnJUa0dnM2NXc1hXY3FXTmZCN3RsMk10dExmZVprNXZXVkRJWUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-10T10:30:07.179Z"
+    },
+    {
+      "id": "350ff3e20d5ab6e0",
+      "title": "Bosch SDS, Dassault Systèmes join forces for AI-led manufacturing in India; EV maker gets first deployment",
+      "source": "Fortune India",
+      "date": "2026-09-10T05:41:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUjhZYkt6UlViOEdxZTgyWDJQOHBocVlEZFFBRUVqX2xPS3FOcVdqNVB5U3NKclZkT29wNVhoZmxfbWI4ejM1bWhrbkhHUVZsenp2NFdDeXZRQndjWXBscUNpek5GaTNSWmZ0WnBxTFB0Z1FRaE92SGNlU3cyM2JRZWxZSkxNRzNrVC16ZWt4SlFDeWxEU3diM0hTa2JTQ29id25mSUh1dUstMnUzdGtPUTRZSWd4SGtKQ180c0tVdHRPWFJJVVlHTFpGYzBjY3hFT2VjSTRUWkc4RU9uX0FTbHRVUnZYLTItMUg3S1UxRTNkZGdxUnYxYm5n0gH6AUFVX3lxTE9SOFliS3pSVWI4R3FlODJYMlA4cGhxWURkUUFFRWpfbE9LcU5xV2o1UHlTc0pyVmRPb3A1WGhmbF9tYjh6MzVtaGtuSEdRVmx6enY0V0N5dlFCd2NZcGxxQ2l6TkZpM1JaZnRacHFMUHRnUVFoT3ZIY2VTdzIzYlFlbFlKTE1HM2tULXpla3hKUUN5bERTd2IzSFNrYlNDb2J3bmZJSHV1Sy0ydTN0a09RNFlJZ3hIa0pDXzRzS1V0dE9YUklVWUdMWkZjMGNjeEVPZWNJNFRaRzhFT25fQVNsdFVSdlgtMi0xSDdLVTFFM2RkZ3FSdjFibmc?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-10T10:30:09.446Z"
+    },
+    {
+      "id": "a063e8d684e403b7",
+      "title": "Bosch SDS, Dassault Systèmes join forces for AI-led manufacturing in India; EV maker gets first deployment",
+      "source": "Fortune India",
+      "date": "2026-09-10T05:41:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2VQd3lySXVISjJzZURodkZNR01IdVBQOFQybHZrbXZpUElBOG5zUFhTMU5taXJzUDhlaHFPdjFBQkJFdWxZc0x4S3dPZEJ6WUg1U1FJTUdYQ3p1ODFpTnIySlRGRWV3Wlh0eTZsRXhMT1hWSmhsbHlFWXYwZ0YwRWFUSW53aDd4dFJVaWp1RmNQd0ZCTHRwc2FDbGxDZWwyZ1RqMnlmaDJfYUc3LXlQYXpFLWNVdGdYbVpTY2Vub3BYNmk2RVBTY1ZhQjBvQnBybG5ieWNNSEtuOWdjTjBsVFBGUmVxR2ZIaThCb9IB-gFBVV95cUxPUjhZYkt6UlViOEdxZTgyWDJQOHBocVlEZFFBRUVqX2xPS3FOcVdqNVB5U3NKclZkT29wNVhoZmxfbWI4ejM1bWhrbkhHUVZsenp2NFdDeXZRQndjWXBscUNpek5GaTNSWmZ0WnBxTFB0Z1FRaE92SGNlU3cyM2JRZWxZSkxNRzNrVC16ZWt4SlFDeWxEU3diM0hTa2JTQ29id25mSUh1dUstMnUzdGtPUTRZSWd4SGtKQ180c0tVdHRPWFJJVVlHTFpGYzBjY3hFT2VjSTRUWkc4RU9uX0FTbHRVUnZYLTItMUg3S1UxRTNkZGdxUnYxYm5n?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-10T10:30:14.240Z"
+    },
+    {
+      "id": "fe4b969f8d9bd2f3",
+      "title": "Bosch SDS, Dassault Systèmes Partner On AI Manufacturing In India",
+      "source": "Autocar Professional",
+      "date": "2026-09-10T05:06:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHRBekFaTWRxREFLSG5SM2NfYkFmZV9ILVJkbUxUZWsxWENPWUgzUldOZ3hYbFM0WlZ0UW9rUFQxUktzTUFmQndXenBERzlkYTBVTXBWQmszYW95Y2VQdHVFN3E2M1U3Mkx6Zy0wMUFrb2w1RFl6cjdrVUM1c1YzbkN6bjdyR2R1ZjFMXzFhNEcyNGpQbWdwNE1qaF90cHplQzAtTNIBrAFBVV95cUxQdkdrTGRuUWZpTXozalhyTzdPM1JLWFZnMlFEN0xwdl96Nkc1RTl5NW1hbjJwbFBfTkRMclB0czh6aElFRklHTjJETjZFTVVyYXhsckR4VzBmelN0a1Bsdi1xVnBzN2E3MEtOOUxGdkVyT1Q4RlA5ekJ1ZjVZRWlPOERRSG1xQzdmaWFVTTg2OG5YOExnZzhaVnludzNIUjRDeERLOEQxZy14dkc3?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-10T10:30:09.446Z"
+    },
+    {
+      "id": "d834a185d9a45aa9",
+      "title": "Facebook partners Dunnhumby to prove impact on FMCG sales",
+      "source": "Campaign UK",
+      "date": "2026-09-09T20:43:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTFIMEhEVG9rWUoxVkJIOVNHcUdTRk1ISHE3YVhEUDRnWmxkTkI5M2hmWVJJQS16OER2RkdqSzk0UUxtZVkxTjZTQVFXd0d1Wm5uTjJMYVJnLXNtVG8xemwxaEl2RnR0OFByc0V0M3djRHl3YnB1Rkhrb09XdnFRN3pOZjlIcUJ4aE9OTUFRS2VjU3REYlg2UnJoUVAwd2piRzFGMkNlQUN2SXAwUGwyMWtIT0ZvRUJqdUVOcHhfOHo?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby partnership",
+      "firstSeen": "2026-09-10T10:29:52.218Z"
+    },
+    {
+      "id": "98819eb4bdc24be1",
+      "title": "2027 Checklist: 10 Supply Chain Priorities for AI-Driven Operations",
+      "source": "Analytics Insight",
+      "date": "2026-09-09T15:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWo5Z184MG9CekcwZXMtTFNkMG5EQVFxQ2RxT3RRLXlIUU4xTEFzSXZ1TXN6RUFaOXNrZVQtSVU1SWIzM0NfcHEzN3FfLUlzNkJzeDZpbDVqYlo2dHp6Y2VSbER2OG41OXRjZ3Voa2xNVVhXSDZ5bVhSOHNhazh5eXhVTFo3NWRhUDhXQjdEa0xvSG9maVd1NTd4QnVwT1Y1OGFrOHB3RXphcnZoRDF6V2FsQkxhV180UUlmNjE2M3XSAc4BQVVfeXFMUExJSThwcUkwM040UjRObEdjcjZLV0lmVDBVdjFra1VBYkxzSndSVE9jb2pNbld3MnRvdmhzZW01NFNzMFZteEZ2cmZTLWVOejRwUzhvUlFfWERaakhlTlBsZU1sSnhPYmlqSURSVEt2cXVvRTUwbTR3bG9Pa0J0VUZsNnNwZFpRcWdfbzNDZWlabmoyWUxFWmVpZ2xLSGxwNnZoQ3JaVk5ZZUZlYVFwTGZNWHpuWkZjVFNfUkJmbFhIejRXcU9HU0N5a21XMnc?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-10T10:30:10.664Z"
+    },
+    {
+      "id": "cf7c5a65ebe240b5",
+      "title": "Factories are still some distance away from fully autonomous operations: Experts",
+      "source": "ET Manufacturing",
+      "date": "2026-09-09T13:07:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1N0aWt0OUJwNHJ6QWsxU1JVanNCb3otNG1Ua1JjQ2FWbk5mZW1QUjhzOHV5S1RKdkloTHhXV21OSjVvTm9aMVRRcXpSWHNhZWNsM3JPOUFWS3dBalZTUEhxOTI0cEFzYXFGUTNCMmxzcVltcEZIckxUWlVncThJeDh3OHNaUE10Q2xhc2dwaWVkOGk1bm1UMzU2Rm9GN014alk3cUlVeGRBMlhNMVE0akNCZGxBeHo4T29nMVVOazNTQVNCcU1mcWdjbDZodEtMSE9Tc3JpZnkzb2FrRFU5SURDb1VEUThfQWc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-10T10:30:07.179Z"
+    },
+    {
+      "id": "674b68eae731d3a2",
+      "title": "Why High-Recall Web Data Infrastructure Is Mission-Critical for Next-Gen AI Systems",
+      "source": "cxodigitalpulse.com",
+      "date": "2026-09-09T12:57:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXF3NkpfWDl2UUxCTlZleVpPVDhtTE5PamNZbzdDc3l2RmhYOFlTUGpHd0tGT3l3WkNfZ29fNldQZnJfOUpnM250Q1NjUlRScFZDWEJsd0NQNGJWV05RRnNtcGlUWU8yQlF5LVVOWk1nYWowaFMyNE9ZMXpIaTVDV0ZpVHV0R0RPcmJzY0hhUmNMQkc0eWg4WXdkVEVPV2VMdDM0X0lOVDBwdC1CRTZCUHFnMnlCUW8?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-10T10:30:03.012Z"
+    },
+    {
+      "id": "ce3e4e3b5beb7289",
+      "title": "Suno launches v6 AI music models in partnership with WMG, BMG, and Believe",
+      "source": "Music Business Worldwide",
+      "date": "2026-09-09T11:08:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR05oODYtY2g0RXNXYzNjWHBmX1pVUG1LNkhXQkpnN3J0ZXFMUE1nRXZuS0N0SUtMUTNfTjJIVjdPUWNKRXZnMWNDU295bWlaNDJ4NTItcjRLb1dKOHVDWTZib082ZWk5bVlSUWRsbl92NFJYNk1sb2hZcVhvUld0aHVWdy1TOGxRdFNPVGJfMUFTRFZncklwTy1Jd3I1cHNhNGh5MTk4ZWUtd0JIbnhv?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-10T10:30:01.812Z"
+    },
+    {
       "id": "884d9f7c612e9ded",
       "title": "TCS Launches India's First Lights-Out Factory Lab To Drive AI-First Manufacturing",
       "source": "NDTV Profit",
@@ -245,6 +365,16 @@
       "firstSeen": "2026-09-09T10:41:21.826Z"
     },
     {
+      "id": "cf965d93c30be36c",
+      "title": "NIQ’s Optiq™ Goes Live in Discover, Expanding Access to Trusted Consumer Intelligence",
+      "source": "NIQ",
+      "date": "2026-09-08T13:49:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzRqX2ROYVYzSVpZcm9uMGQ5SC1xY1hSUjBjOG1ZdVlhb1hWUDRtZGUydktaQ1RLNFIzbG9hakFKNWxSdkwwUW1ZQ3h0RFFvTllRcm11UHFCWjRpNUdrRU5IMTlJM1pUTWZSSHZ0cVpjN2J1a2RrVVJkcjF3VzNXOUhnQTM1VW9fcExQT0JValJfcW5XS0NSVWQ5Z2MwTFV1VkpHbktwZGVsYnp2elBLRW0tUnZaNHBrd213ak80ZG14OUtVS2Z5QXZjcUM?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-10T10:30:06.032Z"
+    },
+    {
       "id": "972a5866b180f947",
       "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
       "source": "Retail Dive",
@@ -255,6 +385,16 @@
       "firstSeen": "2026-09-08T10:30:19.858Z"
     },
     {
+      "id": "ca0dffa07ee2298c",
+      "title": "How AI agents will transform shopping, payments and commerce",
+      "source": "Mastercard",
+      "date": "2026-09-08T08:36:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXc3ckxwOHcwanlzUF93YnN4RS0tMWoxaDhSMExJSE96Q0VEa3hzcm9yME1oU3ZZU3dNNTFPOFVCZUJJaWM5cmIwVTBDN0JyMHFJRW9HN19mZ2tDUHNjcjFOcUd6QjVmNTVoUW9lM0ZXMUxNbHliT2Z5dThXUm9Yd200d2VtYzRqY3IxRTZHN2VyY1lzMVVYTTRNZFNkdkNiSHpPZg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-10T10:30:08.375Z"
+    },
+    {
       "id": "7ec017221c39737b",
       "title": "AI & Automation - the Future of Citizen-Centric Manufacturing MSMEs",
       "source": "ANI News",
@@ -263,6 +403,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-09-08T10:30:22.108Z"
+    },
+    {
+      "id": "9001ec2e77d3ce55",
+      "title": "Mastercard report predicts that 1 in 10 people will routinely use AI agents to shop and pay by 2030",
+      "source": "Mastercard",
+      "date": "2026-09-08T04:58:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZ3JQcFI0d29ORTVqajBueEg3Y180NFBQWGV2NEU3dzliWHZGVUtzcC1EZmJGQjRMZEs1QldMY3E5Q1VOWXFvY2ZxOXJlOTBLWmR6MnY2S3RqSno2Mnk3dzlCWmlEOEt2NU1obnJTaUxiWmM4SFNxTUV3VGlmYkFROEIyVFk0MkxxQmhidkhkUkdiMkxmQ2RMV3Z6QnVTVUEzcjlYa0xVS0t1R1Eyb3NMX0NfQnQwU05udGpONm1fNXRYLTR4Q0d5S2kxMjVrSmU0NFllZEFVYnZ2bERWd0hsUFlmZlNLN0pqR2VpLUg3QTdMREVmSWRvSGhZTHZDSmN6d0V2a1kwYw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-10T10:30:08.375Z"
     },
     {
       "id": "62cd0ec0ccd219da",
@@ -963,6 +1113,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-01T11:00:29.484Z"
+    },
+    {
+      "id": "4d8e780bbc51199b",
+      "title": "Building an Elastic Enterprise for Human-Agent Collaboration",
+      "source": "Harvard Business Review",
+      "date": "2026-08-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3RtNnZnWlFkX29lcXVTNk1zMmRkOXJZY3JXWXNNVTl0OGsta1hnUThrTVYwYWdFWXp5bXI5cnZuUVVaZzA4OFp2OVFNaUlYTmZTdEJ3eEhfU214eENJeUZjWGczdG8wcWFVNXd1QWl0bVREWjliVG5weVc0S25NS0hPUVI3dkNlYXpKZ1BodFFUeUNLZjV5TG1R?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-10T10:30:13.083Z"
     },
     {
       "id": "16a4ddbe132b95c5",
@@ -1773,6 +1933,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-21T08:04:14.948Z"
+    },
+    {
+      "id": "82ab1d9f66d19435",
+      "title": "Spain Agentic AI Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "source": "marketsandmarkets.com",
+      "date": "2026-08-20T18:54:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ21sMHhDc0ptcTJUSTNzakpkR2podHdmZlZXRnJXUXlCeGt2QUVHQWpjZWV6anJKZzV2MHFlcERFbDVBZURqSnR0OUF4aFhxUlNHYlVVYlNCTkRzblRXendJLWZIVFRUYmVaNzkyaGZBY2VwSmRlQXZBMmdJUlcyYUJFdWFTb3ROTWc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-10T10:30:07.179Z"
     },
     {
       "id": "56740b6abc7c5561",
@@ -7913,6 +8083,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-25T08:08:52.791Z"
+    },
+    {
+      "id": "db722a633e9a52a0",
+      "title": "Bright Data vs. Decodo: Which Proxy Solution Comes Out on Top?",
+      "source": "PCMag",
+      "date": "2026-03-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXdzcjR2QmtvZy1Xdk1lRWpMQzlXbzBfQ0NKX3VJWjZjTGRoemRYQ2JoNS15YngxRms0SkVmTmUxbVZjS2cwN1FYdm1YcWw0LVVaaFEyWURkS093dUhUNTItRzh5akg2V2ZRNkVUczZQbXpDYXp4Y2MtaGRuWnFPR3h2SEt1WE5zSmtfT1BWckJVVWl5UmtxMA?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-10T10:30:01.812Z"
     },
     {
       "id": "a2192056531cad84",
