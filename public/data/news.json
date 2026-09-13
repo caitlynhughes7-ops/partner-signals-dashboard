@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T09:59:33.842Z",
+  "lastUpdated": "2026-09-13T11:01:03.498Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 980,
+  "totalEntries": 987,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -208,6 +208,36 @@
   ],
   "entries": [
     {
+      "id": "59ef317fe8bcafa8",
+      "title": "Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations",
+      "source": "CDOTrends",
+      "date": "2026-09-13T05:36:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGlsWXVNU25sVU9Td2xnTkNJYmlmN2w0dnNvUDA4LTF1YjFmelYybm9UdHg5b0tLZlc3d1Rka21uQlNBUFkyWlJpTkZQdU0yQk5uczFmN1V5U09FSlYweG95R0MwREprZ3ltN0FfbC1SdW1RT3ZlNS13MmZzTzh1bjRoUlQ4WXM4cGlUdWdmVHFycmdhb1k3WGp3SmREVWhscl9sdlRpSENwZw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-13T11:01:03.496Z"
+    },
+    {
+      "id": "e2e82abf505ed8ba",
+      "title": "Caterpillar And FieldAI Partner On Physical AI, Robotics And Digital Twins",
+      "source": "Pulse 2.0",
+      "date": "2026-09-13T03:18:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3FiTERjOW1VLVpab2VMQV9TQWRZRXF2UmRuelZYakVHZ3FTZzJHaTIwR2N6ZU5Ed05oVTFjNXF6anY4ZkRpVzg4bl8xUnkwVTFfa2t6LTNXV0RnZnBvaDhGTVFWOVlpV1ZRazY4NURwSmtIS3g3enV0cnloNXlPVzVaM3V2a3pPUmVvRnNKQmlySE1SZ0ZZTNIBngFBVV95cUxNMHFxYThRejBQejJ6czdSZW9lTTRDWHRFc1E3VGkwSExCWXBYelpnZ1IyX3pzb1V0a1dYYWd1QXRqZzAzVGRmWjI3d2VxT3pmaTdMQmQyUU1PRXBwSkdRRzdCMDlOMmVrVjZLVEdsOUR4Q1VIN1hJSVdHdFd1SjlreS1ZYzFYMmVrMmJRYkVxaFk0bGljSGdnTW9JLXBxZw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-13T11:01:03.496Z"
+    },
+    {
+      "id": "6cfd0216e32a940b",
+      "title": "How Workday Wellness Partnership At Bright Horizons Family Solutions (BFAM) Has Changed Its Investment Story",
+      "source": "simplywall.st",
+      "date": "2026-09-12T11:49:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYmdLeEl0RmpydmtCS25ZUVA4dWtJV3d6dmtYOEVBRnMxYmNvMTMxeGJJTnJ4VFVCT0twRjNCckp5eVI0Q1UzbkpzUFhOenkxbmg2ZFFqaWQyMFhzdFAwb21KenFUMVB3N3RVcFZvRGs3YmpzRV9PQkNzdVRXTVpQWWxkaWo5QnlFNnpmTGdvcXpnc05MU3hNaVJJeFVPcVQwWXphOWNObElEU241a2lDdFpaNXl5Q1hHZm5KT2RRNnI0VVVNZXhfSlhkck5falNHOG5QeVpqZzN4NWVUVWVpeHJ3MmE5NzYxNVZ1NjBmVkgzV2R50gH0AUFVX3lxTFBiZ0t4SXRGanJ2a0JLbllRUDh1a0lXd3p2a1g4RUFGczFiY28xMzF4YklOcnhUVUJPS3BGM0JySnl5UjRDVTNuSnNQWE56eTFuaDZkUWppZDIwWHN0UDBvbUp6cVQxUHc3dFVwVm9EazdianNFX09CQ3N1VFdNWlBZbGRpajlCeUU2emZMZ29xemdzTkxTeE1pUkl4VU9xVDBZemE5Y05sSURTbjVraUN0Wlo1eXlDWEdmbkpPZFE2cjRVVU1leF9KWGRyTl9qU0c4blB5WmpnM3g1ZVRVZWl4cncyYTk3NjE1VnU2MGZWSDNXZHk?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-13T11:00:51.275Z"
+    },
+    {
       "id": "d340cd2195b75cb7",
       "title": "What Is Agentic Commerce? Inside 2026’s AI Shopping Shift",
       "source": "The Zero Net",
@@ -298,6 +328,16 @@
       "firstSeen": "2026-09-11T10:31:32.127Z"
     },
     {
+      "id": "cff5465119b29d45",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "source": "Bain & Company",
+      "date": "2026-09-11T00:53:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-13T11:00:57.739Z"
+    },
+    {
       "id": "6183fa864ef2ee1d",
       "title": "Ethiopia Set for Digital Industry Boom as Siemens and Redington Partner to Deploy Advanced AI and Digital Twin Tech",
       "source": "EthiopiaToday",
@@ -376,6 +416,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-11T10:31:36.725Z"
+    },
+    {
+      "id": "0bd1b0e06617748e",
+      "title": "Vention Facilitates Manufacturing at IMTS 2026 with Physical AI and Agentic AI in One Platform",
+      "source": "Yahoo Finance",
+      "date": "2026-09-10T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2R2X25vR1dBWmN1ejlXSFR1TVlkY01oTUFDbThkTmlHZWR3Tzh4UkxNRTVoWW93OWhNX3RrU2J0eHYtcWwyd1VYZnNiOElvZGM3LVE3TWs5ZFZWbGlKb3ZaYkRyb2xvcW5kcjcxMXhrVkpmc2h1d0Qzd1dzYTlhREc0Z3RFNktKajNHdTR1R0x0ZldnQXB2Z2JReEZxWEV6eWZ0aE01NktFMFk?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-13T11:00:56.607Z"
     },
     {
       "id": "85b560f373637743",
@@ -2986,6 +3036,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-08-18T07:58:29.845Z"
+    },
+    {
+      "id": "aa6332e9b7c2afb1",
+      "title": "CTM seals five-year Amadeus deal as ASX deadline looms",
+      "source": "travelweekly.com.au",
+      "date": "2026-08-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3E2bXE1SmhuZEZBQjR4ZFZvcGZKcWFUaEc3cmlmeGsxd0RtS2RHbTBvenZReVVSUWVNQXg4MXNibHFJN0FEYXFMdS0yNEpzTTRzTl9TVERtVHZEUVlGdUZVc0g3UEZrNG14eV9zcy13RVl2cDNkUzVUVFNiTFZ1ajEyY21ubU1CdWRR?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-09-13T11:00:47.953Z"
     },
     {
       "id": "b0f00c4d5d5c229f",
@@ -6706,6 +6766,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-08-26T08:09:04.362Z"
+    },
+    {
+      "id": "b8f2d081f85343d0",
+      "title": "Snowflake, Startup AtScale Building Bridge to Microsoft’s Power BI",
+      "source": "The Information",
+      "date": "2026-06-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHZLeElTU3lYZGxPWG04clY5S25EX3lHaHFWNVBZRTFEQXItX0x0UkdSZ1ZYTWlaVlJiLVhqaVh1MS1JZWJCRmwyY1htRzRrV1JLMV9nRVczd0FMdmRQYmRYaE53UEloUGE3elZ6VTcyV0hXckQ0X0pybzRkdWpsSEVrQ1ZlbTVKdk9QVlllbVVQUmJBcWtVM0dQeHcxQUg0X1hXbA?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-09-13T11:00:50.126Z"
     },
     {
       "id": "ae7d22db9ddc1f7f",
