@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:01:03.498Z",
+  "lastUpdated": "2026-09-14T11:38:40.087Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 987,
+  "totalEntries": 991,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -204,9 +204,41 @@
     "b448cc1f4e95af73",
     "fb0f1b65b474f2b5",
     "87d12f1cbf4301ed",
-    "f3b453092d461cc7"
+    "f3b453092d461cc7",
+    "dcd8a6c29398aabb",
+    "2389cca15a900908"
   ],
   "entries": [
+    {
+      "id": "30c95d03e2ddc971",
+      "title": "Active Exploitation Alert: Threat Actors Weaponize Claude AI for Automated Data Theft and Supply Chain Attacks",
+      "source": "Rescana",
+      "date": "2026-09-14T07:37:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTZhd3RKT2ZGbVAtLTFBRGM2d3hiRWNaTm9JNmRzbF9GemFNOGcxWDdEdXVQYTd1VTlOYlZuMHlNX3htWmNqano0azRUQlVScVRLYlBUUnhrM0g3eU1tdU9GUElRaTBxUUFpbjJXYzNyUWJSTFlWaUpJb012NFh0Z2dFTnFBc1FtY25VVWJPWUw1aVNQSU5LRS1UWGhKbGVrU2lndEtZR2hGcjZkNnl2cFBBVTJwVVBkWUZSMWdzYnNKbmFtWlEtRDgxa1FHNkpoNFBFMQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-14T11:38:36.536Z"
+    },
+    {
+      "id": "5cbb8afc1da187c0",
+      "title": "Focus on agentic commerce as customer data science firm dunnhumby wraps Retail Innovation Forum USA",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-09-14T04:57:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1FjeFNlcDJxNDA3eG1XTlFicmVmQmZ5Y055THpRNzBJOWFkSmswc1Rhb0dJMjVTRXdDc0hOb1hVTWMwTU1OeVZ1NzE1bmFkU1U2RW5QZnN1Ylp4ZnJqc0NHLThxWWR4MG5tUXhoai15U3FsSUVlWnB5S1BvQU9tTUZaU2VrMFZCR3lSZ283WXVTd0ZNREI3WTgyWW9sdWVxWklLMXRheVlaMVN5azA4TjNVZGl3UXJGWEI3VUM3MmFKeG00X1BxaE1yNWdEZHJMTzdN?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-14T11:38:19.254Z"
+    },
+    {
+      "id": "b8b7961173b47415",
+      "title": "Agentic AI will Transform E-Commerce Strategies by 2030",
+      "source": "technologymagazine.com",
+      "date": "2026-09-13T08:10:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlltS2szQ1E1YUk1RGIzOHV2SVpsbXZraUF6UEJROFU5Um14Xy16TmhsLXFOODdCRWkzNThZdnAtLWY0VGRlU05zT2FyX0xYYlo3NlZDb3VhRlZ4dWZYbEowUGVVRlByX2tMeG9DWFFXNG5jQ25IazQ4MjVqejE3ZERjbTBFdGJaZWlib29HSmpOSDNBaVE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-14T11:38:34.306Z"
+    },
     {
       "id": "59ef317fe8bcafa8",
       "title": "Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations",
@@ -496,6 +528,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-10T10:30:07.179Z"
+    },
+    {
+      "id": "ccc1748df09692a1",
+      "title": "Top 5 Job Posting Scraper APIs Compared",
+      "source": "AIMultiple",
+      "date": "2026-09-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CeTROS3YyZEVET0FrWFV4b3ZmMDFKM0ExSGx5OFVZeGI1YTV4bnh5WXFqZVJ4S0NnNklhajFHb2hCRmU3azZzdnln?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-14T11:38:29.015Z"
     },
     {
       "id": "350ff3e20d5ab6e0",
