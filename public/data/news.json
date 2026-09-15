@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T11:38:40.087Z",
+  "lastUpdated": "2026-09-15T10:57:53.999Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 991,
+  "totalEntries": 998,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -206,9 +206,52 @@
     "87d12f1cbf4301ed",
     "f3b453092d461cc7",
     "dcd8a6c29398aabb",
-    "2389cca15a900908"
+    "2389cca15a900908",
+    "bce6dddf50d50e0b",
+    "4fd7305b9183ec81",
+    "b091a3ad9d7d19ce"
   ],
   "entries": [
+    {
+      "id": "52bf6bf15d5b3618",
+      "title": "Agentic commerce is loosening the grocery aisle’s grip on the shopper",
+      "source": "The Next Web",
+      "date": "2026-09-14T18:10:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwbDk5UlNqWnZuSGVObUZCc2x4QmNWQ2dCS2hSTmxDS25iQ29tNDM0N0VRVXFqc3o5RXc2VzMtZC11RkhXcE5XTkhsdGJLNjZlQm9hSjFYaklTN0YxY2hkT1E4TlNnT0d2OFh5bWl3?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-15T10:57:48.159Z"
+    },
+    {
+      "id": "1925ab8bd57cbfba",
+      "title": "Turning Complexity into Scalable Automation",
+      "source": "Supply Chain Management Review",
+      "date": "2026-09-14T17:57:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XQmZxOU5pNmxmYmUzTjNaaFZ1YmxyZVZTWlBuMW1ORHFMNi03Y0Vudl80QkZKMGJhS3dONXVjNUd6QjFYejdVR0FsVi1KX1J3Z2FfOC0weDNFVUllUU16SmcwTTRLRDEtZ0JmODF3MENPZmlNUnJkVDJn?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-15T10:57:50.441Z"
+    },
+    {
+      "id": "f1c0b0d42cad27fa",
+      "title": "The hidden cost of AI automation: Preserving organizational expertise",
+      "source": "TechTarget",
+      "date": "2026-09-14T15:19:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlA4SlhiNVhKRjhsb2Y3R2swMG4yUU9WaW9oSERhYnBxd0NnM3lKTFp2Z1RuWURLaTE2SFBlZWcyeVg3dTNzaXQ1UE12MkZRYUJjRTg2dTQ3ZWJPbDdySWdrZG9pcTBCRHJHcF9RU2h4X3ozZTlxVzExSVhvZG9kTW8xaTJfUnFGQk4wZFdlUzhSbjVaLXU3b1pENTc5VjEwNDNqdi0tLW9kRWJBeURTOFNxcHo1QWNtUjNlNUJ1Vlo?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-15T10:57:50.441Z"
+    },
+    {
+      "id": "03f44082bdbb7c4c",
+      "title": "What Manufacturing Leaders Need to Know About Scaling Agentic AI",
+      "source": "IndustryWeek",
+      "date": "2026-09-14T15:10:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3FrcWtweld0dVI4Sm13dkExNWhlUXZUTFRWVlNqS2hGRGR2dmw3bEMweVZjd3BPaTk5Zkk4SHhLSzlBWjdBTmJIWTVsVWRGZFlmREpzTDFybXFtUFpUMlRLd0ctMjR6ZGItVFd6VHZsX1lRT01oc3hvWlVvLWJkbW9ycXM0bUV6bm01VWt4NXJCd0FpYk9yM2loZXBaX204OUFFVTllZFFmbEtkQ0tqZ2daUzBhaU95LUFJ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-15T10:57:46.963Z"
+    },
     {
       "id": "30c95d03e2ddc971",
       "title": "Active Exploitation Alert: Threat Actors Weaponize Claude AI for Automated Data Theft and Supply Chain Attacks",
@@ -7180,6 +7223,16 @@
       "firstSeen": "2026-09-04T10:28:22.632Z"
     },
     {
+      "id": "3d47bdb6875249e3",
+      "title": "40256",
+      "source": "bsr.com.vn",
+      "date": "2026-05-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQcGxNVlFVMFA0YXRJMmpKbFQ2SE5xanpCY2c1djNNTWM2Zm1KMDlFOEVra3ZVTDEzSEwtSEtzWXc4YlRZb2dBUUppQVBoTGFEc05mZ21MM1ZKbWRicUhpX0xBRk9ySW10SWVWOThIbzFnRnhtS09ZbUpxSUNNUDBPUTVwRHNwMDlLV0FJUEszWUhYY0EyVVNKSVFHYTJPOUduZkdUX05lLUJMajJFQmV6XzVFLWdkcHVTdmxCOTlraV9UazBWZmwtSlRGQzZxb3g4eGVaODRqc1ZxdGVkWExWUk5UcHBIS0VwNDM1ZUZaRFkzNzcwbVBFdmpKV1d0RmJSWHgzVFdfWVJUbDZVaVJkQkNMSmxUQ0R1bWxHenNON0Z5OHVvR3lydkxDWnE2S1FNanhUejR3?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-09-15T10:57:25.228Z"
+    },
+    {
       "id": "c8bfdf1b1bef7ddd",
       "title": "AVEVA partners with AWS and Snowflake to accelerate industrial AI and cloud transformation",
       "source": "Intelligent CIO",
@@ -9110,6 +9163,16 @@
       "firstSeen": "2026-09-03T10:35:56.576Z"
     },
     {
+      "id": "52a9e4beb8e64909",
+      "title": "Managed IT/OT Infrastructure - Ready-to-Run IT",
+      "source": "Siemens",
+      "date": "2026-02-13T14:35:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0tacnlaM2c5MjFGMzZQOHpsM01GTldnbVN0MFNOWmxwc3hDbG04Qmw5alpCUG44SXR6ck1yU2d6UzE0V1RBNVFaUF91MDV0MzJXeE1ESGF4TmxldVVsNS1MUy11OV83NG5Fb3llM2UxeVM0T0ZpdDcwbXpuNlVld0hUQTh6MVA0N0I1SUtMTkZBUTRsX1dIal9tRlhXdFM2UGt5TF9R?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-15T10:57:49.251Z"
+    },
+    {
       "id": "e694124934e0e49b",
       "title": "Digital Twins, AI, and the Industrial Metaverse in action",
       "source": "Siemens",
@@ -9678,6 +9741,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-29T06:05:18.975Z"
+    },
+    {
+      "id": "3b060ee39479963c",
+      "title": "Retailers band together to maintain customer relationships as third-party AI grows",
+      "source": "Customer Experience Dive",
+      "date": "2025-12-09T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDV4c29yYVg3dnpLSVZQNlJDQ21HMDlfQXBRcFRiN0FiUmcyUWxWNU1oV3QtaE95RVBMNGZqT3dvZmhOYklvNVdXRW5WYUgwSV9udHgyVjNFSVpVSUVrVFljcFpuV0pmaldubDA2ekdqeENlOHJoemd6WmFfZ01lZHhJMHJzRzh4d2FGbnlQb0VScFE0ajROUWZiZUVYVVFnbUVvakc2U2t6dlZld3FjcFplOEJ3R1ltbVJNekxBb1BOSS1PaUE?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-09-15T10:57:28.508Z"
     },
     {
       "id": "303c882073fcd66f",
