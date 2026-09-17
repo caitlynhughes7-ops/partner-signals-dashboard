@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:46:16.439Z",
+  "lastUpdated": "2026-09-17T10:53:10.798Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1016,
+  "totalEntries": 1034,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -212,9 +212,170 @@
     "b091a3ad9d7d19ce",
     "5fc87e946ef6cb7e",
     "53217207b8c69bae",
-    "12ea8b6d503e580d"
+    "12ea8b6d503e580d",
+    "28b14785a5eae41e"
   ],
   "entries": [
+    {
+      "id": "2f6175b5241c72bb",
+      "title": "AVEVA: Software Is the 'Brain' Behind Thailand's Energy Security Push",
+      "source": "Nation Thailand",
+      "date": "2026-09-17T08:52:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVW16STlQS1Q1ZGMwRmUzbGxBVTQtUGZNUDBCSGZ4bHNsWnNsUnZYYV9ib3pEUTVseG5xcF9XaFNwWWNZcGtseUFJOXlZUHdEWmtCcGJldHpjbkRIOEh2WW5IUQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-17T10:52:43.661Z"
+    },
+    {
+      "id": "7135c2c6c3a6e16f",
+      "title": "Payment Infrastructure for the Age of Agentic Commerce",
+      "source": "Fintech Singapore",
+      "date": "2026-09-17T04:55:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODJtRU1KLUQ1NXNRaUJEUXg4dzU4b2lmOWw5alk3S0NCNUkta25rRG9GamNRYzhiX1dWSTluRlAyQ3hUX3F3X2JKR3J5Z2lRc0FjLXplLV9fb1d2bXBIZDlrWTByQnVVTGhVVElQa0NENzNKWE51STg1Z0tYS19Dc2pveXpDY19NNWtSTzJFOWJfQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "7f36e98243260db9",
+      "title": "Google Agentic Updates Support Shorter AI Commerce Timelines 09/17/2026",
+      "source": "MediaPost",
+      "date": "2026-09-17T00:51:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTFLMXNDcl9zdnFHYUo4cDFaQmppcFg0SnFGVU5ZWDdsd3pORVh0YXJpcnl0Tk5WYXMwOGlCQUc2SmJTZHh6R3ZaQU1raXc3dlZvUW1iRERvdGZMbTVvdWk0SV93RU5vWFBBRFdWdk1GS25mWjUta2FHVnkzZlJQV2lsT3duaXpQVm1aRjJ2bTNKdDYxcUdLWkxuYUE0bURvTXNYSU1lY1R4QmQtNFE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "6b6e19c8575481d0",
+      "title": "BackOps Raises $42M to Scale AI Supply Chain Automation",
+      "source": "Ventureburn",
+      "date": "2026-09-16T23:49:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyZ2NzbVQtR3g1VmRDQXYtNU9BVFlFeDVraHJOanVOb3lPTHFVTlN6LTNLUE4wZTJKVTRCY1Y5ZXltdVpsYUMwb2JXbFJnVmxJQWFLanlxVDVpVFdiYmNqaXFhQS1ILWlqU1Fj0gFrQVVfeXFMUDJnY3NtVC1HeDVWZENBdi01T0FUWUV4NWtock5qdU5veU9McVVOU3otM0tQTjBlMkpVNEJjVjlleW11WmxhQzBvYldsUmdWbElBYUtqeXFUNWlUV2JiY2ppcWFBLUgtaWpTUWM?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-17T10:53:07.201Z"
+    },
+    {
+      "id": "a69dca369dc9a287",
+      "title": "Agentic Commerce Feature Updates: Google Unveils Its AI Performance Insights and UCP Tools",
+      "source": "Trend Hunter",
+      "date": "2026-09-16T23:49:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcGZGRHI3ek1KZ2VOeDRjbjlORURUb08tVUl0YWFxeDhycjVFanE2aHhqN094eUhrVTl6bUlfRFp6ZFVZOFBZdnRwcEZtMnhEb0ZtSk9XQ05xRUVxVlJ4VnVldWJEYklJLWk5ZUZIRXhkdk1kdXc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "71b3255401319360",
+      "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
+      "source": "TradingView",
+      "date": "2026-09-16T15:46:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGVubVhUZlR0aVVUaHJWZzQ0OUNHa1JYa0pFV2h4QUxVM3M5UnExN1RSRVJSQ2xXRUVvdGVOVFpscFJucmlyenAtOW14THE5U1NlN0FPRDV0ZWY0cFNBRVdtZUI3djRjeWVhdEt3ZDY3LWtydnhSWDkxUWk1cXVYSHhmYU9ZSlBrUkZFNFJlcW5ZLTNzZUx1LXJhREgzbnV3UHl2ZjVRaE1id0VvSnhzOHVCaHlIYzQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-17T10:53:09.590Z"
+    },
+    {
+      "id": "d63be92e03d7725d",
+      "title": "Macy’s rolls out AI inventory replenishment tool",
+      "source": "Supply Chain Dive",
+      "date": "2026-09-16T14:35:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0taOHdiclF3S2ttZi1YVTNiV29IRkprQ0lsaG5CMHJsc203S3ZCLTBnN3hSWW1SSEdnUFNsUXFnZTlzeERsaHVaeXQ4VjNZOG9TVVllT1Y4ODRsSV95MXluWjRVb1AweTlSZExMd3VPYXljWVB1dzFiYXNmS3lJSDFydUJwSkRTTGh6SVBzUXhoR0c2ZnFv?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-17T10:53:07.201Z"
+    },
+    {
+      "id": "fd5cd4c02808e550",
+      "title": "Boost your holiday sales with these agentic commerce updates",
+      "source": "blog.google",
+      "date": "2026-09-16T14:13:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXdfNHRDVmZkUW1nM0hvRGljcjFaTk5vUDJtNF96RnRRMkxILVR3RUNKYnZ0anRkRnJSaDFxa2VsY1RwRmFLa3RyTVFqbnpPNWFZMjlGN1o1Nm5MRUU4eUJjUnl4UVZpaHJsUWo0Xy10R0JOa19BM25oUklVY1hheE1pUHBBZE9hQXVGQUhGS2ZGZFlIYU5GemhTVWhNODQxS3kyeA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "107d56ca4bc87b5b",
+      "title": "Which industries are ahead in agentic AI, and the common challenge they all face",
+      "source": "KVIA",
+      "date": "2026-09-16T14:06:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFZ0djB0aXdHS0tGX2I3bjVlTUxLanRRZVA4ZkU2eEl5RVVMTzdpU09DQzFKeEVsODk3NkY5RVVBOGtJNEFlckYyclJSS1pzU1lhaHpKbXp0Y1poTnFMcHZRSjNpamNfMGpuYy1Ea2hZRURmM3U4Y2V3WGQ1M0ttOVNQcFdBUHh3UjdUcUdJNkN4RVV5Mi0tRVhmWnB1bHpQQUdKcXV4OEhTV0ZSdDd2YlhwNGZ3X1dfYmJB?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-17T10:53:03.739Z"
+    },
+    {
+      "id": "0b7f98a28d4191eb",
+      "title": "Siemens and Salesforce bring AI and digital twins into manufacturing workflows",
+      "source": "The Manufacturer",
+      "date": "2026-09-16T13:55:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkdMYWVtRWJYN2YyNXJBQ2tEeC16MGFVY0NZZzUtZ29VRGZocEFlc3doLXEyQjNtbWtiU0RKeldTWmpjQklCam9Xd2pHN3pleFk4bXhtRHoxS2RBdEZWUUx6bjRzNDhqbFdmMjJtSHZadXdpZEJRcXlFWVdTY0Z3M1hqT0FSNXNMZDZzZjFvZ05oS1Nwa29SZzVlRlNKYjg4YzFjZnZkbDE1WjBiYjJpSm1pX3lvanpzUmQ1Wg?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-17T10:53:10.796Z"
+    },
+    {
+      "id": "cf6c0c0dcff16280",
+      "title": "Velotic Advances ThingWorx With New Agentic AI Capabilities",
+      "source": "Business Wire",
+      "date": "2026-09-16T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3RQakhWYWphMnBKa3QwNUVkVWd5U2lyaG45ODZacG95NHUxUGFJRnlBTXc1M09GeW5NY1FHUHVSdndJQnprTFZSS1FaUEFPZDA4UWlscXdfSXRNdDBMeUFDQ2ROZ0UyLXFzSngwaC1RUEg4eWt1a1ZLWVY5N3d2OUV0QzcxeEpxY2QyQXo2Zk14MmozeURWLURITXdPb1hwZWVSVW9SUF8xdmRadUhaaWZJXzZUSEk?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-17T10:53:03.739Z"
+    },
+    {
+      "id": "ec1c302ee3f0d5e9",
+      "title": "Scaling Manufacturing with Industrial DataOps and Agentic AI",
+      "source": "ARC Advisory",
+      "date": "2026-09-16T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVC1iSzczQTFBX1B6azRtR1g1c0xwUXhWRzBHY1NJTGViQ2JvamVJX2gxYXdiQVFINXg2aDZlWmx4bWFwT1NHQlY2ME1wLTgxQ29GdG1sci1hNUZYeU03eUg3TUhqUVBNaU16bVQ5dHNTbkxOVmdubFRKeEJLMHVLYng4VkhxZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-17T10:53:03.739Z"
+    },
+    {
+      "id": "2cfb69316e2dbda4",
+      "title": "Vention Introduces MachineAgent for Industrial Automation Workflows",
+      "source": "ARC Advisory",
+      "date": "2026-09-16T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWJQQ3BzcHRlVHRYaXByUVFhSjNNelhhelQ5aDZERUxRTllONDgxQXpOa2JfbUNxcXlpVzRaQUpqdllsNTc3S2lURE5hZFFFRF9XN2lMY2hsNlNDWVl2d1Q5WmU2RWpScXJSdzI3VUZreUVwMXZVS3VocmJadzVMS0M3ak84ZHJueWRVRlVHY2w3MTlSYUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-17T10:53:03.739Z"
+    },
+    {
+      "id": "0f66bf70982c3163",
+      "title": "EAIGLE and Loblaw Expand Partnership to Strengthen Supply Chains with AI-Powered Gate Automation",
+      "source": "PR Newswire",
+      "date": "2026-09-16T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMW9pTldtZnVWYVd0WkFYYzl3LTRSNmU1WDRfNHluYnVJMktkTWMwWV9pdmJhM1ZVbmJ2T2NHdy1pV05VNS1UQ29zUVNCc2ZLT0Z3TV85NEM3NGxfanBoRG5OaFBzbUI3MjRIbmV5X1BoVFhVMThmVTVTdTlNZzFSQS0wMlRFZ09GeThoT2YyWlExczM0aXZkbnZ1ZGZtc3F4OVZBc3htVmJMeXlWRnlaVWhiSmlYXzJYakRXRGNoazBobHBIZkJXeUNZMktlRXZUekE5RUVCSXRvSXFiNHBrN1hrRFVoYnM?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-17T10:53:07.201Z"
+    },
+    {
+      "id": "01811b5406aaea8a",
+      "title": "Loblaw Bolsters Supply Chains With AI-Powered Gate Automation",
+      "source": "Progressive Grocer",
+      "date": "2026-09-16T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnJNMWx1RDZoMWZBN0s2SDhwWlZITzVxRHFsODFsVlUyWFRoQzZYaHZfZDBYTkx1cmxDeUlEMDJTLVUtaW5NWFZvaWFLTk1IMWExalpyMUZpSmlyTUlscnBwYm9MR1dwaXZYbnljcXJsNFJOb3Q1WDlZbk5JYjlxNWxYWTNyWkNvTUtpRXlQUQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-17T10:53:07.201Z"
+    },
+    {
+      "id": "a37acb42ebfec01f",
+      "title": "Cohesity adds recovery capabilities for AI agents and the data they manage",
+      "source": "Help Net Security",
+      "date": "2026-09-16T10:58:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUThGRW1TWFJwMjU1cm5pekZTZklfUFZ6VHI5QTZCUmZRMlBYd3FnclI2VTNrM2FEeVM1dU1tSlhDTkszOVhHRVM1cXd3a1lYV2dhQVNXTkxpR0RSX3F3VTNheDc2VmdHcHhFMHp1QUJmSEl3WmJ2d0ljV2g0MFh2aUJKbnU4dzA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-17T10:53:09.590Z"
+    },
     {
       "id": "ced9f452481a4577",
       "title": "GlobalLogic brings agentic AI to broadband test automation",
@@ -1304,6 +1465,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-03T10:36:05.122Z"
+    },
+    {
+      "id": "7779739fd908c3a5",
+      "title": "Why Snowflake stock is soaring 22% premarket after its latest earnings",
+      "source": "TradingView",
+      "date": "2026-09-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZYR1c5Qm1Rd0RxMXRZRFRvakRmc2lvOTdBeWJYRFZBbjVTTl82bzFFZHdTZVNnblI5R3FDTHViLUVHOGVmb05sakNEVEtLai0zRVlLTTVfaTJQZmlBb3B5UVVZYXZCdTh0TXZ3RXFrWTNzT1VLNUQ1N1FoWFNSWWRkT1JjSi1pUVhQRkszS190Y29WREpEdTROZTNpNy04ZjVKVEdFMlVKNldfdDN0bHZwd0VwZzZRV2ZybEZTaUgzaVk?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-09-17T10:52:57.213Z"
     },
     {
       "id": "dab3dd5818bcaa69",
@@ -2824,6 +2995,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-08-19T07:58:20.013Z"
+    },
+    {
+      "id": "7ffe66be99680b3c",
+      "title": "ANA Urges Retail Media Framework, Measurement Consistency 08/18/2026",
+      "source": "MediaPost",
+      "date": "2026-08-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTlQckZ3R3REeFZveVJTc1VYd1VFOGN1aVJUdkc0Sk44UjJYaXhqeVVCRlBteHlCVXRkVzZoU3YxUklmMFhsM1dFdHdabFozZTk4TjIzWndFa2tSWEgxNlJmM3BnOUhYVEZjdVlaNTNXeng0VWVNd216c0tvR21ONnQ3ZF90ci1lZldpdlFyWWtnRWwtZ1M3eUZxWHR1dWFHTVZGSXRrTDVxZEtB?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-17T10:53:08.392Z"
     },
     {
       "id": "56acd1e89fe61ca1",
