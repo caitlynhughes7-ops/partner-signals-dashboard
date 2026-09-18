@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T10:53:10.798Z",
+  "lastUpdated": "2026-09-18T10:28:29.931Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1034,
+  "totalEntries": 1054,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -213,9 +213,121 @@
     "5fc87e946ef6cb7e",
     "53217207b8c69bae",
     "12ea8b6d503e580d",
-    "28b14785a5eae41e"
+    "28b14785a5eae41e",
+    "2ed8ad40cbc56df7",
+    "675cf01a422c27ba"
   ],
   "entries": [
+    {
+      "id": "b07eefa9a465c3a8",
+      "title": "Antonony Gu, Huawei Cloud: All for AI, Huawei Cloud Stack Powers a New Era of Intelligence",
+      "source": "The Malaysian Reserve",
+      "date": "2026-09-18T10:01:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONm5XWUVTekRIOE1odnFicHhMSGxVLVdFTlZOV19JTGdzTUd4ZEZpUVRIRUNtZFl4cEd5SDY3Vi1qQkpTVnU3R2hKaDZlOTkxVFNvS0RqdVhGU0tXUmhQa2k5Rnc0cXNoWDVxb25vT050ZGh2QS01V3dYcmc4RTJPN0tmRlVFMGFtU19wQUdaX1NnbVc1TUV3M1lhdE5tdG41bVAwcWJ3WWszTGxTVXoxQzhieklxeXNLMFZ1dkZqMTFIaDJFaHlQbDVpSQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-18T10:28:28.726Z"
+    },
+    {
+      "id": "b9f86856549a8c95",
+      "title": "Retail Roundup: Google’s New AI Tools, and Kroger Grows Ad Revenue",
+      "source": "ADWEEK",
+      "date": "2026-09-18T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzZrUUx6VG5WdlpKdksxd2k1blhYQ2xhcEVsbkg1SHppZ0R6b2IxSWVnclpmRy1MRGpmcTF3NzB4d0sybUF6Qk5xa2FwcjJ4cTVreUdhY04yTWtFSmdYMjZ4LUdveHNEbWEyRWtuYWlBOUlYMzdfdjdXMXN6YW1CS3JfcjlyZGc0MU1Nek1iX1Vld052NUZZZ0s1a1M?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
+    },
+    {
+      "id": "138427c35d1856e4",
+      "title": "Azoma receives investment from dunnhumby ventures to accelerate its Agentic Commerce Optimization platform",
+      "source": "The Manila Times",
+      "date": "2026-09-18T09:03:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ3I0WTVnMGJwOFVLUGVXQXlmLXVXbTR4bWJDWnJwSXlJM094UURkX0dtV2NoVlQ5Nmo2VDdxVUR6TEpPM1B0TXpUQzhZakYtYlJudlVNLXlkWW0tT1JZOHdvLXFPTVpKLXJhNGtMa1lSTWlQQk5OOElUaTdzR2JhOWg4ZmU2Tjd0ZEUzd016WlRNcU10djRkVmtaZXBpRGpKUDJ4c2RlVU1tTFRCNURvWjNaOVdDRHRwMzB4Ni1iaXBHRDg3elZxNVBkN1pBUi14MV96ZXZwcloxME5oRjRLY2MxUDRGdVhkbDAtZ1VnQVJwejBiSDRZeVJEeTBQMm1ReFNkenFmcFlRUDVU0gGSAkFVX3lxTE01Mk5uWmNHVFZzRFFpS0ZWSm13V2tyZTJGdGQ2UXdMcFBiV25JN2F4a0I1cTVHS0xnZDBOVDFFNE5yamxmZFl6WjBiY0FDd1d5RVNVWElpZXlQV3dGQVc4ZWoyUnFkdjZUdnRIY1JTcEtyQlBVZk4yOWI0VjVONWdHWWRmTGpaNE9CeE51V1UzdEsxNU1ZZFJmUnR3Q1dFX0FWV1Z4UHNFaUZZLWY5UjdPZmRwdTRxTUN2YmttV05oZUFhRmNyVExoMXU0dVlWSk1tbDNnckVyTzBvalNkR0g5YTVDalVaYjRoNmtqYlhGbzM1WXBZSHVGRkxUZTJSMUhBVjkxVE1JMjFfbGhGcEtZbHc?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-18T10:28:08.737Z"
+    },
+    {
+      "id": "e477fb44e1db8e5b",
+      "title": "Azoma raises strategic funding from dunnhumby to chase $9T agentic commerce market",
+      "source": "app.dealroom.co",
+      "date": "2026-09-18T06:19:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1gwMzVUZm9IdjlkeXNCZVdTVk16X2dKZERXQktwQVZTSjc3bnZpbDdhZ0Vzc3NzUEZHTTgxS3lLb0x4Q3hMRE9VQ2FoeUdCUTg5NGNLUWhlZy03OVROd1dBbEkwa29pMWp4ZFd5LVFSMmhCTnJneEp2SHUzT3pUYjRJMTVkVERlRkhMY2xZVGNMRlhadXZabG1leTZIRW1VQXBEdkJPYTFfd0wtQUV6V0RCb0Z0Zw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-18T10:28:23.951Z"
+    },
+    {
+      "id": "0b2f02280c98d294",
+      "title": "Azoma lands investment from dunnhumby ventures to accelerate roadmap for Agentic Commerce platform",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-09-18T05:22:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd1dvcGk3TDBaSXp6bkpoeXVSU091ODlicFlJQUVXdHZOMEEtWVdxdFgwOUNvY2pzQUFfaHItdnNsR0ZIYi1Ia1h4QWE1NmxuTHdQY0JUcVQ2SnhOblNMOEVIa2hiSVBqWXNFUVlnWFJrckR3X0xCUVZwT3Y2blo4b1BWYlhteU53amZxM09CNk82NEh1QUJyLUtXbFd3dlRlQXlfNlRadUJ3RDZBcWpPSGxVRHc3SXFYWnRUMHkxYlNMdnZ0X3NJdHBlU0tSY3lfOTRCb2JjV0EtVGllUzRVM1NaejFQTVQ1M1VpY2tFN3UwZFJF?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-18T10:28:23.951Z"
+    },
+    {
+      "id": "edd674d5122a4a43",
+      "title": "Delta Showcases AI-Driven Smart Manufacturing Solutions at SEMICON India 2026",
+      "source": "TimesTech",
+      "date": "2026-09-18T04:26:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjZpSWg0MjZ6SndGdEd5VlR2d1VBTnlGRy14X0prSkxfRFQzc3F2NUtXbkY3QlZub3Z1SlJ0dTBxcWJRUDFyZ3FIQjhwdkhSOUJRYTA3LUgteUtaWTBxQ3ZqcFp1V0VBNnZSSVRESDdTaF8xQThraE9aQlJaNVJrcWJKQ1l4bzNGcnUxTTdEQXdjbzBRNVBkNkVxRkxJZnhE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-18T10:28:29.929Z"
+    },
+    {
+      "id": "d44feb0512f9354e",
+      "title": "Sam’s Club predicts customer purchase behavior with AI",
+      "source": "chainstoreage.com",
+      "date": "2026-09-17T17:06:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSUpGTGdlRjdyMUhYQlJOZHBDVW16ZTQxTnNJVFliVGRNQlRFQjN0V2RDU3VQeVljbF92dlBud2NuVkFxVnZQcm9POWtXckJMZ3ZLbllodUR5bmhnc0pGWjlaV1daamNRXzR3LUdhSHlQVDZjX2pyYy1NdHpseG8?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
+    },
+    {
+      "id": "00ac9fa9804f647c",
+      "title": "ReFiBuy Brings Continuously Improving Product Data to Claude Commerce Agent",
+      "source": "newswire.com",
+      "date": "2026-09-17T17:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFdOX0lpWW9KWHo1blJwcF83QWtQQVdrVU92QnExR2gtbTZ2cm52UVZ4ZXdDNDJ6Sm9lWi1yUU5UakxyWUtDMU1JbXpxQjdURXFFZlM5bm8xNzFxMW5xU25OV2dXVlJEc0NfVkUzWU1RV24tZ1RxSHZwQno4Zmkybk9wT0tCNlA4eDU3YklObDBtM3pIdEU5emRYdWtkNlZyTTdBUi0yNEI?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-18T10:28:23.951Z"
+    },
+    {
+      "id": "979ebc9ad57111d1",
+      "title": "NativeAds.ai Names Annika Geiger EVP of Sales for Europe",
+      "source": "citybiz.co",
+      "date": "2026-09-17T16:58:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3dBUnJvcWdwZFBuQ3MyOGk0YkZfdkJNN0dNS1VCUExCR1VyOEJmM0Y2NXVCeGJsNkZJYmQ2RUNJN2djdDMyVFlEc2QtMGNvN3p0WE1rN3k1YUFMZkZsdW92RTNGczJxdTFEaFhmdXlmOUhSbkNFeUhrR1BvckFwaGRTX2VCNThYY3paVV80UzNlODNva0lzeEd5WQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
+    },
+    {
+      "id": "72de11e7ee3bee4c",
+      "title": "Why quick fixes are quietly weakening your supply chain",
+      "source": "Supply Chain Management Review",
+      "date": "2026-09-17T13:58:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52SkFSc0Uxc1FxQmNJXzItUFJKRlVVNjdwUkdKcVdNTWJHNHJxbkNhQVcwUElhS2pYTk9PM3FjZERtbTJ1U1BmYlE4TmhYUEdzaFdYc1AtdGY5NzNRNExjY19pUkhyUEN2bnRTb2xWWWhtTlRqS25jUnQ2ZnZveWM?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-18T10:28:26.211Z"
+    },
+    {
+      "id": "381c290b62863798",
+      "title": "How AI Gate Automation At Loblaw Companies (TSX:L) Has Changed Its Investment Story",
+      "source": "simplywall.st",
+      "date": "2026-09-17T13:52:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3B5R3NtU28yeGFZVXFUOVdxeTUzZHBWWlVLaVdQZHI5TllKQzc0NUNsTWZHNkRfdXpwa2FiYjlCUUp4dHNMWjhQZzNDUXhTSmsxbktWLU9lMWRqMFA2US1XT092bE1HVFJrd2tJRmstSEJFbkZsV2FYdjVWQnhOOE9rOWFjMVpMWkpyZXJISEFIak0wNk5tTXVKSURUbm5TM3VaN2ZNSmpwcUJ0ZkNxX2VoLUJkYzZhYUxwTzFiUURzLWEzSVF2ZG9Hd21aYk9Qa1Nsd3Z5M3h5d2lncEHSAeMBQVVfeXFMT1NWb1JHZWhObWJrWmxQOG1iVkVPNU1DRG03cks5V015NzJVcFA4T2dzRkNrYjBkcUt6UmZ3ZWY3NzVtd0w5NzZhQmFYZXQwTUFsZld4Ql9GdHVSV09zWmFQM1NFMTBFYVYxM2U3b01HUnNNT1QwSDlBS2pPd1l6YUI0ZU1uelduMEtwcE94aVpocEJxRmEwV0V3Mklnak81VFotMTlyZ2VwSmM5b3J0STg1WjVzLW1PU3d1dDdreGs2U1Bwb2E5YUo5TEpoRGRJNWdxYW9qMDZQQnFHN3BJVFVhaEE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-18T10:28:26.211Z"
+    },
     {
       "id": "2f6175b5241c72bb",
       "title": "AVEVA: Software Is the 'Brain' Behind Thailand's Energy Security Push",
@@ -235,6 +347,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "57f101950d68ea9c",
+      "title": "NativeAds.ai Names Annika Geiger EVP of Sales, Europe",
+      "source": "ADWEEK",
+      "date": "2026-09-17T01:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVZWUnRZZzNzeDlydkFUbG5zM0EzUF9JSE1SdXZCMGJlWHlWWTMyQmtyVVRhd3pYRWZVUDRZc3ZmUE84cWFzUkwwNTNhbGhTeTZPVVkyR0hWWkhfd0JRSXpocVRLSVdUdnAyY1dnVmRjU2drN0E0U0pzQmZJNlYxX1ZwSDVUYld3N2kwS1QyVlo5Zw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
     },
     {
       "id": "7f36e98243260db9",
@@ -265,6 +387,36 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-17T10:53:04.907Z"
+    },
+    {
+      "id": "c7caa0ff23359285",
+      "title": "Google Cloud opens Singapore Engineering Center for AI and cloud development",
+      "source": "CRN Asia",
+      "date": "2026-09-16T22:02:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1Q1UldIRWM2Zm9GbGVnQzQ2ejl1SFN3M3dCOVdjRUxTY3pjLUZkbW0yRGdUX1pLWEt3QV9XbFBBNHF2RHJCZDlvSXM1bkpUMXdmdEJhQnJ5QWFpelNtVGVKUXpmX0pBamwyT3FDM3d1ZWYxSzdCOFBuVUk5ZEh1UXp4d0ZsbGRjU1ZoU3AtSFRXempuc2Y2OVUxLUNJR0VYeWJnUVNDbUZVc25IcjZVbXd3a0xvRlFLYlE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-18T10:28:28.726Z"
+    },
+    {
+      "id": "36df2e2caa9b09f7",
+      "title": "Google Agentic Updates Mean Shorter Commerce Timelines 09/17/2026",
+      "source": "MediaPost",
+      "date": "2026-09-16T20:04:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTFLMXNDcl9zdnFHYUo4cDFaQmppcFg0SnFGVU5ZWDdsd3pORVh0YXJpcnl0Tk5WYXMwOGlCQUc2SmJTZHh6R3ZaQU1raXc3dlZvUW1iRERvdGZMbTVvdWk0SV93RU5vWFBBRFdWdk1GS25mWjUta2FHVnkzZlJQV2lsT3duaXpQVm1aRjJ2bTNKdDYxcUdLWkxuYUE0bURvTXNYSU1lY1R4QmQtNFE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-18T10:28:23.951Z"
+    },
+    {
+      "id": "4f6dd7e358c4c806",
+      "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
+      "source": "The Globe and Mail",
+      "date": "2026-09-16T16:52:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOME5zUFFfeWs0ZS1Da3pfelFOYXpOQmRnZC1tTWtESHhMaDNTS1g4WXJSVUFhZDRXSkpiLWlnQW9jYURXaHR5RERYa1Fxb0FTRTBGdGltUXQ4dENtUDVveHhiMnl2M0hPN253NERXYVNUWnNHSjRXVmszQ0ItZV9PZ1JIUjlmMy10MC14SUgwNW1aUXBPOG52UmNQbXM0eldQQURMSi1VdHBKX20yeHRNekNUNHJlVkhDNUQ0UDV5aFpaN2tuNUlZTTlXVXc1UHZJT1Jtd1pESi1kU3ZPT2c?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-18T10:28:28.726Z"
     },
     {
       "id": "71b3255401319360",
@@ -325,6 +477,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-17T10:53:03.739Z"
+    },
+    {
+      "id": "045daef9e38e3345",
+      "title": "Twenty-five California grocery stores will get digital screens this fall.",
+      "source": "Stock Titan",
+      "date": "2026-09-16T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTZ5NmhYX2doRlYyUmo4d25pNV9QdVZjdzlOTlQzdXMxU3gxam1Ya0pSZ1BqeEJxYzZraGFWOXhqN3BEVl8wMEpxZWZMMENYdnc1d051RTlzZ0ZBQXV1RHZOTnNaZ1pCVG1Ocy1iRUFQUGZoLTJZcEJHckl1RGlDaW05TXhHQWxGTXhlanB5R3dMbU1KTEV0YWJIVEFRcUg4YlFmMFNrUlVQRWN5UGpnQUE3THFRN1RqUFQtaGZHZVM?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
     },
     {
       "id": "ec1c302ee3f0d5e9",
@@ -435,6 +597,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-16T10:46:10.688Z"
+    },
+    {
+      "id": "739c5ada23c347cb",
+      "title": "Which industries are ahead in agentic AI, and the common challenge they all face",
+      "source": "KPVI",
+      "date": "2026-09-15T18:30:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS1BNRGtZTmlnbEVHenhxM0RrMUh4dk9ENDMySkNtREV2MWQzNWp2dF9vY3pvbFNEdVJTblNBZzZsV3ZlOGN1MWtGTFdaM1F3VE1Qb3RNd01RYkdjU3J1TGgxdWptV1MyUUx4aXFSVjEtN3RBQmRqcTBqbmp1WWtXUTNTMFliY0U4YUVJdWd3ZEVFRHk3SXNweW1BWm54V1p0MDlJTEZ1cmx0UUZDQVBOOGE1d2w3dDZLMzlpQ1B3NXR2ZTZkeGR1TWVRLW9qaW9qOEhLcHJlbzROTmhJVERadmJndERlUXRhOG1ROWFHa1ladw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-18T10:28:22.790Z"
     },
     {
       "id": "be5e7ec7683a81dc",
@@ -1035,6 +1207,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-09-09T10:41:27.577Z"
+    },
+    {
+      "id": "f750adf0efb9d569",
+      "title": "Pinterest and Wolt on Proving Retail Media Works, From Discovery to Delivery",
+      "source": "ClickZ",
+      "date": "2026-09-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0hDTkZVLXFWZkxKZGwyYTNub2FtdHhOWVhWQ2JWc1BwTWt2Vk01UkVNcTNoV2ZwOXduS1BUS0NFaGkyVHJwRTE4UHBNYWtGdEhCRnBabFNTUGJZcFJzUXYxdmVNMGlBWU5TZV9xS0JOQmMwNVRCWkw3TlplckZIb2xraVVTWnFVRXNvN05jUndOZzBpSl9SUS01eTN5eTBFM09ZQw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
     },
     {
       "id": "c541a90d67e2cd06",
@@ -1865,6 +2047,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-10T10:30:13.083Z"
+    },
+    {
+      "id": "fae376348a84b196",
+      "title": "Groceryshop 2026: AI Shopping, Retail Media and Unified Commerce Reshape Grocery Retail",
+      "source": "Coresight Research",
+      "date": "2026-08-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdlpvdGRHeWYyN0Nhd0ZvVnZvQ1lqUmtlVjYxWTdWa2RUeUlla3RHWFBKOG5QY0U4THhGNTl2azV6WjNrY2NLYUltZzZEcFpHZHAzN3dOektLU0ZoR0VBbXUyaXJzUFYyLVFWOVhpQ2ZDNEQ5MU5yVFBxMk9JMFQzS25oUzZ2U2NPd0ZiOEpjMWZfV1NTeEhXdHRTMkFMTFdJd1BnYmRPMVdzSmN1RVU3aWd2TDZWWFZ0aHlTWjRrTHZTUndpS1k1YlFabS1VNGVQQnVMUWptbmRQSi02N1UzUDFTRHZEWGNLcFE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-18T10:28:27.446Z"
     },
     {
       "id": "16a4ddbe132b95c5",
@@ -5187,6 +5379,16 @@
       "firstSeen": "2026-09-02T10:30:30.213Z"
     },
     {
+      "id": "d1f8ffce9f2bdb21",
+      "title": "Digital transformation in nuclear power: How unified data platforms drive operational excellence",
+      "source": "POWER Magazine",
+      "date": "2026-07-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTNmeVhDRzRBZHN3V0ZpMjJnZHdEa0YzbFlWM0FBbWhWTVI1WmxZZzIxRkhDZkM0cDlCelBGdktCWGlRMzgyYkl0ZGUtLWxxUThkd0x3UXprcTFCQ3dyR3ZGTmJhdmh1bS1OSGFjSWYyR0d0U1ZlN0xaR3NobFlvTkpwTkRzR1RYYWFPV2dNa1dNNXlhZGFPaUNBVUJVR01kazZNcXB2aG1iSTNzaWZRdjNVeHVvQ2xjTTR4emxjWkdmOHhx?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-09-18T10:28:01.448Z"
+    },
+    {
       "id": "5d376f3a577a31b0",
       "title": "Former dunnhumby executive Jez Collins takes on Head of Data Monetisation position at Kingfisher",
       "source": "Retail Technology Innovation Hub",
@@ -5967,6 +6169,16 @@
       "firstSeen": "2026-09-03T10:36:10.968Z"
     },
     {
+      "id": "59e287c3a250d9db",
+      "title": "Nvidia’s New Hedge Against Chip Competitors? Partner with Them",
+      "source": "The Information",
+      "date": "2026-07-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOF9SWkYtNHBtVVBWUW1uWGlwN3BEYThrVGVjZGtIRUYwM3liMlBabEdfQ0VkR0xJWlVKXzZocFJOLUxPbklTWjNtdlFQVGlDbW5Dd3RRWGx0bm5XZUVmdHgxLXdZWkRQbXZ0ejhhR0k2Y1dsTDg2M0xYN3Y1aGgxM2tRQ29MNko5NWc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-18T10:28:17.384Z"
+    },
+    {
       "id": "a134a066fa2edb26",
       "title": "SoftBank, Altimeter, D1 to Invest in Thrive Holdings’ $2 Billion Financing",
       "source": "The Information",
@@ -6205,6 +6417,16 @@
       "category": "dunnhumby",
       "query": "dunnhumby partnership",
       "firstSeen": "2026-09-03T10:35:50.280Z"
+    },
+    {
+      "id": "72af93bbea0b715b",
+      "title": "Ray Bright Profile - Cricket Player Australia | Stats, Records, Video",
+      "source": "Cricinfo",
+      "date": "2026-06-27T00:53:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xemt6SDlkaVd4QXNJVG5WZlNMV0VhSmVUX3FyMHBNX04zM2RkQjlHaTRzNFlJSUZQMEJjeTVYdXhhY2U2N3AwOEhQWTluRk5IT1ZXMXBzUUFVZWszN1JsMQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-18T10:28:17.385Z"
     },
     {
       "id": "b8b532a73f65ccdc",
@@ -10535,26 +10757,6 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-09-03T10:36:07.352Z"
-    },
-    {
-      "id": "2ed8ad40cbc56df7",
-      "title": "Industrial Edge and Virtual PLC earn UL Platinum rating",
-      "source": "Siemens Newsroom",
-      "date": "2025-09-18T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGNXZWMtcmtwMC1ab24tMzN6MkYxVnFzaXhtQWEwRXlmeGg3OXVzZUtJR3pTeXR1OGs4TWZ4ZVgzRlpvUHJKQUJsLVphRFllM21Ta2tkVlgtX25PMGtxMlplSW1MYVRaWEI4Uk8tNW9rWHEzbUxXZVFTSTJPVl94QlREaw?oc=5",
-      "category": "AI trends",
-      "query": "industrial AI IT OT convergence",
-      "firstSeen": "2026-09-01T11:00:27.079Z"
-    },
-    {
-      "id": "675cf01a422c27ba",
-      "title": "dunnhumby launches innovation incubation program for retail entrepreneurs",
-      "source": "Mass Market Retailers",
-      "date": "2025-09-18T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWdPak1pVC1ldXI5RERMczk2emRFRnhKNjBJaEMxYWJvSW02SHlfbFZmZjIxZ0gxazJpVlRycmhaT1VDNDQweUhPYlg3UXNuUVpzLUFCemVQczRQMHhDaF9lNTNwYkVjZjdpTFhkeDkyRTdqcXBraDZFYVBsNFVuT0hFRUNaNlM2OFpUQ3o5Z2NkTWQ5MXFTWTY3b0FBQTdGamQybUdyZDRSUQ?oc=5",
-      "category": "dunnhumby",
-      "query": "dunnhumby partnership",
-      "firstSeen": "2026-09-03T10:35:50.280Z"
     }
   ]
 }
