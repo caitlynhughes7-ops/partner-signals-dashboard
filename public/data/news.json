@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T10:14:09.053Z",
+  "lastUpdated": "2026-09-20T10:32:38.193Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1068,
+  "totalEntries": 1075,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -215,9 +215,20 @@
     "12ea8b6d503e580d",
     "28b14785a5eae41e",
     "2ed8ad40cbc56df7",
-    "675cf01a422c27ba"
+    "675cf01a422c27ba",
+    "be25d029bfc9f18c"
   ],
   "entries": [
+    {
+      "id": "3a0d84bd2029dd8a",
+      "title": "Luxury Retailer: Personalized Retail at Agentic Speed",
+      "source": "Salesforce",
+      "date": "2026-09-19T00:07:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXgwQ3R4X0hrUmZPQ3doMkhHSENldXJWYXJnWDNvX0JRZmVwVFlJaDN2Tmg2czhvT2ZvNzZ6NDZvWW0xRlk3blE5NWtEQnRuSFF1cGNZVkNUcGZ1cnlocWZNaDduMm05RXlGb3RYRTFPZzN3dUV2WDlHQ1VWckJka2VPUzJvdnZ5QmhSYXlYQzcxcWFxQW5CZDdYT1dlUnY1NWEwd2s0OHdjSnBrb0p3T3NweS02ZXFtbjlBS0RXa21vV2ZWWGo1bUFtMWJLSXE0SW1oSQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-20T10:32:32.159Z"
+    },
     {
       "id": "07d024f7bbd36a22",
       "title": "Agentic commerce: what are its immediate implications for e-commerce? - FashionNetwork",
@@ -519,6 +530,16 @@
       "firstSeen": "2026-09-18T10:28:28.726Z"
     },
     {
+      "id": "4256382e32e54b53",
+      "title": "Humanoids ‘deviating’ attention from core manufacturing issues: Schneider",
+      "source": "Manufacturing Dive",
+      "date": "2026-09-16T16:23:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGFZbzQ4dEFzdjk3TF9ubEt1bVBwdlBEVS01VEdxNVZMSUdfeDdjbWh1aW42ZHpWVDVvM1plWXBUdm9STEZhaUdyYzlxX0lGN0pvNWJ6Z2dpQ3pla3dnNEZQWEpFal95bFlyWUY0V2FIWW9rZXkwSUFLNnRWSXdpSzFXRnRkWjA1TlJadWotVkNONXIzYU50d3FRV2tGcWktV2d2MXJXdVhpTnkxbS1QeDMzdGJpVGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-20T10:32:31.010Z"
+    },
+    {
       "id": "71b3255401319360",
       "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
       "source": "TradingView",
@@ -649,6 +670,16 @@
       "firstSeen": "2026-09-16T10:46:09.518Z"
     },
     {
+      "id": "2b0af487bd1044fe",
+      "title": "Which industries are ahead in agentic AI, and the common challenge they all face",
+      "source": "KRDO",
+      "date": "2026-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYi12ZGJtYkg5MmVQcWd0Vk15MHRzVVlnVlZtcEtFUVp6dms5TVVQQjIwMXNZb1Vqem5DWkFLM1BRTkdFOVVRWWJweDJ1YmVGSTVyTXl1TnlCbWJLWS1lMGRmT3JUT25TcHNFcHJaQnotQkVFY0tmekxlck9GR3ROemp1QTV1QXA3OHFPUGRUemtqZFRhMndvN2hVd0JpaEZxMHJ2UkRDbHB6RVZRcTlNbWF1RWdiTnduamQ4?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-20T10:32:31.010Z"
+    },
+    {
       "id": "6de48f1145c905e0",
       "title": "Salesforce expands AI alliance with AWS and Google Cloud, breaks down data barriers",
       "source": "디지털투데이",
@@ -757,6 +788,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-16T10:46:15.268Z"
+    },
+    {
+      "id": "6584fa259131e3f0",
+      "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day",
+      "source": "Salesforce",
+      "date": "2026-09-15T12:27:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXJQNGFUekR5MGIyZko0UU9WbkRsQk0xbHJYdGlTNkZnaWE1YUp1a24yMHFtMjA3T09Dc1lreFAyUDJCZ3lheEVtTjQxa0ZqYjBPZXg1RTZrZzRrM1loUXpfeGxXTjl2OS1rbmpMMk1VaTFQd1IxZGp6ZnlSUXNoQXlnNGxvdw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-20T10:32:36.958Z"
     },
     {
       "id": "027df2d0506bf0db",
@@ -4829,6 +4870,16 @@
       "firstSeen": "2026-08-03T15:59:44.998Z"
     },
     {
+      "id": "5b6c597108e872a1",
+      "title": "Circle K gets serious about retail media",
+      "source": "Modern Retail",
+      "date": "2026-08-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEQ3TVFMdkwtZG5na2FIakI3TUhfdlhFdnJ3Y3hTbVJmd19WaTFIRjVhRk1BNUQ2eFdJMXFFel9sa1VUT1lvVGRqTkdEV1lqT0xOR1NOWV9DdlR3T0hFNUlTUkZxREgtUnd0SzFfSzFVM2xfWVFpYWRkRDVaZUgwdFJ0d2lxZw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-20T10:32:35.655Z"
+    },
+    {
       "id": "c746bba98b7357e9",
       "title": "Comment: agentic commerce is the next frontier of retail but many retailers are struggling to keep up",
       "source": "retailtechinnovationhub.com",
@@ -6229,6 +6280,16 @@
       "firstSeen": "2026-08-04T12:31:00.376Z"
     },
     {
+      "id": "7c40e8a4ed7129bb",
+      "title": "Industrial Tech Co. AVEVA showcases Connected Intelligence as the next frontier for India's Industrial Enter..",
+      "source": "ET Manufacturing",
+      "date": "2026-07-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYnktYnQ3djBrU1RmeHk3RE0xdzJMNzN5V0VWenpjUHVXaHJIckVvZ0E1X3JZeGh4WjVnbkRTX1FHeDljN2RjMmJqWFpqNVM1bElyVUdTQnQxYTFtVGdlYjVFZFFZTTd3a19id3ZlcWxIWDMwY1oxZjFkMDZqMXQ5OEUxVGhrWXdlcnVRRElfVmREYUNZOGVmTjY0N0pVYnoyQkNtaENKNjh3NGYtbVBobUtheHNrMHdTT2wzVW0yNUVTWFlpODZQTGs0MnJ3TnJTR2FGQ256alhUTGdDekN4WkU4RkUxekRYWjNjR1huT1Y4SjFkU0JaNzZlanBpT3RWdW9MNm1ZUVVBWTZBVTZKMGVmTXNtZ9IBmwJBVV95cUxQTFBKRTIzbno4bWk3blRqbHk1VEM0ZUJYUGkySDlKRUJqZlFTUWN1M0pfUE10TVdBOUd4N3R3aFZzN2lma1VrZFV1aF80eGc0QzJDWFVWNDZNN3E2bFRCWDE1RHBzekFUbXF6UGNIZFFhRXlBd3FBTlE5UzRXYkU0RnI5cXFvLTFWY3RsLXRCNVA3MGJ3QktjeGtMWFNQWUd4RVppc2JpTTA5XzIydzQyNkp2VkliajR4SGJNRHk3MElHZzFxRWdYcmFTdVhQbVE3ZzlQS2dMLTIxcWdYOFJMcWpuUGZLOG53UWRFZm9MeVJnVmRuczNpVUtyOVBrMUthek9ER29vTW82dlFZTXNRcWtKTzVSR1Q5Qkk0?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-09-20T10:32:09.143Z"
+    },
+    {
       "id": "3e4260a23ca9ed39",
       "title": "NIQ Product Intelligence and Lula Commerce Collaborate to Accelerate Digital Commerce for Convenience Retailers",
       "source": "NIQ",
@@ -7137,6 +7198,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-06T10:11:05.607Z"
+    },
+    {
+      "id": "a216171f12726b17",
+      "title": "IMTS 2026 Conference: AI-Driven Factory Digital Twins: Proven Methods, Frameworks, and Measurable Manufacturing Results",
+      "source": "Aerospace Manufacturing and Design",
+      "date": "2026-06-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFhIbEVWVVpWb2N1RWpiNDBGS2hkZmF3VlVOekcyMk01OThaNXNqZEZCZ1Z2RUY0MUFxci1ERFo1M1lMZHZBVy0wUHFmb0RDc2VxYTRwTkVSUTc0U0hFVnktTVFrLUhoQ21zX1pNWHVSSkEySWlhbVdFMENDRnRQQjMxZ0ZFSmdSVHdZRHhLWnBVU25QVGh0Q2YxRG1PS2RrT3dfODhrT2xYNHJISkpXZnVZMzl1TDlUWmVjVUgwcVlJSVItU2NPdzNRaUpWSFFBWXZVQzZZbDU4a09lVjRMMS14cFVheXdtZEEzejgtRzhNeHQ4QWJETlBhWXlCZw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-20T10:32:38.191Z"
     },
     {
       "id": "2a3a3cc753f2a445",
