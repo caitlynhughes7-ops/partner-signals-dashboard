@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T11:51:35.893Z",
+  "lastUpdated": "2026-09-22T10:52:46.722Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1088,
+  "totalEntries": 1104,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -220,6 +220,116 @@
   ],
   "entries": [
     {
+      "id": "d80829e9874aefb1",
+      "title": "AI Reshapes Retail Loyalty as Agentic Commerce Changes How Consumers Shop",
+      "source": "MarTech Cube",
+      "date": "2026-09-22T07:48:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVJSdGtvcHh4RWxCLVBsdkx2RkprelB4clVab3FHQkUyZXNzdWF6LXkyRUpSWEZ1RFJSaU5JaG1TVFJpWjdWbXZrTG9JRUthQmtBRXVHdUUxOFhYSWtnZzYySFhnNFJqTWtsZF96TWlwR3E3SzZNQTZiX3dSOFNjVlhLemhNQVdqamlpbjI1S3VVNmpiWk1jaFJIcTVoYXhkbGdFQw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
+      "id": "b442386fd782f74f",
+      "title": "Blue Yonder Named Leader in Gartner Supply Chain Management Suites Magic Quadrant",
+      "source": "Machine Maker",
+      "date": "2026-09-22T07:17:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3lvZC1BSmlpaFlnWHU2RFFid2g5QlVrTmVPcUlRMWpQMjNlRFBlLU92TDJnWjRxZm04bTF4Mk1lNnQxZkFLaVdiWjVZM25ycTBpbzZicVQ1dUtjUExBbXlnTVZOaHp0Zndfbk1vX2NidTJVYU9uMDJ2dGY1U25mY3hjSWhTQ3VhRjFLNGJqdjk3SVl3NkRFVTQtMDBJVFFib2FvQkdkSDdmUkpjTllNRW02V1ByUQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-09-22T10:52:28.444Z"
+    },
+    {
+      "id": "a32a4de695f2788b",
+      "title": "EY–Blue Yonder Alliance: enabling your supply chain’s full potential",
+      "source": "EY",
+      "date": "2026-09-22T05:31:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FcXM2R1lqa1A5Z0ltVUUtX0dPbkY0QUdlb2Nsb1pWeHVIYXk5NmhfNzNwMWJhcnlIanU3ekx3aGRtV3I3NEpselJVRVBYSTNuTXZDYmhLcG1HUQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-09-22T10:52:27.276Z"
+    },
+    {
+      "id": "502e17c8d3c0490f",
+      "title": "AI is reshaping retail loyalty as agentic commerce changes how consumers shop",
+      "source": "MediaNews4U",
+      "date": "2026-09-22T03:33:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3UxM1dNNjNjaERpLUJ1ZGI1ZkNMVDhwNGNBMjZ2ZlFlb1hVQmNVNWYzczBrY1FjVUtMM0x5M3pWc1hBWjQxQzB5WlEyZE00Slp2NVpWQkt1VlROV3VnWEhxMWhqWnFTNWNOWWhwVUYyS0ludVVkX0pHM0VjM2JSMTlUT0puWVJhamFPS2VOSUtWV1FsT0dnS21UdHpYa1Y3aDFIUzVvZjd3QQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
+      "id": "b9e549f64fb8476f",
+      "title": "Cohesity Introduces Agent Resilience to Protect and Recover AI Agent Infrastructure",
+      "source": "The Manila Times",
+      "date": "2026-09-22T03:05:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSzlGWmJYaGpmbGhaTExuWWpBcVk1YkIyWm41RG5fUGwwU2ZPRTJRX292RHo5VkxvU2QwLUtiZURLSS1ZS25fVHVKNDlod3Jrcl94SURHSEx6TjZMTW4wX3FxWmJtRDEzNW5nTi1pQjZONmt5Q1JFa1JqMXdsX0xjcHFFYThyZ3N1cEMxRndVVkJrMEg3SDhTSXA2aEZaU1FVdTRMY2JMeGtkbGxlNE9BMF9maTBhd1BGZEpqQUNGc1ZycDRLLUQxcU1QNkFud2JBU2hGTlZZdmNtdi11SHNDMDBodlQ5NnhrM0lv0gHwAUFVX3lxTE9hMW9HRzBmVmRtWjdQTmxJem9NZC1RUnpMRXJoNnJvZTVrMGxVcjM4SHpmR0oyLWdKSE5iSkhKbFpqZGNqX1ZxdXVOdWdjREhDMmMxekt4ZVFBYTZ4cEtOWDRoMmRrNHlBMFF1NEdabkNKY3NvNUlNaXRQenE4UmZiMHJSUXhGNC1kLXV1QUVud0tUc01LTU1zQ3U2eW92UVFkYXQ4S1hQUXZiSW5aelZORUp5WF9vbDRocFUtUV9Xb3hLdklhclpfRmtrVFRBRUhMWmFkRVAybTNDQng0UFZ6M3MwSHlPN2dBMW9JX21KSA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-22T10:52:45.479Z"
+    },
+    {
+      "id": "df5e766e875e6986",
+      "title": "How Midmarket Manufacturers Are Moving AI From Experimentation Into Execution",
+      "source": "ERP Today",
+      "date": "2026-09-21T19:50:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VYW05dDJVYWhDMjBpelpTbGFCbnpXdmFwTjNaSGVRR0Jld3FlMm5BQlp4SEJBel9HWDlEbUczRGo5MDN1WFUtSGpCSW5XeHNDeldFWmhuLVNkaDc1LUdyNnpsWjhRYmtYTGlkNTBJN25kV1EwcWt5dlY3NWczUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-22T10:52:39.661Z"
+    },
+    {
+      "id": "1ceccef4bd28cc87",
+      "title": "MISUMI Americas Launches Venture Fund for Robotics, Hardware, Physical AI Startups",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-09-21T19:02:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU1JPTTNlYXpRWTM4VlFhSlFucjJxY1V0ejJxRmFhWmlSQ3RoZjZwdjdseHc3aFNaaEpVbFBQN1ZTdEZQQ2hxUXliNTlGRktZT0VkeElITVUwYkdlbWZKZUdaVW80V1diUUg1d0QtOGtwUUtSeU5uYWZaeW5ILXl6Y2lFeTVPd2JoMGZDY2c1Wk1iNVBOQXp4QUNaTG9TaUVlWFF0WnFGQVNHYl82RGhlaTBDYjNEZGRENEswaF9BeVpONGs4WTdTTXZUNDZxVXJIRDJwYzh2YkVldE9BQnFXcEViamZPcUktSk9ObmlR?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-22T10:52:43.125Z"
+    },
+    {
+      "id": "f3d42ab337727e04",
+      "title": "Google upgrades Universal Commerce Protocol; adds retail AI tools",
+      "source": "Chain Store Age",
+      "date": "2026-09-21T18:45:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnVkTi1ZSkJDWkQ1NDEycVNfYmJ6QXlwa0xIWmpMdzUxbUszTU5QT1U0Q2dwWHU5ek9TODFabENGRW9SeEt0d19JOHdHS1k1dG5Hc0tqWGtUUnJYTWNRZVRFdzhKY0huSkU5M2FOVXdFQkxHRVR0eHoyZVZDSzVKQ0FDQ3dLRVZ2NTRDTkswX01xVTVK?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
+      "id": "975ea986c12e6389",
+      "title": "Amazon Locks Out Meta's Muse in Agentic Shopping Standoff",
+      "source": "ADWEEK",
+      "date": "2026-09-21T16:10:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzA4djAyVkV4bzhjUlM0aEgzTU5zRkY3dFMwMXZhVndVTnJPQUtFbDJnMUUzR3hsUkpHcThwbjBTSHYyeWpDNjhmbUl4clJsV19KMkJicmU2SktMZ1VEcGkxX2dWZ01uRkhjSEJEc0dXWFBnaUtYb25aRm5qSWNsdGtUQkY1RVdzNFM4bDJyR2VZMmM?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
+      "id": "a537abe63d966fbd",
+      "title": "Collaboration Must Sit At the Heart of Manufacturing’s Multi-Agentic AI Approach. Here’s How.",
+      "source": "Unite.AI",
+      "date": "2026-09-21T15:06:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuUWN4ZGUzSW1GWmN6bFZpM19CZ2RjdzE2VFNEREJRcEE5ajFNMVNGZlV6ZEFMU082ZnhQazJoVTB6RE9wQ25nN0U5VmZpTXNvWHNsVVMwQ3Y3Sk44QzdjdmFZRDdWSUk2VDZKWFhkYlM?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-22T10:52:39.661Z"
+    },
+    {
+      "id": "f8abc48f5f1cb646",
+      "title": "True Fit and Glance Bring Fit Intelligence to Agentic Commerce for Hundreds of Millions of Shoppers",
+      "source": "Business Wire",
+      "date": "2026-09-21T12:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOGl3cjZMeUNCTGpFTHNKLVl4STkyVXRjMWtHZnJ2UWNFZl83cGIwbU55SjVlbEpIMEZuSWo3LVlnbHU5NEhRT3FKbXk2UXA2ZUYwY1VYZ3NXblhPUGk1aTlDYUoyNlVEUTItWk5lUkZPSU1scGlRR2NGZ29oWjg0Z1JDSVFRYlhmZ1UzN0lVZTUwTzRZVmNlcVM0RnUwOVRmaFdwdUszcGp0NGFETGlyV2hqTGNUWklWckZHR0lRSHQ2cTJJN3BoTlFrNjBGcE9BTHZrekJmRW83bE1keHJhRllnVjBpQ19PZnFMYQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
       "id": "7940ea859c6febcf",
       "title": "Google Cloud unveils secure agentic AI blueprint for manufacturing amid push to scale industrial AI",
       "source": "Industrial Cyber",
@@ -238,6 +348,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-09-21T11:51:35.891Z"
+    },
+    {
+      "id": "7e4b082064d67618",
+      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping",
+      "source": "GeekWire",
+      "date": "2026-09-21T07:03:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-22T10:52:40.817Z"
     },
     {
       "id": "0976c91f976d2a70",
@@ -388,6 +508,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-18T10:28:23.951Z"
+    },
+    {
+      "id": "49995d76413dd0b2",
+      "title": "Which industries are ahead in agentic AI, and the common challenge they all face",
+      "source": "ABC17NEWS",
+      "date": "2026-09-18T05:23:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2JDcmRtWkcybzFRMVpFVXkwakhBNEdzdi1XbkJuWGN2T2VhNnQ2ZXYwbFBmUHIwZ3JMZzc0M3k2dmZaWDhvNllJalVmSlAtZmFIVU0wVzdBSEZJbGJfY3NuSnNVaEZxTG9INkctV3VZTWg4d1hJVlYyRzhjQXMxa1JjV1lYbXJUQlZPZ1NEWFZWVUJMOXlHdVFBUDRCUnRpQ3kwQzlhaDRyaThheU0zY2Z0dTFnM1lwV3VWTkx1cTJEZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-22T10:52:39.661Z"
     },
     {
       "id": "0b2f02280c98d294",
@@ -758,6 +888,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-20T10:32:31.010Z"
+    },
+    {
+      "id": "d7fb6fd4b8b70b70",
+      "title": "UNFI expands AI, automation investments as fiscal 2026 profitability supports supply chain transformation",
+      "source": "massmarketretailers.com",
+      "date": "2026-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0tWd0hSZ3A4eGt2Nml1NlZIb3d4Vk9NR2JTdzIxNHA0ZXg1VU1Qbk9KQnlzUGM1LXlvbGxiZzlpRk1yNW9iay1HdFl1NEJnZVhVNE0yLTk2OFZ3SC1xWHR2S0ZEVXZlNGJkN3FfSVU3TE5BaWtUa3NoWTFwdThlUm9hdEpxcTlJSWl6eW5TMEZMMDRaTjZYYXFmdldxMW5hSWVLVXN5bmk5d0RVU3VzdVRKdTllbGJxbHFrSDczbUl5TU1PZlN0cVpPZDQzVVdsbDkw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-22T10:52:43.125Z"
     },
     {
       "id": "6de48f1145c905e0",
@@ -7200,6 +7340,16 @@
       "firstSeen": "2026-09-03T10:36:08.506Z"
     },
     {
+      "id": "f6de99075250309a",
+      "title": "Amadeus Unveils Major Expansion of AI Strategy Across Hospitality Sector",
+      "source": "Hotel Online",
+      "date": "2026-06-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlUxOFlnd2gyNE10RWJjSjU0b2U4MENGTG1jajQ1MUhseW84NmRzNTJael9mVTk5R0E2YXRUMGFHZTVXdHNyLV9iTDRFV2NaeHU2b1d5VHVabEs1MllGcjhNa0RWMENNYnRLajdKOUMyQUFWb2ZJN0pvZ1Q1bUlIdnNiOFVpZGV5aU5iV0pYT0VxOVJYTWlEeW5OVkRsZDNTWlJKUkdDUFQyQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-22T10:52:31.833Z"
+    },
+    {
       "id": "bf927109c8b611c9",
       "title": "Amadeus’ New AI Tools Are Part of a Bigger Hotel Booking Plan — Exclusive",
       "source": "Skift",
@@ -7838,6 +7988,16 @@
       "category": "dunnhumby",
       "query": "dunnhumby partnership",
       "firstSeen": "2026-09-04T10:28:29.755Z"
+    },
+    {
+      "id": "520926fe2dc81c1b",
+      "title": "Amadeus, Accenture partner on new agentic advertising platform",
+      "source": "PhocusWire",
+      "date": "2026-05-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2g0QWRBdVpWT044SFloQ3gteTlROVJlbEtzSV82ZmgxZ0hrNVljNXlCdTdaeDFnYVhEWEpBOTd2OTc3QjJOa1Q0clBaTFZHOGNPLVc2WVo1NWtHeHVQVFF3clJmYkNXNlJTbTB5ejk1RlFwMUJMN1FoUXlUZXpEZjdERFp6TGRhM2RwUGt6dlVVZ1U?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-22T10:52:31.833Z"
     },
     {
       "id": "f49b4bab95b44c6a",
