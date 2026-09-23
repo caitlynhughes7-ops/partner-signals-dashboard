@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T10:52:46.722Z",
+  "lastUpdated": "2026-09-23T10:41:12.227Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1104,
+  "totalEntries": 1115,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -216,9 +216,115 @@
     "28b14785a5eae41e",
     "2ed8ad40cbc56df7",
     "675cf01a422c27ba",
-    "be25d029bfc9f18c"
+    "be25d029bfc9f18c",
+    "c2cc26bde0ce5850",
+    "94df876075b6d2d4",
+    "f5e18088d421a966",
+    "11dc5bfa9c5288d5",
+    "678ae08e0116d934",
+    "021ee9f2c68c9fd8"
   ],
   "entries": [
+    {
+      "id": "2264702e5d3ded97",
+      "title": "Why standing still is the riskiest move your supply chain can make",
+      "source": "The Independent",
+      "date": "2026-09-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkJ3NDBmcGdENW9JT1JSSFhDcl9RSDRjbTlOd1BkU0otQlExRTV6cWxSXzRvWTl2YXNWSG42bFhkT3N0Vml4OGRBM1pJU3h1UHpSd2l2UVhiX1doN0I3Mi1qRlM1NjlDSm5NRVI2aXRndTFuTDB3RTlpYzJNSGZvcmVrY1gtbzVGS3JHd2NGQ1FEaDBfMTE3Qi1VQTdTVl9Qc1VlU2ZLbDlkQ25PaHc?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-09-23T10:40:54.581Z"
+    },
+    {
+      "id": "061e6472c3a155de",
+      "title": "Tesco-owned retail data specialist Dunnhumby triples Irish revenue over seven years amid client boom",
+      "source": "Irish Independent",
+      "date": "2026-09-23T05:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRlpLdlFPMmRDdVpVVUVxLWEtMGxmcTZ6UjNqX1ZBaWlnbjBpZUI4NUluT3lWZDJTRFZ6ZVJDaXhIMWh1TG5yQXhYd1lpUm1WbkZDRDVnRGZSUUcxN1l6WFhySjRhU1lRcERKdXBPYk01WUI5azE5aHA2WC1FZUt0WHJyRk5sbVhBMjZreVRKTXNESF92cjZiQ1FXNnU4ckNfX1ZvWXFQZkl3Ulg2RnJnQXFWU1BPREVhWHFVY1pkQjdmdGl2WmtndHQxLVA3ZHN6VDJDZXdCMWFHLVVBdE9nWTlGb3RUanF0?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-23T10:40:51.214Z"
+    },
+    {
+      "id": "c1656e8089ed91c2",
+      "title": "Meta's Muse personal agent is a hit, as AI commerce starts to take off",
+      "source": "CBS News",
+      "date": "2026-09-22T22:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Z2MzbkxnNHlCTHdyX3VfUzZVVVNJelBJNXM2RzhpNThkejQ5cmY4dmN5eUlpeTBpZDJ0ZHl5clB4TlR6SUFxVDFSekJRYXdJZTRGUWhBejFRY1NLREhaWmJQM1FLbFJn?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
+      "id": "bc5811cde040b7ab",
+      "title": "Who Pays When ChatGPT Gets a Purchase Wrong? Banks Warn of a Gap in Agentic Commerce",
+      "source": "InformaBTL",
+      "date": "2026-09-22T19:45:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGZ4VktFUGliT3pWX0tKNFpJUXVMOXZxVmsxdzRiS0dnWDNKcFJVM21Jb01XY0NXVTdicmJ5VWZydVdEa3RfRlphVUdlLTRSeVA4VFpyamNrN2M2dHBhM2F5a2M1WDNva0J2NlMzSkw1VV9KMkR2R3dINnlxN3JxWG5zTzY1LUlpN1dfUWhrZE5oaDMwazN5WjZXSkFzUzZBYTJRMXdqY0xReURQQl9iQw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
+      "id": "75d85be86046b9fd",
+      "title": "Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI",
+      "source": "engineering.com",
+      "date": "2026-09-22T19:26:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW5tQThrSlRITlVEcGlUZXZxWEFiWUIyNUs0YVR6YnBaXzhndTMxS05oV1JpanhxQXhoNkNjMjBQQmZqUHlpYVc4V1RTQUtrTS1iVnptdFR2WmxtX3FURURSSHQwd0JCTVJFaEV0RXAzQXk0QVRjdzR1WlNkZy1SZ0xadDZWYWFwRWNhQ1ZjZ1dEUkFvS0VjZU0tdm1MLTFCRndnU3VJYmNVQU1OTkFSVW9qSms1dm1qVkpwWElRUmhsbXBCOXVabW0zTl9Idw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-23T10:41:12.226Z"
+    },
+    {
+      "id": "50465123f405a287",
+      "title": "Global Banks Align to Map Out Agentic Commerce Principles",
+      "source": "PaymentsJournal",
+      "date": "2026-09-22T18:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9JZGN4T2FvMmJqcW1rcUdWUkpyRjVLVEJZUkFaalp1clVHSHVfc0dTRmY0cU90YUxEYTZoWkNqZ3l4SVN5aVBCUzZWMUtDS0JvQV9NWjlvMExPYlZwQ3MybkhXNDA3dnRDbVVMWmJoWFUxVVphbUY2eWhCTnZoc3FseGpEMG9lS2R0R1VBd1hRYnh40gGaAUFVX3lxTFA0WWZjLUhPdVlVR01hLTNDamNIbTdqNmJ0SEdXS1ptRTFtUVl4OVRZeDZlYTBDRVlmU0o1WTBGYV95Y3I2SVM0RVJMYnF0OUxDZTQ1MDYta0hkS0dvUXVJUjBiS3M1RDR0czhESWtZcEt1ci03OThPY3NrREswSW82TXVNb0hfYkZXdnZGZFVQNGp4RVhtbEdMZUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
+      "id": "138a539e6a16e5dc",
+      "title": "JD Sports aligns product catalog with agentic commerce",
+      "source": "chainstoreage.com",
+      "date": "2026-09-22T16:16:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjVUcndDcFJoeUd6TEVjUWIxMDg4Y2JMUElfa0F5YW5tTnpKdGx0NWxTYkxVTms1a2ZTNF8teHhpYS10TmFHMlNtRzJEdVhQa0dYMElvUjB6Z3BhTFhYNUo3Z3owTkpxc2owejNRT2tRSzMydW9VQ1VHYUlVZUF4WA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
+      "id": "a848f420338fcf18",
+      "title": "Blue Yonder Shows the Value of Connecting Planning and Execution",
+      "source": "Logistics Viewpoints",
+      "date": "2026-09-22T15:53:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2lXTklMczNTdE0yeXN3bnZLQWV5TGhPMWE4Z2ZkSWc5Qm9Bb3BiMkd6MGRnSjY1OENhUnB6MkNkNmpiNWNORElPLTU0UUdVS0VYTTJLNS1YdThER3JXcmFWUWQ4Vk1DbW1fVUx0c05OTGg2alU2TFNpUzZRX0NDR21lRGxGTE5ERTA1T0dYWTFwS28?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-09-23T10:40:54.581Z"
+    },
+    {
+      "id": "56fd453aeb6a72f4",
+      "title": "Deploying Enterprise AI Agents with Scale and Google Cloud",
+      "source": "Scale AI",
+      "date": "2026-09-22T14:01:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmtHWnFUOHV1a1RVemwycmZDRGNRN2M1WFJuNDRaeVYyTl9lVXh0bHJ5Sk5hYTR5QXhlYlVFMVNLTlFrQ1c3Zm90cGgzck9NT3AxeXVHSEtkU0Z4bnZGaFozb3pIbnJaUDMxMEJCZWRPTkxpTmZZRHktZVRnZ1BpamJMRVB6ODRQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-23T10:41:11.042Z"
+    },
+    {
+      "id": "f571db0883a5ec2e",
+      "title": "Retail media’s missing link: Why better product data is becoming essential to conversion",
+      "source": "InternetRetailing",
+      "date": "2026-09-22T11:26:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanpGR3IyRjRfaFBZaGJRbkc5dEcxbUw3Q1ItYUV3S0YxMmRqY1p6OG03M2hFb2JNNTFOeVFFY2g5RkNiUHFoVXRxQjBFdW1GR0M4S1pVN1lSVGhQQnNwU2JmbUpwS1pMdmF4dFRvWkg1QkJRUWFXUFMzVWdTVGtMMEdpYW9wRkRUbDZUbk1GTHpHcmVvdmpJWVdiYUIzSXEzc2NVa2lickRYUEdhT2dqd25rUWxxWTAw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-23T10:41:09.830Z"
+    },
     {
       "id": "d80829e9874aefb1",
       "title": "AI Reshapes Retail Loyalty as Agentic Commerce Changes How Consumers Shop",
@@ -238,6 +344,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-22T10:52:28.444Z"
+    },
+    {
+      "id": "957f63fa43d3c14e",
+      "title": "Seniors delay doctor consult after dementia symptoms",
+      "source": "Australian Ageing Agenda",
+      "date": "2026-09-22T07:12:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTZhM05iY1pFNW56aldGa3B0RHo5NHRCQ0k0YTVmcEUzN3FSQXEwOXJLV244Qk9FRm4yYXNFR0pSaE9SQXZ4ZkVjSmptZ1NWVy1ablk4YmJ1NUFVOTc0eXhfcmhzRmdNX3RVVl9TV1RvUVVJYUZaRUppUm1ZX0xTSWNJdDA0MFAyLWE4YlB2NDhBNVRtbzFEeEY1bEV5X3JPMXd6ZjhPajFsYU1Kdk1rY3I0Yw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-23T10:40:59.932Z"
     },
     {
       "id": "a32a4de695f2788b",
@@ -410,6 +526,16 @@
       "firstSeen": "2026-09-19T10:14:03.088Z"
     },
     {
+      "id": "9fc8071159a7965e",
+      "title": "Agentic commerce: what are its immediate implications for e-commerce?",
+      "source": "FashionNetwork USA",
+      "date": "2026-09-18T16:22:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcF9zTEh4N0t6YlltRWY0V1NMSWJEQ0RMQnJ2ckw3VG5kVGIwaDFnc2ZMUG5EUHhpLU1JZ096dW9EOEpEUXNhTURMcW1qUG9jU1M4cjVSamwySktjRExJemExNW1FMTV5Q3pPcWMxUW1CRlg5N3dhM2FMa1g5eVkxSnR3VUVVRFBhTUhfU3hTS0huWEhsaVIyV2NsMXpWLWZCdklwTFo0Ym9pQ2dreGpWb052b01aX1U?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
       "id": "db14bf44e1d7fa88",
       "title": "Stripe’s wallet embraces AI bots",
       "source": "Payments Dive",
@@ -428,6 +554,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-21T11:51:33.454Z"
+    },
+    {
+      "id": "6ea9a07543ee758b",
+      "title": "Azoma Secures dunnhumby Ventures Investment for AI Shopping Platform",
+      "source": "konsulteer.com",
+      "date": "2026-09-18T12:35:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnBkc0xpZFZSQTlINTNsWTZkczNqdExPWE80cTlzUzdocXBHMTNoRHlQTmtZeDVtM0RQX3VycnZ3SXFBMGtBdUVPcDh3bVUySlRwTE9pYzAxOWRTeTRFcmZ6ekNyaHBSVFJmNjVRZ3RhcVZ1SjB3SVV3TWxIbXZnWTNJS1RTUnl0QVdCM3NNSHE0SDBtSGpqVnFrNTAyUDFRbUVuTE9WSVAyUQ?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-23T10:40:51.214Z"
     },
     {
       "id": "c1ced4625bdf7c39",
@@ -5100,6 +5236,16 @@
       "firstSeen": "2026-09-20T10:32:35.655Z"
     },
     {
+      "id": "9db25ffea19466ee",
+      "title": "Frenos raises $1.52M seed extension to expand AI-native OT security platform and simulated penetration testing",
+      "source": "Industrial Cyber",
+      "date": "2026-08-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcEdyNUkxeEl5V2tHc004Ri1Uck10VEprby1kTEZ2Y2EtZlBvWTY3YlVpeElrZ2xKd1FvWFA4eWw4WUtvZnhIS2ZPLWlteGRFczlVcjI1dklsV0xhT01HQmk3VWNfZ3B1VTVvNUVPSk12TEhlQ3A0REw4T1JNRjNUM1d5U0ctUGNsTlNURWJTTkRPbFNrVjF2aDh1TFlSVklMZEZmM0hDS09VbzlzVjdIZzNENXExM25Ra2pmZmVXelJXUld3dTg4dnJEQngwR3VCRGJFVEZQRk9idw?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-23T10:41:07.472Z"
+    },
+    {
       "id": "c746bba98b7357e9",
       "title": "Comment: agentic commerce is the next frontier of retail but many retailers are struggling to keep up",
       "source": "retailtechinnovationhub.com",
@@ -9070,6 +9216,16 @@
       "firstSeen": "2026-09-03T10:36:08.506Z"
     },
     {
+      "id": "49b8bf3a9007f564",
+      "title": "Study: Personalized Pricing, Targeted Ads Gain Consumer Support.",
+      "source": "Insideradio.com",
+      "date": "2026-04-29T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHR0b0M5NW52MlFYNFN6RERwX2R3MVZnX0hUTjdTN2RlMWpoQTBCLU9CN1JzT05rMFVMNjNsVExjYk5ISGdWYzNER1hIUExOVmFPQ3p6aHhIMmhjRVRPV3pndXF3ajVtUVNaeGIyRlNYNFNSOG1KTW5lNHZNc2s2UldMa1p3MVk1TUp5c0cycU5TMDRPN2stdVhzdW1qN0x4Q2dkZE5Qb3FOZTd5MVpyNldlZGtUdHkxbzFyeGZ5TUUxRUVXWDJ1NFlHX2tDazRKaEpRRFZlRHpzWUpn?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-09-23T10:40:51.214Z"
+    },
+    {
       "id": "dd9279783641e526",
       "title": "NIQ Announces Programming and Keynote Speakers for Annual C360 Conference",
       "source": "Business Wire",
@@ -9318,6 +9474,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-25T08:08:52.791Z"
+    },
+    {
+      "id": "19686c55259cf982",
+      "title": "From Dominance to Partnership: U.S. Strategic Interests in Poland and Eastern Europe",
+      "source": "Air University (af.edu)",
+      "date": "2026-04-13T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZEdZUTg5V045ZWxHN1VBQ0xacWRFSUVfNHhrdUxoQk10LVNCeU5HX04xWG1FdzFqX0pFREZBTmZSUk9lVk00UjRBemdXVHZmbEIyNDRaOUV4c2FRZ1VFXzFvOEF6dk8wYjVlVUFYSDJ4NVlKR1gyRlRlVzBXWjFXWnFLa2ViVnZaODF3bTJPR0M0WjhCOVh3Z0RjNVcySXE0MlNzdmg0V2dEaXdZNm5UWGxQT1VrWFpBMmlXR0dpWUh1ejE1b25LUjZIa2lVb0F4azlhTnFzSUpwOEdJSjZDQmUzUkUzYzlmTVQ1MExBR3BmRmR4?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-09-23T10:40:53.422Z"
     },
     {
       "id": "52ef9b0dd80a05d6",
@@ -11208,56 +11374,6 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-02T19:17:09.069Z"
-    },
-    {
-      "id": "c2cc26bde0ce5850",
-      "title": "The $1 trillion AI problem: Why Snowflake, Tableau and BlackRock are giving away their data secrets",
-      "source": "VentureBeat",
-      "date": "2025-09-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFNWOHBSa1E3MDJLYUIzZWRnQWhUN1ppamwwUHF0dldaN0VRVm80VjVxMU1aTTc5azZCRlBLZWJWckMyWnZpR0pyZE9rUlhZUWU5WHN0dmo1YTN0M0dUZFVVdWk0RzBSQzhZUGtIYkY2ZXJJLWpKTnJHVER4OXc0YXlaeG1mYm14Z05ZcC1mU3g3blJjRDdXckRsNWVnNWpURlljMy13RUhHVmFoNTVwWnN3Z3Y?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder Snowflake",
-      "firstSeen": "2026-08-02T19:17:01.740Z"
-    },
-    {
-      "id": "94df876075b6d2d4",
-      "title": "Snowflake Unites Industry Leaders to Unlock AI's Potential with the Open Semantic Interchange Initiative",
-      "source": "Snowflake",
-      "date": "2025-09-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDNl81T3VxZHlkRUFTeEQwa1lnN0Y1SFpFRTU5d3VqTFZ4VzJLeGpmZWprYmRwWm4tZTNhaTB6Y2NoQ0NOWlNVMkR1RFBBb1d6VTdsOFZKX0Z4YldKcFVDMjNxVkd6djYtVENvbmpjSDh1dVptOWVidF8tVGw?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder Snowflake",
-      "firstSeen": "2026-08-02T19:17:01.741Z"
-    },
-    {
-      "id": "f5e18088d421a966",
-      "title": "Blue Yonder to modernize 7-Eleven PH supply chain",
-      "source": "InsiderPH",
-      "date": "2025-09-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90a3dqeGdDOE5tckJCQjV1SEpDM0dYZHBfenRva295NGpLSUlMYmpPXzVDOGlZQXhlcTNkWENSdUdQRXVDMUo1WXRIeEV6dU5DeEY4VVRMeDZaS0tReHZVRzEwb1YycnJVNWtZb1c1dGh6ZDRvbmZ3UzM2QQ?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder partnership",
-      "firstSeen": "2026-08-02T19:17:02.775Z"
-    },
-    {
-      "id": "11dc5bfa9c5288d5",
-      "title": "Snowflake, Salesforce lead AI data standard",
-      "source": "Venturebeat",
-      "date": "2025-09-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFNWOHBSa1E3MDJLYUIzZWRnQWhUN1ppamwwUHF0dldaN0VRVm80VjVxMU1aTTc5azZCRlBLZWJWckMyWnZpR0pyZE9rUlhZUWU5WHN0dmo1YTN0M0dUZFVVdWk0RzBSQzhZUGtIYkY2ZXJJLWpKTnJHVER4OXc0YXlaeG1mYm14Z05ZcC1mU3g3blJjRDdXckRsNWVnNWpURlljMy13RUhHVmFoNTVwWnN3Z3Y?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder Snowflake",
-      "firstSeen": "2026-08-12T09:47:04.103Z"
-    },
-    {
-      "id": "678ae08e0116d934",
-      "title": "IT-OT convergence as a driver for manufacturing innovation",
-      "source": "Smart Industry",
-      "date": "2025-09-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFVib2tSVzdzUWYwWlJlYW9sX2tmZ0l6T093Q0FXdWFObWJ3REZTUDZyVXBGR0IyaWsyMUNobEoxU2pORm1sWnZLMzVsaF8xcENUeVB1TDZ3Q2tCdmI3WVl5QkVqVDhGb2RUTDl5Ql9GZmhGM2U5RWZLWHZGaHRNNHJpbU56b0h6SGZ0YTZHLXRtckpXREFCeS1kQnJqcko4VUhwNGg3MVZpdE5VWV9ITHc3Ql9XNUItYW9MSzQwSnVWWEJEX1JCcF9nRVNYcmhlQlh1TWNjVnlQNHRQQXRnMA?oc=5",
-      "category": "AI trends",
-      "query": "industrial AI IT OT convergence",
-      "firstSeen": "2026-09-03T10:36:07.352Z"
     }
   ]
 }
