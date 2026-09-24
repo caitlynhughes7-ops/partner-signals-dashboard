@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T10:41:12.227Z",
+  "lastUpdated": "2026-09-24T11:01:30.594Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1115,
+  "totalEntries": 1129,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -222,9 +222,92 @@
     "f5e18088d421a966",
     "11dc5bfa9c5288d5",
     "678ae08e0116d934",
-    "021ee9f2c68c9fd8"
+    "021ee9f2c68c9fd8",
+    "f429cafa1498f4f4",
+    "2fea3c965ea6f555",
+    "547d2fa9a9693c99"
   ],
   "entries": [
+    {
+      "id": "a280aa9c31bd1b80",
+      "title": "UAE Business: Amadeus to roll out AI-powered travel seller tool across Gulf",
+      "source": "GDNOnline",
+      "date": "2026-09-24T09:30:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXpibTlLZG82b1NIdndvR0pqU2d1ajdOWDg0VEYwZ25lemM4WmY2SzB1N241Z1hzZURQM1YxVThnN3puU1lmbXhVU29VMzV1dUtGSWJxdXFIc25TdFRRUlpBSmZBY0VEZlp4bXdaRHB0OHcxMzAyLUFDSjNFbm5VZ0xJdE0taW5zZVU0WTltdGFSX3BhVWxnajluMXFYZ2thVmVZbDNn?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-24T11:01:15.589Z"
+    },
+    {
+      "id": "5272fa3fd62ed64d",
+      "title": "Industrial intelligence and India’s digital sustainability shift",
+      "source": "Manufacturing Today India",
+      "date": "2026-09-24T07:23:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWW44NE5qQllDaF96U0txVWFhbXFCQUVLbkhLdlc2U1FIUzJQUXVKVy0tQjhkQjJLX3pKOEZ3R3JqY1BpcTNhQ29IYTRmTGdWVEZwM0R4NjBHR1NzUFBNaWN5ZTFQRElkMGt2Y3kwbWgwQmdPdTBtTDRFSVVkZHV5ZmVCTjlnbUFNMTltZW9PdWVTSVpRVXFfYXpPQjcwN0lHX29lX29B?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-24T11:01:02.737Z"
+    },
+    {
+      "id": "03523995b1fed6a7",
+      "title": "Agentic AI Is Raising Travel’s Tech Bill",
+      "source": "Skift",
+      "date": "2026-09-24T01:20:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GZlQ5c1FEdmtNcnpDVjRicEhPam5zSGhmRlpUeEptRlFlbHBlcENBcjRjeHpxYzJvRHQ1S25MYUpPdXFkMUZBbmtYS1ByVlRvSkxsSWVENU9obDk3OGVXcTBZejU5UGtRR2VPQzdOb2lObjJLUkZPOA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-24T11:01:15.589Z"
+    },
+    {
+      "id": "7047e56cb52be379",
+      "title": "JD Sports deploys Algolia for agentic commerce strategy",
+      "source": "Digital Commerce 360",
+      "date": "2026-09-23T17:59:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTE1saklLUU15ajdDbTJ4MlNrQVdfUjItb1o0QUNqZ0EycDZuNG8yc0phelFnaXFOVzV2ZEUyNmZzLXoydk5qNFhaMDJURm1BcWYxYkh2dmFlWG14emlsY01YOW9PR2Q3emQzSDg4VWNlRDdBaUx2RjJwaURBLXpuYnRGNF9mZHBCT0V5bzlGM190YXZmSWxUb19R0gGaAUFVX3lxTE5MTWxqSUtRTXlqN0NtMngyU2tBV19SMi1vWjRBQ2pnQTJwNm40bzJzSmF6UWdpcU5XNXZkRTI2ZnMtejJ2Tmo0WFowMlRGbUFxZjFiSHZ2YWVYbXh6aWxjTVg5b09HZDd6ZDNIODhVY2VEN0FpTHZGMnBpREEtem5idEY0X2ZkcEJPRXlvOUYzX3RhdmZJbFRvX1E?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-24T11:01:24.743Z"
+    },
+    {
+      "id": "e5c5617a0968cf45",
+      "title": "Meta’s Muse Expands Agentic Shopping With Shopify as Amazon Blocks Access",
+      "source": "konsulteer.com",
+      "date": "2026-09-23T15:05:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTcxZEF2Q1FWa0xBbWdhS3lXbzJuUDBRV2Y4TGlwUW96bTRtbFM4eEdOc0NTNXowZkEwRU5CdWU4RkllSi1NSjgxVGRyc1cybEpFbnhUSW9VMG53bE1XRWdUQ1pBdnRpbFBkU0RnNVJ0SkN4Wm5xcHlsRWt1Y21nSWd6RXF3SnNfcFVxRWNEZW9QRU5IMVpXRDI3TkNMdGNnVzBub3dJTGt4TG5P?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-24T11:01:24.743Z"
+    },
+    {
+      "id": "aab4e8eecf8cb07f",
+      "title": "Okta, AWS and Google Cloud Form Alliance to Secure Enterprise AI Agents",
+      "source": "konsulteer.com",
+      "date": "2026-09-23T14:55:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3VLRTRuUEgyNHJWSVV6cGctZUlmQjBRcjRHUEt1aTh4a1AzR2wtTkt6Z0JDXzhYclk5Z0tRNXpkcUVkUF9aUURLMFJuRGd4WEd4aVJlajZidUJiLW5DOWNzZ3ZhWW80Z2RjR0V6V2QtUXNMeGQ5bjBFbWthTWZwN211QjBlVWtlUG1wZlB4QjFwLVhLXy1rd0FlaUYwd1lxZ3dDbW9HQXM?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-24T11:01:29.438Z"
+    },
+    {
+      "id": "3a8f556d068aec72",
+      "title": "Delegation with Limits: What Merchants Want from Agentic Commerce",
+      "source": "PaymentsJournal",
+      "date": "2026-09-23T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXFYRDV3T0NEejdsbjNRR0Y2Y0k4djZNelZ4eGx6Vk5RNlBfTDhBQ09UMllpc2VQZ0JxOFhEQW1jOFlhcU04aXNyRWwzTC1ISkRIeEJrZTBxbHFPUnJDdEtkc3R1RWM2bDAxUWtiaFZhNTlqYlZhQnlPOFV5enJUMTdZMmR4V0hCblIzT25uSkMxLVVPN1MtbWktVXdzZ9IBowFBVV95cUxOSWdwaHBrUlBlMnY2N2Q5b1V4RU9ESFRJN2NGNGlsVnVFSkJFWjZxWG9pc1IyemY5a0l5V2RTaEJyZklXanFkamx5ZnBDYWFrcFVTc3N0bGZ1d3dpdk1PNHNLMUJja3JFODh4QVdwOHhCZDdpU1JQenhQZGx1UXBkc2tqajVhRVNkRC1yenBBREFHY2QxYXF0MDBVd3ktdEZuNWFz?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-24T11:01:24.743Z"
+    },
+    {
+      "id": "51e38ab66f6b7323",
+      "title": "Can Agentic AI Bridge the Gap with Trusted Enterprise Data?",
+      "source": "news.sap.com",
+      "date": "2026-09-23T10:20:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHdxUmxCYzUwc05fTDRaUGNtOWVNckM1bUxyMTBxVVIwYW1wZGpoVjh2SXkyUzdLbGNhTlIzd094b3hucVp2VGtkS1dtd2ozX0pzXzUtLWpNRlBBazVuLTkzcld1NHNuY1NNZzViemFOLW5ab256NERqc1ZjcnphVlR6V3FtdmswNWVkdg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-24T11:01:29.438Z"
+    },
     {
       "id": "2264702e5d3ded97",
       "title": "Why standing still is the riskiest move your supply chain can make",
@@ -246,6 +329,16 @@
       "firstSeen": "2026-09-23T10:40:51.214Z"
     },
     {
+      "id": "f250dd9bfcbacdaa",
+      "title": "Retail media networks expect growth, but execution challenges remain",
+      "source": "Supermarket News",
+      "date": "2026-09-22T23:04:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUZMYS03WFpHTHdmYk14Q21zQTF0RnR6YW1LbUxLUFJCdDk4bVU5eS0waUVVMDc5X1lRZ3NTQ2hJcWo4LU9ubEw3b3FJeHlVSkpScVF1V2IyX2d0T2lqWmF0UW1Wd096Q08yNXlxZkN2Y0Y5T21rVnRoRjFaTV8yckJxNkVhcVkxM0RSb0ROcE9MRm1MVDM2UjZQcWd4QWV0NHU3ZTM1TmY3U29xRC0wU3Nn?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-24T11:01:28.233Z"
+    },
+    {
       "id": "c1656e8089ed91c2",
       "title": "Meta's Muse personal agent is a hit, as AI commerce starts to take off",
       "source": "CBS News",
@@ -254,6 +347,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-23T10:41:06.408Z"
+    },
+    {
+      "id": "2213d32b6fe44ab3",
+      "title": "Scaling Industrial AI: From Factory Data to Production Decisions",
+      "source": "A3 Association for Advancing Automation",
+      "date": "2026-09-22T21:45:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0dUbXVtYU9oXy1hTUsxUUxRTndSX3ZfX1pRT1JndjA3dVJPQ3NoMDdfUjdYZFdtRTBkTThtYXBhVUZ3Z2tnUzNvbWtNV3FIMXM1bjNIb3VuMXhMYWZpdzFyYjNxZXRWN3Z6QTNOWlFTdllxekFsVFZSSmZlUGRxMlZDeEdEbEVMTWJuczBEZUVxaHJqbkpGSEQ0THdrdEh4bEdUUUpOak45N3JD?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-24T11:01:23.554Z"
     },
     {
       "id": "bc5811cde040b7ab",
@@ -316,6 +419,16 @@
       "firstSeen": "2026-09-23T10:41:11.042Z"
     },
     {
+      "id": "d177aa887ee5360d",
+      "title": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds",
+      "source": "TradingView",
+      "date": "2026-09-22T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWXYzWVg5dWZZQjlDVDlnSjkzR0QyNTAtNU8xVmdVbjduWWp3V2hqUXY4V0xyY0xUeHJkZ25xUmx1NUJmNG4xMUVHckxxcklFNVB2WGxCQ2I4NlpvYXQ0WUlkSG1pTWhQQUxXcmx6aGNFSW5XSEp6QnRfck5PZXdzTzFQYlZkUXJUeHd2aGI0NmZCWlQ0alhJcVlodUw1cFl6bm4xRDV5VTBhcHczNkZJMk8waEstMUdBOHg0ZlRxb2tBQTdqZ09ZSV9VN1V5djhJbmVVbVJfQXRBZHdRVUhrenNWZVFPamdVMHpLZWtDWHNzbFRXUGQyYXlRY2NuRGxXQTl5RWh0WnoxdWdHWmNB?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-24T11:01:25.842Z"
+    },
+    {
       "id": "f571db0883a5ec2e",
       "title": "Retail media’s missing link: Why better product data is becoming essential to conversion",
       "source": "InternetRetailing",
@@ -354,6 +467,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-23T10:40:59.932Z"
+    },
+    {
+      "id": "029d96261300019f",
+      "title": "Best Static Residential Proxies",
+      "source": "aimultiple.com",
+      "date": "2026-09-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KNnJPNFA2RDU2TXVRa1lKbEl3Zk9nVjFDTzRlOFRWdTNDZHRoeEVRaUE3bDFJX0RKbG1tTEpYWnRHaEgtRmxURTZB?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-24T11:01:19.112Z"
     },
     {
       "id": "a32a4de695f2788b",
@@ -1004,6 +1127,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-17T10:53:09.590Z"
+    },
+    {
+      "id": "19dba882740cc05e",
+      "title": "Deutsche Bank upgrades Amadeus on AI resilience and cash flow growth",
+      "source": "Yahoo Finance Australia",
+      "date": "2026-09-16T10:20:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDdFZGIxUG0wSDFaeEpySW1neTZZYkhTbTRBcXZ5TUxGSnM2dzRhZFV1LUp5WTVnUnNEczdpbHBsSmJ0d0JwWjNQdHh5RzIwVDVRTldRX2xnUGVoQURGa3FDd2FZNlZFMGNqaXUzREpvNXNPRnV5bUJxMmlhdVVEdHcwNEFlZXd5cVE?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-24T11:01:15.589Z"
     },
     {
       "id": "ced9f452481a4577",
@@ -8066,6 +8199,16 @@
       "firstSeen": "2026-09-13T11:00:50.126Z"
     },
     {
+      "id": "7c3ea3db9d78ffc8",
+      "title": "Fiserv Named 2026 Financial Services Product Partner of the Year by Snowflake",
+      "source": "Yahoo Finance",
+      "date": "2026-06-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjJlRmMwdVR1Yi1fN0JBUWQ0VmJFUHF6SGtyNlUyQVpnLVJPYWllQ0JmXzVqbTVOanN3YmhDZXV6Ti11cGFzQkN2X25tSFMxd0pfd01ZcUpDQXd6dlZKMTRNYU5BeE1ZX2hqbjIxYkNlQlZMSHRVNEtBZ2FZLV8xUEJ5Q1VTR1FvVER6YjNzczY2bGtkZlZMMWF5WEk5NnZwY0l3?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder Snowflake",
+      "firstSeen": "2026-09-24T11:01:10.040Z"
+    },
+    {
       "id": "ae7d22db9ddc1f7f",
       "title": "Infosys, TCS gain up to 4%, Nifty IT jumps over 2.6% as strong AI demand boosts Snowflake earnings,...",
       "source": "Moneycontrol.com",
@@ -9234,6 +9377,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-03T15:59:36.657Z"
+    },
+    {
+      "id": "bfed2ecc6936c768",
+      "title": "The Hidden Cost of Scraping Everything (and Why Datasets Win)",
+      "source": "HackerNoon",
+      "date": "2026-04-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONS1HNWR0RlBGN0QxZkp0eUlKY1YxQmI5dUw3OFliRmVCaHB1MGNfVkEwZWh0R2VQU2ljQWQ2bjdEb0ZFOGN2TFFfN1J6SkVxV1V4aDdmQmFfNmthR1hoQm0wUTVidmsybjVQMjhzdFVLdmtheXFKT3BaNUNia25RSDFCSk1aZjJtS0E?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-09-24T11:01:16.652Z"
     },
     {
       "id": "9498f0e00266f3aa",
@@ -11364,16 +11517,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.157Z"
-    },
-    {
-      "id": "f429cafa1498f4f4",
-      "title": "Ways to Ensure Newborns and Their Moms Have Bright Futures",
-      "source": "National Conference of State Legislatures",
-      "date": "2025-09-24T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOG9ZdVcxVWdCOVZHby1SUzhQWEFZRVhYWXpBWnR1NUF0TXVUQU0taUpnUXZLVm5fY3NycWpFWGtuUVFFV1F1R251M3RDZkVraFhHTzlzenhMZ0V0dnYxRi1HVF90eUo5UXhWcnB6TGdoMHhhQjFjVVl4cVNkN1ZxbVlVVWQ4bFQxT29QeU9fSmlPaWg4R2pyc1Z3MzFYQQ?oc=5",
-      "category": "Bright Data",
-      "query": "Bright Data partnership",
-      "firstSeen": "2026-08-02T19:17:09.069Z"
     }
   ]
 }
