@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:01:30.594Z",
+  "lastUpdated": "2026-09-25T11:02:03.311Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1129,
+  "totalEntries": 1142,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -225,9 +225,101 @@
     "021ee9f2c68c9fd8",
     "f429cafa1498f4f4",
     "2fea3c965ea6f555",
-    "547d2fa9a9693c99"
+    "547d2fa9a9693c99",
+    "097c2785fbf40290",
+    "0b0e5b1febd65e1d"
   ],
   "entries": [
+    {
+      "id": "9791641504db2821",
+      "title": "Building the banking infrastructure for the age of agentic commerce",
+      "source": "Retail Banker International",
+      "date": "2026-09-25T09:21:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXpMcU9jcnZUTG9EanpDbGlTYjdLaG1iMFl4SnI2bDhIV1BQVnFVckdYZmtnYk1Ua0R3YU4xZVRNanY4TTF5WXhtOXFZMHJYV1ZEcURSSVl6S1E0eEpzX05MY1BFNlRXUWhBckYwYThSaDFjVXkxRWxrRlZEaHE1ckNXZEdOYV9yQmctem5OTVZwTU56eTNHYmRWanl0bjVlOWpDU0VR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-25T11:01:57.326Z"
+    },
+    {
+      "id": "f1230bc3e137d7ee",
+      "title": "How Autonomous Will the Supply Chain Be?",
+      "source": "DCAT Value Chain Insights",
+      "date": "2026-09-24T20:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVjJkS2NBSktvNWVqek5acFQxTVlJR2ltZjNMZU54WGpXMGYwQl9LZldSMHlRUW1tWGhMT3JiUUpXT29mNjdOT3RkejBUQm84VWlhSkthUTloOExFTzU4RHJWbVFSQ2s4RXhQUkdyZ2RQSHVFRkt5VTA2SEJOUQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-25T11:01:59.633Z"
+    },
+    {
+      "id": "a19d65851a597c41",
+      "title": "Gartner Predicts Low Uptake on AI Supply Chain Planning",
+      "source": "Supply Chain Digital Magazine",
+      "date": "2026-09-24T20:04:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTdnNENNTUpOSm5OQ0x6cHF0R0RSeHVLQkt2bUJtNkd5YzZiZ3JUa1NzQlFJTGJFZkNnVGcxMTNlREltREFZcnpJNjhMN0lJSjEybE95UV9QbDdKT3Z6anZtNVJnaEpTeW9BNWNJT3ZHSnZhWHBLM3d4NWFHdDd3S241dEh0WlJrQmdHSjJNNmtoX2hzSUE?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-09-25T11:01:45.040Z"
+    },
+    {
+      "id": "10455c05ba1038f5",
+      "title": "Kevel Welcomes Chief Operating Officer, Accelerating Retail Media Innovation",
+      "source": "Hunt Scanlon Media",
+      "date": "2026-09-24T16:13:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkxVQ2Eyb2d1UDdOejlMd2NEejVTak1GNVkyRVlnY3lpT0R3M0dGR2RGcm8ySFRFdXZhbXQ3d0RzZkp3SkN5LVNGNlgwd29aZmVucnZTSnFESHNtZE01QkVmVXRxanItRzc0YmVWaGt6NmRyTjZVVGRfSFZSQ2dZVFpZbXVpc1RVd3NoTG01TjkyVWp2SUNudmx1b0dSVGhHblE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-25T11:02:00.805Z"
+    },
+    {
+      "id": "939a1b198530ceb9",
+      "title": "Physical AI's Next Bottleneck Is Finding the Right Video — Rafael Levi, Bright Data｜AI Engineer",
+      "source": "finance.biggo.com",
+      "date": "2026-09-24T15:20:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LOC00eVk1dmIzNmVpcWIwSDZ2MWZSX0hRSEdkRG84blJLa1hPek03V0JxeWNYck0wQzkyTjZyaUVGOUEtS2xOUWZERFZhcDR5aWl3c1BTQXUxS2tEVzJn?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-25T11:01:51.791Z"
+    },
+    {
+      "id": "5a3a674e593d0e92",
+      "title": "Google Cloud Expands in Brazil to Power the Next Generation of Agentic AI",
+      "source": "Google Cloud Press Corner",
+      "date": "2026-09-24T14:31:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNsdXZ1aHg0WnR5LVBRU2gyY3NYVUpHNlNkQTJEQnFtQXVUSndSOXNGWGEwb2h6N3Y0eWZiYWpjZmVWYzhvMWRFd2E4cVVkSGZPRG1WdkYyekVwTjdXV0pEV3czbEJYVVZXdlI2SkNjelV1b29XbWRmYnRxM0lMeUtSV3hFT2k0ZUFpUnRtQTZSOTJqanZxLWhSUkhxWHI4bUhfYm50dVFpVVZhblQwNEJneGZmNFAzMHk4S3Z1ME8?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-25T11:02:02.051Z"
+    },
+    {
+      "id": "d080066deb9e0530",
+      "title": "Agentic AI in manufacturing supply chain planning",
+      "source": "RELEX Solutions",
+      "date": "2026-09-24T14:09:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTlHVWdCYjByUkdKRzhPZkZIMTFxVUJQNGJfeFdsRG9fa3pZR3FDNUpGTE45MzhLa1BlazVGOXlyZG5XR0ExcWJFbXQwV2UwWlVlVmlHVTVWM0JmcVU5eFB6M2hSakhtUWdxcVhJaVdKajFIemdUR0JrR2JTa3l6Mw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-25T11:01:56.121Z"
+    },
+    {
+      "id": "83695c72e8e32335",
+      "title": "ZAWYA: Amadeus to roll out AI-powered travel seller tool across Gulf",
+      "source": "TradingView",
+      "date": "2026-09-24T11:17:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaDcwemYtWHVNS2hEWTctel9PVGxGeUNoNDFWbTYwNVlDSWQ4MHRFeWJVeXNhbGlIVVlHRTNmcTNWTDNCQkNwaXVPa3lyQ0RJUEJFMEtaX2FMX3hySlRDa1g2a2p0eVBkeExqNURoVWJqQkREMTEydnJBSWF0NVVVcWRldTR0YVVBLXNXcUNDZ1VsS1Z2MW91UGlWNGdiOGExUG9pdFNCNF9fckFqb0twOVducl9MTnRUUGJzUENJeEZIUTItUTBmblZWbDdwa042OVJhRnNYRUpMVWs?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-25T11:01:48.371Z"
+    },
+    {
+      "id": "0be76503a5927d85",
+      "title": "Majority of U.S. Consumers Now Use AI to Shop, NIQ Finds",
+      "source": "Business Wire",
+      "date": "2026-09-24T10:45:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzNxdHZ2S0JVZHZ6ODkyYnhxNXRweURib1RMYkFobVpWdUFfSWg2VWJNY2ltYlJSNVd5MVVvOTJBV21vY0hvaUZsZk1tX1VCM3NjdWtNVnV5ZWROWF80SUtxUWVXR1phcFlBMzIySmJ3alBUU2tGYjFpN2pReXVSR2YzNTRsTWtXY2RTOFBTSEQ2cFdpSHNOUGd6LUlBX3E5UXRZQUgxNnliVTczdGRfYkpn?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-25T11:01:54.939Z"
+    },
     {
       "id": "a280aa9c31bd1b80",
       "title": "UAE Business: Amadeus to roll out AI-powered travel seller tool across Gulf",
@@ -249,6 +341,16 @@
       "firstSeen": "2026-09-24T11:01:02.737Z"
     },
     {
+      "id": "9e3968d098786dcf",
+      "title": "Amadeus to Roll Out AI-Powered Travel Seller Tool Across Gulf",
+      "source": "CEO Insights Asia",
+      "date": "2026-09-24T06:32:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZldEUlVnRFJOUXFjdTlLSEVVOURfeEVFYV9HamtiaHRZNk5TQzNCcGt0a3Zac0VfTnBUdVo5N2hBaXNyVnZ4c0stcmJtYW9SaHM5S1FlNmxEVEZqR3VhNkdVS01OZVg3RU9JaUxwb1ZLRkhtMUhYVm1qdFExNDkzc3BUS2FYbHdVbjlOTjhuWTJOV3g4OGhaQThsMUx0clAybGtBVTF2bmRReVNodUM3RjhnRQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-25T11:01:48.371Z"
+    },
+    {
       "id": "03523995b1fed6a7",
       "title": "Agentic AI Is Raising Travel’s Tech Bill",
       "source": "Skift",
@@ -267,6 +369,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-24T11:01:24.743Z"
+    },
+    {
+      "id": "13a3c2084a0559ee",
+      "title": "Axonet Steps into the Spotlight, as the First-Party Media Network Reaches 20,000 Retailers Nationwide",
+      "source": "Business Wire",
+      "date": "2026-09-23T16:38:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmp3ZldfcldwRVZwTUNJRTdHemxZQi0ydHJuQl9BUVNMSU1YZmhvcy1RYzRzdlEyVXdGNDlrbUtHQWVmaDNvU1NzMk5IWkg1ZTdCZ1dnbHhuSTloR1pNOUdXc241SVlHTmJzcW1HSjhBajNoeGdkZEFkMThMS3FrM253TDcxdGFiNE5vRW1Pd29KdFNFMFRKdzlpUmdrbHVXWk03NmFnTUV0emxlZHdid0pjdHMwekNvdkxLQ2x5ejR5WFVQTlZjMmYxNWhTV0dmNXI2WkQwU0RZSGRYVVRRVmo4SW43TGNacVJrWQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-25T11:02:00.805Z"
     },
     {
       "id": "e5c5617a0968cf45",
@@ -437,6 +549,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-23T10:41:09.830Z"
+    },
+    {
+      "id": "8eeacbef8aaf2b7d",
+      "title": "NIQ Announces Friendly Takeover Bid for The U Group",
+      "source": "NIQ",
+      "date": "2026-09-22T10:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT2U4UVZSSk4xUDNMeUNoeFNCSTV0WFJGNkZXQnNqblJLNWdWc21tUkNjaFFEX3Y5MHlCaXEwaGNfc3FScFN3T1FKWFFJblRDbnVjTlozYUZzVk1ibEI0cVdkbzktV0hhMXFDVE1vNzhNSzhfbENmLXJvMVB3Mnp0Um9pQURyQ3NsRXNtUkdiQW1FOE8taEdXSC1na3lEcU1KZW1FdGhNcjk3UDFhaGFJT1hmTHJQQm9vNDFkMk5WejlIYlNXd280WHE2LUFnWTBpMGlKaUU0Z1VKeHJBRm5pbDhjMDd1MzJ3SDVRSE1JcWhjMEJMU0hRN05VSVBoUkJ3ejdR?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-25T11:01:54.939Z"
     },
     {
       "id": "d80829e9874aefb1",
@@ -7047,6 +7169,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-09-03T10:36:03.982Z"
+    },
+    {
+      "id": "f01d409b87ee8afe",
+      "title": "AVEVA partners with NavVis and Assai for enhanced digital twin creation",
+      "source": "Geo Week News",
+      "date": "2026-07-01T00:02:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWxDcUJtMGdjbkRyb3VzQUhkZXBKUGxSd0FPV1Ewa1FzQ2J0MWZkS2F1ZFlGc2F1SWFpdHdreC1Sa0JVV2ZJei16TktNVng1UnJfS3luMjltcGlmQ3ZTNzVBUUR0dXFsZVFrUUdtRXJ0VHZFSlZ2bWtnRno1UGVMZ2FXTnlfOXA5X25OUExPSVRsdTFlNXdHQ2NmclRCNEhrdjBEUjRmTW80NFl0aUE?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-09-25T11:01:34.108Z"
     },
     {
       "id": "dd7c21f221a57617",
