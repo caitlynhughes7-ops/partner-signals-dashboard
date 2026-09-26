@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T11:02:03.311Z",
+  "lastUpdated": "2026-09-26T10:44:24.565Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1142,
+  "totalEntries": 1155,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -227,9 +227,61 @@
     "2fea3c965ea6f555",
     "547d2fa9a9693c99",
     "097c2785fbf40290",
-    "0b0e5b1febd65e1d"
+    "0b0e5b1febd65e1d",
+    "aadbc526d64cfd29",
+    "ed14277b4397dd52"
   ],
   "entries": [
+    {
+      "id": "4089e1dc1b057710",
+      "title": "Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-09-25T18:21:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTW1CVWxUZmtKQ1M1VjRxYzAteVZYcGlPSDhrOU9vRVRtZi1zMjZFa1JlNEFqTHlyeUF4NjZzT1BGa0dmZXpBaE9KMWFGSmF3TmJ0cGR5eXFya01nUElCd0wwd3J0cHNpYUZoX0xZQ3hZS195UmRPbnBtOXJPVDY4ZUR0UzRpN3EtOTZ5QUotaGFfcDV1NVd0S25sdHY2Yl84VEcyRmFBY1JuMTc2N2E2ZEF4d090M1I2UTl6cFYxT3FSRmlCajlCbzlVU2xTYmVuTlhiTEdyNWYzNjl4REhLRUpUaUdTUE05OWdkSldUNHA2QVlQYzBJZnAzWmVjV3pFOWg1TFNQTUc?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-26T10:44:20.963Z"
+    },
+    {
+      "id": "87bc80ac8e375cab",
+      "title": "Agentic AI Enters the Physical World: Transforming Industrial and Operational Workflows",
+      "source": "oodaloop.com",
+      "date": "2026-09-25T16:26:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSW80UWtvQmRQSWxHNHNGQU9SeEFqaTRVRnpJUDQyeC1MVHlTV0VsamtRUVdaWXBTX3RKTUZaNVE1YklIMEhLZXM0Mllxdm10ZHRkUFpaYTRYcDNwU2xWRzhaUUYwazR0UmdKUjg4VmRNZkloRFFWbnFJNUJseUpPZXJfRDRnVllLYkxHbXJPWXRyYnRDRVpKWmRvYkMxMThYWTJTaFYyOHNQUzY3aUFSZnFCb3RBSHRDcjlTVG1xX2Y5NVJK?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-26T10:44:17.572Z"
+    },
+    {
+      "id": "a41d648815379e2d",
+      "title": "AI-based supply chain automation growing slowly",
+      "source": "Modern Materials Handling",
+      "date": "2026-09-25T13:45:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWE5TTN4S3F6dXlZR1l5M2x1a0lPS2J2X2ZoZ1EtVjlqeWZ1TTI3dWhKckJURVZqb01QcjBrUkFQaGM5UVBKY2hna1BJSWkxLUlDME9nTXZSR1U1VDBxRjBMNzJZY2F5UDYzcGYzQW1yel9scmFTM3BLYmxmMXFnWg?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-26T10:44:20.963Z"
+    },
+    {
+      "id": "859e2050b62ab502",
+      "title": "How the supply chain is getting smarter, more automated & less wasteful",
+      "source": "Chain Store Age",
+      "date": "2026-09-25T12:31:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnZBUkxaOWhFNHZNNUdRbFlfNVV3S1ZLZUZzd29vSnNJQkcxTFRyMENHdlQwVWhlaTdfNnBtcGRsYmhvOHh0U1pxX2p3ZVZYWE1HVTM0X3o2SGV0d0VaV2I2Y0JaNmxoclQtNVpJZTVidldIQ3pHVnhHeU8zNkdXR1NJOUpYUGdvYzFDX1R6LWQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-26T10:44:20.963Z"
+    },
+    {
+      "id": "570d9c05284fc4f5",
+      "title": "AI, value and retail media take center stage at Groceryshop 2026",
+      "source": "Mass Market Retailers",
+      "date": "2026-09-25T11:36:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjgzb0dmVC1rdHAxemVtblFtLVVQRF9jTHF6WWtMMHl3YnRWQmhRbHNRbFFQM0ttTmFYUEVJM1NPdGF4eV9MZ08zMm9DY3d1THFZMU11aE5ncWo1dUZuYlFMQ2JKb04wc2wzbDJ4OE1JMERNME1LOHVXeUxkODlEWnRva2pqaDdDbFNYVHVRNDc4QzdzcmNLZ3ptQUM?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-26T10:44:22.141Z"
+    },
     {
       "id": "9791641504db2821",
       "title": "Building the banking infrastructure for the age of agentic commerce",
@@ -341,6 +393,16 @@
       "firstSeen": "2026-09-24T11:01:02.737Z"
     },
     {
+      "id": "53982e8090976549",
+      "title": "When AI Agents Ignore “No,” Security Gets Real",
+      "source": "CX Today",
+      "date": "2026-09-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGVmTThhbE8tWWFFZ1l4dXVVWTlqTVo5Q3RxcnFGMXlrYlFlVDZ0eEdDSVB3ZE5FUTdxUmdyR3ZJRkdoRTEyTXpkajdqU0JQdGxvZkV6MlNna2JzdjZsRVFIRU80ZkNsQ3VVRldSY1MxekE1Q1F0T01zLURGTzc5Mg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-26T10:44:23.328Z"
+    },
+    {
       "id": "9e3968d098786dcf",
       "title": "Amadeus to Roll Out AI-Powered Travel Seller Tool Across Gulf",
       "source": "CEO Insights Asia",
@@ -359,6 +421,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-09-24T11:01:15.589Z"
+    },
+    {
+      "id": "05aa1a4b519ef591",
+      "title": "JD Sports deploys Algolia for agentic commerce strategy",
+      "source": "Digital Commerce 360",
+      "date": "2026-09-23T20:26:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGVpOXdiOGpGWm5jYTdkQlpSUExnVFUwR3NrbDRyYlR5X0RwTEhUWlVKcU15QVZXWDhpSUlYbWRza1FiZUVZWVhFcVBXNVhyMFluQVJpUmRRM3dVaFdUcEFCa0J1LWtXU3ZZanVwNFNoaGpEdjQxTzhsYmhlUWlSQkU0V09LZGV0cTEwYzVKbEpFdUJM0gGaAUFVX3lxTE5MTWxqSUtRTXlqN0NtMngyU2tBV19SMi1vWjRBQ2pnQTJwNm40bzJzSmF6UWdpcU5XNXZkRTI2ZnMtejJ2Tmo0WFowMlRGbUFxZjFiSHZ2YWVYbXh6aWxjTVg5b09HZDd6ZDNIODhVY2VEN0FpTHZGMnBpREEtem5idEY0X2ZkcEJPRXlvOUYzX3RhdmZJbFRvX1E?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-26T10:44:18.760Z"
     },
     {
       "id": "7047e56cb52be379",
@@ -891,6 +963,16 @@
       "firstSeen": "2026-09-18T10:28:23.951Z"
     },
     {
+      "id": "b5c28cb23e657d2e",
+      "title": "PhocusWire's travel tech news briefs: Amadeus, Hospitable, Cloudbeds and more...",
+      "source": "phocuswire.com",
+      "date": "2026-09-18T06:08:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4V0RNS091RTItTTlGUGNONmdmbGdua3Y5R3JBSnJBejFCaVNDRWlfU2t0MGdPNjl1THhIdl9zQ0FaNG5mRzJGdFBtWGZxVHJ3cFZSZmpTS1FDRlhvalpqeEhiZjNyN0JKUEk4bU9kbTA2ay04b3hn?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-26T10:44:10.083Z"
+    },
+    {
       "id": "49995d76413dd0b2",
       "title": "Which industries are ahead in agentic AI, and the common challenge they all face",
       "source": "ABC17NEWS",
@@ -961,6 +1043,16 @@
       "firstSeen": "2026-09-18T10:28:27.446Z"
     },
     {
+      "id": "d5e5385cfd779fbd",
+      "title": "Is Your Home Internet Feeding the AI Data Race?",
+      "source": "gendigital.com",
+      "date": "2026-09-17T16:50:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpVUZGSHBjckNVQzAtdkt6SmE0NlNrelpSWDhCWTBxOUlDUm95bHJWTDBRRlVZRUF5ZV9wb3pNVHFwNVAyNG13UURNWmJseUxNOE13YU5VWl9BclpLb2MtUURzRXB0VDAwWEJfUXZJT3U0QzJt?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-26T10:44:13.366Z"
+    },
+    {
       "id": "18107701550564e4",
       "title": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping",
       "source": "WSJ",
@@ -999,6 +1091,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-09-17T10:52:43.661Z"
+    },
+    {
+      "id": "fc17b7006c3647d1",
+      "title": "Automotive Keynote: Drive Customer Loyalty with Agentic AI",
+      "source": "Salesforce",
+      "date": "2026-09-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYl9UZ3JINHRuTXY1aUZ5M1VHUWkxLWVhZzlwQklXd005aW5hWHk3STd6WUZnU0VQdWVTMHhqZmFUNmYwTi1UTjJKM2hZdkhpTWphUzQtTE9oblhXT0lPdGlGZnNZMEZVTUcwU2VuUGstMmJ1QzBqTVM3UUZpUWZWQ3ZlYUZ1WVBhV19vbkNfS21STWdRbEcybmJHaGVad1ZTcjRINW5IaU16SnlHSWF2dndHNEtmSVdLM2d5Y3I4dm5pOWViUXJEeGQzLUlabDlfX0NDOEI2YU0?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-26T10:44:17.572Z"
     },
     {
       "id": "b8094c469f464135",
@@ -1989,6 +2091,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-18T10:28:27.446Z"
+    },
+    {
+      "id": "ac1dca244c20e381",
+      "title": "NIQ’s Optiq™ Goes Live in Discover, Expanding Access to Trusted Consumer Intelligence",
+      "source": "Business Wire",
+      "date": "2026-09-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOakVaTjdXcVRYU2VlQ1R1a0ltVERzc25iYkNWNWd2R1VjRFhoeklBX2kySWxBVXQ0c2lEYU96ZmEyM3dEeFc2cHUydm9UUGJ4S2R3MHNNbHNFYWg3RU5jU21BZzVVTzJfOUoyVXVXOTViQ0ZHUFVIR2t2b2k5X0RWX3ZGdmkteHhUdVJHX09aa1g5eGIxZEtsT0tRQmdzdVVGSnBOSHdaaFFWM1pLUjBGX1dCUDdhdUgycGo1U2MtYjA2Y2dlWW4xdEZ1bWZZeVZNUVVhUk5B?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-26T10:44:16.423Z"
     },
     {
       "id": "c541a90d67e2cd06",
@@ -5031,6 +5143,16 @@
       "firstSeen": "2026-08-06T12:31:09.576Z"
     },
     {
+      "id": "be3bfbb082684595",
+      "title": "Purina Named as First Publicly Announced NIQ ConnectAI Charter Client",
+      "source": "NIQ",
+      "date": "2026-08-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzBxaFRhZ3Ric2pmOWhuXzB2VEpHWHpfTllsdDd5bFZhZjE5VW1OcE9VOWRTQzNNM0c4RWJyVkhlMEZDdXUzVlRqc3VMMUtHRm1SSVIzQUdKYjVwLW9fcXNnUGlKdkFhN05mdWtIb0p4N3lpOS1JaHRjaTBERHZwY3lOQjhWLWRxbENqTUUxUDdHenp5WGtWTFFBdzZwZWE2dFBkSVpTYm9WUVVPYklGcFp0RXVqZ0lRcDNR?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-26T10:44:16.423Z"
+    },
+    {
       "id": "4a8ad468f66d5b71",
       "title": "‘Not testing will break you’ in commerce media’s agentic shopping age",
       "source": "The Drum",
@@ -6249,6 +6371,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-05T12:27:50.171Z"
+    },
+    {
+      "id": "8394ea6c99723dff",
+      "title": "Contentsquare is Building a Single Layer for AI-Powered Customer Analytics",
+      "source": "CX Today",
+      "date": "2026-07-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMThhV2lMNUQwMzI0UjRRaFVyZk9HRkRkVGZaV3l2dmI5V1NsM2ZhcEdEWkYwV3pPc3dNZXo5NkdyWmtOenpTWWROa0s3bUNqeVJ3Y05tbUF2bFBlcC1UcWRBdjFLYXluY0VxdHJORnFfSlIteDlTOG0wTEVQaWlHbm1yR2U0TG1ucms3a0ZncjE4alZNNm5QSW01SnY3VEE?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare Snowflake",
+      "firstSeen": "2026-09-26T10:43:58.438Z"
     },
     {
       "id": "413d7d4c82d3ca44",
