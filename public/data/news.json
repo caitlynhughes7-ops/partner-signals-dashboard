@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:44:24.565Z",
+  "lastUpdated": "2026-09-27T11:17:54.453Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1155,
+  "totalEntries": 1165,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -229,9 +229,42 @@
     "097c2785fbf40290",
     "0b0e5b1febd65e1d",
     "aadbc526d64cfd29",
-    "ed14277b4397dd52"
+    "ed14277b4397dd52",
+    "10c2dc12cb1afc0d",
+    "44434894e214d019",
+    "ea38d9ab8e05b4e4"
   ],
   "entries": [
+    {
+      "id": "db6fc70736cfd1a9",
+      "title": "Velotic Advances ThingWorx with New Agentic AI Capabilities",
+      "source": "ARC Advisory Group",
+      "date": "2026-09-27T07:38:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHgzMzB5RFM1M3BGYTdJQ1pTVFRaUmJsMkFXbTk4NXVJa2NMaGtJQzFXM1g4eklUbC1YaWY1YTlQQVBlRWtyZF9ZT2t2V25tY3JLT0IzbXd6VS1hTGhYQi1TVWN3akNxc1FneE9TN2VNMUJRR2Y2bXc2cWh4eVdKR0psOHdWVEJPTkE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-27T11:17:47.503Z"
+    },
+    {
+      "id": "bf54700ffc54bc94",
+      "title": "Top 10 Supply Chain Planning Software Solutions",
+      "source": "Small Business Trends",
+      "date": "2026-09-26T15:31:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OdG9xcXFra0hVbjdUT3FoU1JaZWt4ZmlFdmF4T0ljdy1rMVVkUGgyeDB4bzdzYnJlR0JLQ0RITWQ2WkJ0TURKcmwxanBqUmRnT05ubmE0RHJDdHZ5S1YwSFpvVVU5LVJ1dGc?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-09-27T11:17:36.738Z"
+    },
+    {
+      "id": "e1fa29134b6573f8",
+      "title": "GreenCore Solutions Corp. Gains Claude Directory Listings for Agentic Commerce",
+      "source": "Streetwise Reports",
+      "date": "2026-09-25T21:56:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd09uXzhqcE9tRm5XbmhMRG5aY3U2T19IN3pxQzVuMzhscmk2dTBaWEZZQVpmZUpIV0xpMW5tZGlHQ3dpSTBRa3J4UENFS0tCV0JwOGgyZzRmY0dlcUxldl9ySGV1MXgyeWdGaHExOGxHOHlWLWJ6bk1PVmhTS3JTQ21qYVRFbFJmY2lWQ2JZaHVTWFpQdnQzUnZyTW5aUktfbUJ4REZyd1IzdE5RMGRSR2dGenEtU3psc2hjQWo3ZHJVTXE3YWFIaWJaa194NXpm?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-27T11:17:48.701Z"
+    },
     {
       "id": "4089e1dc1b057710",
       "title": "Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030",
@@ -301,6 +334,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-09-25T11:01:59.633Z"
+    },
+    {
+      "id": "7971145e6d4b564a",
+      "title": "Databricks Acquires Row Zero To Integrate AI Agents With Enterprise Spreadsheets: 10 outlets compared",
+      "source": "NewsCord",
+      "date": "2026-09-24T20:40:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbk93cmY2RW5jQVdMVHg3MFhKZW82X3FSUHcxeWpseU1Ca1FxbWR6OG4weGxvT1hrMlRFeHVkWkpha09DRF9xLWJPa3drODF2Sk1BOGp0VzA5MVVlbUVfaDBLREhLVTJBVzF1U0ktVmpJVG5YVGFPbjA4THJfQlRuNnN3SmhVb1N0c2FsR2c3SWI2bHl4TUQ1bS15MFpQTlNScE5lY3pSUko3VnZuSV94ZUh5eVp3cWcyNENidjFZZnhTX092d1dDTnZuaFJBT2t3MUtIU3g1Q0tORERMc0tOSk5LSTZpLTlIYXc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-27T11:17:53.284Z"
     },
     {
       "id": "a19d65851a597c41",
@@ -1103,6 +1146,16 @@
       "firstSeen": "2026-09-26T10:44:17.572Z"
     },
     {
+      "id": "8192183cf2fe2b91",
+      "title": "Google Agentic Updates Mean Shorter Commerce Timelines",
+      "source": "MediaPost",
+      "date": "2026-09-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTFLMXNDcl9zdnFHYUo4cDFaQmppcFg0SnFGVU5ZWDdsd3pORVh0YXJpcnl0Tk5WYXMwOGlCQUc2SmJTZHh6R3ZaQU1raXc3dlZvUW1iRERvdGZMbTVvdWk0SV93RU5vWFBBRFdWdk1GS25mWjUta2FHVnkzZlJQV2lsT3duaXpQVm1aRjJ2bTNKdDYxcUdLWkxuYUE0bURvTXNYSU1lY1R4QmQtNFE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-27T11:17:48.701Z"
+    },
+    {
       "id": "b8094c469f464135",
       "title": "Siemens' Rahul Garg and Microsoft's Lindsay Berg share how agentic AI turns the digital thread into action",
       "source": "Control Design",
@@ -1671,6 +1724,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-09-13T11:01:03.496Z"
+    },
+    {
+      "id": "aae83c0eb99be918",
+      "title": "Jamie Dalrymple was one of the few bright spots for England at Lord's Getty Images",
+      "source": "Cricinfo",
+      "date": "2026-09-13T01:57:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0tVdllzbTh1UzlfZ2pZZ2VvUlhxNVF1azVDcEFvVXNNN19PNjlac0ZsRDdKR2NiYmc4eUJMT3M2MkFyZ2tRczUzajdHc2VFWUFxS0R3V2laQmVMR3M3TElzY3Uza1BqR1llZ2FNcmVjTk5RVE0tWWZjREt1LW4wNWVyVkNabVJIZ09ZTFdrakFfVWtSWEZ6TkNPcEozdjFySG96NzMwb1ZEUUE?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-27T11:17:42.085Z"
     },
     {
       "id": "6cfd0216e32a940b",
@@ -4741,6 +4804,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-09-06T10:11:17.764Z"
+    },
+    {
+      "id": "f528a5ded337aefe",
+      "title": "The Rise of Digital Twins: Transforming Predictive Maintenance and Manufacturing Efficiency",
+      "source": "Metrology and Quality News",
+      "date": "2026-08-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbG1fS1FabVgtZjlJSmNtWEpsNm04ZTh6Z1pTVmJUa1ZjdW1BRlpWS0RxQTZYMFNURUNJRzFmMWJkU3pjOE1ES0F1NTZLTDFBRi0xcFloVEVIVG0ta05tUldQN0hPRGNIZUdkZ283MW1jeDhLR01HQ0xfbC1RQlFLekI4c1pOUVhUNG9CQ1l2RmhyVUZzZkFMVGNCOExCYWNFeDNVd2FhVlc1T04wcXBRRXJMVQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-27T11:17:54.451Z"
     },
     {
       "id": "a5dbf3b4733efb58",
@@ -9803,6 +9876,16 @@
       "firstSeen": "2026-08-08T08:06:26.229Z"
     },
     {
+      "id": "2e7546e0d160a43d",
+      "title": "AVEVA to Spotlight Industrial Intelligence at AVEVA Day South Africa 2026",
+      "source": "The National Law Review",
+      "date": "2026-04-17T08:06:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3ZwSDhaV2FVaHo2WVYyNXROTzA0eGZnTDRmOHMwbEZ2WmVPZ3BlMVVZX3hFakhSR1YxLVdUN1owdThCc2NIRUt0SU0xbHZDS2dtTjR1V3NVMVp4bmtKTFJNY0VnV3ByaW9KRVh0cVVKZjRNZ09tTG1zQzA3LWtZTHlQWVJSeTBrZXllVElrRWtfODRlUDRIUU9ka2tES011UkNiSi1VdDJxNUU?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-09-27T11:17:27.329Z"
+    },
+    {
       "id": "91395b79eb001951",
       "title": "Shopfloor Agent: AI for Manufacturing",
       "source": "Bosch Global",
@@ -10361,6 +10444,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-09-04T10:28:37.972Z"
+    },
+    {
+      "id": "44db7ebb622fd3af",
+      "title": "Contentsquare Launches New AI Agent And Analytics Capabilities to Understand Customer Journeys Across LLMs, ChatGPT Apps, Web, and Mobile",
+      "source": "finance.yahoo.com",
+      "date": "2026-03-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa085d29YcFJkOFhaS2t3ZmFfNjV0WkpQY1BlWHNwWmlwSi12bTNzcTZRTlNtcW5qR2ZoMkpiU3diM3hMMmxoSGpwd2NSN3lmdVg4dGNsYkJGWnlnUTNValZFd3d2ajdlY2tZUDg5MW5tSnRpX0JTNXVxa2tMdFJzMUExcEVLeFE1aWpDQzk0UXI?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare digital experience analytics",
+      "firstSeen": "2026-09-27T11:17:30.411Z"
     },
     {
       "id": "6b2fda77aadfbf20",
@@ -11371,6 +11464,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-24T08:26:42.652Z"
+    },
+    {
+      "id": "36cd52159378d928",
+      "title": "Siemens and Snowflake Enable IT/OT Convergence Across Cloud for Industrial Customers",
+      "source": "HPCwire",
+      "date": "2025-12-16T07:39:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkZVeTluZTJHN2xBLUR2Tkl3Z2FycGhwVE5WRkZBbTFXOVlGeF9DVzJjaDJHeFNoVGJzRVJGeVB2WTlBRHAxVDNKRnZwTzVvOTJCalN3Nk0zeXlKWUkyNUh0Vy1VSGNMNlNncmpoLUk0SUltZGk5X3c2X0JrdU5mSEg4YTltX3hyM0hMWG5HQmZldVVLZUFfMGMza0NnRlJDaXB0OFFxSV9aRVgtQThKRUFWUFVRRW9TbXBXbXdpc0E5RmxpTFEydE5B?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-27T11:17:49.777Z"
     },
     {
       "id": "2ac1f1bbc0edf350",
