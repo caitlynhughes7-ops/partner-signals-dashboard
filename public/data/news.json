@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T11:17:54.453Z",
+  "lastUpdated": "2026-09-28T12:46:34.706Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1165,
+  "totalEntries": 1174,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -236,6 +236,66 @@
   ],
   "entries": [
     {
+      "id": "5604c22bae124165",
+      "title": "Aidentyx Announces Official Launch of Next-Generation PODO® AI Framework, Bringing Context-Aware Agentic AI to Manufacturers",
+      "source": "Business Wire",
+      "date": "2026-09-28T12:15:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQnFwZ3NoU2h2OEZZZTdPV2VyU1JibVBBUDdzUjd4cTFENGpHQktrc0xQdXZtVkZjVGprQWRNejk4R0I1U3VyTkpfTk5QS1FBR25uM2lHT0pIU0ZlWkNGZ1NzVmgwSVc3aWhkcXR2VVBuRG9kcUtleGF0SXRPOU56X0hYaVNLWnBIa3ZuZG1hb0JvdV9QMkhNVGFhcE1sVUkySjVUMWR3cWZINW0xVmswRzNJbFpxLUVEODNBTzNrRHYwV0NlanppWVh6RUE3c3Jwd2l0aHNBSHJrbVBfTS1ScnJ4aDRXcElQM2JPSVhkZlhweU5aWVE5Nkd5eGpSMWJSMWFkN3lHNnRHeDA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-28T12:46:27.539Z"
+    },
+    {
+      "id": "cabd1072ca49438b",
+      "title": "AI agents can now shop JD Sports like a person would",
+      "source": "Sporting Goods Intelligence Europe",
+      "date": "2026-09-28T09:59:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaEhpaXpLLXJhMjhYTGZ1LVNPdFR3MzROSWFjQTh6Y01FbHZQblRGLXJNOGJ1X281dEtWUnoycVFfdXh6WU40YXFHTXRWZi05WF90R2ZtaGV1b2o3T1hLbXN6SldDWks1WlpNR3BMemRkU3dMVlJzMDcyRTJqaE1xZXdwZkRMU0ltMmNrZjdPZG9NRk5uUWt1Wi1ycVZnRDNnUnJjekZ2NA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-28T12:46:28.712Z"
+    },
+    {
+      "id": "e301b40b34f27786",
+      "title": "The IT/OT Convergence Gap: Cyber Threats Risk Operational Resilience Across Global Industry",
+      "source": "CXOToday.com",
+      "date": "2026-09-28T07:45:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzJWWjZZVFVVNE9pX0VlYmdhbkFfeEFyVEFVbEEzQXl1TjdWalA5OENwX05rU2tTRmRJQUdHVTdzc3BxUW9fb2hWRE92Y2lGWUVkMUJqZ3ZUVHE5THZmQW0xRGNEUDJWTTJDU0pWeUhiQUgxS3hESnB3SXBwaU1ieUlWdjl4MG5kVUhWTWU0Qml0U0V0TDJvWUc3ZGIyLWM1VllPY3Z0bEVQQVE5X3IwVHJ6MVlJdzJzRWpSdXRzRFNZTE9u?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-09-28T12:46:29.821Z"
+    },
+    {
+      "id": "05ceab3cbc3fd242",
+      "title": "Thales Expands Collaboration with Google Cloud to Help Secure Agentic AI Workflows",
+      "source": "Via Ritzau",
+      "date": "2026-09-28T07:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV0xhZzktblgydXgxV25FbXBHMHQwUjAzWU5lRDZJZEc4TVlhWi01M183NkFKdUhlLWIwM3RvRi1ISWVJWE1Yd2RFSDltOTVOdmhXV015b05aX3lmQVh6aTNXak9SZXVQdzF5Zmd0eDZDOHRjb00wVmJzcUJTd01qbDBzOGVReExtblVxWlg2OGZUVEpld2FnMnNNRjFTNXlYZktIak53Z3c3VTFoQnNkbnpVVFMyT0V0MTJYaVI0and2UXBBWkVDQXFkbWJVX003czdMb2xLdjRieUpsSG5NcUktaURPbkpCb0JmOA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-28T12:46:33.520Z"
+    },
+    {
+      "id": "87187e90e9565e4f",
+      "title": "Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing",
+      "source": "TimesTech",
+      "date": "2026-09-28T06:23:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhqeEZDOVZjT0NzNU9SUzJzUWZqUEFyQWoydHZmS1dhdTlkZl9KNGxSUTVfdVo4ZEdKSkpyYk5SVUQ5VWZCWmh1OENIVWR2X2lnTENfS3dadXV1SWVaRW8tNFBLWmV1Wk5iaG8xYVNkbzlvRHloOHlZWGEwUlZhODg2Nk5hblZpMmxvb3I0ZmtibEJ1WTB2YlRuUnUxcDd2M00xNWg3dnlhY3hoTHRLaEwxVQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-28T12:46:34.703Z"
+    },
+    {
+      "id": "c1f240857e4f2370",
+      "title": "How Retailers Are Rewiring Payment Rails For Agentic Commerce",
+      "source": "Forbes",
+      "date": "2026-09-27T20:00:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlNBMXFENUlIVm5WTXh2MmVfRk9aOFZ4ZjEtdm9XUmFlVmJYUFdxMDR3aWtzVkhDNTBTUGFEMVdkWktoMmxrc3Bzckt4aWo5bGtxcWtNRE8wN1VBMHRfSENIQWNsUUtuazNveDJYTExsLUNYdGd0VkM4elliMnBEZnBPQzMtR2VLLTlNTUlZcmhIQVVkdlI2Tk45cmxZMmpqNkxSc2lRRm0tZm1pLUpWdFBNYVlmSFNDTncw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-28T12:46:28.712Z"
+    },
+    {
       "id": "db6fc70736cfd1a9",
       "title": "Velotic Advances ThingWorx with New Agentic AI Capabilities",
       "source": "ARC Advisory Group",
@@ -246,6 +306,16 @@
       "firstSeen": "2026-09-27T11:17:47.503Z"
     },
     {
+      "id": "146418463f7f104a",
+      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
+      "source": "marktechpost.com",
+      "date": "2026-09-27T05:57:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2xqVjFwbVhKOHBWY1dJa1A5ei1DM0RCTFUwRDlRZHkydHhjaDhaLWxGNzdBamhvdTN6TVU4bjBnUTJ5ZWJhZ01aam9WMk1oMHJTZVphLVlxWjduYzdRNWQtcjRfYm5oSEVGVE1YczJab3dIRTd3d2ZubkVFX0g1cTE3VDlTNGR1OXdDNk1ZdXlOazFIMXNyQ3NCZDZadkx5QnVkclU4NEZPZllkNlNwV1BOY0ZZN2lNMkExVEYyNFdmR2FiQ2fSAcsBQVVfeXFMTkoyOUdmTEtfcS16blZCR0JsWkVNUXlJdzd2UERJTFVVaFAyLVYtMHVrTlFuV0Z3LWxLTUtPaTZfbVpWZUM3X1RWYk1rQ2U3QklCb1ZFQkMtMHBZdXZLZHBOYXF5TW9JU0NGbUtONHRyU01XQVlUR01zRGpQZ0FEOXBRbnU3MWVGZGNTbmxzaXRscGlYRzd5dThmU1RCTGpyeFVCbUdmTDJNcXNiLWk0OXVGOC1DWnpaXzVtbVdScVpDaFRubGVYdko0Ums?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-28T12:46:33.520Z"
+    },
+    {
       "id": "bf54700ffc54bc94",
       "title": "Top 10 Supply Chain Planning Software Solutions",
       "source": "Small Business Trends",
@@ -254,6 +324,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-27T11:17:36.738Z"
+    },
+    {
+      "id": "d6655fe0bd8eb8d7",
+      "title": "Accenture Edge and Google Cloud Launch Agentic AI Solutions",
+      "source": "CX Today",
+      "date": "2026-09-26T01:03:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVHBaX2NkYmJwZ0VJMWhXWFAwdHU1ZUdjeWRwOTVTQ2U2NkNlQjVwZEYwZVdISVZOeElENzIyZEh3RFpMT1d6ZEh5MmRUb09MTHozNXJrRFJYVEhEbGFpUWF3aWw4d1ptenNERlFxQVp4Mm92dEhrT3NNQktfQmM?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-28T12:46:33.520Z"
     },
     {
       "id": "e1fa29134b6573f8",
@@ -8694,6 +8774,16 @@
       "category": "AVEVA",
       "query": "AVEVA Snowflake",
       "firstSeen": "2026-08-06T12:30:44.602Z"
+    },
+    {
+      "id": "6387e38df17529f0",
+      "title": "AVEVA Announces New Capabilities to Embed AI across Industrial Organizations & Data Infrastructure",
+      "source": "IT News Africa",
+      "date": "2026-05-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUJUY2RUdjJCN0VMb1B3ZWVVUGNsenphS3gzVTV6YnhOYXRXRl92WGZTOEpEcms5WDJ0Tkw1TjBrbXY5eG5XZk1OUTVjc3hJb3NQUGNWN0dqWXdpenhLVEN6ZGItbVBCc21GdTVNYU1yUWdhbVhmQ0F5aEVKZ18yeWJNUXh0ZGNEbDZMS2RvM2ZfT3B3ODBoWi1XX2JWWm51RDRCNXFTbl9Dc0NvSVFrRnJKLU56RWliT01manI3RVEyQmR2RjJYWV8zOGU?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-09-28T12:46:04.454Z"
     },
     {
       "id": "208ef7f87f20db40",
