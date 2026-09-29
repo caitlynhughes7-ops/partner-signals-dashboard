@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T12:46:34.706Z",
+  "lastUpdated": "2026-09-29T12:02:37.733Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1174,
+  "totalEntries": 1187,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -232,9 +232,100 @@
     "ed14277b4397dd52",
     "10c2dc12cb1afc0d",
     "44434894e214d019",
-    "ea38d9ab8e05b4e4"
+    "ea38d9ab8e05b4e4",
+    "96aa6d595a509e54"
   ],
   "entries": [
+    {
+      "id": "7a4d6605412143e9",
+      "title": "Ex-Tesla Team Raises $12.5M for AI Supply Chain Automation",
+      "source": "The Tech Buzz",
+      "date": "2026-09-29T09:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3pzNHVGckNNaDI0NU90SHVyZExxYVYwLUlZRmhCcWQ4VlNaODNENDdPb3Z6bmtqNURtR0ttUG9zT055Q3EwcDRBbTdsRG83Vk5TT21EUmVLWkhxaUtlVXhJUHZrYk9yLVJLa2VLZ0J6UUE1VW5rNXBtbmpEWWdwT2hZeDVrZXloV2s2eVFDU3VzYmdH?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-29T12:02:34.083Z"
+    },
+    {
+      "id": "e1b3948cb49e1e64",
+      "title": "Musing About Meta Muse? Agentic AI Enters Digital Commerce",
+      "source": "The European Business Review",
+      "date": "2026-09-29T07:59:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0I4cURkc2lfWmdQdGwyM2FxMzZKVk96cFMzWUFRNWVVV084S0xhVGpPT0NZa2prRkRpUHV3aEF3bDNRZGlyVkwwdHVKUE5naE5zM2JVdDg4Z2JDdFRnYUI0bzJpN1l4bHZYQUt5LTVMUmI1S21za0Y4ME9lakZmcy1wVk9YelJYSWlVS2xrT0lUZkVHd3J6M0t2VnVFUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-29T12:02:31.807Z"
+    },
+    {
+      "id": "393a26fe31b3f68e",
+      "title": "Amadeus IT Group stock falls as travel tech faces a softer outlook",
+      "source": "AD HOC NEWS",
+      "date": "2026-09-29T06:50:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUVUzdDJGa0c3TXVhMk0xX3ZIVGxYT08zcFVlanVzM2tjSkNDOGdha2VfVTZqYi0xNFFwWEhXdHNGV042QnJHN01vVmg4QkdPc2kxOXN3R0dqZThNeFBrZHRlQUxEd1RSYllzYTg3WURVUGJlc3ItUlhVTG9VWjBZUnZCOW13LVhoTjBrR1NuRUZXS3NEdnY1aVdjRFVfU3NKX2g2QnNNUXY1bUVBeXpSU01tOUUyU0duSlZsM3BuY3o5ZkFaVUVveA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-29T12:02:22.913Z"
+    },
+    {
+      "id": "8e334311757aeb71",
+      "title": "Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins",
+      "source": "AZoRobotics",
+      "date": "2026-09-29T05:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-29T12:02:37.730Z"
+    },
+    {
+      "id": "cced1084be9b806a",
+      "title": "Criteo Expands ChatGPT Ads to Six Asian Markets",
+      "source": "Grocery Trade News",
+      "date": "2026-09-28T21:17:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSb1FFQXlZd3VISlNDekJTNHp6bmdUWnVYRVlKYm92bG40MGNvREdxMTQ1WHk0X1BDTExMdGdHR1lIU01Kb2g0Uy1RdVd2MGNuYnhwZWh6U1JvSnRwRkNIZzZCcVZKUEtMLTNmU3g2RnpMcjJYUkE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-29T12:02:35.256Z"
+    },
+    {
+      "id": "777e9a26345f26a5",
+      "title": "Contentsquare is Building a Single Layer for AI-Powered Customer Analytics",
+      "source": "cxtoday.com",
+      "date": "2026-09-28T19:55:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVlpYXBDYVZZbU52OTNnS2JhX05FMVNsY3RSRnp0d2QxQUNPNjBlb2pIOU1idUdsRWo4Znl3aGVoMHF5UWQ3UnZzM2d1ODMzVzd5TkYwZ19UQlpBc2RvRTlFVGcyal9BUzZWOXdlWlZ4UmlyNllYTFN6N0t2eDZmTWxMMmRVRVBBVEFYN2pNSW04SHhSWWpnNGpB?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare Snowflake",
+      "firstSeen": "2026-09-29T12:02:10.600Z"
+    },
+    {
+      "id": "01aa4b289c0b5c9b",
+      "title": "DHL: Agentic AI Reshapes Supply Chains and Workforce",
+      "source": "Supply Chain Digital Magazine",
+      "date": "2026-09-28T16:28:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXpNNklvODdlQmpobkY3QXBjRkZFVkt0d2dNbmtYd25WU0RvOWlQUVB2NHJHZ3BrQjFsYW1GQTFyLVJ0YlpQOU9vc0I2NjQyQmN4ZnRMbUdMaUZDZWFfQnU4akw4ano0ZTBEbi1ZV1V0VUVfbDBoOHJtQzBoUmhtbkF3alBjUkJiTWdWRUdjWW4?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-29T12:02:34.083Z"
+    },
+    {
+      "id": "00aadb5adf4a2ded",
+      "title": "KIST Connects Korean Quantum Startups With U.S. Partners at QWC 2026",
+      "source": "The Quantum Insider",
+      "date": "2026-09-28T13:50:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFFhQS1sd1MxWEx5bkpVc2ZTTnBHREhYMUhWQi1uZnpfYXdialN0T0w5YWRUN2tYSlBsdU1KYTEtSUZzd3J0U25XVUt5cFdOU1Nad2FqRTh0dDZYZWlZYklJOTBST3kwU1JEQU52TDlhLUlpbkdWU0laaHZGdktkaHJfS3lwZ3pkRGVDeG5VcUZxaU8xakE?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-09-29T12:02:25.131Z"
+    },
+    {
+      "id": "873da3cfec5945a3",
+      "title": "The right chemistry for a smarter future",
+      "source": "Genpact",
+      "date": "2026-09-28T12:40:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sLTRDM25jVk9FWml5eTEzUjhwUV9UQ2w4WWlvX0NhMnUtazB6SmZqWE1VTjVxX1AzLUR1a0RYMEFLa3VYM3NxdFU3V2JabHZoT2QtZGltZnRMWW05NWJVcTVaNUlFZnFHTlBxLWV4Wi1BS0hmSUVJa2toako?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-29T12:02:30.628Z"
+    },
     {
       "id": "5604c22bae124165",
       "title": "Aidentyx Announces Official Launch of Next-Generation PODO® AI Framework, Bringing Context-Aware Agentic AI to Manufacturers",
@@ -316,6 +407,16 @@
       "firstSeen": "2026-09-28T12:46:33.520Z"
     },
     {
+      "id": "2383d858b35dcab1",
+      "title": "Open questions in agentic commerce extend beyond the AI model",
+      "source": "marketscale.com",
+      "date": "2026-09-26T16:47:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmhDcnJEN2x6bHNPUVBWTDZlbC1FZlBXM2FHWHBwUUVVNFdiRlFTTWZZTU4ybzBZTTBaOEUzQUJWa0d2OW1VZGR5b2haRGI5TTJNNGEtdy1KRk9wbkNDXzA3UlhCNFNWTE9zRUdvd3BvSF9XRzh5TF9VRkhNcnhlY3FNNFJmajJkeTJ0eElSenBzTWk1MXZWblRPV0JsUk9NNnZKLUVQekFVQUYz?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-29T12:02:31.807Z"
+    },
+    {
       "id": "bf54700ffc54bc94",
       "title": "Top 10 Supply Chain Planning Software Solutions",
       "source": "Small Business Trends",
@@ -344,6 +445,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-27T11:17:48.701Z"
+    },
+    {
+      "id": "b7a57e749a525389",
+      "title": "Supply chain AI agents: Where should autonomy begin and end?",
+      "source": "TechTarget",
+      "date": "2026-09-25T20:16:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0htek5ON2tBeFFOWC1MdWR0cXdpX0ZXREVnSE9GZndtX1hoVTUxSXlWUE9MelVxenZhTE5hQnZsYjRHcGtiVHBnaFdyN1ltWmFFaEpQUVV1M1hUSzRWZkhNcVRzaTVERFhzaFcyT2otYTZQMy1vODVhZjVQOVJ0bmZYTTloek1nVHJSanNTZW9WMzdwbDFJeFNmYWo?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-29T12:02:34.083Z"
     },
     {
       "id": "4089e1dc1b057710",
@@ -454,6 +565,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-25T11:01:51.791Z"
+    },
+    {
+      "id": "c91b658cbfdb7bfc",
+      "title": "Majority of U.S. Consumers Now Use AI to Shop, NIQ Finds",
+      "source": "NIQ",
+      "date": "2026-09-24T15:02:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2I3bUFjaTdhT1lWMzNvM1ZCbXh5Z0NMelhNRzBmRnVldk1LaFZJTTBEZHpRWU9wWElpV00tcVdqV09ibk4xdkFZYktIUC1LTnlfVDc2U0hyUzVkcU5zUDBoX2Foekd2bGpIT3NYRDBPcThzR0I3NHF4QUJmM1VxQ0JoRmppUlVueUluV2V6MklOaEV1empKTkJ6cFdMYUdxWmx5QWpqOA?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-09-29T12:02:29.445Z"
     },
     {
       "id": "5a3a674e593d0e92",
@@ -10926,6 +11047,16 @@
       "firstSeen": "2026-08-15T07:19:16.076Z"
     },
     {
+      "id": "03ecf65047392d87",
+      "title": "Radisson Hotel Group and Amadeus Launch Direct API Connectivity To Modernize Hotel Distribution",
+      "source": "hotel-online.com",
+      "date": "2026-02-25T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTnNHb3V0SXctUG1BVEJyQ3JzM1h2QmhCODc1ZUtxazhVVGJQeHVfbE9TSTlBSnpvQ1ZCOXdSWDc2RUlrOUJSU0U1QkZTelVCRWdQQXRlbXJOdXliQkFlS2pVbjByX1dHT3FINjNkN25EWmxpVDRDZ3V0aFNQTkw4VUFscVFQLTItZVdqWk5xQWcwMWx6UWY3NDhRaFhpT09aSW0xb2RGWGNueTVXSDM3NlJHeEtqOHBvVU4wenVIYVpqbzk1MG1rdA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-09-29T12:02:21.711Z"
+    },
+    {
       "id": "5d7ac679032d9696",
       "title": "Agentic Commerce: AI Shopping Agents Guide 2025",
       "source": "Deloitte",
@@ -10994,6 +11125,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-05T12:27:36.301Z"
+    },
+    {
+      "id": "0367be2bbd12a241",
+      "title": "Blue Yonder and University of Arkansas join forces to strengthen supply chain education",
+      "source": "EdTech Innovation Hub",
+      "date": "2026-02-17T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdy1QbXRaYTdGaThoNlFPZk1Sdkl4TFRfWkNySk1lOTFfbS1LQnd2LTNqZXN6YU54Wnh3OTNlTGNSQ0o2VjV4TUpFMEJuRUZVTjhVMFNTcWNmTmkxQmJBbUo5QUhnSHdDNDdsWWRYU0ROLTNMNnBsXy1NaWNXaUhSTGpxT25EMXBobDZuRG50QmRrTTgyUnJ6WGdoeHd1Qno1MG5DQXFlcF94Mm5VVVU4eU44Nm5HaUNJQXIzNlo5dHZFZktkdVlV?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-09-29T12:02:18.371Z"
     },
     {
       "id": "34509b9d5976865e",
@@ -11964,16 +12105,6 @@
       "category": "Contentsquare",
       "query": "Contentsquare digital experience analytics",
       "firstSeen": "2026-08-14T09:41:37.716Z"
-    },
-    {
-      "id": "96aa6d595a509e54",
-      "title": "Consumer Outlook: Guide to 2026",
-      "source": "NIQ",
-      "date": "2025-09-29T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWRTdlBIbjVCNmh3UWRWdWRKRDNzdE91Ykg3NGMxaWt3SEhvNW9oR0dEcGlPUFBxeHRpU2Z2cDJiVWNMWm12MjY2MDBmaENqdnpISHo0VVJEQ3ZfT1NhSk9mMXhLTkpqTHk1TDBvNDd2Z3UwZ2FvNTBCbGNxXy1RUVhXSjV2VWFyOGNsQw?oc=5",
-      "category": "NielsenIQ",
-      "query": "NielsenIQ consumer intelligence AI",
-      "firstSeen": "2026-08-02T19:17:13.157Z"
     }
   ]
 }
