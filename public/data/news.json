@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:02:37.733Z",
+  "lastUpdated": "2026-09-30T11:50:48.004Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1187,
+  "totalEntries": 1202,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -233,9 +233,140 @@
     "10c2dc12cb1afc0d",
     "44434894e214d019",
     "ea38d9ab8e05b4e4",
-    "96aa6d595a509e54"
+    "96aa6d595a509e54",
+    "199be770b16b8b27"
   ],
   "entries": [
+    {
+      "id": "39e938eff4a03257",
+      "title": "From Mid-Market Growth to Global Enterprise Transformation: How Melonleaf Consulting Is Expanding Its Salesforce, Data and AI Capabilities",
+      "source": "Technology Org",
+      "date": "2026-09-30T11:19:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRk54RmJQbldid3E2QkhLeUNRVXpqanhteWlvTWdtX2lTUUcyTnRsdjE3QnQ3SGFsN2RNR1dnZW8zR0djbVl2bkhuUTJSUHRwem0xTG9HZERRZWlSUFFrUGlUTV9NcGVseUUxaU01QlVtRW5xSVFydloyQzZNVDhoV05FbEdKaWtpV3g0bWVMa2xuQXk4QlZVUkNlRGVHV3JiamRkbnMtXzNyNmZyMUpFY1VEbnRQZjlMQ1laN0duRHVOS0xfV1pPdDBPUTVLQXpqbUNvTWNqWUwwNmFDNHdzMTBJZzlqRV8wRHJJMUdzT2ZaOURiLUN5cXAybzRmNklKZUdDVDR3?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-30T11:50:46.780Z"
+    },
+    {
+      "id": "469ca81aab95f8fd",
+      "title": "Amadeus to introduce Amadeus Max for Travel Sellers across the Gulf",
+      "source": "Breaking Travel News",
+      "date": "2026-09-30T07:26:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDRaRHhWMlBFZ1dkRi1WYm9Ya1VhUHVqTGgxZmhsRnJCTTNrX09CaW4zeFBQVXNQeWpyQ1lOblEtanNLQ2l1WU5tQ1lJQl9PN3BMdWxEOG1QaGtpOTQ5Y09sVkNBemZZUldLcnJHQ0RaREFQdzVtcGpYU1huLXZjZWZlREtzXzVBNmszTDdIOWk0SWw1ZXlTal9hUFJIeGQycUZOOGw2UjFBRlJPMkUzQk80NXAyMkk?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-09-30T11:50:32.238Z"
+    },
+    {
+      "id": "5942c7dcb00b1fa1",
+      "title": "How ‘Industry 5.0’ integrates human expertise with artificial intelligence",
+      "source": "South China Morning Post",
+      "date": "2026-09-30T06:10:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbjB3cFphQy02SkhybklfdjdZRVlZZmRfdkFDelViRWhZOTZLalhkaEZsNTI4TUM3aDJGYkcyblV2YmN4ZXJFdDNDdVBVVVZ2cl9wMHc4NXlyVzVRa0RibENlSUdGZlM5Um56TTRpMjBobnZGeGt5VGs3bFhaX3p0NHczMS1yRVVRc1V0bFNMbzd1cmJENFRsWlFCTDR0bmh3LVVnNTY2MnBoUm9oQVNsLUVjdnRjWkktYnlNQ3dScTFLZ0J0VzMzcm42ay1JV1JMRU9GSEVnd19YQmYyaTV2ZkN3?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-30T11:50:39.914Z"
+    },
+    {
+      "id": "80d9d9b551126126",
+      "title": "Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories",
+      "source": "TimesTech",
+      "date": "2026-09-30T06:05:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFyeDlSbTVUbHFCUGhOS3Q4SnpVdTh0cDR3eDNKSFhMWVZIMzJOVjkzeHZzMmFUaF9RRDJsbVhoODN0Ml9jbnVQNHVzcDhOMlBFeHVZaFp3eXFIVzRBb0hta29mWm5ZaWJLN2duZ2gtM2puX3BOZm5ERTgydDlEOFU4NXd5OHN1d0c3TGlzU0JnMEhiZktXai0yR25ZSU1EUmlZWlJraS1SNGtUUWM1aEp3ckJoYVFBWUp1Ymd2aw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-09-30T11:50:48.001Z"
+    },
+    {
+      "id": "b1fafd1e1e74c1a2",
+      "title": "Gartner Predicts Most Supply Chains Still Won’t Use AI to Automate Planning by 2030",
+      "source": "WWD",
+      "date": "2026-09-30T05:36:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnZWcnB1QllmdmZMcnZvdUpTS0lrdjlIQXZJYkVvcE52WVBXcWJkcF8wZmNaSWpfdWdPNUNkYU9zUjM2N2l0R19BMkxYdXNySFE0Yzh0a2kyNFFXUm9CVlNVZTR1aGRxTDRVYWROSldXNUV1S3c1SXFZaVlJNzBsckFyMTU3OGJnTkYxN3VxN0I?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-30T11:50:43.372Z"
+    },
+    {
+      "id": "de78eaa6e017722d",
+      "title": "7-Eleven Launches Retail Media Network",
+      "source": "bandt.com.au",
+      "date": "2026-09-30T01:13:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hRFF0SlNZNjFVN0FrbTBHYUdtT0FlZzk0VFltczctZ2tTNFJJZWJMMTUzNXdzdkNKU3loWUFkaU51MHZOa01DbncxT2JNX3RUUG5zUm9KMGxmQ1phOG9QenM0VDlwWTNsRFJkTFBVWE93UQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-30T11:50:44.558Z"
+    },
+    {
+      "id": "f5187061791934c8",
+      "title": "Samsung Accelerates AI Transformation With Agentic AI",
+      "source": "Businesskorea",
+      "date": "2026-09-30T00:46:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSnhMQ3dyN2F6LWxFbkgyN1I2NHZtRThCdVpWNXhKZGdpeGVNcEs2SGUtcHRjM1dxUnFxMFNZNV85RnNrNjBxdC02aFRQNVRub0hCbHJKeTBRS1FTczd1eE0tb3ZyMGh0YkpxbWU4WHNiM2tM?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-30T11:50:39.914Z"
+    },
+    {
+      "id": "6bb5ae34c0ddeeb5",
+      "title": "Australia: Queensland Strengthens Manufacturing Through AI Adoption",
+      "source": "OpenGov Asia",
+      "date": "2026-09-30T00:11:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlF5a0JhWXZaT1RrMVJFWVZ4UXdXckhjQ1B0eUhBSDZtTUNQZGR6RjAwNlBXQkIxcDdkdFBrY0dHbXVnQVhBSUN2Z2c5T19rZk9vMEtIVEd0Wkd0SUVObnY3YU43WUlKdnpJdk5JMWMtMnFSOXgtZGZGSTg5dEdjdEpWLWxsbEswMThrdHhoMjBqQ3Y3elE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-30T11:50:39.914Z"
+    },
+    {
+      "id": "1aeff6bbae65de9e",
+      "title": "Rezolve AI at Lytham Partners: betting on agentic commerce",
+      "source": "Investing.com",
+      "date": "2026-09-29T22:45:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTh6T0FRV01zRVRVRlk0SElVeXpJWkJHSVRyVHhuUlM5S2piRkp5TzhTSWZ1T2tLYmRMN0ZjWTB1ZndHTlRBR203bmZ2eFFYeWctNUFveGgxVHJjb01NWnZzSTZ4Tm0zR2xVaklraVF6VjZkeWtDN0FVSklidU82NTJwNzlseDkzMnFaZjZNZjNrMW1rV293MnIzakE3X1k4U242OU1qZzA1cDZnX0wtN19tbw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-30T11:50:41.107Z"
+    },
+    {
+      "id": "00762b4b6bbd74e3",
+      "title": "Beyond omni-channel, brands face the shift towards agentic commerce - FashionNetwork",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "date": "2026-09-29T15:20:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnhPR3doQy1qeHZoak5iVlQxeXFZRmxrdFA3R0Rmb3lIeHNVVy1naFVEUmEydnA5LXZVRE55T3lpUjFFV0RnNzVvdUJaZXI3dnNmZTN6SnBXVHBkZmI1bDBobFd5TmlXd0JIVFQxSzU5R1YtMmM5SFhBNGdQTFRMd2dLYWNEY243cTBiYmpvRkNSRDU1QnBrR2J2WVI2SmR3Y2haWWdaeDZjQW1wM05QUWlxV2M?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-09-30T11:50:41.107Z"
+    },
+    {
+      "id": "22fda05bce0c546f",
+      "title": "Atomic raises $12.5M Series A for AI supply‑chain automation",
+      "source": "SaasRise",
+      "date": "2026-09-29T12:47:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXBMcy1PWlBZNzZ6ZHFsYWVBZ1dteFZfeVNlczI0ck1taDJZM1haYVNPenJmQkQzZUhNMGxvVndSZ2hQcm82OWlCWlY4dnNtTzRZemhsODRPaDNKUFNTRFRkZW1FSEI5OWtsalZzeUFsbDhFV195ZXRDa1NGSzQwRzdJdkhINFcwM2pZYmdNWkFJWXUxbEdfZ3Z6WlNhai14RC1aNTV0NXN6RUJJSVRvUVdPRGd6Tlg2VGJTNmstZW9zYmNp?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-09-30T11:50:43.372Z"
+    },
+    {
+      "id": "7a4ba39b9e48f5c6",
+      "title": "How Agentic AI Helps Reduce Downtime in Manufacturing",
+      "source": "IoT For All",
+      "date": "2026-09-29T11:01:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91dHJ0SDJ5d0pQVEJ1VEY1X1NwODIwVS1nX3dDOFU1NXdzeE9MTnlXZmZTTTRfS1FXaHZ0UGlfS0UteVNFaHZ0ZG9IRUJkbmFtOUVabGVRNzlzY3hRWXIzLV94OXdtVkhJS2lz?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-09-30T11:50:39.914Z"
+    },
+    {
+      "id": "0ea22125f94766c0",
+      "title": "Ethical web scraping: Building compliant data scraper and datasets for AI",
+      "source": "TechRadar",
+      "date": "2026-09-29T10:46:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTNLYTVlS2Y3LU82SVNoR29rYVNPR2FqYm9NRlNqYlVwLXBzMTMyREtUSlNsbTFOWlF5VEF1NmV5RmpRWEpLMENCdmx5YUpYYllYSE9Obk9VTFNCMzRSWTRTUDlUYmFiSXdSVUtjVUhPTTBUTmVMa0NEZzZrU08xSEc3QUVueGQ2S0tIYU1FbFUyQWVKYUlVT255b25BNjRSTXc5eTQ0MS05bDRENWgxSEdwOHlhUDdz?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-09-30T11:50:35.562Z"
+    },
     {
       "id": "7a4d6605412143e9",
       "title": "Ex-Tesla Team Raises $12.5M for AI Supply Chain Automation",
@@ -2425,6 +2556,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-10T10:30:08.375Z"
+    },
+    {
+      "id": "a3cda94cb97ef694",
+      "title": "Cohesity Launches Maestro to Bring MCP-Based Agent Access to Data Cloud",
+      "source": "HPCwire",
+      "date": "2026-09-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFcwazVNOVZzY3pSYUVkV0dibTBOZURRLVpPR3E0TDBBVTgtbEQwaG5pdE5uYkVBNVMycW5CNVp1aHhZS095SlNPZUZpYi03d2lNWXZBZ0ExV0o3Q1oweXVJeHdhRDhxaFppLTlwU2tpMXk2NXFYcjk5OGxOYWZKTXdDUWtDLVRWWFdKc0hSOFFoT3Y3SGpHT2FKMmZNRHFpTVo5ankzT1Z1VkJzaHJOal9xM2I5UmpfMXBGV1dB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-09-30T11:50:46.780Z"
     },
     {
       "id": "7ec017221c39737b",
@@ -5565,6 +5706,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-08-28T21:29:09.049Z"
+    },
+    {
+      "id": "e236694cfe895db8",
+      "title": "Rewiring Advertising: The AI imperative for commerce media networks",
+      "source": "McKinsey & Company",
+      "date": "2026-08-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc3pYTGM4ampYUXFfTDE5cHR6ak1ZeEVxSTJIcThqMmRBOVJlck84eWt1S0d3SVpQbDJsR3N6UHhGTGFqdnE3OG85NjI4eGd4Z2x2bUZPaFJhR0ZJc2l1aHVyWUpJdFdtamtNWjY2ZllHWXhqY3hpbExLaTJZRmI5cE1rUVdaal93bWZyTDluVzZSeFY0RGRXdjY2bjh5VkhjU3FSZnBmMWstZlhhdkxiancxb2gyODQtX015LVhMQzctTldiUmIta25pYks0dEpNWUIxVF80Wm1Ecnhac1ZVdDZGUEo1M3BzZHI2YWlvcnU?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-09-30T11:50:44.558Z"
     },
     {
       "id": "e8a35eaf7db76278",
@@ -11687,6 +11838,16 @@
       "firstSeen": "2026-08-10T10:40:29.796Z"
     },
     {
+      "id": "cbf20104f30b7f37",
+      "title": "New Shopify-Contentsquare Deal Targets Major Conversion Leaks",
+      "source": "CX Today",
+      "date": "2025-12-18T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQ1F3SnpBY2JVNzZBX2dibEhDWEM3eXBEZDVqMWQ3XzVOUmNMR0lYYUNXTFhpaS1tbVFrOTduLWVOOVR1a0NJSWdnYzcwUDVsR0p4ZFBFa3BTekw2bWpDNE4tSWVkRlU2WU44cmw0NDJNX3lDUW03eGtnQWE1QQ?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-09-30T11:50:21.286Z"
+    },
+    {
       "id": "d381fbbb1f46bc5e",
       "title": "Generative and Predictive AI for digital twin systems in manufacturing",
       "source": "Frontiers",
@@ -12095,16 +12256,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-08-02T19:17:13.157Z"
-    },
-    {
-      "id": "199be770b16b8b27",
-      "title": "Contentsquare previews agentic AI-driven content analytics",
-      "source": "TechTarget",
-      "date": "2025-09-30T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0pnbHRRMm9IczhyV2JkTTQ0NHJPSzNWTWFmODd4RmVvVEUzWkNvRE1BdDNqSWIzY2EwS1RFRkx0bWZhTE1OdVAtc3RSQWxxcmF5TVhvVnREcmJiRG1QdTVqZXRjOGJjbFZPUjJMaFBrbl9DOWNyQmdJMFJKbWtQYkdtRFNScUlzRjZPS0dZV1RwcHhieVdEZkV5SFdFbFJrLTdkQmt4ajNPODFiVVNGZHliWEl6am0wMC1ictIBxAFBVV95cUxOMjAya29seWpaX1Uwb2ViRVZOdm96TWhSVEotbUNoUjVxbnl0dzh5YjA3V2tMZGs1Mloxc1dka3BtTFp0aHFSd3RDWXV0eXhNc1hibm5PdEFBMGRaNFJPei1DRi13d193b1RXU2RTclZTQjZBNTcxQmZydDhDeGdscUxiYjk2cTl1eTBBVlkxNFp2UlhSNXNMVGZrcjNVN095NmdiSGM0dnd0UXltWnR2UmQxUFNIUWRwdkhlUkZfbUdZMVlx?oc=5",
-      "category": "Contentsquare",
-      "query": "Contentsquare digital experience analytics",
-      "firstSeen": "2026-08-14T09:41:37.716Z"
     }
   ]
 }
