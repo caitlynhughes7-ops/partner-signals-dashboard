@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:20:19.104Z",
+  "lastUpdated": "2026-10-02T11:48:15.560Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1220,
+  "totalEntries": 1226,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -235,9 +235,60 @@
     "ea38d9ab8e05b4e4",
     "96aa6d595a509e54",
     "199be770b16b8b27",
-    "e36ddc1b1855288c"
+    "e36ddc1b1855288c",
+    "736f393628a0d4c0"
   ],
   "entries": [
+    {
+      "id": "ad3677c081f344c5",
+      "title": "NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising",
+      "source": "STT Info",
+      "date": "2026-10-02T10:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlBqYzNZSmZmU0txNnpXWU91ZGVlS2dLa3E5YW14Z2NlUUhUR1RFUnp4b3Z2SFlyak1LT1FhVlFjdk5jaDhMVXprTFBKWkZzZTNVdHc2MWxQcHhSYk8tX1J0U1NzaVpYYWhocGpad0drb05uSkM3bktqOXY2Y3psR25xQVMtVFI4dXlXZzA0RXptRllXMTNEUzBFd09Hc0pWdHN0VVFJdklIQmJ2R2dsSUV0dVVtb2xzVzZiRHF3TGp2Z2w3MnV3VEhKdmMxT244ZmNLRFYyc2pLRlQyVGlySEp0RzhVWHVBUnM5MTNB?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-02T11:48:07.313Z"
+    },
+    {
+      "id": "9e8f6f0a01cbf1d7",
+      "title": "Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference",
+      "source": "Yahoo Finance",
+      "date": "2026-10-02T00:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2lPSWxTY0lzc25aeTFPaGFmVHZROG9xdVFLR1lmdDIzUFhTZGlVYmZJdTNCOXJFOV80MGhfZnFQT0xUb3Q3SnMzOG9CcXpWYlFXSzJ5Q2ozUzhlZVk0WWVFUnpUMmJtOG4zdm5WWi1oaURKSUtGLXNVUTNzcUhsNGNHSnVOa1RSUWhoSk1WOGtXdVJDVlVyYkxjR25uMkdVQkdNVQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-02T11:48:09.629Z"
+    },
+    {
+      "id": "76ae3410b22562de",
+      "title": "Agentic AI: A Movement About to Take Off in 2027?",
+      "source": "The Food Institute",
+      "date": "2026-10-01T20:33:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xVaFVLSWZvS05yZVgyQTY5MzhhcTFHY2FlV01nRjJHcFlqQUtfS21XeUhvWDBCb0d2ZzlfcWxTb2c1UGUxWTl1enBCSEQxbXFyTXl2YlNCQzBYcWVXM2ozRkl5Wk9oWUh2WmZrQW4yVlh6ZWFEZzg4anVZTThfOU1KWQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-02T11:48:09.629Z"
+    },
+    {
+      "id": "6d4e97002fc7083d",
+      "title": "EAIGLE Unveils the Yard of the Future as AI Reshapes Freight Operations",
+      "source": "StreetInsider",
+      "date": "2026-10-01T17:01:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXZtSWpvMElSYUJHSVhoeVVfUmw4Smplb2FiLUJUYnYzZ3RKb0ZULTZhZlFacVI2VEE2U0V1UXRUVzJlRWUtWEdONjRqMDRraXdzU1o3ZWVfcllRdXhpRno0TVJtY2RIZURXQ3RZX25BdGlrNnd4WldHLUtpQUxYRS1wZmdsQk0wMVdTc2VIeXlidjhPYV9HT00yWmhXdy14eGlSUmVDWUFkTHdvNVNXd0JVOXhmVExOLXpsY21aVEZscUpp?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-02T11:48:11.895Z"
+    },
+    {
+      "id": "9bf9c166a43a28e1",
+      "title": "Synera Names Ben Hesseldieck Head of Engineering, Advances Agentic AI Vision for Global Product Manufacturing",
+      "source": "Cadillac News",
+      "date": "2026-10-01T13:03:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdjdiZzhyZlpGSU5sNlhiV05MUUEwa3RtTmkwcUJtcWFlekl1ekZpQzJPdktQZHdhN2xFQWlEaGF5WkM0X1lXSktEbjdLbk9teEZNTjNfTElXZWVUTzFVN1F1eXNOMFBxcURjUHZoTHBKa2Q0T1dpTTlKT19jWnNRN3N3djZaWHJqV2VXZnUzNXdpSkVKQkd2VVNENTVhUkZWWmdianNfSkZ5QjJmYU1kY1J4cENobmlmSG5JTmhQajBTVGJfaXU2QkdPTzFLSU15QUNfbkdyS29CMVctY0RCS3FScVZMSDRxUGxxYkFpdmgxMlo5OGF6YmQ4NElBTEEtbmpBd2tEaHlqNlZoV3ZTZ1dobjJlQndfa2NrYjFQUEtyaHZUTUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-02T11:48:08.494Z"
+    },
     {
       "id": "58c69cdb8472f9c5",
       "title": "Agentic AI Gets to Work: Are Manufacturers Ready to Let AI Act?",
@@ -247,6 +298,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-01T12:20:11.987Z"
+    },
+    {
+      "id": "1b9c46c1d57c30ad",
+      "title": "Google Confirms 800% AI Agent Revenue Growth",
+      "source": "cxtoday.com",
+      "date": "2026-10-01T07:13:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfay10QUQwTlRyU2pWVk1KdFJ1LXA4WnowVjhvSFlhajJJVS1zcDVwNm9LbmdlUUJZZmozcE5NQTlvbTQtMG1lUWRxYVdQS3RaZFRQVHJzck5pbi1iYVJJUHhUWG85N2JaRjlkazNJSVg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-02T11:48:14.345Z"
     },
     {
       "id": "06834ea3ef332272",
@@ -7439,6 +7500,16 @@
       "firstSeen": "2026-08-02T19:17:14.320Z"
     },
     {
+      "id": "3be4b7f79ac8bf8d",
+      "title": "Contentsquare links behavioral data to Klaviyo campaigns directly",
+      "source": "ppc.land",
+      "date": "2026-07-18T08:23:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazRhbWVxODBjUlNaTGdoeUtKX1VQclJnRFlTcWlWemFmUGdFLUVVUHFoRFpaanhKRExlVlVPbUMwRlZ4OWlObmI2RWlBemN5Mm95WFMzT0tUcndpZVlDUklfVDZUMEM2LW5EcXBLQ3RxUERLd043M2NOMVhENFNza0xmUHhqeGpPMnFB?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-10-02T11:47:49.809Z"
+    },
+    {
       "id": "8e3d8342c3c2d5c7",
       "title": "9 Best Heatmap Tools I Reviewed on G2 for 2026",
       "source": "G2 Learning Hub",
@@ -12427,16 +12498,6 @@
       "category": "dunnhumby",
       "query": "dunnhumby retail media",
       "firstSeen": "2026-08-22T07:45:48.610Z"
-    },
-    {
-      "id": "736f393628a0d4c0",
-      "title": "CGA/Reputation Study Reveals AI and Economic Pressures Driving New UK Consumer Habits in Hospitality",
-      "source": "NIQ",
-      "date": "2025-10-02T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLXA4cEdYVlB5a1pKUUViXzl6Y0kxSjhuN3FxYWJpUkU1NlpCQ0dUbEF1aUdiOHpoal91eXM0dkU0TTRVQnlWQ2NRaE5vcWRNdFBBdkVMYTFGejFZME9NVURWYzRhS2FMZ0ZsdXJIckJoQVFvb2N4QllQdDBkYWJrbDgwUjgycUZrNExNSWsxa3hMaVNyUUZ5WU9hY28xajNYaGFIOGxGZi1tS0pRbGFwOFY4dGFodl8yUDBIOGpsMUxxbVhBb19rWHdmZ2JtUFNaS3ZOaEVDc2hvay1aUmVLdTdocVE?oc=5",
-      "category": "NielsenIQ",
-      "query": "NielsenIQ consumer intelligence AI",
-      "firstSeen": "2026-08-02T19:17:13.157Z"
     }
   ]
 }
