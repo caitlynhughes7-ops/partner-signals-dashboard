@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T11:48:15.560Z",
+  "lastUpdated": "2026-10-03T11:01:40.456Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1226,
+  "totalEntries": 1237,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -236,9 +236,63 @@
     "96aa6d595a509e54",
     "199be770b16b8b27",
     "e36ddc1b1855288c",
-    "736f393628a0d4c0"
+    "736f393628a0d4c0",
+    "5c4fd28c6d1acd45",
+    "d86a755046ffa37a",
+    "0e754d1551299d38",
+    "99efd6e5007f28ee"
   ],
   "entries": [
+    {
+      "id": "a216918873fddd57",
+      "title": "#e4mXplains: Why India is a stress test for agentic commerce",
+      "source": "exchange4media.com",
+      "date": "2026-10-03T03:57:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdwU3VBVlJVaHcyUlVGYkNtb2RKLUVDaWxwRkVyajlMWXBzMnctVGxkTlh4eXJYMDRHVG5OR2ZVaTZ1Sm1mOHFSZ0xnTFNlQ1lxQW92QS1xMnlZb29Vd1BHMW52SUE4RENmQXdYcWJKSjBCVzFsQXFjRGhfSk9EMV9Ta084QTR2TldMd2lETmtMMTY2UkFXRUNFV3NWYzA4MGsxa0RR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-03T11:01:34.737Z"
+    },
+    {
+      "id": "d2f8a5d0928e668c",
+      "title": "Meta, Amazon, And The Real Question About Agentic Commerce",
+      "source": "forrester.com",
+      "date": "2026-10-03T01:03:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0I0QW1JS21fS3VQU18yaFN0Q0FHYkxmRjBjbldaMkt3a0VYUHNyRVcwSFU2ejhtdnlRRkdTR1BGeUlVWk9BWHdJYmtkWmlGSVNMbGVONHIwSkZEajVQQW9jUW5ndXIxZVVUQXNNQTBIVTVxTmVwVDVOWW9QNkxFT212T2VCTHhKZHFwdXFTQzdpeWM?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-03T11:01:34.737Z"
+    },
+    {
+      "id": "50e409e48fae7bf7",
+      "title": "Pet brands gain CommerceIQ's AI bid and budget automation on Chewy Ads",
+      "source": "PPC Land",
+      "date": "2026-10-02T20:26:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWFMTzE1cFBRUWxTeVFNbjVRaTVBb2xLTGNsbW5CQ3Z5bTBmc3JTM3hwQTBUNFJScEdQQWRha3ZuWTVTZmFlUVJadDJfWFBtbXJtb3hYZU1Xd3Z3MW9GWEJ6VmxVMG1MZTBXbzRWd2tNVGVoRUZQWEt5a3pNbFF0V19BS1gtaW90bXVMMVUwX1M?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-03T11:01:38.056Z"
+    },
+    {
+      "id": "3f0cba1a2a8d0108",
+      "title": "Ready, Set, AI: How Agentic AI is Reshaping Retail",
+      "source": "cbiz.com",
+      "date": "2026-10-02T20:11:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkczb1BYV0M2MnNIWUVOZ3Rza3JlektyRndkVGFtMkFSS09Ba0k4RFhsaTBFT1ZRSVlHdmh1TlpaYVAyS3EwdDdfNG1qaXo2U055Q1FjZ3BwdjdVZFNiUkxjYUQ5VjdHMk9QSVQ3V3ZFanJoWjBIQ3FkU0dCaGNrNkVGMjVNSEo0NVFYc0pB?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-03T11:01:33.589Z"
+    },
+    {
+      "id": "9b5a97d65c0e6fd2",
+      "title": "Are Shoppers Ready for Muse AI Agentic Commerce?",
+      "source": "Retail TouchPoints",
+      "date": "2026-10-02T19:06:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWoycm1YYUY4R3lnbFJ3c3llOFFrbV9Ja0NTWVdsVkNJX1hZRmtQNTlvUVdCVXRXS1RaUmotbjgwWFB1NWM2N0ZTMUc1SUd6Qk94R2w4bzVFREVqVEZxUjd6YjlHRGR1R1FueDRMT2NoVEVNeWUtZkRBd0djUjFaNWZXWVlIM3VoWk1RejA5Q2s3dUQyZHdEb0dxZ2dnUFk?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-03T11:01:34.737Z"
+    },
     {
       "id": "ad3677c081f344c5",
       "title": "NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising",
@@ -248,6 +302,26 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-10-02T11:48:07.313Z"
+    },
+    {
+      "id": "7eaf18cd36eb017e",
+      "title": "NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising",
+      "source": "Via TT",
+      "date": "2026-10-02T10:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNUVkdVpXOENxZ2lHWkczMWJHbkF6c2VtZFNCck56THFxRGk5S210aVFnRDZ4YTFadE5hMFR3SjFiaWxKaHNfRkNSRGU1aGtkclc5VGx6bnA1WGt3ekJIRlAxOWVESFpjbWNnMi1xd3JMMFBSVmVwdGxwUUZLQWNJd2xMV0hocFRRUUdJVjF5MnFxVlR2X2RDWHFFSkJkcGJ2VnVuTGJjN1p1Yzh5eHI3V1lESVNENGhXNWxocVIwZmozSzdfc1I3WWFQMGJTQTV2SHFmRUlxbTNCSUFkU1MwZFBWdlQyQnJRWEx3VmZn?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-03T11:01:32.465Z"
+    },
+    {
+      "id": "91dc0850adf1a205",
+      "title": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
+      "source": "WSJ",
+      "date": "2026-10-02T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1hYWC1UbWx5b2wtdnAtOE9ZS25TLVNaWUFUdElpUExGMFBrbnh4cklQRTF2a3pmVjdfemFRTkM5dzZvRzVwX0w2WGd4dmZLZnlVaVhOYnUtVVljc21ZT0JkUFVhWVpKRGZvS1JZRHM2VGo2YTRnYW9RVkg2U3dGb3U4bnlDRWtvZ05PTExXcjNMS2d0M3ZVbjhlemZENXNmVHloVjZBT1k0WndS?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-03T11:01:34.737Z"
     },
     {
       "id": "9e8f6f0a01cbf1d7",
@@ -288,6 +362,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-02T11:48:08.494Z"
+    },
+    {
+      "id": "d61b2f0057d460f3",
+      "title": "Synera Names Ben Hesseldieck Head of Engineering, Advances Agentic AI Vision for Global Product Manufacturing",
+      "source": "Yahoo Finance",
+      "date": "2026-10-01T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZTd5MDhUb0VFUTVrQl9mNmdacDR0SllsalZXU0p2LU9EZVVieTZwelYteXIwVm5XNURlMUdCV3F4bWZzcEJXUGY0eW5kRU5wQnpQOEpIWndNbktacTdyQ2xsTjdpbnJLRWxNeUVpUHZFcFY3Nkw5ZHFfcS1FZDBvTURIQnQ4UTJlZ1JhN1N4VkY1ZHdMMUQ2bGp2QTJyUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-03T11:01:33.589Z"
     },
     {
       "id": "58c69cdb8472f9c5",
@@ -498,6 +582,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-09-30T11:50:43.372Z"
+    },
+    {
+      "id": "38c1e5b24e1339c1",
+      "title": "Shopping's New First Step: Agentic Search Grows 200% as Purchase Journeys Start in AI Chats",
+      "source": "Salesforce",
+      "date": "2026-09-30T04:05:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWhOV3NORVg5NDRUV0R4WS1Na256ZFVwY2xTc040QUw3TExRX05wZmxldGFYajl2eGNFQjByNlJvcFhESFM0T0dleDRzX1lOdjJUeTBPeVR6TWdhblR6b2lteE9oa2FleGVXWUszMFRQOUJkaGxhNnU4QVN4VU0yY0x1N0QwSGc0Skl5Wmd0ejI5aUUtQU0yRk5BaElpazM1Z1NHNGZka0xnMFlWSUZuSmhnNmRpTjhTVFU4cENYVm5WT0xzYlBkaEE5QkNPd1dIYmxUMkhsbTJhWHhrSlR0aTdaS0U?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-03T11:01:34.737Z"
     },
     {
       "id": "de78eaa6e017722d",
@@ -1428,6 +1522,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-09-21T11:51:28.649Z"
+    },
+    {
+      "id": "7d7e3b8036699306",
+      "title": "Media360: Sky IQ and Dunnhumby announce ad partnership",
+      "source": "Campaign UK",
+      "date": "2026-09-20T01:46:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWpKdktfcVZsR0VYQlNTT2p4cUdvampxWFBpY0NLMVhrM19EZFRsd09iQ28wSXVBZnlPN2JZbHZOTVVRNnc3cXExSlRYTDYxdE41M0FTWlJwWHJZTkxaUk9ZNGxUNk81QVhyN1hKOTY0S2UxYU1jYkRSaGJZNlJyNkdETnpMenhpNktBUjJkN2UtUWpGSGhlVUdta0NhVUNpWHdQMW0tTzFENjZObnkwX19ZSWpIOTEwWkpN?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby partnership",
+      "firstSeen": "2026-10-03T11:01:18.556Z"
     },
     {
       "id": "3a0d84bd2029dd8a",
@@ -8090,6 +8194,16 @@
       "firstSeen": "2026-09-03T10:35:51.308Z"
     },
     {
+      "id": "ef8acc5aa0c9c27f",
+      "title": "June Total Till Release - UK",
+      "source": "NIQ",
+      "date": "2026-06-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRXVVNllTQkM3OFRrV2d3aGFHejlfaUhYMEFERnU4Z3NWV3gtV3VJMVl1YnVIMUtVenBad1JTcU1pbm9sZzZ5VVN6WXEyUnhPQmRqbDUyTE1oYi1US01Vc0szdjZpMFh6TTNSTmtrV2lrelQ2Ty1GX1A1VFdYWjktbEFNZS1aMU8wWHVrbUxfMjFhYzFqWUdQYmhvWExWMG9LMXlrQXdqdTBZSUwyV3dqS19QM1JKamV4c00zVGpZUnBDZE0za2pWbXozWkp4R0lnUHB2YUpTQWZQUnN4LXRYVnlZb1owNEF6VXhQNi1GUnZzMGpKVVZ1S3c4cHQwQQ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-03T11:01:32.465Z"
+    },
+    {
       "id": "0137842eeacc72ca",
       "title": "Ulta Beauty and NielsenIQ partner on Gen Alpha beauty insights study",
       "source": "Global Cosmetics News",
@@ -11580,6 +11694,16 @@
       "firstSeen": "2026-08-02T19:17:16.521Z"
     },
     {
+      "id": "ebdaf11ba39d34ad",
+      "title": "Honeywell, TCS partner to promote IT-OT convergence",
+      "source": "Smart Industry",
+      "date": "2026-02-13T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjlsMGhvOGNxNkZOcnZSM2tZVFJ5a1pYMDBPXzZrZWhtVHo1by1jS0MxMTVfUThJRUppSExabVotbzF4SHZSNjNNYXpuOHZhR0UyenNkTVBKX3Y2VjdPZUt0UFRhT0dnbzU0cVBxMGZuSFM5WTN1S2tGT1hxdHZaSkd6TUU0OHBxbzR2SDNfOGFIdVNlRnVfaWZ5RHVDM041M0NQVnN2Vnp1eDhU?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-03T11:01:35.758Z"
+    },
+    {
       "id": "9839cb383ff77d60",
       "title": "NIQ and Global Technology Distribution Council expand EMEA distribution insights collaboration",
       "source": "NIQ",
@@ -12488,16 +12612,6 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-04T12:30:49.072Z"
-    },
-    {
-      "id": "5c4fd28c6d1acd45",
-      "title": "Daily Research News Online no. 38890 - Senior Hire and Promotion for dunnhumby Ireland",
-      "source": "MrWeb",
-      "date": "2025-10-03T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqMlNDaFFqQ1JpOHlNMHR4am9aN044UmpaczhKS0NFdVVaLTdjXy1TNVB1Vkd1OExyRWV5Q0JUX2FMbC1VOW9fcHJBTzRYQ3lvc3c?oc=5",
-      "category": "dunnhumby",
-      "query": "dunnhumby retail media",
-      "firstSeen": "2026-08-22T07:45:48.610Z"
     }
   ]
 }
