@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T11:01:40.456Z",
+  "lastUpdated": "2026-10-04T11:43:14.715Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1237,
+  "totalEntries": 1241,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -292,6 +292,26 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-03T11:01:34.737Z"
+    },
+    {
+      "id": "8da8bf761e4a925e",
+      "title": "AI traffic surge shows e-commerce is changing, is your enterprise ready?",
+      "source": "Chain Store Age",
+      "date": "2026-10-02T15:25:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFRUQUxzbmhTSVlpblJGNDdaLVduUVByNGRPOHVkc29YOTFOZ0J2RUlCZXgyejc0Y09idGtyMElCd0NLTEItNHlldFFSeEpUVGtmT21uR0FteWJsTjRwMEhBVDU5VmkwdF8tWWtaQmZKWjFVTVBkSWt4VWw4ajg1aEo1T19yWFA3NElpaWxQYnV2R1dV?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-04T11:43:08.602Z"
+    },
+    {
+      "id": "0fc224d2974c6fc2",
+      "title": "MACH X - now the checkout is on social media - what agentic commerce means for brands",
+      "source": "diginomica",
+      "date": "2026-10-02T14:23:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzZObkRBVnBnbjAtTWgzb09VekJtS1o5N3ZxZElfUTZXOU9xRUdZVXBZRFJKYlJYUDlDYjdmaFFiaGxBVWdrUjFwUzEyOVBDVURkRnVRTjB0SDhsY0lPVnhyMmpMVktSU3FkQzM5QVdrMDBLR285d0NaTm1DamFaVy01ZXFHUGRna0dDbnMzZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-04T11:43:08.602Z"
     },
     {
       "id": "ad3677c081f344c5",
@@ -632,6 +652,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-30T11:50:41.107Z"
+    },
+    {
+      "id": "06f68600db43056f",
+      "title": "Introducing CLARA Agent: Instant Cloud & AI Risk Insights Available on Google Cloud Gemini Enterprise",
+      "source": "Palo Alto Networks",
+      "date": "2026-09-29T20:45:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHUzNnk2eGtsTDFySS1PYnpYSTd2Uk5Xbzd3REQ5dXVraFpIRzRKYUJtU0NWVFNmakZBcTlnRUpEaWFHbmtfdVpHdExqbHRGWU5adWNZcEN2Zi1mcThycW1DRm0xY0VvZjlXMWY0ZmJvLXFkbGM4YVFlMTU4alZQcVExZC1oRklWbXo2X1BmTUluU2lmdlZKeklJMGs1N2lyOWVBQXkzdzBkV3JjZDNFVUphUlBEZXdvaGl6MWpnQWhfZU13dGlYZjFhLUtiNU5wMEV5dTZzRW9rN2dMcFE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-04T11:43:13.513Z"
     },
     {
       "id": "00762b4b6bbd74e3",
@@ -7242,6 +7272,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-01T11:00:20.356Z"
+    },
+    {
+      "id": "033c6ffe15667127",
+      "title": "Best Glassdoor Scrapers: Bright Data, Oxylabs & Decodo",
+      "source": "AIMultiple",
+      "date": "2026-07-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b0dOaXdadkFzaVRjRFNhb0U4OXVaa1NQWXRYUTI3R0x3X3ViQl9EZ0YycFN2Skt5SEdPZm1fZTB6RGthZXd2SlZKOE9BNW96T1E?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-04T11:43:03.249Z"
     },
     {
       "id": "723a6ce6a2aee59f",
