@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:43:14.715Z",
+  "lastUpdated": "2026-10-05T13:27:59.756Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1241,
+  "totalEntries": 1253,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -240,9 +240,83 @@
     "5c4fd28c6d1acd45",
     "d86a755046ffa37a",
     "0e754d1551299d38",
-    "99efd6e5007f28ee"
+    "99efd6e5007f28ee",
+    "921e55479f7258d5",
+    "9aa74ecf51f2c6f4",
+    "28eba5e52eb56bde",
+    "afea6af4245f3a8a"
   ],
   "entries": [
+    {
+      "id": "19c3f81203cba5b9",
+      "title": "Gladly Launches Agentic Commerce to End Retail's Two-Bot Era",
+      "source": "PR Newswire",
+      "date": "2026-10-05T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkNnZkk2TWFNQkJVaFF0V2tUY2N2V2N6TG5jcmRUeDRqcWRkd0dOQ1FzZVZBLWFPeVFGMUE1dWY3MzlFZ1VkMkFGQ3VMX09qN3RSbXl5MHhES3ZzU2pZLTRnakROUWpOY3phOVBxUFl4dTQtQkc4c2JYVGdEdFNZMW51M2pxVGlKNkQteUZlaFB2UkhkYU9paFZickhtRlBYelBBcjNHTUlzUTBPdGc3S08yek55QQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "192777d61672fa59",
+      "title": "\"Agentic AI set to transform supply chain decision-making.\"",
+      "source": "Construction World",
+      "date": "2026-10-05T12:11:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmFiNFotQTlVd3pIYk1GSXZkdWk4YlBabGU1RG5LTWJXNGt3dHZhYzZONkpuVlBoampFR3JBMk55Yk42OWNWUl9ndzVndGh1LTRCVVNjbHVnTXhjY1VpS3c3VmFTVmhlQ0RGZHN4dGs2M3NJZkx5RWlRZ1JyRzN0dV9QN1R6ekI2TldEczV3X2pCYUpBQjRxcWtneGdvMW5VNi1uUHZYeFVUUmdUbE1GMWFxeTJKMTBEN0E1R3JmRDhhQTAxa3dfMDFuM2N2NTVGY1Z6SWNkMkk?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-05T13:27:55.990Z"
+    },
+    {
+      "id": "d120d23dcc7a56b0",
+      "title": "Agentic commerce could leave retailers blind to why we buy",
+      "source": "The Drum",
+      "date": "2026-10-05T11:21:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmZvMWM2NGFfbGVaVzg3ZmthQkdvcS15b0k2cTYzWXBQc0pGMVJDNWt1SzExU01GdzlhbHZ1S3Zwb3BNTWlEUVJ5X3JLWFIycFkwOUdob0dNNEFmQkRkOEE5cVJudWtBTXk4bVI5aEVvVXRRNG5HQ2NlbE5oRmNjOHlrdDY5RXczTG1xRlY2aFhEbFJkM3lJMEtnV0gtTHR2dTIwMmJQTjNvQ0F2bWpTVkdR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "1cc9d7fcf1c6315a",
+      "title": "Exploring Supply Chain Automation and Growth at Infios",
+      "source": "Supply Chain Digital",
+      "date": "2026-10-05T10:18:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUZuQkxUYU1FeGt2d0hXLVF5dFhuMjdaLTFXOV9OQ1BGckdBN010d1RQOENvc3VfNVV4cDVKYjc2emVTUk8teXFMZmtBWUpQQ0ZMaWt4TnNQODNVendudWVXMTFRcHhlcFgxekwyNmhEeVpjMm5xMjFPelYtUTVpN2tQZFFRalU0VjRmUGZVYjM2cTN4?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-05T13:27:55.990Z"
+    },
+    {
+      "id": "91cec69279caec96",
+      "title": "Social Commerce, yes; Agentic Commerce...er, maybe",
+      "source": "Diginomica",
+      "date": "2026-10-05T07:35:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53SWl2clh2ZzJGY1RBMVhvTDZvajJiZFh3RFk0V3RVRmkwMFZGNEFoN2w0SFJoZTlHMzJhTTFRdS10OHBDZklrXzFCNmxJM3JhOXN3N18zZDhhYnZKZ0R1Q3J5WGFQSERDNXNPSWVwQ190X1pranc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "096d7d96e86908b9",
+      "title": "Schneider Electric acquires PTC for 22.6 billion",
+      "source": "Techzine Global",
+      "date": "2026-10-05T06:57:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUVxYWNzRk9aZUZSTkE1VHpUM1N4dnRPQ0NLX0c0dzFfOWtsUW9tWjNVMW5FajJma1owVEV3NWJXbUJ4d1p0cDhpMUlQb1A3c2JpREMyLVFpRzJvbTBJOE54aFl2MExNX3c3a1dMellvQnR2NHFVN1h2N3NRZ1hLVktFU0ZkRW5RQTB0T3EzVzY5OGdjdEE1S18xc3dtSTg?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-05T13:27:31.224Z"
+    },
+    {
+      "id": "da752072daf5bf61",
+      "title": "Schneider Electric to buy PTC for $22.6B in industrial software push",
+      "source": "Dealroom",
+      "date": "2026-10-05T05:08:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBXN1h2V1QzeGQyWTBIUXExSllsUkVNdzIyanRtalU2TllFcVhSYXFIS3JyMlJadjRjNnZYNk1FcDlXdmp1WW1pSFFUNElLSjZXS3dXLV9MSEpqYTNLQ1MwbG9BeXZIRUdfamlyX0RPY3JuZjVrWWMxSHlsLVFGRk1NSFExREtBRzlaVjdLVUNqbVRNMW1PT0Rxd2hsTzZUVGxj?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-05T13:27:31.224Z"
+    },
     {
       "id": "a216918873fddd57",
       "title": "#e4mXplains: Why India is a stress test for agentic commerce",
@@ -344,6 +418,16 @@
       "firstSeen": "2026-10-03T11:01:34.737Z"
     },
     {
+      "id": "762c545eeb15965b",
+      "title": "Agentic Commerce: How AI Agents Will Find, Compare, and Buy for You",
+      "source": "Security Boulevard",
+      "date": "2026-10-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb19ncWMxWlRrNFpDRkZ3ZDlzVnRTRGkyMW9Pd1JZT3htazJLQnl6emZCMlFuNm11VEFTMjBDbURyekRVTndNeGd2NjRuVWJNUzZubTlya1MzVG5hWTBidGp0Y1k2UTEwczQ3dERTeWJDX1AwOWhLTS1iTThmeFowdVhtNVNLeG9yVDJjdWtpdXRsUnhZdm5tbzF1NmxQVThpQVpnVlpR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
       "id": "9e8f6f0a01cbf1d7",
       "title": "Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference",
       "source": "Yahoo Finance",
@@ -412,6 +496,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-02T11:48:14.345Z"
+    },
+    {
+      "id": "b1847e9c57a24569",
+      "title": "Aveva Appoints Brock Ballard as CRO effective 1st October 2026",
+      "source": "intlbm",
+      "date": "2026-10-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0JtNmx6dkJ5MlplMndoZDVFeV9td3kzN05MdWNCdHM4NGlRWjlBMWlzUkZMLXk4Z2haMEN2cnhHaFJCOUJDM3g3aVNlMGdWaF9zUnlVbWVPd1lTcE5vcHNSQlVPTVhHUG50Uy11UXdMcGJHUFpzTVhVNzFVUnhzdTE2aUFueEllN2tnTlBwWkpjTmlqUmRsMg?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-05T13:27:31.224Z"
     },
     {
       "id": "06834ea3ef332272",
@@ -772,6 +866,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-09-29T12:02:35.256Z"
+    },
+    {
+      "id": "df254df7691d7791",
+      "title": "Reduce SMT Defects with Agentic AI: Automating Polarity Validation on AWS",
+      "source": "aws.amazon.com",
+      "date": "2026-09-28T20:03:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjFwQVY5bG8wT2ttYV9Jc3pzSzlKUEdlTnBCSUZCX25wdC1YYVJfM0JvdURFRE56NG5GVjV1akpGSnpvcjlMcmJ6cHpNVDlDQzFoaGpzV3Zva01BQWl1alhBWVNYaDZ5WFJOa3l4cUg5eE41bWU5U0Y2NTdWdDFwRk44VjNOWE5FLWtOaE5HbTBqSGp2RUxQNGdCb2FpVkxEelpNV2VZSmdyTjN3YjlxYmRYaw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-05T13:27:52.119Z"
     },
     {
       "id": "777e9a26345f26a5",
@@ -1402,6 +1506,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-24T11:01:19.112Z"
+    },
+    {
+      "id": "490b2b9551bb8a32",
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "source": "Dark Reading",
+      "date": "2026-09-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHFhWkdrT01ESUotMmRsUndyWElFdWhQV2NUUU9oUXc0YTAtN2gyb0ZNY3djOW5lOVhKUWwydnc0aFk0bEdyQWpybjlvdHd1d0M4RmNqWkVreEtZVFNuTmZ5dkxMQ2hpSmU1OVd2SEJjZjJXTDdBYnBseDJGTGNYQ1c1UnI0UzBqZXQ5UEUzRnhLNjFZMi1SMzZObmw?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-05T13:27:54.474Z"
     },
     {
       "id": "a32a4de695f2788b",
@@ -2142,6 +2256,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-09-22T10:52:43.125Z"
+    },
+    {
+      "id": "79df40dc5fc0eb55",
+      "title": "Cybersecurity Roundup: Who Controls the Data, Identity and AI Agents Is the New Battleground",
+      "source": "CX Today",
+      "date": "2026-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFg1bjdzcllwY3RZV0REd3pVRHNTQ2F2SGNJR19wV295VmJPUzBaUjB1VGtUNTlxRWVQaGpodkwxem16TWdhRmdTdG8yWVo4NHVOOU1QeFl6WXlDbElPYm1PVGhUaFdIbUlCS0lhOHl2OU1wbGt5WFdXa0JMcWZXQzFfTm40V0c0OGJDRERkVmNONzNEbWU5UjNXVlFwZ0RLTjJBQmVlT1B5OFVfbURR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-05T13:27:58.523Z"
     },
     {
       "id": "6de48f1145c905e0",
