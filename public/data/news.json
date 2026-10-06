@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T13:27:59.756Z",
+  "lastUpdated": "2026-10-06T12:41:00.896Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1253,
+  "totalEntries": 1265,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -248,6 +248,76 @@
   ],
   "entries": [
     {
+      "id": "1bccb0041e7c0766",
+      "title": "Retail Media’s Scale Obsession Is Solving the Wrong Problem",
+      "source": "Demand Gen Report",
+      "date": "2026-10-06T11:02:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHM2YnZJaWM3WjlCckN1ZFpma09PQ1QyTE5HQzYxUXJWbFFwaVNia3NXWjBLSEJ1cWZTN1hiWGZHZzdzRGo3eWNnOHo1RVhVYTY4a2lPT3Joa0x2UHAwcFVVNmphSFNDTVRZUkpZLWZ4YzRqTUw2MTRrYi1PbEU3NTRuSUxFYTR4MjJhalRwcU5RU2VwSGNVZk55MHpnakFRdmVaQWRSNUI1TGE0UFNtWVpKRQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-06T12:40:58.518Z"
+    },
+    {
+      "id": "2ad7037a56a20e74",
+      "title": "Agentic Checkout Paths: Constructor Lets Shoppers Pay Inside the AI Shopping Agent",
+      "source": "Trend Hunter",
+      "date": "2026-10-06T09:47:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Wk9Ec1pPNUlzY1l4VnIzcTBUYkFYa1VsM2NremFFZ1lzT01QbU0wYktmZERxSkdnNWtfb3RxWWlxYUNJWlA1bm90WkpSVEJMSGt6TFdGQ0Qya3FRaEljcnRfNEVJNjdX?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-06T12:40:54.930Z"
+    },
+    {
+      "id": "213bb9a2caec6741",
+      "title": "Will Holiday Shopping Go Agentic? 40 Senior Execs Weigh In",
+      "source": "PYMNTS.com",
+      "date": "2026-10-06T08:04:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYld4NENGYTJOclk3aU9weDJOaEtBalpXZjVPcWRNeGpsSnBEeUd3aUVzVlRBd0M5MTFtWjJ6MU5jajRSc3ZFYUdsOTdMTmpNMU1yUWZhWVhwZ1NOWXE0VVZPRHJlLUc2UFdMR3NtVGJSa2V3N1N6MTl4Y1FqeURoc29DV00yTDlIM25BNE1WY1N3bXIzbU85ZW5hc1BEMjVEN1FWTkxOZEJuWlMzbVVkbEg3UGxuQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-06T12:40:54.930Z"
+    },
+    {
+      "id": "b7898834a52690da",
+      "title": "TikTok Kicks Off Agentic Commerce Push With AI Shopping Assistant",
+      "source": "PYMNTS.com",
+      "date": "2026-10-06T00:44:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONEhOek1mTDcwQ1A2dzRpcHJNRjFCN21UYndXRUVhM0R0dXVFbndpYmRvRHh6MWFjZ2FGUGs3MW9JMEtZMUFRbmZDMUlOTGJVU2R4eW9YSTFEN0RmUTRBQVFoVGNPM3hvSF9SWHV6WTdmOE9nbDdkUy00MjJpN3FlUExoeXNzSmZWdDlnNzdiTEpjSnN0LWh5aFo2SlI3NkxIUjhJNC12SUE3bGozNFNJNWZrdDFCTXVtMVRN?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-06T12:40:54.930Z"
+    },
+    {
+      "id": "d4c91ec80c27ca7c",
+      "title": "Schneider's PTC acquisition brings together 'one hell of an industrial stack'",
+      "source": "Fierce Network",
+      "date": "2026-10-05T21:48:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-06T12:40:33.134Z"
+    },
+    {
+      "id": "0d4238b28274cbab",
+      "title": "Schneider Electric to Acquire PTC in $22.6B Industrial Software Deal",
+      "source": "Modern Distribution Management",
+      "date": "2026-10-05T20:51:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHcyazRDRE0wV2tiV1pPb2ZJazV2RXBvMUhKVURKNmhfSlY4NVJyOEFuWExQWWIxZHhwZFA0RFlhbHNJaFl2UEFydGpqRzRnMmxPeHNlUUlLY0FXQkFEV0lfSTRrdmN2TWM3SjhlLUJ2OTl1a2ZFaUxWVEE5LVE2UEZEVlhXZzNld05HNWhhamhRcmQ0RVdPMUR4bU9YY0Z4Y2xUTVJjSFJjYWRFbG9ZVV9HNzV3Y3prWVZkR2pDYWppc29ReS1F?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-06T12:40:33.134Z"
+    },
+    {
+      "id": "1b7ae2ba7fa04a7b",
+      "title": "Siemens, TD SYNNEX Announce Partnership For IT/OT Convergence, Physical AI Adoption",
+      "source": "Automation World",
+      "date": "2026-10-05T20:46:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTlNTM3ZOTWhINFhWcjl2S3lacm50YzEwWWdXbVo5d0lGNDBNYTVad1kwM3ZhQjNKSUtlb09VNFFxQkRPU2tyLVU2NHRpU04yTVV1TkFQLUllbENFQzhkcTB2UzBraG5ET3lIOUNpMFhYeVJxS2xMSG9faE82OVc1LVN3NzZWR0xCTTRPWEUxNGRKNExVb01nVkFJWF82Ty1Sc2pXSXRaY0M1cnJocmQxeVQtMVRzekNtRFBMYjFBeFAwaXE1bktyNDk4M25MaVd3VmNyeE5mVXR6dTFZVk9oV1JNUQ?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-06T12:40:55.982Z"
+    },
+    {
       "id": "19c3f81203cba5b9",
       "title": "Gladly Launches Agentic Commerce to End Retail's Two-Bot Era",
       "source": "PR Newswire",
@@ -316,6 +386,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-10-05T13:27:31.224Z"
+    },
+    {
+      "id": "0da21865b6e60e5b",
+      "title": "AI in pharmaceutical manufacturing starts with context",
+      "source": "Capgemini",
+      "date": "2026-10-05T04:50:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVNQMkEyeE5mY1JuMWFOVk5rcGstUFVDYmthUVF0U1plZ19VQ2xOeE0tV1RiT1ZqcWFaVl8zd0gtbDFEUV9RcDUwN3BtNktrTGRyOFE5NnVqM3FIVTZQVDZ4VndqTWtPZS1lOTlXcG82RFJlUnE1anY0cEZidXVZdTY1Z1dxMUlvMEFrYzBjSU1PNUNMaEM5TUt2eGdNY1doR2o2U2xNSlNXMVU?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-06T12:40:53.721Z"
     },
     {
       "id": "a216918873fddd57",
@@ -446,6 +526,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-02T11:48:09.629Z"
+    },
+    {
+      "id": "41668a778b13fe0d",
+      "title": "How Generative AI 2.0 and Digital Twin Ecosystems are Reshaping Decision Making",
+      "source": "Leyton USA",
+      "date": "2026-10-01T19:09:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXNkekdrQ01Ec2V0bnZYeUdhZDEyVEtTUmRzN1Jkc3J6RkJ3MG9ob05lSThzMXVJUGFwbWVyb1VMaHUweXVwZUJuN1FXZE9LSlNVcG80Qk0xUTNqTC1adU5rekF2RVdTa3pBdklCVlFyR0MyOXBUSi1xdTd4QVNlV0FGM3RpVjhmNUFyMmxPN010czc4dHV1Ti1PS1h0cl9ZcXlTU3IzOU11UXE5SHJTNUZWMmtYQU9RTWYwWXpTWUE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-06T12:41:00.893Z"
     },
     {
       "id": "6d4e97002fc7083d",
@@ -2846,6 +2936,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-14T11:38:29.015Z"
+    },
+    {
+      "id": "fd85f50e64aeaaf9",
+      "title": "Amadeus IT Group stock heads into the open after a 1.4 percent gain",
+      "source": "AD HOC NEWS",
+      "date": "2026-09-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZJWHg1Z3prYS1FVy1vMG5TMUZnOWdrcEFsYTB2NDZlUE1nMkxkd0dyOW1iRkZTcl9NdkdHUGJHQTFHRGo2V29WX1BBVExrSVAzcl9VVk96R04tTkZJclg0N3FDMGxDY05ORTFidTMyZmxaV3ZVb0U4X042UWwwRW0yS1VsdE1YT0lQdnYtdndhZ2tSaExJdU1OeXI5eE56MFBULWxQMVVLS2huVVJNdDZrZmdpTXBvVV93Rm5HblppUTdrRUJnOEdn?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-10-06T12:40:44.937Z"
     },
     {
       "id": "350ff3e20d5ab6e0",
@@ -8408,6 +8508,16 @@
       "firstSeen": "2026-08-16T07:44:55.549Z"
     },
     {
+      "id": "b337f0b8a138b2fa",
+      "title": "How Havas Media Network Is Redefining Retail Media by Integrating Skai into Converged.AI - LBB",
+      "source": "LBB - Little Black Book",
+      "date": "2026-06-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDRNSkFJT1c1U1daRkZkT28takpkdTQtdmloNHFrQzYtOUwzNUU2RF9lRi1fYU5NdmJXaUR1ZG05TERnV2t0cVZIRmQtQUkxdy12QURwV3ljSkZtenpJZ3ZrNFUwMFhFYTJtQ1ZkNWZKX3dwWnkyUE5SUmQ5NllYNA?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-06T12:40:58.518Z"
+    },
+    {
       "id": "937577d5c40b1a74",
       "title": "AVEVA, Schneider and Heriot-Watt in net zero partnership",
       "source": "Enlit World",
@@ -12336,6 +12446,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-08-29T06:05:03.618Z"
+    },
+    {
+      "id": "b6273abac868733c",
+      "title": "H-E-B once again tops Dunnhumby’s annual grocer ranking",
+      "source": "Grocery Dive",
+      "date": "2026-01-07T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3BmUWpRVkY0azRmc3pfTUZHVkRRSlBud21PRzR4Z1pnNDlNZXlJSURBdlBBdjhBWTVBWHY5Znk2Q0VUT0FXSThRQjRoN085c1doTncyX1NKV2dYU09ScHo3TGUxTTliWko0T0JPRTYxeVBBUE80b2VLeFROaFBoLVlGYjk0YndqRC1JM3l3aHdHX2dKZXA1RlphVjFQMW1OeS1r?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-06T12:40:39.509Z"
     },
     {
       "id": "057143a8e0650a9a",
