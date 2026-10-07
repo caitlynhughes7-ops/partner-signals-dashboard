@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T12:41:00.896Z",
+  "lastUpdated": "2026-10-07T12:33:47.331Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1265,
+  "totalEntries": 1283,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -244,9 +244,110 @@
     "921e55479f7258d5",
     "9aa74ecf51f2c6f4",
     "28eba5e52eb56bde",
-    "afea6af4245f3a8a"
+    "afea6af4245f3a8a",
+    "1cfeba40bbf39e44"
   ],
   "entries": [
+    {
+      "id": "7c76e7c54ed23d62",
+      "title": "LTM and Rubrik Launch BlueVerse AgenTraceIQ for Agentic AI Governance",
+      "source": "Machine Maker",
+      "date": "2026-10-07T10:01:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1dBMnhpc2UzNVpyRXZObFU1czZiNjYwWUFaMER6QUg3c1lDWFdyYnF2TGtzcmQwUlBhX3ZZVklYeXZzUnBaLWFWVlFKZTM2ak1kbTYtTUhzMVZxRWJySTR4WkpZUUg0WHFWQ09JUEFIRGRLM3Ixa09pSE9wcEJCMXNSNVNFM3NKeDgzVkl0cDh6YXR5TUM0OXpRZGJaNUdOZlo2aU9B?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-07T12:33:40.379Z"
+    },
+    {
+      "id": "b0059afae35e80b3",
+      "title": "Quad expands retail media network as analysts target Quad stock at USD 13.00",
+      "source": "AD HOC NEWS",
+      "date": "2026-10-07T04:05:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWdSVTNOV2JWMXQxQjJxQlpVYmZsaE9kbEY3cFhReHQ2cVc2VmNCX29wMmhCdXBUenpIcTh5blV5M0t3aXEzRzJZVUphOXgyMHlaRmQ5eHNfc2pCeDUySi11WV9pakdCektmNHpCbkZTc3ZqZmlnRVZHam5nYlM1NG1nRVQ4M2ZPekJfOWd5aTV3ZnA2bkdIN292UkJkbUNYWnZ6VE1RV3NEa0RXYmhVT2c2UDZYNm1vd2FFUnBXWWxXR1UxNktDbw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-07T12:33:44.947Z"
+    },
+    {
+      "id": "a570aed50755d558",
+      "title": "Rezolve AI Targets $500M ARR as Agentic Commerce Platform Scales",
+      "source": "TradingView",
+      "date": "2026-10-06T23:02:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3FPZnUwUDBLM1F3YkdpTXFBeXhpTVpjNXZHRlVwTS1McDRtQlFKX0dzOG41am9ZZVR2ckVmazkyUy12SUZBOWc2YlduaVJER01ELWttTzFoU3g5UHZqWHg3VXB0RWQzMnl6emtMTHVfM3FjdklzYWl5SVFMM0hEaTdISFZkaUVsR081SEdpdUlzN3ZiN3gtQkNVQnlIUmlIVVpVZXJHOEtUajJ4cmY2QVNpTWRQRS1FSFBmYXpETlA0Zw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-07T12:33:41.536Z"
+    },
+    {
+      "id": "6d217637d39e9124",
+      "title": "AVEVA Day Nigeria 2026 Explores Digital Twins, Industrial Intelligence and Connected Ecosystems",
+      "source": "Tech Build Africa",
+      "date": "2026-10-06T19:09:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2ZWWTEzWGVFLVctQVcteG9wSm9wcE1ycEZwQl95OGctOU16Qm11YVhrdDktWnh6QVVCVWtybHJKMUVBYXVRVUFiYk1wZmh4VlNMeTZ1eW1NWkN2WlhSTTNTYUtiMlNhSDJOdEVzelBxMU00RXlVeUtQWXpZODBRNw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-07T12:33:20.413Z"
+    },
+    {
+      "id": "bf6cc7f14ac38112",
+      "title": "Dell Gives AI Agents a Map of Enterprise Data",
+      "source": "HPCwire",
+      "date": "2026-10-06T16:50:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWW11T0tuX3pPOWJnTnRqVUVSRzBlaGpRNEx6M0ppU2wyeEhZQ0FaajMzYjYxcHlheE52emJWdXAwRXFPOTNldi1FVEdLTUdyVkJqeW11UmZ2bE9rUjBLU2JoRWRsOGJCX1VJWkdoMFRPZDI5Tldob1pHbDFLSXkwZVRadFJzM1ZWdzdLRFhoWlpsdjd1ZmQxaw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-07T12:33:46.148Z"
+    },
+    {
+      "id": "116302e4fe77cdba",
+      "title": "Zetaris Launches Cloud-Based AI Data Harness, Giving AI Agents a Safe, Real-Time Path to Enterprise Data",
+      "source": "PR Newswire",
+      "date": "2026-10-06T15:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTmZBcG9tVk5oNnh5NFhpa0N2QlVkdnVobF8tVFNOazRTQ1ZHaEhfRm4wZEtBeFlSMEhVLXFPQmxWQWFGM1FfalJ6eWxjM2dXRXNlUjlJU2lheHlERTdvQ1h1OGFFSzBrQjNrS2dHSzdncFhkM0Vnbll1dUVndTlxT1BjZF9vVHdhUXV6Q1ZwS3J4MU5PQWhBU1dvZHRhazBnYTVxLWc2eUd5czRBMXJCYTN3bHBIOWZmaWFjcmluNXNqZVlhUXl6U0VZMTVFNzVSM0o2am53UTJwY1k5TnZCdThiYTlwY3YtXzNTaDBNRQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-07T12:33:46.148Z"
+    },
+    {
+      "id": "b46e137e5ffbb792",
+      "title": "Zetaris Launches Cloud AI Data Harness, Teams With SpaceXAI for Global Hackathon",
+      "source": "https://tech-insider.org/",
+      "date": "2026-10-06T15:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHJOdWFiZ1JySTJyNkhOeERYS1pjWm5Zd3ZSUDQ5N2hIQ1FqWS02U1otWWpsZmpEX1F3aHZvMmVqV2Rzc2lvTnVVX0prUEk2OFJhVnNjMXNvVHFRd1B5VGlKUTIzcG9VNU94eS1WRGVfMGxfdUJQbkJ0NUdZNHUtVktHTUs1UQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-07T12:33:46.148Z"
+    },
+    {
+      "id": "8d1cca08b427a60b",
+      "title": "Dell Supercharges Enterprise AI Push With New Agents, Accelerated Data Prep And Cloud Storage",
+      "source": "CRN",
+      "date": "2026-10-06T13:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWURQclJLWVJfMTNZRDhfZGJaaHMzMHp2bUQwamxWcmpSWnhOR0o3Qk8wQkUwZG1GNFBsMTZDcl9SQmE1Mk5HbXFGdWZVdXhRb0V3c0lZS3Z1VWhtOU15d3VKbWRWeEZjZktYM1Awd191QmJleThfNEh1Mk1JbFhQZmNXWWdQdGZzekxMQ2RUT0RfS1JlcWNlQUpzWTVsblMtbDc3VU45SmVyQmVPaUM4VkxIVVEwZHFhM2htUXZFWGxvN0U5SnR5UzZR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-07T12:33:46.148Z"
+    },
+    {
+      "id": "2fe20b053e0246c0",
+      "title": "Collaborative research using artificial intelligence to optimize assembly line production",
+      "source": "Auburn University Samuel Ginn College of Engineering",
+      "date": "2026-10-06T13:08:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc09JM3dYRHJ5Y2t3QkphalZuQWNocEtRZUpvWDZ5Z2gtZll0RFA2ZFF0Ti1wRVJjbnlESHhYVnBaRVE2dmR6YzJPd1NMMFBQd2FwZ2ctenZZYTROa3E5RkVsY3RHckg2RzZBLXVHMjMtSVc1N3hVNzRiWGY0TGFLU1BIWFV0R0ZydmNMN0FEUVdvaDFZSVI2TXRJNkxrNld3TVFqM1ZFNA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-07T12:33:47.329Z"
+    },
+    {
+      "id": "bf3f4b8a76c2020a",
+      "title": "Meta’s Muse Highlights a Growing Divide Over AI Agent Access",
+      "source": "The Fashion Law",
+      "date": "2026-10-06T13:04:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUFvcV9mTE5mRUs3MVR2MTN1dmFrcFpXRDEtM3JkNGZ5VTFCV1gtRks4ZTVFNTRjWUNsNDNmazBGRnk2SHZ1Skx2UkhJdDF4bS1GQkJLOWU0OHF5RXJxUlU1S011dGpHTUtONklvNlh4amdZWWpCUG95WFNGdFAwSmRVQ0Q3UGd0dEtqQTJ0RTUtYk0?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-07T12:33:41.536Z"
+    },
     {
       "id": "1bccb0041e7c0766",
       "title": "Retail Media’s Scale Obsession Is Solving the Wrong Problem",
@@ -276,6 +377,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-06T12:40:54.930Z"
+    },
+    {
+      "id": "0e0d6c7b5897176c",
+      "title": "Industrial AI in Manufacturing 2027: How Siemens, BMW, PepsiCo and Unilever Are Using AI, Digital Twins and Robotics",
+      "source": "InfotechLead",
+      "date": "2026-10-06T05:01:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTW9yS1puRTgxNlJadzE1Wm9YdkhIajNvYXIydTlraTFnbUdfTXJqTzlZWGlGWVM5WExyeFFyNzM4OGNSU2J4Z256ZFNIeVp1QmNrWThhQ2pMOHBqeTJPY29nRjNXSERfNU9seUMxOEpPVDVudW03YjBrbnZEcm5MenZZVklvb0RfSnd4SHdsSWJlX0xEZHZ1YXFld1cwcnA3X0RwVThSdHJpNFc1UkszNnhQNWo1cWU3SXFEVWxlb1VGTEFWX2czY1hRSFJUMlZFU0NMbHhUbHhFbTRTVTl5b0IweUt0djdvRmpSN2YyLTRfUEZPQi16OVFHQdIBgwJBVV95cUxOLW9NMFo3UlpPX1QzemRudHRmMFFxYmFjQUNaNnVweXhYRTlsOGNOZXFkcjE5RklkTjhFT212U3FkdmNHczRuZTlUaWJFQjJuM1B2bTZ5RGdSUUs2eXRNeVFfZGpab1hHWXFaR2U4VzJEb1JQVFdjRVZYekFMQmRxaUVyaVE5NkY2THFYdjFzcjI0djBVUWhIcDlDQkR5NTNtTkk3T1NoVUYySXNKVTJacVd5UGVNUTJKT09QTF9Qd3YzeDdHbi1NNDQ5NUlHTFR0NTdIdHBXOWlpQ2Z5QkdzZlRBbXBOZE5rRFJ2N0k1SWM5RlNIZ21DQ3pZZWZXOGMxU0dF?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-07T12:33:47.329Z"
     },
     {
       "id": "b7898834a52690da",
@@ -326,6 +437,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "1b176cdcd5c7d0ba",
+      "title": "Teradyne Makes Strategic Investment in Bright Machines to Advance AI Infrastructure Manufacturing",
+      "source": "GlobeNewswire",
+      "date": "2026-10-05T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbThaZ0VVN0dhSlZ0UHVjNS10NHlyS2FNSkNUZTZmVXNCRngwdUdiazd6OHhIemZ6bkx4ZTduZmFuV0VzN2k0akI4NHFqbEtLVW4waFdvNmhfcjRCaU9rX1ZHMXJsQlBpV2xSbVN5YzhzY2NTaEk4ZENFNEwzTU1YemVrSVhRMF85LXQ2Mzhoajh5aTNSUEt0RkVQU0t3eDlLT0RwcDh4RHFXX3pCcW42d0xHMld2NWE1Zkx1Rnk3V3kyeVZMZzR6QllJMWpRT3dnUThTVTRJb1NUQng3Vk9uczE3YXpPOG1OYmh0MWNXY1pKQktzLVQ4aUtoa0lwdw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-07T12:33:35.060Z"
     },
     {
       "id": "192777d61672fa59",
@@ -396,6 +517,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-06T12:40:53.721Z"
+    },
+    {
+      "id": "99a77ce9d669ccdd",
+      "title": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
+      "source": "The New York Times",
+      "date": "2026-10-03T12:00:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZG53TThGaFdFbkFQQ21CNm9HNVd4VlBnMWkxS2RUdDBVUVVqLTVHQV90VEYyVVo2U1pVeEh5b2laaV9JRkxkT050emZZcVFSM0FhSUdjcWJHcVhOX0xmSnFBczlnVlUwQ0c2b0hGR2N4TUVhX3YxUWxzWGxwY0labElR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-07T12:33:41.536Z"
     },
     {
       "id": "a216918873fddd57",
@@ -566,6 +697,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-03T11:01:33.589Z"
+    },
+    {
+      "id": "de1ada351e346fbb",
+      "title": "Synera Names Ben Hesseldieck Head of Engineering, Advances Agentic AI Vision for Global Product Manufacturing",
+      "source": "Business Wire",
+      "date": "2026-10-01T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU1hqak1WcXJVM0E5RHFWZ3pzQU1JSTMyRktCVHF4YUxleUZlZXJPcEYxM3FkTmF3aVFTcl9TYWtHc3lHM09YTEM4OHdwRW9iZWxBSFlQY1IwTXFjRjZBaVppbzI3ZVdxeDN3c2FuaVlaemdNdzREU0FPNjd2Mncta2txdy1JSXp1eUZZNE1Ib3pHTmFxQVFYdXlUVWhqLWJtZmlJbVNWa09kMFlHM0U5WVNjQUtsZ2NyN0MzdXJJZkY3S3Z2bmVtbm43eDl1V2xoel9nX0huM3A4aEFMdGQ1emZTWGlsMVVKRTRjU21zSkZySHR2dVZEVQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-07T12:33:40.379Z"
     },
     {
       "id": "58c69cdb8472f9c5",
@@ -6648,6 +6789,16 @@
       "firstSeen": "2026-09-23T10:41:07.472Z"
     },
     {
+      "id": "1044e1b13ff8a10a",
+      "title": "Ready, Set, AI: Agentic AI in Manufacturing: Turning Insights Into Coordinated Action",
+      "source": "CBIZ",
+      "date": "2026-08-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1pqSzQ4NFJhdnZEVTBtTXU2Q3l2TGs1Y2xRLXRNNWdSQ1dpNVR1alQzeDBvWG8xOFRvUEpKQUMzdko5b2M1NFFJNlFDb283WXBpNHRLMm1CRHZhQ1ViSWtaRk9hcTU5cEVoV2U3TUhSZDdSX1Fxd2ttV0NyV3hZNDZVZWxudXRQa0FGVGM3bHY2aVBSN0oxR3gyV2hSNDJCYThFeUpIbzV5dzZmNTRGNFlkUm5kcklZclE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-07T12:33:40.379Z"
+    },
+    {
       "id": "c746bba98b7357e9",
       "title": "Comment: agentic commerce is the next frontier of retail but many retailers are struggling to keep up",
       "source": "retailtechinnovationhub.com",
@@ -9238,6 +9389,16 @@
       "firstSeen": "2026-09-21T11:51:27.477Z"
     },
     {
+      "id": "fc7a9cc96b0f639a",
+      "title": "dunnhumby Launches Retail:Vision, a Blueprint for Connected, AI-Powered Retail Decision-Making in an Age of Disruption",
+      "source": "Lelezard",
+      "date": "2026-06-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWtwNzNmYlVfb2wzY1hCVDVuMDRoODJHX1ZBelR3VTdySndZVVFyRDl2b0JDYkJxbWF3eXBwZFcwRU02STM0X1dDb0tuZXcxXzdiYlpORzhLZHdYdTF3dHQ1b3QxNVJjVVRXam81dEhxSVNUUVNQSEJUWXVtaUpxSkp3WUlQa1V3WWFfb2R1WDRWLU84WGFPMU5CVUpWeHNxWnJacGs5YWg?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-07T12:33:26.544Z"
+    },
+    {
       "id": "cefe5b511fbc7f96",
       "title": "NIQ Product Intelligence Expands with New GDSN Capability",
       "source": "NIQ",
@@ -11248,6 +11409,16 @@
       "firstSeen": "2026-08-02T19:17:03.878Z"
     },
     {
+      "id": "3fe315dfc6643f85",
+      "title": "AI-Enhanced Supply Chain Management Systems Make Exception Handling Easier | Business Solutions | Products & Solutions | Panasonic Stories",
+      "source": "Panasonic Newsroom Global",
+      "date": "2026-03-27T06:16:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KQlF0NEJoeUZ3VVhYVDl1VXVDQ3hzcHlpZkI1UHU0VmlGendFNUtEeFJROXIwUnZ2OWZXWDhMRGhTVmZGZFE4VHZRUHpFbDJfeFJlN20zVG51Yjg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-07T12:33:29.762Z"
+    },
+    {
       "id": "34101991a53c0ee0",
       "title": "DPO Group partners with Amadeus to offer mobile money payments for international airline customers across Africa",
       "source": "Africa Business Communities",
@@ -11976,6 +12147,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-10-03T11:01:35.758Z"
+    },
+    {
+      "id": "489e56b1506fb32b",
+      "title": "Lamipak partners with Blue Yonder for supply chain integration",
+      "source": "Packaging Gateway",
+      "date": "2026-02-13T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcm1zNU9IZXlTRmVUclBDOEJhbEQ1SXplN1VhV1o1S1F0RzFvcmIxa1ZnOHZQUVFRX1FoR1NoT3R2ZmswTXF3eEZCelN0WW9OdTJiWUliejIwZ21qNFJyVUNoQXhHdzRNdmVEbG0ya18zNkVnSjdsbWxudmw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder partnership",
+      "firstSeen": "2026-10-07T12:33:28.617Z"
     },
     {
       "id": "9839cb383ff77d60",
