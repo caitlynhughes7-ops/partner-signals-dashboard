@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T12:33:47.331Z",
+  "lastUpdated": "2026-10-08T12:43:31.386Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1283,
+  "totalEntries": 1295,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -245,9 +245,92 @@
     "9aa74ecf51f2c6f4",
     "28eba5e52eb56bde",
     "afea6af4245f3a8a",
-    "1cfeba40bbf39e44"
+    "1cfeba40bbf39e44",
+    "443a1cd58463703c",
+    "4c1d482af15aeeeb",
+    "8a62e30d5e4dae8a"
   ],
   "entries": [
+    {
+      "id": "5b789a623e4aa416",
+      "title": "Blue Yonder: Why AI and Connected Planning Could Reshape Food and Beverage Supply Chains",
+      "source": "EME Outlook Magazine",
+      "date": "2026-10-08T09:30:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlnLXdnUUlCcm0td0x2Njh0ak9lRlQwTmxjQ3l1Q2U0Y1RxRTRuTm9tdzUxZTA4MDdYNTRoUW12c3I0bklVdk84Ti0zWllXQkpMTzVXTUVoTllJdXU4OVhBc2dGSG13V3hXb0J5VUVyeFJnU2JHS1ZjVTdRdk9VVTVfMlhic1lMX0thTDNoNnBHMjJyaV8yVDBqUFNrbl9WZUxMOTVEX2lqbjV1VzluZjBvNUVKMVk1bFRCaW9GR01sY2JxYmNQYWpORlhuSGNh?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-08T12:43:13.505Z"
+    },
+    {
+      "id": "71310f64cbc2cafe",
+      "title": "Brands Move Closer To The Moment Of Choice As AI & Retail Media Converge",
+      "source": "BW Marketing World",
+      "date": "2026-10-08T05:02:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm9OV0w5TjEwc0pLTy1fbnJQN0VOMmVzMWVCa1dzdmUwVTVhMlBxcHpiZmpTUHNJeW01OEVxVHpxWkRSQnNiR3BadURsdTNTai1JNGllRWdpMTR6UlJlWllMODJlUFZZbE9DT1J1NkFHY2N5T3hhZ3R2Nms4a3J4NTJZZVpwdl81ZXAzd3o0blV4RFlBSkMyVkVqR2dRMmdpSjlqT0o4RWd0b0hwNUVYYXAzZHRjQWpxOHc?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-08T12:43:28.866Z"
+    },
+    {
+      "id": "874eeff2922acaf3",
+      "title": "Road safety experts back campaign as data shows almost 1,000 pedestrian crash victims",
+      "source": "LincsOnline",
+      "date": "2026-10-08T04:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2Q0V3RkajFTVXhac0RvWTN4ZS1wUGtzNmliSFFiTW5fV1AtRmw0WWVZQ0FJc0NXb1BSeUZaT0tTVG1FNTFnTG13WHlVZXJuRWJOYUxIdXRISGlieUsxQWdFSUFqOGVfZ1B4bjJoemNLNmp5d2NtVThudmhTX0U5ay1oWmg5NktqTldEbm5pTGcwYzFaVkRBV3ViekQwNml0VGR2UFQ2bnMxeVVxT1hPX3RZcw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-08T12:43:18.902Z"
+    },
+    {
+      "id": "4435bd14213033a1",
+      "title": "How agentic commerce helps brands like Willy Chavarria optimize for BFCM",
+      "source": "Modern Retail",
+      "date": "2026-10-07T20:05:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjhKSXhvSm1yeXIwX3EyMVUtRFV2M25RVkZGYm4tUjUxZFhEZjBIWVhaSU45R0o5NnpGWlU0MmxMRGVsZFpCOVo4cl9JNXJnZkFmXzBpRmRocUYtWWpTNmtkS3AtV0x6X1lIQW1VVUwzblNVMldVaDZxMVNpbFIzR25JOUVBcE1pSlJGT21LeXhCUUVaRHd4MTlNV0tBV2JkTjJIMDY4eDlYaFluelVOTw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-08T12:43:25.459Z"
+    },
+    {
+      "id": "8d7c31ad90371fd4",
+      "title": "Tungsten Automation Unveils Invoice-to-Pay Platform",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-10-07T19:52:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejMyNmVjR00zaFprWTNqN1ZVc1JkRmh3WThEU1pZZnlKOVI2b0JPN3VBVEswTi1fR3FKNDdBaGhlVzQ4QTMxSHVVYnNqTkl0dTlKVjlZc05hV2RGSjRVb2J0RzFWSjk5OFBVWXIyWjJjbFljd2tlUzNxTXY4b19wdHl4WlQ5MTNMUWhMdFIyMG1GNnhtRFBSUVJSZHdIMEI5SDdLMHVpOWZRbmZmdXRnc0FuYVFyZ3dRamxTbEJzZ0h6NzBwY1dMVWZmRU1EXzRsRjVvdHl4Q1hibXdPN2pDd29ZOXJVS01leFNDQmNYa2lTZFBZ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-08T12:43:27.685Z"
+    },
+    {
+      "id": "54ad22f43e51a29c",
+      "title": "Zetaris Launches Cloud-Based AI Data Harness And Adds Steve Nouri As AI Strategy Advisor",
+      "source": "Pulse 2.0",
+      "date": "2026-10-07T19:50:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWxlblBicE9rZGpMWDJBZzlpYlh1TzRjT3pqVjVvSjRTRktEWGJoZHBOX0l1WDNTOXZYTXlVbUNLSlczczRMZTZWLWR0WGZ3YnIyV2NMQS1pWXFQSjZUZHFCa3UxdS0wMXA1MHNVb184M082cDhsU3pRSXY5RWh0MGM5cmxYVlpQUWx2MWdQQzZmV0x1VDBaVmZpdFhOQW1QRUVEdVZkN3VIU19z0gGyAUFVX3lxTE1lOG5wX2RidzdQeXRhcnFra1h1ZkdqNUE5VEpudC03V3BqWjVNdFB5cU9LMy1sbWZNWVhWaTZtNXBicm9rNXE2bUJybGpud01RcE5rbHRCUjBacDltZ2pJZXJlamNpRkI1ODhfMjBzMUpZbUk3QkI1emtSUFNReG1Fc1M4QkZmbzlxZ2lNenFRNVh4a1BUN1A1eWtVdW1wS0JhZXdtUkszMmpGSzR1TDhHQ1E?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-08T12:43:30.194Z"
+    },
+    {
+      "id": "99ea9b0e1710bb3d",
+      "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
+      "source": "Supply Chain Dive",
+      "date": "2026-10-07T14:22:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWm84SkR0eHMtTjJRU01sMWVYbzR2Z0I1d1Q2T09YMTZnN1lPaGw3M0RNWEZRWVFUU3ZSbDF1VG9MOHF5cDBfT09pQjVFS09DUUNNanZxU2dESGw2blBGMmZLMHptdS10WE56bXFhZXpHOWplZGN4dDBheEJqWlhRdVRyczZSMkhFSEpHaVE0cXI4dGw1SENraDhJaXktTmVGaDZfb3ZUdUg1X3JKVU41NnRyeGs1TDRGRHBV?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-08T12:43:27.685Z"
+    },
+    {
+      "id": "a894b4b4c600253f",
+      "title": "Making enterprise data AI ready? Precisely!",
+      "source": "Blocks & Files",
+      "date": "2026-10-07T13:24:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGdkSU9SdGJUS0NBMGpwRFhJV01neGNzbW5uVjYzcEFrbmJraVRvaEY2NDk0NEFyd0VVT1JIcjR5R3M1NjJfdU15NFg3RTgybnVkSUtLcXZmOW9zb3pkaTUzVV9JbVVWQmdwOC1GUTJwMkZJeXEtMVMzcE1zOHVLNWpYLVZtUVladGpFdXlHamxLeXByaTNGZHJ4NmNWUQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-08T12:43:30.194Z"
+    },
     {
       "id": "7c76e7c54ed23d62",
       "title": "LTM and Rubrik Launch BlueVerse AgenTraceIQ for Agentic AI Governance",
@@ -287,6 +370,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-10-07T12:33:20.413Z"
+    },
+    {
+      "id": "4cfe83ab1184c51f",
+      "title": "Boosting Agentic AI Throughput with Intel® Xeon® CPUs",
+      "source": "Intel",
+      "date": "2026-10-06T17:04:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkFYRVVmT2tGcHduYU4xVENOdDRBSFg5WEl5dFd3bk9IeTNmajRsdXM1VF9qQnFud1JVM3pzMDF1cVpZSGdhVGVCLWxWMklENTh0eTN6S1ZCdUs2dURCSlB3SURwT2FzdEtJRzZvUEcyaURhNXBpY2RJMXBZem5fTTFfX0tCVk1jbjFUMWJOc05xWl9tdThQY3Brbmc1bjZIWGtVVFM1djJlYzNMTXBmVzhETGtJNHhKVmY3LTRUWQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-08T12:43:24.311Z"
     },
     {
       "id": "bf6cc7f14ac38112",
@@ -337,6 +430,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-07T12:33:47.329Z"
+    },
+    {
+      "id": "601af966d780c1e4",
+      "title": "Collaborative research using artificial intelligence to optimize assembly line production",
+      "source": "Auburn University",
+      "date": "2026-10-06T13:08:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJQdWVqWWJIdkVhUjZNN29ncTJndVI5MUI5enEtYk5lUkJIZTAwcnhzWDJHWkw5UlhnaGEwU1lPMWRFbmJTVnFmTWJIeU1DakJ6bGdmNXBOc0gwSndIdFdjY1pjN2ZMek1uYXc4aGwtVHZfR3ZFWkpyUE5CQm40dVJla2kxSlJpbVh1OXNsTzgybXV5UVNxVmJnZWhxRUU3NERiUmliQ3dMZWhZU3c?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-08T12:43:31.384Z"
     },
     {
       "id": "bf3f4b8a76c2020a",
@@ -637,6 +740,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "b62486c54b5ac71e",
+      "title": "List of 17 Acquisitions by Snowflake (Oct 2026)",
+      "source": "Tracxn",
+      "date": "2026-10-02T04:59:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWJzcHM0QktFNkxSSXFDMWlwaXNHUDZpclJ2VUhrMFpoaW12T0dQZkp5Ymp0bFRJMUV6MVZVLVFPZ1lPYmlOZDk0OUtrNGx2VFFnLWRYZFlQeHZXU2ZacHpQTU1femhRbXpIMnEzcW9Fc0V4ZnIweG1pd0FfVWZ0NXh5VlY0RGxoZmdKTHE5RFZ1YXFSRVlkRnBoRDZaYjdqMG1xZ0U2R3c?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-10-08T12:43:01.830Z"
     },
     {
       "id": "9e8f6f0a01cbf1d7",
@@ -10887,6 +11000,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-09-24T11:01:16.652Z"
+    },
+    {
+      "id": "70b23fd1ee188383",
+      "title": "Personalization boosts retail media as trust gap remains",
+      "source": "Mass Market Retailers",
+      "date": "2026-04-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFR5MlFfdEc2TGQ4TTd0eGl6LU9oaXVMamlzUTZNSnZqZ3U4M0NYRE4tOElVZGtqVDlQYnRwSDJ5TnQ4cjFGMkh3TVV4OFNaMFVvSzA4YWo1OGVkSWNKSHAzSzBZMFlpZE9GLTV3aXAxN2lXMG03eEJZY3AtZ2lKN0lqaEd6ZWZfWF8zMTUzSjJqS1k?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-08T12:43:10.266Z"
     },
     {
       "id": "9498f0e00266f3aa",
