@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T12:43:31.386Z",
+  "lastUpdated": "2026-10-09T12:30:08.980Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1295,
+  "totalEntries": 1315,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -248,9 +248,160 @@
     "1cfeba40bbf39e44",
     "443a1cd58463703c",
     "4c1d482af15aeeeb",
-    "8a62e30d5e4dae8a"
+    "8a62e30d5e4dae8a",
+    "25706ef86d6e6bb3"
   ],
   "entries": [
+    {
+      "id": "0b3333de66c38c7c",
+      "title": "From “Able to Chat” to “Able to Transact”: How Can AI Truly Become Part of the Travel Industry?",
+      "source": "China Travel News",
+      "date": "2026-10-09T09:13:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3dG80OVBsQmZFUXY3UlQ2RUxaMTEtSmlxd25zeVlOdEptV2U1dEZLUHhENlM5eUVZQzRmN2hvQjI5dkhNVk1WZWtrV0FDcFRYM0Y0ZXRXb1FRS1E?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-09T12:29:54.094Z"
+    },
+    {
+      "id": "b05978c391b73b92",
+      "title": "Coca-Cola says context will define agentic shopping—and more tips for AI commerce",
+      "source": "Ad Age",
+      "date": "2026-10-09T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2xodlVXNF90UDJBWF9JZzZsem96OTl4TmIyQ2trQkdWbVBydmRGU0owOXRHXzFVMHBmRHRmclRfeDlRQ2U4VGFVcV9rMGVHMFhVNi1SNnNmZFAzYTM0bnMwbnpWbmc0REt0RmlUTVZ0VEM0clY2dmVFVlJEaEI0LUFYN1ZaVmxYTzBB?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-09T12:30:03.003Z"
+    },
+    {
+      "id": "a6383113184d7b32",
+      "title": "India's semiconductor push, agentic AI set to reshape telecom and connected devices",
+      "source": "ET CIO",
+      "date": "2026-10-09T06:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMy1wXzFsalpGYWxzMDBQaHNBS1M2UmEyMVN6SzNiRnVTWEdkSkFwb0VoRy03YlZXeUk5MWxfZlp4TEVVQTZidnZZZmV5Q083YXd0U3I3c3JocnpLbWpoMjQ5UE9aX3JUa0dwLUo4dHlZYWM5UEU1X1RPbVZNX3k5cVNqeU4wYXFQLTJoMHNjZU1VdG92WUQ3YXJTdTF5OEdJUnIyOFYzNGdNUnRQZHB6aEk3UXhVZTllOEdSZnVKeThsX09pNDh3Z0tJWkFubzRmb1doRnE2WG81WDhPdG9pdW5PS3hDbmtERlgxWkZqQkNWM052amZqV9IB-AFBVV95cUxQMy1wXzFsalpGYWxzMDBQaHNBS1M2UmEyMVN6SzNiRnVTWEdkSkFwb0VoRy03YlZXeUk5MWxfZlp4TEVVQTZidnZZZmV5Q083YXd0U3I3c3JocnpLbWpoMjQ5UE9aX3JUa0dwLUo4dHlZYWM5UEU1X1RPbVZNX3k5cVNqeU4wYXFQLTJoMHNjZU1VdG92WUQ3YXJTdTF5OEdJUnIyOFYzNGdNUnRQZHB6aEk3UXhVZTllOEdSZnVKeThsX09pNDh3Z0tJWkFubzRmb1doRnE2WG81WDhPdG9pdW5PS3hDbmtERlgxWkZqQkNWM052amZqVw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-09T12:30:01.752Z"
+    },
+    {
+      "id": "dd8164c0089d033f",
+      "title": "Sharmin Akhter played a bright little innings",
+      "source": "Cricinfo",
+      "date": "2026-10-09T05:34:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmc3RF9TYWM0SXEyblBZU19VLUpwWDM2T0RZTTUwOXZ0THRLemcyWnF3NEU3UHZqQXhtMnZGVm9JeWhwV29vVlk0cWJEY2FMQ2VGTnVRYTRBYS1VbE9ncnltOVFZX2JUc0xUY1JoR0tabWM4VDBpTUlncnJ5LTZvUS1ncl9DdTE3NU9sZQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-09T12:29:56.336Z"
+    },
+    {
+      "id": "784f11af284713e8",
+      "title": "TherapiAI Showcases Agentic AI Platform for Biopharma at BioJapan 2026",
+      "source": "The Manila Times",
+      "date": "2026-10-09T04:44:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSVJGZXBHUm9wM3c4WHo1MV90T1lERllaZjl5S0xwT1R5ZnE1RkZjMjJxRm95ZzhiWDh4cjVobXJUVzZBSVNXNlVsVjZ5SnVrU3h1c1F4ZjQ5X2VGcUtCY2oxWXRFMXdCZWUxY3VIVDJFRnBZajJKNUtyZWtIQVdvMUNKUG9raWtYQjRzRjBZTnRLSXJEX1RNNjY1ekdfRmpsZHZTT3FwSFFGa2FobUpPS3diakR3TGQzZlAtOEFYc0pYdy1pRHNoc21vSVAwV0JFTUxMcGRpWW80d0Z0?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-09T12:30:01.752Z"
+    },
+    {
+      "id": "cb90364e14c715ac",
+      "title": "GreenCore Solutions Corp. (GSC) Opens London, UK Sales Office for A2A-Grocery.co.uk Agentic Commerce Hub",
+      "source": "StreetInsider",
+      "date": "2026-10-09T03:41:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZmYybHBaNHY5OFJDLTlOV1NkM2VZbVBsTi1GWTQ5bkphRjZuWTVhOTA5c1VfdG1OMDQtb01IQzNoalhyU3FXNWZFTk03OUVGNVFkZm5kM3lEN2xpZV9mcjF1OTNrNGtNY04tWk5WcDZJSFZVWEZvQThONDhkY05vdGJmMWdiUWNxZ2NYa1JiVm1XeF9CZ2RxdmcxeWdCemlLbG42TDhsQVNrUkpDWXcweHZGc3JTRmF2SWxYRnRiNzFtS29VQmlXVkhYN1lWTTBhNlF1N0NRUFNNV1V1cTg0MVkyaG1EYVhEcFRUaUFZVklsYW1OOXJ5RQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-09T12:30:03.003Z"
+    },
+    {
+      "id": "dc98cc977b27c8e8",
+      "title": "IFS and AVEVA Position CADI as a Missing Link Between Asset Performance and Capital Planning",
+      "source": "ARC Advisory Group",
+      "date": "2026-10-09T01:11:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlJpWFNnNUxjV0NyTENsRTNhb29tUnNiUnlSZjQ2dzBDb1FqeFdXYW0zTGgxODBzLUltRG9RMWFMX2dzRTNiM2V3ZG9pZFFmV1hnTkdJZmUtamhVNGFhNVJFUmJDbzV2T056dW1mU1RnNmZKdDFwRjhIU3dVbFdKUS16VjNiWVZFTzNpOG5hUlZCLVk0ZWFuTGJaX0plNVNKc2U5WW5MU3lUVVU4WGJmTnNDUjZpVzdk?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-10-09T12:29:39.891Z"
+    },
+    {
+      "id": "14f50cb71dd367dc",
+      "title": "Holiday readiness for retail media networks: What you should know before Black Friday.",
+      "source": "Mirakl",
+      "date": "2026-10-08T20:55:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONW96ajgwMUV3cFdUb2gxc1BmMmRyTVlhQ3BQbkpBMHg3X2FTRHRkODdUT0FBTHBqMUxFNmk2T2RBUDBicW1rLVZ4cUdsbXR2YjFGWHVtYy1fc2x2UlRzTnFPdUtTcGM2T1ZseFdFR1ExVnRSMkVTRlRIODlTMTk5S0RfSzNqMlQ5dHBjUFd4ZGtIdU1sdW9OY1NHT2FWS3dtNnBwOWpiYjJHV3BxVXYwNWlMSGhjcldsazlKTXFJNTNMQ0FVc3c?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-09T12:30:06.517Z"
+    },
+    {
+      "id": "3a3db4a6791f7506",
+      "title": "Healthcare wants an autonomous supply chain but first, it has to connect one",
+      "source": "Health Data Management",
+      "date": "2026-10-08T19:04:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnFqcWoyYUJjZHQ1V0ota2Nfcjhac3hJck9BT3hBZXpBcUl2U09yNGhKNE02bU1fWWY3YURFZmZNaVBwLUVPWlNUNUh3WkpwYXBuN0pjNWpEUGpOYVR6SjRIY01veWdoOURTREZzS1BhNVEzeEJIYnNDZ09NM2JXMXI0MW5VVFA4ZzBwVVNiTnE1Q0R0dkxRNmV2U1dibml4ZlpGSWduOGlDemlQVUdaM1BvaGdjaHhXbEhjM1V3?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-09T12:30:05.221Z"
+    },
+    {
+      "id": "19becd3420c82b33",
+      "title": "How AI agents could reshape retail as stores move beyond sales",
+      "source": "ING Think",
+      "date": "2026-10-08T14:27:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZE0zUU5vRkh1M3hhVnpfcDB1c1RGS1hMeXFhMzJYRjJzMlFPbkJUalVJejcwdlRLNVFydnpNejNUc1JHYmhHN0FXTXBKRDBnRENsQk5WaW9jZzlzUVRjVEhEb2RVbFBaWGJmWTZlU1NlQ1dNZ3ZTQ1ZOa3FBTTh6SnJwVU9hYy1vOHpwUUdWV1BOUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-09T12:30:03.003Z"
+    },
+    {
+      "id": "ce29132f4d02ac01",
+      "title": "NielsenIQ Advances Acquisition of The U Group After Reaching 90% Shareholder Acceptance",
+      "source": "citybiz",
+      "date": "2026-10-08T13:52:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnVXeGc3UzAwX01sR2h0eXBtcWFYNzhfRTNOZWkyV2NPSC1aZ0VkUHgxNklwV3J1aUNfSWdBcEU1eWM0Zk9TUWxDOHZqem1EY2wzbTJlVWd2ejZISURTeWZjdHRGcjV1S1VYbHFPbkVJT1hiaUpiOVJENlUxN05kZW1HaEdxUWZLbi10eU12Q3h1YkhSRGFJbjc5Vk9ScmtsYm9ab3Z0N0h6M1kybnlPRi1KVVdfM1ljNTdaYUFBZmR4T28?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-09T12:30:00.532Z"
+    },
+    {
+      "id": "76fc267e0040bc42",
+      "title": "Rockwell finds 46% of industrial organizations faced cyber incidents as AI adoption, IT/OT convergence reshape resilience",
+      "source": "Industrial Cyber",
+      "date": "2026-10-08T13:21:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdllfeVpKR05TNEY5Ym5vcFAwUU14ZUZER2l6T1djbExkMG5HdGZZVUt3NUtzM09yZTY1cUNZRFV4NGVyeHFTY2xNazZBT1RDbnh1YnpDN0ZxNE9xRWNtLWFZZ2hYZng5emZGVGszVXR4SWxrTVJxaDBHTnJCTVZnM2tvWkJLcGVPeDI1eHJKbmxkY1M5THlPdGhYSkdfOUtBUzZhZWE3UEFCSXhPMWtQNUVHSmpSN1RmaGxBMFJnOTlXOHRMUVlDLXlSbHhVeU94M3NXMU1JRUhqWmJtREZ5QUJnQlN1NnhfVlBDMU5jSW1vNFlvSUF2TlZ3TkVNaW01Vmc?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-09T12:30:04.070Z"
+    },
+    {
+      "id": "f81dc5dec3fe868c",
+      "title": "NielsenIQ acquires The U Group to deepen receipt-based consumer intelligence",
+      "source": "Dealroom",
+      "date": "2026-10-08T11:31:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUE5icTdYSG9hV051VWtkQnpXdHFTQ3FWVW0wYlI0eThuellWbXJJa2c0TktEX0pYeEMydDY2NEVncmdGdmRjNjhyTmFpdjhVQlhQZnlvZmg4X0V5T21TQjZ3MFV2T3Y4eWlQekR1YTFCVzFMNGdzaUk2UkNNczRPU29oelR0bTZ0TDNuTXUyeFpkeFhySHlkQjZzSERTSDV5Tlp0eDFsOEp0WloxYzdJ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-09T12:30:00.532Z"
+    },
+    {
+      "id": "04943915002cd937",
+      "title": "Physical AI in the industrial metaverse: From connected digital twins to real-world validation",
+      "source": "Smart Industry",
+      "date": "2026-10-08T11:09:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVW5aSThLSDFNVGNnN2EwUlNmcmo4VWh4cFRlVm81cTJFSGxnZDBtdUozVFREX2d5N2k3OG5rYTlDc295NnVkUlJXY3VFTVZtNS1Oa2tGc0doVTZvUDQwMVhSWUJ2WEdRVzlwTlRGYUNkdkRaT1l3VTJkYV9sMHN6RWdfemp1UHZYS3JGSDRITEs5dTB0SkhweXZaeGhReGFXUWczb01NOW5pMEtZWVI4NlFNT1ZXY0txZ1B3WlNwN1VSclZSM2ZPRExtMkRCZ3E2RDR2OTR6QjhNUTNzeGdQVkpnZW9TUXczN19Oc2FyU195b09lU1FJVm9lcU44Y1NLVFpQX0NR?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-09T12:30:08.977Z"
+    },
+    {
+      "id": "7c473c0591a70c59",
+      "title": "BMW margin comeback: AI on the factory floor",
+      "source": "Automotive Manufacturing Solutions",
+      "date": "2026-10-08T11:02:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjZkem9IdGFRdEREaTRIX20tanJ4aGhsR2xLQjdfenp1dVluR2NBbk9MYW9udUcwdTFvSmd4VmtlNHExX1Npdy1maElGbE5iNWhDRWFRQ24teGxJSEh3RWIxNGQwWjl5eEVUUG0xNzU2bTFZR09VVlU5WEcteGxscUNydXRPWnJKRGo3Mm01aklPdUtSeEg0RGQxaEtEZmM4QzJXaFJmbm1EREdTQU9KWDVsX3ZsU0xaZ0c3UA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-09T12:30:01.753Z"
+    },
     {
       "id": "5b789a623e4aa416",
       "title": "Blue Yonder: Why AI and Connected Planning Could Reshape Food and Beverage Supply Chains",
@@ -260,6 +411,26 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-10-08T12:43:13.505Z"
+    },
+    {
+      "id": "e7b29ce4cad7596d",
+      "title": "Agencies adapt to a media landscape shaped by AI and creators",
+      "source": "Modern Retail",
+      "date": "2026-10-08T09:11:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUpsNnZVUmpjLU1tZHNIZU9qNm81bGk0bXU5UU1VX3hLMFI0Q3dhWnlUb2RONGs1b2t0RkJTcFVXM1ViM2ZzVXFJQjdJaWh6alNpR3hQN2NSbWZjMlRsdUJLZTQ4cmVGR3MwMWJiZDJ1cU9qR1FPM3Qxcl9MWjFoem1OUjlxem5iWE5CUXVtT0ZWb2E2RHhRZ0wwNnM1MVltbXpwZXZpWHVQYkxnbk4tWFRzZk85WFBNU2s1bzNiWUlCV3JZVlE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-09T12:30:06.517Z"
+    },
+    {
+      "id": "b02571a7f29acc67",
+      "title": "The evidence behind agentic AI in supply chains",
+      "source": "Logistics Middle East",
+      "date": "2026-10-08T08:08:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1lHVFc1MUlySXBNS1l2aHh2NVVndzU5bjBXanRpMXd2cDFxeW5tZjNjOUpza0NiX0tRZEhfUGxkSmtvMC1Db0I4UFVGcEtIZzJiU21tajl5ZFM1dFlJNzMtN0ZBSGV0Tl9HSXVmTGhvNE5iR3lhZlhQVWlMWFl1b18zLWRScWxkN2x3Qzl4YmJETV8zNldn?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-09T12:30:05.221Z"
     },
     {
       "id": "71310f64cbc2cafe",
@@ -530,6 +701,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-10-06T12:40:55.982Z"
+    },
+    {
+      "id": "cbecc930fe98d5eb",
+      "title": "Siemens and TD SYNNEX embark on global partnership to accelerate I ...",
+      "source": "Siemens press",
+      "date": "2026-10-05T13:06:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2t1OUstcS1XeFBfTmFkdjloTUZDclNWbHFMVmRIM20zaGFyd1pkVy1kZ0s4YmVQdUdfZW1LcjV6aDZDRWlCa09ONjY5MS1kRlM2Y1VrSlM1bWFVY0lJSF9kWloyNFFsZHNwdndoOU1yNThXcVAtV3ZLMENiQmNJRHlGSTVpUUJteDhvNHFiRHdCVFJJWlA4SVN2bE43cWh6Snlld2RyYWtXdGlNOGJfZUdQR1VUUEVzdXI4NWlZNXVSUElvQ18w?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-09T12:30:04.070Z"
     },
     {
       "id": "19c3f81203cba5b9",
@@ -1860,6 +2041,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-10-05T13:27:54.474Z"
+    },
+    {
+      "id": "6c44a9d8340f90f6",
+      "title": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds",
+      "source": "Finansavisen",
+      "date": "2026-09-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNR3BYQ0w1OHZ3dEpjcDNzVEpNQmhCbU10MWVPMzRJWHBObHkycmwyeUVIajhMbXZtbTA2M200VDJXQnFSbTVhVURxbndVWnotVnctY3NCVTF2aS14eUR6cHJGZlBrUGdBZWZIdXZmVTFqd0h5cXIzRjhBdEMwTFAxWlgyaUlJTG55akcwdnB1RnpmTWRhcWtDSWRNU2JGR3dTbk9GamdXaVVYcENySlE0b290NnpPVVd6THJMX0N2OERrREhzczFOanV5MHIxci1PaHgzSGU0ZTltTHJEUVB5RmFoSEpqb2JOdnd1X2hBdGp1U0d1NVRRNjVrTWljMHN6X2xaelA4Tk1LZ1dncmFFa1VYR2huN1dmT3ItU3BicU1VZC1SXzNrS0V0dE8wQ2M4OGVJaG5R?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-09T12:30:04.070Z"
     },
     {
       "id": "a32a4de695f2788b",
@@ -10820,6 +11011,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-09-04T10:28:39.107Z"
+    },
+    {
+      "id": "4c3ec2e2dc392dee",
+      "title": "NIQ Launches AI-Powered Platform to Help Brands Test Pricing Decisions Before They Go to Market",
+      "source": "Business Wire",
+      "date": "2026-05-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVZFRUEwZmF5SFBjR1FNdGgwZGE5VGpQaEQzRFh3ajhZckFCVGx0YVJwTDRUM2FlSk5xQ1VJY0hza0xOR3BGTC1LdDM1U0FhaEV1TFh6Nkt1Mzd5alFkNnM5UEt1UHFlb05Hbkd4S094eW1XenhyUTVuRUkwcVBEWE5JLXBkMVF6UjNBZXFNaTFhTkpFVEFwQ2hIRk1sV3BWclREMzhjM0dyb1JXWXdvV2xGRmhtWUwxcFJMbWZTZVNsZnhOVmdqODJUYlBSZDNDcnNaOFRxVFNJLWVORGJVOGZDQlF2Z2s?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-09T12:30:00.532Z"
     },
     {
       "id": "4f4138dab4899c77",
