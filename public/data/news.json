@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:30:08.980Z",
+  "lastUpdated": "2026-10-10T11:49:36.424Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1315,
+  "totalEntries": 1321,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -249,9 +249,20 @@
     "443a1cd58463703c",
     "4c1d482af15aeeeb",
     "8a62e30d5e4dae8a",
-    "25706ef86d6e6bb3"
+    "25706ef86d6e6bb3",
+    "646be8324502f65e"
   ],
   "entries": [
+    {
+      "id": "aad7494f6f9c1756",
+      "title": "How retail media can leverage AI to make marketing resonate with consumers?",
+      "source": "Ad Age",
+      "date": "2026-10-09T12:51:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXhOOFBTaVhjeFJMOXpRT0NzU0pXbjVRQXp4YjRjX1ZSWjlqcFVPN3FxOFZ0Q3RhYVhBLXRIVDR0RERWNGtQUThfVENhZTlhNnFzOHRSVXJoWndMQnhxMTJoaDJmUS1lYmxPTVN1S2hlcm5JaE5fWDZCWFU1aXl1TG9lTHFSYnV1M2V0MnRwc29LVGt1SmxZSElsYTVKSTJ3YWVYbmZGTTZHVXo2VGdfZm9scXAxdXpJZUV1RA?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-10T11:49:34.105Z"
+    },
     {
       "id": "0b3333de66c38c7c",
       "title": "From “Able to Chat” to “Able to Transact”: How Can AI Truly Become Part of the Travel Industry?",
@@ -273,6 +284,16 @@
       "firstSeen": "2026-10-09T12:30:03.003Z"
     },
     {
+      "id": "53f7c7c9f7c5a9e9",
+      "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+      "source": "MarkTechPost",
+      "date": "2026-10-09T06:47:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkZUbHJ0d0ZZRkFnZGtPVW9ldzEwN1FmV0JfWUlMNmR3R3ZZVl9aa2xJNWF0c0prN2RaQlJCVUFfaE9vUEhzdTFHTUdRajdmVVF6ejRLU1pXVmczdW5FVnd2czNacVRKb3pMbVNyMlJySFVUcWxyNEZ4S2RwQzFPa1BXWGNVQW15cnZMMGQ0c2YwWW8weDNWOHU2YnFTZ3FKLXBCN0NxOW43dmM5S290UTFJc0ZId9IBtgFBVV95cUxOVkZUbHJ0d0ZZRkFnZGtPVW9ldzEwN1FmV0JfWUlMNmR3R3ZZVl9aa2xJNWF0c0prN2RaQlJCVUFfaE9vUEhzdTFHTUdRajdmVVF6ejRLU1pXVmczdW5FVnd2czNacVRKb3pMbVNyMlJySFVUcWxyNEZ4S2RwQzFPa1BXWGNVQW15cnZMMGQ0c2YwWW8weDNWOHU2YnFTZ3FKLXBCN0NxOW43dmM5S290UTFJc0ZIdw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-10T11:49:35.258Z"
+    },
+    {
       "id": "a6383113184d7b32",
       "title": "India's semiconductor push, agentic AI set to reshape telecom and connected devices",
       "source": "ET CIO",
@@ -291,6 +312,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-10-09T12:29:56.336Z"
+    },
+    {
+      "id": "05673e4affc05d63",
+      "title": "From Pilot to Production: The Manufacturing Roadmap to Agentic AI",
+      "source": "Snowflake",
+      "date": "2026-10-09T05:20:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEZKcFZEZ0E1a01CWi02SG8xelZQNm5BUG42ck00RGRkYzZGMkNFRFZwNG1pTHdacnN5VHJTVHA1ZXRyM0NlTDVvMEIyY0czSkFtbmhEUFZySzV6YjB0QTNFZktlSHJVbjZXVkJYZk5TNmFPOWtjWW5pbzhwcWxxVEwtSnBhaUpMZmZSSzZYTzlXeHVYTGczbGZwMWtfTFY3NlFyS0VpaGdxRjdXZTlTQ3dkZDBMQjRGOEVYM2kzR2dvQmdrU2pWWk82ejhIZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-10T11:49:29.638Z"
     },
     {
       "id": "784f11af284713e8",
@@ -753,6 +784,16 @@
       "firstSeen": "2026-10-05T13:27:53.366Z"
     },
     {
+      "id": "c18b7c1ea595ea3a",
+      "title": "Schneider Electric to Acquire PTC for €20 Billion: What This Means for Industrial Software",
+      "source": "DirectIndustry e-Magazine",
+      "date": "2026-10-05T10:24:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEY4RjRnOXQ2TkI2a3FnZzQ1N200NHVPM1hNR29PRERhQWxrejE1Skp4MEkyZ1B3RElFZkNEaDB5QTY0bUhCLUV2ZEVXWnVUdk04a3BYNDB5MS1TcGRRd2N5LWRsMzNLY1NhcVZkd2xPQkEtRmpSdUx6TnIxLVQyNlp0U2JTcks2Tnl3a3luWURiMTVPcXFoR05WYTNGUzZ4Ukd3dHRvVWw3Z1JDM3pydlJVbjNOUUNaQVVGRmxwS3BseURjbmxkaXVzbWc0Zw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-10T11:49:10.008Z"
+    },
+    {
       "id": "1cc9d7fcf1c6315a",
       "title": "Exploring Supply Chain Automation and Growth at Infios",
       "source": "Supply Chain Digital",
@@ -1031,6 +1072,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-10-05T13:27:31.224Z"
+    },
+    {
+      "id": "da0b6b93cf00e6de",
+      "title": "Synera Names Ben Hesseldieck Head of Engineering, Advances Agentic AI Vision for Global Product Manufacturing",
+      "source": "Morningstar",
+      "date": "2026-10-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdVEzWEEtU2dnSG5tVXVzSEZoUHJYVTUwY2ZFdGkyZG1lazR3dkZyZElHRG1TR0pvdTZRSnVia2ZzUEczN3ZoV0FqT0FwQVBtWmhkc0VuRDA1eGExTjFPQm1fNzY0NGhIWVNwZlBCYUFiVjFCTnJJRnZHcXJPMWxPNU82NFNTcmZ2TS00aTlCVzAtQkUwN1V5M0FieVFwV1JYUlR2Q282UmhGTk82c1lZU0t2NzJRTXdfQTdqSDRmWFUzeXU4MS1zd3NBVnctcEx5bl9IR2p3VjQtakg0dUJDc2FDMEE3bjFiMTZGcFRrSlhxaEJ3TmNrS09DbjA0RVU?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-10T11:49:29.638Z"
     },
     {
       "id": "06834ea3ef332272",
@@ -11261,6 +11312,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-11T10:31:37.975Z"
+    },
+    {
+      "id": "c2b69d128c54b91a",
+      "title": "7 highlights from Google Cloud Next ‘26",
+      "source": "blog.google",
+      "date": "2026-04-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEVwc1BGR1NLSkoxMWdlSmI1Q0xIdXpCVy1HZTVVUDZJeGk3UDB0Q0lJcU1ESGNjWHI3eWhMd3VLdENvS3VxcTRCSW1PMFBOcWl1cUFaTnBycER3aXlfTEFFSzZmVFFHR1hvbXNsazJ0Q0JNcm4xeTd6ZkZiV19hTFBGUTdEcUlfZ2lreWVHMWFWVFVpOW4yemJaNXVTb29PVnN6TlR3?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-10T11:49:35.258Z"
     },
     {
       "id": "5d6525168ef3d405",
