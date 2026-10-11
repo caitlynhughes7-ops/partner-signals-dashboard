@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T11:49:36.424Z",
+  "lastUpdated": "2026-10-11T12:01:16.492Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1321,
+  "totalEntries": 1327,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -250,9 +250,21 @@
     "4c1d482af15aeeeb",
     "8a62e30d5e4dae8a",
     "25706ef86d6e6bb3",
-    "646be8324502f65e"
+    "646be8324502f65e",
+    "4c46f3dc8a282847",
+    "8cd365ba88e899ef"
   ],
   "entries": [
+    {
+      "id": "2f62bfb0083935bb",
+      "title": "Agentic AI Framework A-RAM Transforms Robotic Fabrication",
+      "source": "Parametric Architecture",
+      "date": "2026-10-11T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX25TM3REME1vNnZTYWRndTAyYkJXZ05HYlFzZjcxNWExNTBaTDUzOUpBT0I2VktXZHp4blVsN3VCcm5QVkVpTWVLbllhNnY4S0ZGR0Q4ZE8tdjRNVV9JTzNsM2RuSTZrSnlnRjNSUTZuaTBkMS1jZVBJSXp6cDRKOQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-11T12:01:09.438Z"
+    },
     {
       "id": "aad7494f6f9c1756",
       "title": "How retail media can leverage AI to make marketing resonate with consumers?",
@@ -302,6 +314,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-09T12:30:01.752Z"
+    },
+    {
+      "id": "7c6b1c5751ba2bd7",
+      "title": "TherapiAI Showcases Agentic AI Platform for Biopharma at BioJapan 2026",
+      "source": "Japan Wire by Kyodo News",
+      "date": "2026-10-09T05:50:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UjVqOXEyNU52UnY4dVoyc2JWaHBDd3g1WktXNVc3RjNMSGpTcEMxdTY2MlhHeE54UHBJdm5mejhsLU1RVXEzRFhpYm9MdWpPUGkxLXNyV3lLdw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-11T12:01:09.438Z"
     },
     {
       "id": "dd8164c0089d033f",
@@ -374,6 +396,16 @@
       "firstSeen": "2026-10-09T12:30:05.221Z"
     },
     {
+      "id": "52c166c2df2ccd06",
+      "title": "Healthcare wants an autonomous supply chain but first, it has to connect one",
+      "source": "Health Data Management",
+      "date": "2026-10-08T19:04:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWwtZEJBaUVLRUFDUDVFT2xpenkzTkZXZThFWk5EdkhWM2JCVi1Mam4zUU0xMlVyREUxaTJ6SEd3ay04Y1EwUnIyWUVncl9FWUJqOS04SVhqSjg5cHNZUEJySTc2bGtYMkFXdklKN0pNWVRwZWk2X3hoVEpvNzV0VUZsTzFHSHBocVpzN3VMRjFmRnQxQUlWYXVEbmpGTHN1SEJVRDBhZ0NGUEQwSUN3ZTdVRjlIdjRYdXlnTVVXY2x5Mm1tRXE1TzFwNA?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-11T12:01:12.836Z"
+    },
+    {
       "id": "19becd3420c82b33",
       "title": "How AI agents could reshape retail as stores move beyond sales",
       "source": "ING Think",
@@ -432,6 +464,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-09T12:30:01.753Z"
+    },
+    {
+      "id": "2dde6d728c3f3513",
+      "title": "Blue Yonder: Why AI and Connected Planning Could Reshape Food and Beverage Supply Chains",
+      "source": "Food & Beverage Outlook",
+      "date": "2026-10-08T09:33:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObUJ5WElRUjA5enctMHJfSENrZ01jYzVubkw4cjhWdlpBQnlkR0RscnlMNWg2Q2FSbF9la0c5TkRfNTVweVpqemRCODFLc2RXYVpnWDkzeEtyS0pEMlB1VWdoYmxCaGxYR3d5N0xYbjR4UG9fdERReFBGZ25iYy0tVGJKMjVteExhcjVFOFhzTlIxRnRSZ3JWVXY3TllWV3FDRUZJellzZVM5MUNxTDBoa1JKY09Zb085M1JOYTZDeTFwQTAybkdISElTZmU4V1M1UnFWOWltdFJQRTdTZ0g3NA?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-11T12:00:58.617Z"
     },
     {
       "id": "5b789a623e4aa416",
@@ -1912,6 +1954,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-23T10:40:54.581Z"
+    },
+    {
+      "id": "e8a2a4ae1b9c3799",
+      "title": "Connect the dots for agentic AI in the supply chain",
+      "source": "Fast Company",
+      "date": "2026-09-23T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalRGSWhOemNtN0NuYUYyRm9oV1I5V1pmdDZuQ25rYlhQcnFISWE5emhvS2dPRzZGaVhCWHJWbC15VHRLOXhMWVlHdE4tZGs2eFNoNXhHXzM1OTN6WGpDZk15QXB4U3VSQW0zbXJPYnhtVU85RkYtTnRia1hFZW1qS2U3eGh4QURwaTc0c2xYNVRDUQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-11T12:00:58.618Z"
     },
     {
       "id": "061e6472c3a155de",
@@ -10712,6 +10764,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-19T10:13:50.855Z"
+    },
+    {
+      "id": "65944739eb4c03bc",
+      "title": "AVEVA and Amazon Web Services Announce Multi-Year Strategic Collaboration to Accelerate Industrial Intelligence in the Cloud",
+      "source": "PR Newswire",
+      "date": "2026-05-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRWZLaElpOF9mTmdtOEdxWjNOSGJXemJYS2l3dXdEVkp2UG5wS0dUYnY5MGNPdHh0SkhLMVdWU0x5Z1VHM01hRWVJTUF5Z3lGZ0FOd1FqekpPcGM2LThXMHNDd1JmZlNaUzRmbVVKdGhVVGgzSkhveG5oODhXWG1qTGtLYndsU25SU2QxanZuQ0lZTDFQSi1OLTUydFpWaXZkT2g1bDlOQTVkWm92NVpPamJLa1pyWV9MM1EwMUZBOEpYTjJZVlpNOFVoUE5wOExSQVc2N1Z2cHZ1YVN3WW4tUUJaQXptcndFSnd2UjNHWTN4N2JuV2VqZl9lQTBtYlEwMG8wekR5eEhEUmdj?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-11T12:00:48.867Z"
     },
     {
       "id": "3f8971a6a1979fcb",
