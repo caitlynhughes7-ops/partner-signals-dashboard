@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T12:01:16.492Z",
+  "lastUpdated": "2026-10-12T14:17:33.455Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1327,
+  "totalEntries": 1350,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -256,6 +256,146 @@
   ],
   "entries": [
     {
+      "id": "af5c6db72f4ce241",
+      "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory",
+      "source": "01net",
+      "date": "2026-10-12T14:06:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTV1elFrcnVHWjhycmZBN1JkbWdBX1JubUJWOFZrMlIxTDRKenExMDFadWkyWllYYlFzeVlNQXo5amFJOUQxaXpUNTJHZTVBZGZxMjFuc1d5RVZTTVhaTGVFY252REVaTmJ1R3JVWHQwSjJiY0t5c08tWEx2ZmNlYWtGTlp5WkFNOTdQejI2MGVfMlpTLXd1Z3l3MkdpZGFmZ3gtX2pweWpUdW5fU3lLZzRSalpmNllIeXp5Z2pCQ244RXpwUi0wM1pnOFVGMXlDaUVMVFNQZw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "6b9d39f21543882a",
+      "title": "When agentic AI moves from the cloud to the factory floor",
+      "source": "Manufacturing Dive",
+      "date": "2026-10-12T13:42:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnlPd3ljVzJNalByemkwalF0UDJJSTZLZDByT09YLVFBd2FWOVFrSXFvTUxYX1JoNF9XOHJBbWlrR0JpaHNuXzBUYWVmblNrWno4cHV6YkdJOTU4dmVwekRGQ0ZpWGlRVENnQ0FwQWpiRUZkTVFSZjBhTkYtNHpKMUxPWmlLR2NmUDBOdmRmeVh4UExZTTZwdFREME5qVWM1bmVxY0JucUg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-12T14:17:25.991Z"
+    },
+    {
+      "id": "2568cb9b1fb8d9da",
+      "title": "LTTS and Nvidia Launch AI-Native Manufacturing Lab in Bengaluru",
+      "source": "Electronics For You BUSINESS",
+      "date": "2026-10-12T12:53:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzFEdldMYXlUZ2RDbWtEV1ZQczFuTlpiazRyRW4yQ0l5eDZtZzZmLXJqOHV1WnhsRzVJb1h5V1FheG9wQkkyemxMVmJzS01wUU1mNVBUVUtHdEhib0UxdG01WUNTRkFCSzhJOHQ4dEdCak4tVTNCNnQ4dlNDTmpMeUtjRmU4SDFRZGxpZjFObFdwMW9MbzJXRzBtVUZZaDduY0hMLTZvci1wejhkYXphY0Nn?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "b97a50dba321f7a0",
+      "title": "How retailers can stay 'findable' as search goes agentic",
+      "source": "Chain Store Age",
+      "date": "2026-10-12T12:30:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDlSUkc1T3ZRYXVlWERadWpQU01fckREVm1XUnBrNzh0T2lrS1k4bnJpU3BPSV9CbUpTOXRQdDlfeHlxTEJVYjB6OUFmTlA2VElMalV3akRQZHM3N2VHcGRIc2FYQzFrRDJQa0ZYbGJxdEhOQnRDUFlDX0NHbTN0NVhpcw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-12T14:17:27.206Z"
+    },
+    {
+      "id": "afd15776f096a2f2",
+      "title": "LTTS Opens AI-Native Engineering Intelligence Lab for Manufacturing in Bengaluru",
+      "source": "Machine Maker",
+      "date": "2026-10-12T12:24:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXBMSWNTMkN2c3N6VkNyTjZqMDRscUZicDZ1X1dkWktmVlJKaDBZcS1oN2lxbTBxdlF4WFVYTXR1am0xeXl3WEgycVFCNkFUdFV4OEtFQ3NobVhKVmhGZ0Qwb1Rac2N2UFF4b25GYk50QXo3VWk0UVhyUDRhZmxOc3pCNDRsaW5FcmVVaWVfT0d3OEtROGd5aTh4Ujh4VXZTUEMzS3R5VzhKUVliMXp5dU5zZG0?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "fd0b9cb23e38cd3f",
+      "title": "LTTS opens AI manufacturing lab in Bengaluru, plans U.S. upgrade by fiscal year-end",
+      "source": "DQ",
+      "date": "2026-10-12T12:08:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHhKLTc0emdnWHVzRU1IOHZ4enhCOU52Z3lRV0JnVUoyRWp1TFoyMUF5eFVjdXUwSFpIVndhTVpCOGhnVWtwWEt5YjRqQkRjS09qOTk0a2c2MGhUbXhyLWxMOTRhaGhFNFZUWEdtYVI2VE1ZaFU1ZEEwSGw5Mk1OcE5HUllSR2pmdzZ4MF95elRMeVNaVlBpTVBEc9IBmwFBVV95cUxNSHhKLTc0emdnWHVzRU1IOHZ4enhCOU52Z3lRV0JnVUoyRWp1TFoyMUF5eFVjdXUwSFpIVndhTVpCOGhnVWtwWEt5YjRqQkRjS09qOTk0a2c2MGhUbXhyLWxMOTRhaGhFNFZUWEdtYVI2VE1ZaFU1ZEEwSGw5Mk1OcE5HUllSR2pmdzZ4MF95elRMeVNaVlBpTVBEcw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "8cf89f249b0e4444",
+      "title": "AZ4C.AI Brings AI Agents, Data and Governance Together for Enterprises",
+      "source": "Democrat and Chronicle",
+      "date": "2026-10-12T12:02:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObW9lR3lRQlZRWU1JMXJFYnNMZ2poSTdQakhqc1ItSGFXMEs1b3J3VEEwTDdaRTkwOFBOUjdMWHdhN1pzX2VTXzRoWVVrYWplUWdHTmM4RHBNdFE5RWY3MUtuY3RzZk0zVTlMVzg5RkdlRFBDNFlPZURwcVZLaXhKelRWc2V4QTJDRzdNNG9GZzloRXZNclFUb19CSlhxcFJRQXA3QlpaUlNOamNYUEhEdkhtMngyQzl1Q3lRTDRlQVlFWXVQb2JFdEJMNFVSbGc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-12T14:17:32.194Z"
+    },
+    {
+      "id": "229cb7c8cce15409",
+      "title": "Kiri Masters: Should retail media get back to what it does best?",
+      "source": "The Drum",
+      "date": "2026-10-12T11:09:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmR5Zndlc0lEeFRHYXZHQllVTldsRTNaNEpRN2dZbzAzVVE1cVdxYk5jYllyb1gxd3BwNWxiSHBraktkVXJPWVlDLUhsNDJXR3V1dlBHVHZDcmp1cVlBX0I4VktQSktEbXlTQ3BTMVJPVW1BV2R4MXdLYTd5R3VlVnpJZk5hMHZJWmdxVUplMHhDZDNyR3VES0wtVm8?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-12T14:17:30.788Z"
+    },
+    {
+      "id": "74941aa587cd13f7",
+      "title": "How LTTS' New AI Lab Is Revolutionising Digital Manufacturing",
+      "source": "Rediff",
+      "date": "2026-10-12T11:05:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWQxR29FREl2NUZSYUVjWjVYb0hraElyNThzR3RGU3ZZVmxlRUktTlk0SmplWV9aeElodnJ0S3VpSi1YSDBnSDd5UTdJUTgyWHpSdTZuaHVRcXlQLUg4NHcyd2poeHlFTXdsc2VwS2U0NGh6MnpYVEpSbGNtQ3BwZUtIQWxpUVZmR1ZqbWR0RDVpUU02aGlWUWZyX2VRTmlsUF9JSmg0RndzZ9IBrAFBVV95cUxPNFhhRDBxamxzby1Zb2pGempkMkN3SHBoLU1BSUJ3SkpiUEJROWQxcFJCbkJBSnM2M2ZqV2dlemNQMFVMVDJHVkg2b2laQVM4VDlMeTBkdTFBZ3YtTXFmbFYtR2RHUkFYRFVYX1hSV0FycE9Eb2lGcVNrd0I1YkhxTTU3dkU0SkNfQk9WVXU0VmtsUEgtOFFrTTA4MDhmb2xaX3R3X0Z2aVUwSm9p?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "6504d902bb1d818e",
+      "title": "LTTS launches AI-Native Factory lab with NVIDIA technologies",
+      "source": "Manufacturing Today India",
+      "date": "2026-10-12T10:50:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1l5Y2FZeDc4akVqcmFSMHJjNFh4ZmJnQXBYdTVMSW1Vb2w5NWY2Ymc1eF9qMHBfaTE2VHh1M3BKYnpkdUljcG1QbkRCN3lQOGFlVW54OEY3S3V0ZHJscDl3TTg3NVowVHlOVWJ3ZUktWUptbmhoX0pEOFg3Z25EUTFOYm9XdXBjRzBnRmNXb2N6NzlvRG5EdW55eDVfNmc4Nmc?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "e98c4cdb0358e9fd",
+      "title": "L&T Technology Services opens AI-native manufacturing lab with NVIDIA technologies",
+      "source": "CNBC TV18",
+      "date": "2026-10-12T10:22:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWm5KdnRfX2VaSE4wSjBEbDk0VVRlcldKNkVDRUx0cDZfTjN0SnZuUUl0RVh3TmZMSmh4LWNDNnVReTZXNlZYT3ZwbjlONlNxb01uT0ZhWkFyX2lIamh4MjNmSFpCRHJrWFBjRUpESGlnd2IyNFJoeFRwLUpRcG1ycDlwQzZIVjY3bWlhT0p4c1pUaWpmNk1tcHp1bm9Kb0tLSlN3VW1GVE1qcnUtZkhBREgwRGY3MnlJdkQtdWZxR0c3OXVs0gHKAUFVX3lxTFBGOWJ6bldUMmNJMUltTlNtZnVXbFM2OVE5RmhJVHV1MENMWjVVRk9ONG5yT05LblFHekc1dlZnQ3ROcHdqMU1Gd0dTVDR1N29rRm1FeXM0dk5zT3JRamhJSFY5MFlUQmVRTVFBb3k5Vy1keXd0RFExTTNjNExxMnlGcS1FejdfR094SDlfeFI1MUgtSjA3aTM3VUpfejJFQTVyc3BLNnFqU21BYXNDb3luRFVDSDFTLTNVWjhTS0Q0Tklhdnd5LVFWQVE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "9f06958e0ec25d3c",
+      "title": "L&T Technology Services launches AI-native EI Lab for manufacturing in Bengaluru",
+      "source": "scanx.trade",
+      "date": "2026-10-12T09:56:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0NQOGRiRDFZZ1F5R2dELVhHWko1VVM1anpoTThGQmQtVW93cjBYNTlJVXFsSkl2el9tLTlxT0E5dVppdGdaZ0RVOVpoVl9RMUd1bEVkS0ZwTnI0WmhBRnowSXJOcHdHM09ZRlhnZ0hicldZNmVqLUU1UExxOUlwY243MEtEU1ZjLVVKZmE3dEVyc2RhUHNodDdqeEItQkVBcWlxZ1huMlU3cGZzdnpoZFdvdlJFVUJ2TFNRcg?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "b97dfea6f7c88747",
+      "title": "How China’s factories leap straight into agentic AI and take it global",
+      "source": "South China Morning Post",
+      "date": "2026-10-12T04:00:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTVORnRfdEdGVUp5akxmZW41VFJmNE5iSk9XMnVTSEM3YnFweVRDSHhJZkZfb3dpck1jMk1PVHZ1QUVGUEhNR0xONm93X01uS3czTm52LS1Jajl4Q0FWXzBiWXR4UkZrTm5SZE1ieWhrX2FwSjBKRkp6OEdTS1U5REw5SDlzLS1DUUwwUV9zVDNLU1YzbEJLR2lxaXpoYnNkaGQ5SzdnYWphVmFhM3BsY1B5YWVGTFBXVk9rZEtWNEFiQ3d3YVoxYUpWQdIBywFBVV95cUxNa2tfSU03UFVGZjZvSXVJakJmZ21rVW5xbWhIc1BxN09SWFExRUJRaFdkeWJEN0ZwZl9tTjNGUU9NU3M5ZTR4TGxiQ1B2eTdCRnRMNlhYM2tlYUhWWFJvazl2S2pYZF9hSmFuakRDTjdnNmtaS3dLdE03dXZoUnhNaWZfZnBTQVhna0JDdVNkcVhvM2EwUUw3NXhrSWU2Nl9qdDlCX3F5SXpLMHFxczZibkVoRHAyMmkzakprWThNTy13ZXhKa2tFMTVwUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-12T14:17:25.991Z"
+    },
+    {
+      "id": "6af6da3fd033bdc8",
+      "title": "Bright Data's Yohan Raju: The Real Bottleneck in Web Data Isn't Scraping — It's Maintenance",
+      "source": "BigGo Finance",
+      "date": "2026-10-11T13:08:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVa1FwT3h0V1M1UVFNSmVqNmU3SnJoSlhBVWFXSU9YSThROUwycE5nLU85a0ZnMHJVRUk2TEVKcWtxdVcwZWsyVnA1NlR3My1YUGV5cG9Jc2RhYnc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-12T14:17:21.667Z"
+    },
+    {
       "id": "2f62bfb0083935bb",
       "title": "Agentic AI Framework A-RAM Transforms Robotic Fabrication",
       "source": "Parametric Architecture",
@@ -264,6 +404,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-11T12:01:09.438Z"
+    },
+    {
+      "id": "db7ea0841d534752",
+      "title": "Building AI Agents with Real-Time Web Data — Yohan Raju, Bright Data｜AI Engineer",
+      "source": "finance.biggo.com",
+      "date": "2026-10-09T19:18:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVVFd0M1BVWm04UWFlWGRabmNhSmZjRlFYdjRqNGRJMFNJdmhtQ2lmSlN6MEVjT3ZUMFIydmlRM3dpQ2NqaW9TRmtrQzBjRlFlSHZvX25SUEQxQzM4NnFJ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-12T14:17:21.667Z"
     },
     {
       "id": "aad7494f6f9c1756",
@@ -356,6 +506,16 @@
       "firstSeen": "2026-10-09T12:30:01.752Z"
     },
     {
+      "id": "31c54b5d6d1d73f8",
+      "title": "TherapiAI Showcases Agentic AI Platform for Biopharma at BioJapan 2026",
+      "source": "GlobeNewswire",
+      "date": "2026-10-09T04:26:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQzNhdHRuTEVnT0xOSm5RQ2N4Nm9vTTA0ajhNNTBfVGlsX3VqZ1d0SEdlN211OFdvdVBsM3Rka2N1LTVMUmdZbVQxWHNtZWlfX1N0SHdwWDlzWHcyQW5YdGJUaFNqdEl0WFExQ3luX1NPWnZUZjFVR2oxcE02bFZYMVhTeVVRekN3eEJ6OW9GaktXOTVkQlItaURwNWFzNVpWd2tIWXZtZXZlRVhGbVFoWExrdGY5LW9pWXJ0QXYtZmwteWdZdG9uZXNZTGZ3TDRHZXhjYV9rSUdKZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-12T14:17:25.991Z"
+    },
+    {
       "id": "cb90364e14c715ac",
       "title": "GreenCore Solutions Corp. (GSC) Opens London, UK Sales Office for A2A-Grocery.co.uk Agentic Commerce Hub",
       "source": "StreetInsider",
@@ -434,6 +594,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-10-09T12:30:04.070Z"
+    },
+    {
+      "id": "d0769c28945b1915",
+      "title": "On Establishes Google Cloud as Enterprise AI Backbone, Beginning with Agent-Led Cloud Migration",
+      "source": "Google Cloud Press Corner",
+      "date": "2026-10-08T12:07:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0g2a09GOS1ELUs1ZzdZSkxOUkJsV0hWOVlQdUNBbVZNQnNWaXF5V2xnTnRfNy1objNGU3FldF8zSkhYRUFScGc3N0wxWVpZa2ZkYXFxTGZaakZ5YTFUUjAxZ0d5MHNjS3p0Tkhpc1FqcnY5X1UzbmJmdFZOTldBUW5NNk82RUN4UnhnQzVYNkM0dDY0dmNHZlhORGVSTS1LYXNoTGZTUmM3cGR0MW1JQ2hkLV93d09ZZHc4NTFfMVRtVHlTUTNKRUpKNVVuVy1IdGs0aGlHSVpERm05bEE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-12T14:17:32.194Z"
     },
     {
       "id": "f81dc5dec3fe868c",
@@ -656,6 +826,16 @@
       "firstSeen": "2026-10-07T12:33:46.148Z"
     },
     {
+      "id": "3ad2a80d5858606d",
+      "title": "NIQ and Maverik Announce Strategic Retail Collaboration",
+      "source": "NIQ",
+      "date": "2026-10-06T14:36:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEh4VXNaYWdPdFk0NFo0bXhIUDhmM0l1UElzbjJDN3RtQzdnajZySDRuX281NGpRRmFhOFJ2M0MwRkZWc3BfOHVPWFJVNGhiRkJfZXQyVl85YUIxMTRGZG1TMzlLSnNiX2V2X09rdkFnbUkyRHRQaUVJTGNlS0dlZ01RWUVQS3pkY254cDZUZTd6RUcyZFJqM01nbTdwLUZQX2ZrLWhQN1A?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-10-12T14:17:23.732Z"
+    },
+    {
       "id": "8d1cca08b427a60b",
       "title": "Dell Supercharges Enterprise AI Push With New Agents, Accelerated Data Prep And Cloud Storage",
       "source": "CRN",
@@ -696,6 +876,26 @@
       "firstSeen": "2026-10-07T12:33:41.536Z"
     },
     {
+      "id": "e6d22a6fc5a5b0e4",
+      "title": "Rezolve Ai Showcases Agentic Commerce Platform at Nasdaq Investor Day and Publishes U.S. AI Visibility Study",
+      "source": "Yahoo Finance UK",
+      "date": "2026-10-06T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3lsbVlZSXk2ZzZFZHdleTNMN1BrSEh3V25LcWg5ME9yY25MLW9jSC02dlUtTjZZUG1paHRENHhSdTFmcVhvWU9oRWpEeXVFMk4wOTZvUWgyY2RCTjZUNE5fUk13cjZucTA0OWpMSlpVaW9NSGswS2kySnpFSGM2X0RKd2MyXzNiVnp6WmZJcw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-12T14:17:27.207Z"
+    },
+    {
+      "id": "8f20647770558bc6",
+      "title": "SAP Puts the Autonomous Enterprise to Work",
+      "source": "SAP News Center",
+      "date": "2026-10-06T11:34:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFFSZnNBbko2V0ZkTHZ6YWhiTFZsYnV1bE9JR01Ta3JLQ0ctbFB3a0hDaWlxaFV5ZWN6cFIyTnlHN1JUMlhaaHphbHdYMGdCUU96NlQwa3piUUNJdksyWVhYTDdWUkhpUWNXNkx4SWVuYUFleTBnNkxfdG1GNFIyc1NVdGszMXc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-12T14:17:32.194Z"
+    },
+    {
       "id": "1bccb0041e7c0766",
       "title": "Retail Media’s Scale Obsession Is Solving the Wrong Problem",
       "source": "Demand Gen Report",
@@ -704,6 +904,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-10-06T12:40:58.518Z"
+    },
+    {
+      "id": "04939f5b2944c186",
+      "title": "NIQ and Maverik Announce Strategic Retail Collaboration",
+      "source": "Business Wire",
+      "date": "2026-10-06T10:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2tVUEhacEdjZnFsMnl0OTJPdXExbk5Rcm1OYmMtVzc2LUZxaU5JS1o3NGJSWml2bUZXRmFMSjZkS3VZd2s4U0tRdDV3dXB5cDZQaXk2cnk4OEZWVjdvTGJILUtoZkNmUlhwLXpxTjR2ZTFzaU9uVEdwSjFSOWowdW9WVWdoQzJoT01DX3EtOGtkZk45RTVNTC1OeERMN040XzNaUGxya2tUNlBaLTcyVmtB?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-12T14:17:24.776Z"
     },
     {
       "id": "2ad7037a56a20e74",
@@ -884,6 +1094,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-06T12:40:53.721Z"
+    },
+    {
+      "id": "c6de1776c33fce1f",
+      "title": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More",
+      "source": "Benzinga",
+      "date": "2026-10-04T11:30:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkNEYzBFNmFkalJJZnItVHU3T0d6bUlIQmJYcEE1dks3UkdVb1lGSmwzQlZzY1dnRktvbTBFVzkyTlVLTDMyRl8xaFhoaVozZXJueHFNdGlGTVFXMmlMTE1icFhGVVZMYXRPTEFaUnhSbTFKczZwR0tGRE5IZFN1b0ZSbVdUZXQzelktUy1Ka1BTbFEyVXJ0cUVfVDRrQ3pSbkUxMjJiX1JGd1hGTV9PZVRNLU9WWGtIWnFqelpYMWJqZ3h0UTl5RDRfTGlLRndBdmxEaGJ2TQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-10-12T14:17:19.344Z"
     },
     {
       "id": "99a77ce9d669ccdd",
@@ -3794,6 +4014,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-08T10:30:19.858Z"
+    },
+    {
+      "id": "7c87f1fcb6fba93a",
+      "title": "Why Yasmeen Ahmad Is Excited To Lead Workday Data Cloud’s Next Chapter",
+      "source": "Workday Blog",
+      "date": "2026-09-05T01:42:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TbDNmWjE0Z2l6SHNxdjJmNnBpRi1udThYUHJDQ3ctNVJ5SHNET0V1c3p0aUdHVUJyWUpIQ0xiZ2d6YnBZTWYwQTliTUV6emRuQ3A1RUtWRGhZemhxLXc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-12T14:17:32.194Z"
     },
     {
       "id": "b25a17ae1722498e",
