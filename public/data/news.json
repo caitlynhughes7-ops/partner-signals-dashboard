@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T13:27:03.553Z",
+  "lastUpdated": "2026-10-14T11:05:02.806Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1367,
+  "totalEntries": 1382,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -253,9 +253,121 @@
     "646be8324502f65e",
     "4c46f3dc8a282847",
     "8cd365ba88e899ef",
-    "b017672154afff82"
+    "b017672154afff82",
+    "e41042b8633961c6",
+    "1676f8788ebab404"
   ],
   "entries": [
+    {
+      "id": "49dd1d9ca3b66d82",
+      "title": "The Three Key Pillars for Agentic Commerce Are Now in Place",
+      "source": "Coresight Research",
+      "date": "2026-10-14T07:56:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEllWEtyMWdBeDNBMF9LNjUzSUhnT1V1TUFUMk1vbzljc1NWMlM3VGF6bDZiemFqYlNiamJUM1RJNk5LaFBzSXpYeU83X2loODBfUUwtQXZlYmI3N3hURGVkTHpqaEJfY1RBT2NWdnF4d0pRTXlzTTdtTV9lRzRJYnQ2Sm9NTXUxTkNEVDM5MVhzTHhxTlpYbE1ZeHFYS0hlSG9FLUpjRU5EdEM0cnEzU0NaeFQ3dzd2LVpaRVdXVUF4bVJJeUFWUU1PeTgyRzRuNlV0RDI5UnhGaWJULVpRNDJIVUlnT1lSVlY0NDI4blFpVmhDYjZCUld1WQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-14T11:04:56.825Z"
+    },
+    {
+      "id": "ab4224cc8e20585e",
+      "title": "Blue Yonder: How AI Is Transforming Supply Chains",
+      "source": "Sustainability Magazine",
+      "date": "2026-10-14T07:31:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTRYb2U4R2dRcFZMX1pyaTVIS2g5TTdFWlZ2NENITm9TMFViUFc3TWlfb3VpSjZKZ3J5Z1BkbmFSd2diZEZ2dU9rU3FIMC1vYUxCZmV5cnBTRlpjWXhoMTE1cWlWaS1rZmI2bkNWeER2UjJ5cTFJRDMzTnRnMWdJQXVRQ2g2elRsQ3JzaVh1Nlg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-14T11:04:44.355Z"
+    },
+    {
+      "id": "5d67737165aafeb4",
+      "title": "Thales expands Google Cloud tie-up to secure AI agents",
+      "source": "IT Brief UK",
+      "date": "2026-10-13T16:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakJaUGd0MFVVRHJwdkhpRHFpX2ppY0phYTlaVmUtcmNFa3hGQjdpSlNDUUpfWEVQQW8zUWtXRXFfcnhYbHJERTN3MC1UWHhabUxpd2FwVVpvWG5IYnUtX2pTNksxd3pkS01hLTZ6MHMtb0RDUm5CYlgxR2NUSWVCLUN6aGltUnZfd1E?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-14T11:05:01.525Z"
+    },
+    {
+      "id": "d1b2b214b47ed343",
+      "title": "DigitalOcean And Bright Data Unlock The Web For AI Agents",
+      "source": "marketscreener.com",
+      "date": "2026-10-13T15:38:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1pLUHd4a2hxdUNaUndSLUs1Z29iZEg2dEtQVlBVc3hZbWFqVTdWRmVlb2pDOThlcXVUTjcybEVqeVpzX2RfWjVMTkttbXFDSEpfc2JJQVNxaXBjNUFzSFVEVl9IZWduVUhkdUVzR1o0QzVLWEh6eHFoSWctQkdiNmVHS1pQbDF6cUhtTjdVdjJQWkFpcUIzOUhwckN5WE14a2g1d0J3V0RibzU2azJr?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-14T11:04:51.101Z"
+    },
+    {
+      "id": "01e242d7e9aaa047",
+      "title": "DigitalOcean, Bright Data Partner to Unlock Web for AI Agents",
+      "source": "marketscreener.com",
+      "date": "2026-10-13T15:23:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTURvc0g1ekNKTjdSLVBfeWZvSVFpNS1GVnhlTVotTmJtZFEyWU55UkhHNS03T3lrOGVyVXNrd0dON0E2TFFTUmNlTHI2ZG1MaDlURWwwbnJVQjRYbEJRTnZYQlVCWjJsZE5nZDRkdWl4MENzVE9mVkdQdmN0M3h2NEg1a1AxTWx4OHlubGd3R2Zpc05ib2NCNG4wT0d5U3Q1aUt6ZzhQcDk0RDZKc3pmSGtzaw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-14T11:04:49.928Z"
+    },
+    {
+      "id": "dfa3a1cd79ad27b8",
+      "title": "The next-gen AI stack: Unifying data and knowledge without borders",
+      "source": "VentureBeat",
+      "date": "2026-10-13T14:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVBaZ1d4SUw2UmR6VmtCQS1MMmo2aV90T0tzY21tNG1pRVZpU1laTnJ4MGZwUjUyRVNFVWN3Q2U3RWtyN1JKTmhrd215WDhhUVc3ZTFGaUJ5WGtVNmU2V0hTZjJnWXROSlFNWDNVLTdqX3dnMmZ6bk1Odmo2V01vbHhPakIxZENtZUxheDZ0aWllWlZnSExTVk93?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-14T11:05:01.525Z"
+    },
+    {
+      "id": "9cbcae4aa86acd0f",
+      "title": "DigitalOcean and Bright Data Unlock the Web for AI Agents",
+      "source": "AiThority",
+      "date": "2026-10-13T13:54:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjFqLU1KS1lsVHBIOHZWSUpBVV9Wa3NwNTdUZVNCWnc4NlItbGFTWlp5LTQ3bkdkamdDYTY5RjFnS2FJY0RXWGdZaWQxRmpTNUVSbG85QkNJQnNIUWVlMzNQOERxQ0ZmSWtRTWxQODNiWEhyZnVLc2pJeVM4UWZXRVNKSnAzOV85VjNJNURUX0I1MjNnM0doSVRUMjJ2S0VhcnF4OGt6NEFnZVAtWUZ3?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-14T11:04:51.101Z"
+    },
+    {
+      "id": "1bab29312b9f3c04",
+      "title": "First Shift: Capacity meets constraint across energy, factories and automation",
+      "source": "Supply Chain Management Review",
+      "date": "2026-10-13T13:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTVfYTdrTHdSNkdBQ0RSVlFkb2FkcEVfeE41VG1CZWZYeFVLck1vY0ItTkZWS1E3MVNGRTFWTUNtY0k3VnBJRUszc2RuYm52WGw0eTBnOFBTaFBuY3d3NjNJaUgybkdWVkRiM2g3ZTJYVWhGVTdBMFFfSHBhOFEzcDZlNThXbHBZcnZoVHk1Wk4wYTFaYkZqXw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-14T11:04:59.074Z"
+    },
+    {
+      "id": "fda0a40c1cd4dbeb",
+      "title": "DigitalOcean partners with Bright Data for web access tools",
+      "source": "Investing.com",
+      "date": "2026-10-13T13:30:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFh6LWFkLWdabFRpTDRSYkRlTjNSdDhXYXpqOVQ4MnIwRmxNbzJ3VmhvRHNCdGRaNUZ4NnprdTFkMkhUYWVmT1h5dkpBNkJ3XzAtbTA2NW1rcDVOdDlhenJRSjRlZHhuNVg2NDhrMngtdzYzS3E2MTE3MmZTX29LM3E3S21XSVk3M1ZqSWRCenhEV1hZVlRMTFdYWHNlRmpVVlp6QjJxQlpoNW5KXzB2UE5lVllMc1U?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-14T11:04:49.928Z"
+    },
+    {
+      "id": "75b4a5b9fbd13f76",
+      "title": "MTN Nigeria brings together more than 500 suppliers to explore AI and automation in supply chains",
+      "source": "Tech Review Africa",
+      "date": "2026-10-13T13:26:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0lkTkN2VmJvdUR1U0d3T1M1czQ4UFB3eWI0SThodm1Zd0hDVU9udGRhd21ZRUxNMWJ3X2pGX1RGN0tOSjJoSDR0dEVsV1E5ZkhlZm96RWRUM3djaXpOOWhqVGRrb1FST3YweGlKVE80d2JjVENzVUlTQXNTLVJCOWR0RXljcXIyODZmRERVRGRWc2hOOV81c3N6aFo3RGQ5UTNWZ2VvdkRNNmpldGc0dFZuM2lMQkpPbm90ZnpsS3A3aHV5aXlBRkRDMmhnQ3o2QXc?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-14T11:04:59.074Z"
+    },
+    {
+      "id": "a3da1545d84d0460",
+      "title": "How Lowe’s is building — and measuring — a full-funnel media network",
+      "source": "Marketing Dive",
+      "date": "2026-10-13T13:24:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUdGVHVOQ2FwNkhCNlJJa0dlUkptbWpmalNNNDkxcWpvc3ROU2NTQlMzS1hzYmVES19wSTJudjJqN3lPZ1BaWXhkMnNoMzBmb0hSdUNfZkotVWp5Vi0wUmg0MXhTcUdZWVVTNFR5N1F0UHRTYmlCMXhLeUo4VVZsVmt6VDUxcGthUkhPOFlobUpCcFFDd0tXOHcwa1RkYlNjZzF2VXoxZ2VtQQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-14T11:05:00.338Z"
+    },
     {
       "id": "41b22bae1b583de2",
       "title": "DigitalOcean partners with Bright Data for web access tools By Investing.com",
@@ -277,6 +389,16 @@
       "firstSeen": "2026-10-13T13:26:50.589Z"
     },
     {
+      "id": "4423727f15e75bcd",
+      "title": "Headless, Open, and Secure: Meet The New Workday Data Cloud",
+      "source": "Workday Blog",
+      "date": "2026-10-13T12:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9menEwbm5PZm9WbmoyOUtUb1lNaVVYX2x2SE5pc2NVZWhTbWtITGIzQkthRDJvQnBzakk0MEFCUkpjU3g5a3JNMkJYcXhCWEFmTzJldElvZ1RCeERTOG1iaHJEUHVlY0xMTGc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-14T11:05:01.525Z"
+    },
+    {
       "id": "98423247e42778e6",
       "title": "Dell PowerEdge XE9780LAP with Intel Xeon 6 supports up to 205 AI agents in PT agentic AI tests",
       "source": "AiThority",
@@ -285,6 +407,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-13T13:26:56.241Z"
+    },
+    {
+      "id": "0eabfbc5e029eeb1",
+      "title": "Dell Technologies Turns Enterprise Data Into Trusted Context for AI Agents",
+      "source": "SMEStreet",
+      "date": "2026-10-13T10:02:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORG54OVp1M2ZydmlLQktzemVFTzlnNG1yUlJ1QktzbHRuSmcyUzNwWWQ3ajJXWnkxcEFkQW1rU0dseHZuemk1UWtzYjNQSUliak90S0NYU2tSM1lwazdKNzhIVzNPaHExcDU0WGIwWUlTQ2NPcXl6c25ScHk1X281S3RacVFDbUN5dmNBVzhWYW5zTVBMTDFhS3FrQk9hRnBYVFg0anFKdFRoTExudm5oTkNHUEE4dw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-14T11:05:01.525Z"
     },
     {
       "id": "2fc6e2a712c96f27",
@@ -315,6 +447,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-13T13:26:56.241Z"
+    },
+    {
+      "id": "510ac918c201ee26",
+      "title": "Siemens Diagnoses 74% Enterprise AI Pilot Failure, Bridges Gap with Agentic AI",
+      "source": "BigGo Finance",
+      "date": "2026-10-13T08:36:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NOVBCY3VOQ2Q1TXA0dFpkSGhtLUNvSEhVWnRVMlBzTWNheDdZZU44M1VFWktLVDkzYVItN0NMUWRIQXVobXBLMmZvbGRwVDhuQzNRRDVPWTR4WWllWFR2TmpBYUsyNmJQU1FrSFNwQlhTcnFHYWc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-14T11:04:55.553Z"
     },
     {
       "id": "56d85901bf950016",
@@ -13525,6 +13667,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-02T19:17:18.851Z"
+    },
+    {
+      "id": "6b60ffdcf91c06ea",
+      "title": "What Is a Star Schema? A Complete Guide for Data Modeling",
+      "source": "Snowflake",
+      "date": "2025-12-18T19:25:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uaUR2U1pDaThPUnZMRVhDUW9OZTdZLWNyTjRzWmJvOGpnVEdPNGZwcDdmWnVNTGJ3VjBUNjFCV3NoS3VzUi1fRHU1MEsyQVlaTm9wY0pkUTR4T20zZEExcmR6Sms?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-10-14T11:04:48.674Z"
     },
     {
       "id": "1802ee2932319c52",
