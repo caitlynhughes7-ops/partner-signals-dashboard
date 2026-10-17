@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T10:35:30.477Z",
+  "lastUpdated": "2026-10-17T10:04:48.845Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1408,
+  "totalEntries": 1424,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -263,6 +263,106 @@
   ],
   "entries": [
     {
+      "id": "b9bedd60639aae85",
+      "title": "Pacific Arena selects Amadeus as partner. Amadeus IT Group stock last stood at EUR 54.06",
+      "source": "ad-hoc-news.de",
+      "date": "2026-10-17T08:12:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWJvc1RtcjY3cmlEdDRhY2x1M3ctMDlXRGZuQzdxeTFLbWZseENYTFRWZ3N6M292V0F1Q1U2Vzl1T3R6d0lDakMxVU5lVTFEcFNXWWNoNGhudndYclBlUnlHbE8yNGpxYTRPdVhDV1FqQ3RmeHFiTGxid3V3bm5PalFjMTA3Yy1nOWp2SC1EdU5laGVkdTFLd3B1MUxzTUJnTUpUajhhbkRMc29va2IzS3VnUnhmNmlTdmRVcjltRFZ0bUp0QlNvQ083OA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-10-17T10:04:32.917Z"
+    },
+    {
+      "id": "d6913a5bfd1c7469",
+      "title": "Lumen and Snowflake Plan Collaboration on Private Data Connectivity for AI",
+      "source": "HPCwire",
+      "date": "2026-10-16T20:30:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajNiQUhrUEhkQU1BYXh1T3lpWVNqd0MzYTZFWWZ2UHNQN3ptZmc2TTUyWUVEeG9Uczl4ZDNUbG9LNi04WVFDcTg0aUFHRTU3QkdYbmtHRnEyYVZoVnhQWkxMbUtaMHRqTzFaZFlFU1JNMnRvOGRsRWpobXZfRGU3U19GX1lkanozaFpzUUhHZ056M1J4TVpvUklhSFpjUzhyY1JpdUpBRGszbjlhdnRXZDh2N3lhOXU3MndQOTNiUktOUQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-17T10:04:47.647Z"
+    },
+    {
+      "id": "6ba7536cc1a5eb8b",
+      "title": "Beyond the Buzz: Deploying AI in Your Supply Chain",
+      "source": "Inbound Logistics",
+      "date": "2026-10-16T18:59:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVlkUHZZRVhHY3FvbE5UQXBWeFo0MkZsSW8weGFBTWpQMnQtUG1xMnAyeEMtZWdybVNfZzlZWkpObFJxZGh4R0VIUmNpNkhRM1ZZeVVBZGloODlVTThhV0RhV3FfR05HWGJnel9la1JXWW9ubUJUclJKREVrRWFPY3QyU0lOdmJUS3JYZzBob2FVTDBkaUU0?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-17T10:04:45.338Z"
+    },
+    {
+      "id": "d71cb3361ffcb591",
+      "title": "Taiwan Semiconductor Manufacturing Doubles Down on CapEx as Agentic AI Expands, Say Bullish Analysts",
+      "source": "Benzinga",
+      "date": "2026-10-16T18:29:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbnd6RnlSVzI3X3c1UHRYRWx2dXRmdFYwXzJUQm5YYmJjeS1FZzQ3anZ3UjNTa2RWSm5kaENWVmxWNmloTmRwc1hNN09nam5aTmhvbEEzV1VDTGRheC1tT2duTHJyVzhDempGbWlzYm1IMUxLeEZUaHpqR0FoTFV4T0VCQ2hHeW1KRjZfM29iYTN3NmRabm5nU196YnhyVnlzVFU1dUtFcTFwZGd4bEoyQVMtZ0l2U3hsNG9RbHFIbEJzUDRpVm45d0RnczlXcTI0UU0wNGJwUV9xTFVkalpDbUxLRGpUMEpMWHotRHg0b1BuZWtib2xfUTBpbFRVa1MtVGpfNA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-17T10:04:41.924Z"
+    },
+    {
+      "id": "6b280a863ecb3374",
+      "title": "From Factory Data to Trusted Action: Putting Agentic AI to Work in Manufacturing",
+      "source": "Harvard Business Review",
+      "date": "2026-10-16T17:22:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzhpcXBFeEVfTUZQYTJxOGFIWWRJOHdadU9NR2tybzJVaWRIcEdRT1BJeGlDSDQ2STZMZzlwRXZKYjA5NGhtY0N0YW42a0pfWUMteVNmUlRsVFJTQkxqUGwzaTZGSWJYZDduQjVhTmwteFFDS2NSN1lja0Z1UU04V2JJa0NnQTN1WkNXRnUyZXBNY3dERzFSenpxN0hUNDRsam5ZT0tkZGtwOFVuSjN3OUp4VQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-17T10:04:41.924Z"
+    },
+    {
+      "id": "6068563a2295e9d4",
+      "title": "TiDB Expands Cloud Platform to Support Enterprise and AI Applications on One Data Foundation",
+      "source": "HPCwire",
+      "date": "2026-10-16T17:10:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3N1Z2EzSlRnWDYwNktaeGJWSkptaWQxLWxudzViVDFEUnN6d0ZOcWZ1aXU0V2ZXVkhnRkhsQkgyekZacjJBUlJ5SE5IWmhFVEU1a0lsV0FWTGRjalBVZzdIUDZxUmdSdnVfaUhMYkI0b0lLQTNUcHZMYXpKVDh2RkM4blNrTVpOQy1DT3lhVnR1Vm9lSHdJWUg5aGZDT0F0bEdvbDh0aWQwNWNSUW9ySllTYllyYV9kR1A2bk4wYUI5MUVIVkNNMTM2ckNGZTlJZVZ2NWh3UkNHdw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-17T10:04:47.647Z"
+    },
+    {
+      "id": "5b7c8ecfcc0cecb8",
+      "title": "Workday Data Cloud Provides The Data, Context, and Governance Needed for Enterprise AI",
+      "source": "Workday Blog",
+      "date": "2026-10-16T17:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZUdNVFhxVUxwVjAtZ3BSWXFicVBHcVpQUklFMDdveFoxSEhVRzE4QUZSeE1mWlpnRF9LUnBwck5vLUktU0hJTkg5ZkNIdHRoVHMxRDRNbzNwdVRfakdSWFNqMnFDR2xaald5M0Ruc3JuYm1E?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-17T10:04:47.647Z"
+    },
+    {
+      "id": "31c0bcce395c6b07",
+      "title": "Gift Cards Emerge as a Gateway to Agentic Commerce",
+      "source": "FinancialContent",
+      "date": "2026-10-16T16:39:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHN4R1lXRzVyUTFiZ1lDYmNwRjZfYS05MnRiQ0UxUXZKUElmSjdYOUl0cThBQlRSQk9xMTVPUE90RnJRY2pmQjdvUHUxdXpzb19qc09URjZZcDBxSy1tVXdnX1ptT2xBcFVfWjI3cmxMc2dycmkwLXpOMGZxZnR4d2Nha2ozWkRHbURXYk1mMFhodW5pS0tJMGN5eGtsQjQ4ajNyUTI4SWhLZER6elhib0lRcXFQX0Qx?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-17T10:04:43.146Z"
+    },
+    {
+      "id": "87c409bdfdf198d9",
+      "title": "Augury Opens Bengaluru Engineering Hub to Advance Industrial Agentic AI",
+      "source": "Konsulteer",
+      "date": "2026-10-16T13:07:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0lpQlJrYU5uVVdsQ0s3WFJHWFc2LThSRDdBMy0tSGsta25RRHBWMWYwY0ZLTlMtNkI5Z1dYcWt4WjJzM3lmSkVkUGQyVFdWTjhoX1UtcDJJb3ZVUTZ0NzZqc1ZJcVU4TnB5emJBT09UbDR0X1JuZmNFSGt4aHJfcEFtZFltbl9HdmhqcTNHazRKTXczMWVpRXU5WEJZUEhpbExOV2FLRE11QQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-17T10:04:41.924Z"
+    },
+    {
+      "id": "d4009eea7f3964d8",
+      "title": "Tim Cook in Shanghai Dialogue with Bai Chong'en: In the AI Era, Questions Matter More Than Answers; Health Monitoring and Supply Chain Automation Accelerate",
+      "source": "BigGo Finance",
+      "date": "2026-10-16T10:55:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4weHJLZlFHN2ptbm9QVWcwR1hPYVdqRy1SNDdkekNoMFZ3cVFtWVg5QlY3aW55TWZUYVBzLTNJRUxUQzc2eWtNaHd4bTdOVm9FSlFZVUNKYy04S1l4QTFHRnVISE5CQnR4S0NHOTFkc2FQMmIxQkE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-17T10:04:45.338Z"
+    },
+    {
       "id": "280b352813b72b29",
       "title": "AI Agents Go Shopping: Agentic Commerce",
       "source": "Mirage News",
@@ -393,6 +493,16 @@
       "firstSeen": "2026-10-15T10:47:08.550Z"
     },
     {
+      "id": "79b34d8a03a07a4e",
+      "title": "Target's Agentic Commerce Push Opens New Digital Growth Avenues",
+      "source": "Yahoo Finance",
+      "date": "2026-10-14T14:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1lnNzNTcUpVQzg5aUdCYmh5UlhLcnIxWHVDRE5VZ25scGRaVWxGWTlkV3VwRDJhbVlPcTh3ZGRZZmZDY3JSRzhYbVRZZVIwYjlIYU5YZlpWUzJPeEtFRWRkSDd3OXBqbHdqYWJsSlk5S0t0TlJnb0pwR2kyWl95Yl9uZnUyd001UTZpMWp4QVVzTXpPc1RTU2VCMWFqVlls?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-17T10:04:43.146Z"
+    },
+    {
       "id": "761d0c907658b463",
       "title": "DigitalOcean and Bright Data Unlock the Web for AI Agents",
       "source": "HPCwire",
@@ -401,6 +511,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-10-15T10:47:07.402Z"
+    },
+    {
+      "id": "c01525b613d1d7e0",
+      "title": "AI agents are on a shopping spree: Total transactions on Base blockchain eclipse 138 million, Chainalysis finds",
+      "source": "Fortune",
+      "date": "2026-10-14T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VqYjVPM1Q4aDBfV1JCT2NrRjdHNmE1X1JMQ2FBMlFHbDFPdERCNUZFQV9xajNjTmJWQWdmLTZpNFNvUGZsRUdiLVNBQ2Mzel9Ub25yMS1iQnZuaUhjR19zeTZBcTZjZzZVYXVBaGJkRGt6OXIzTWtDb3A5NnFHM2hXYUNxeTIzbGNWUHJ3TmxzQ1JfRzFRT3EtejFaU3llZzVnS0ltdmQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-17T10:04:43.146Z"
     },
     {
       "id": "a016cb62fc3ef308",
@@ -423,6 +543,16 @@
       "firstSeen": "2026-10-15T10:47:15.304Z"
     },
     {
+      "id": "c51b21eab6cb50b9",
+      "title": "Meet The Start Up Promising To Automate Manufacturers’ Back Office",
+      "source": "Forbes",
+      "date": "2026-10-14T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTdTTlNSelB6c21Xa0lGUE5WYjBYSV9pc2FESjFKWjhYSHVDT2NGVlBlNC15M010SWUwRU5aTjd4MkNzQnBxZ3lHdm1BM3hWNXVUM1pxdF9UZVNoT3ZGdk1CYUlzRW9zMXZnUmIzWkVJZ1dDRG14NU12TEktSFFQZ1RMRzZaenlXVnlMTm02WG5SRWJqUVlCcEdJMXNyOWlwTUNaUFI4VEdtMEpBYWZyaXRjVm5sSktLcFZv?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-17T10:04:41.924Z"
+    },
+    {
       "id": "28f5fcdb9be9d4d8",
       "title": "Agentic AI Reshapes CPU Performance Assessment",
       "source": "IndexBox",
@@ -431,6 +561,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-15T10:47:14.003Z"
+    },
+    {
+      "id": "1f3958257023c665",
+      "title": "Agentic AI enables autonomous decision-making in manufacturing operations",
+      "source": "Global Sources",
+      "date": "2026-10-14T11:02:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUNwQkprcm1wZDdpbDBHVXkwejdwVnZKLTNpZ0JGVXFpNmJOZVd3WkFtcEU0LUlvbU9uRGVSN0gxc09fZUpfRW5FOEoxdHNibGZvejBveDVhVFltNHozTmpINml3dGhESVdibFpzQTlSTGNOMFJlVHdkWWtmemhUM25aUFlqVVNyaEFkV0J0c2g3SVBHcTdJeUJjSTVfY1piU21WQ2JmVm1Wc3dJT0NDLU5yNnZVdzh4SFhKMg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-17T10:04:41.924Z"
     },
     {
       "id": "1d5f39baca7d7ff0",
@@ -593,6 +733,16 @@
       "firstSeen": "2026-10-13T13:26:50.589Z"
     },
     {
+      "id": "6d0e791cbf6a0fcd",
+      "title": "DigitalOcean partners with Bright Data for web access tools By Investing.com",
+      "source": "Investing.com UK",
+      "date": "2026-10-13T13:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVhLa01zNzFfQ0twQko4TjRlTlp5YXdEVkFnb3pmMWRwUjN2bEIzM056cTEteXFzRGxHeWl4SDVvRmVSVndpdHVyMkFfREItVVY5Q1dHbjRmYTdfV3VmRjcxOWROQW80Mk9xZkpwaGwyVmdiU1BGME9sR3FxSEVNQWFsWUpDU3dzaWE2cGtPdFlRZURaVUpOTW01V3l1eVRhZTRNRkZBTHJUWHZrMXlTZnpMLXdTUWpnaUhhRw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-17T10:04:36.247Z"
+    },
+    {
       "id": "cc31021dff6d3c6b",
       "title": "AI agents can now search the live web, including sites automated systems struggle to reach",
       "source": "Stock Titan",
@@ -731,6 +881,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "3cf7d79e38cb7e1d",
+      "title": "The Hackett Group® Introduces AI World Class Supply Chain Benchmarks",
+      "source": "Business Wire",
+      "date": "2026-10-12T14:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0d3TnJxc2h2RUJmd05vUVo5eTdxYmJ2azF0a0xwV0gzbHA2a3ZhTnN4a2h6OVRNNHI0eTFPT1VkLWJmaFdfWWRmTnFVX2JOS2NxNGF0MlpzSnIwY20wOGZqbzlzTDI1am5hR1hmazBBOEV5Q0tKZjFVT252YjVaVm5ld05kTC1Ec1BNSlNZdWphLUI2WUNTQVFLQUdGdU54ajJoZ0E0WWJ0V3dsX3FKcmlTUVdlQTNBYVlFNFFtVURpdw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-17T10:04:45.338Z"
     },
     {
       "id": "6b9d39f21543882a",
