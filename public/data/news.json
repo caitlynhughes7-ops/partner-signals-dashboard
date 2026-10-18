@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T10:04:48.845Z",
+  "lastUpdated": "2026-10-18T10:18:15.795Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1424,
+  "totalEntries": 1430,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -259,7 +259,8 @@
     "b265975f86ab4b93",
     "75c16fc77672f46c",
     "f814c28af6f3538e",
-    "c37cdb119052f6ac"
+    "c37cdb119052f6ac",
+    "79090fff0d78eb46"
   ],
   "entries": [
     {
@@ -273,6 +274,16 @@
       "firstSeen": "2026-10-17T10:04:32.917Z"
     },
     {
+      "id": "c8ebc1d9dfda4eca",
+      "title": "XMPro Named as a Sample Vendor for Agentic AI category in the Gartner® Hype Cycle™ for AI in Manufacturing, 2026",
+      "source": "The National Law Review",
+      "date": "2026-10-17T05:17:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbW1LNTg4V09mYzBvY01lX0UzRWlFLTNWbGNwb1F0OEZzT0lOWXM2c2REWmMwSFB6TnRvd1Bsd2FWdjM4U0gyTDNPOGQtazE5Q0FneFY4YThDOEhGUVEtUWxlejJiSV83V1M0RWN0YndickxZTExVdHVCdEtId2x2X0cwRy1QTk9tQ2xrbkZHSk5CMm41THM5UFltUnR1czNXTUR4T2NDcTFkRFhHVi1F?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-18T10:18:08.785Z"
+    },
+    {
       "id": "d6913a5bfd1c7469",
       "title": "Lumen and Snowflake Plan Collaboration on Private Data Connectivity for AI",
       "source": "HPCwire",
@@ -281,6 +292,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-17T10:04:47.647Z"
+    },
+    {
+      "id": "897a5824a6165bc8",
+      "title": "What Is Agentic Ecommerce? A Plain Guide to the AI Shopping Era Already Unfolding",
+      "source": "Sacramento Bee",
+      "date": "2026-10-16T19:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBQmxSMEJFVWlaN0t4dzV5Smx0LUc1NWhFRXlVd29wQ01FVlE3VHpjbWJmOV9RSHNmb3hCdkJhQWZxX2lGRnpld3ROY2lCLXpMMTVPRWdfYWs2QjJfcm54LXJBdGYycVdYcWpKSmhNcmdmeWPSAXNBVV95cUxOeWREZ2l4dkJnQktKZUlDUDA2ZTFEOHBGT3FMell3M2FScW5pcDZHMllQTEd6RlBvdDB6X3hCOG8zVFNMelYxTUMzejBhMVhjSWxiNjhQTFNGb1Vwal95Ti1DU0RUTGJvZFY5V0ZKNlB5UGhj?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-18T10:18:09.967Z"
     },
     {
       "id": "6ba7536cc1a5eb8b",
@@ -371,6 +392,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-16T10:35:24.588Z"
+    },
+    {
+      "id": "548d3fd2b7414bb7",
+      "title": "Securing AI Agents from Discovery to Runtime: Check Point on Google Cloud’s Gemini Enterprise",
+      "source": "Check Point Blog",
+      "date": "2026-10-16T06:05:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTBFMHZrWjNYZGZxUGxCQ1BGd3VFaEU0SjlwRy04OUhKcV9FSUZEamxMdmdxTWFiNG1CcUo5elFhX2ZjM1prdzR3OVN3dHc0R20wMEJyRHJxVVdKWTFtTGdoS3VfcURBME4yWHBKV2cxemFrb0tGVVJXeGJ5TW1jQ2k1bDJYUWszdXFYSjNTUW93VEVUb2RYWmszOGd2NnRIWDQ2Nk5IQ19aM3RyMXBqLXhvZmw4ZUVSOENSbDN2S2xqd09kY3FzdnBZc0tTYm05ZHlWcFZR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-18T10:18:14.600Z"
     },
     {
       "id": "bd45cc8e00defccc",
@@ -511,6 +542,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-10-15T10:47:07.402Z"
+    },
+    {
+      "id": "8453b5b425a7728f",
+      "title": "Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations",
+      "source": "Honeywell",
+      "date": "2026-10-14T13:02:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTRyTTZZSXZWSGVQRjVmUEdzb05ta2RzZEhUSWdoU0JIUDVXNnV6Z2YwZ3lITGdUSUcwWTB1Z3l2bFJiX3EzaHp3WVlILXJfTzZkZHJmazE4cHZQTWhPY05HLVJnaFQteFBQempGOHB3Q21LMkR1d1FIM2VCem1JUTNRU09RTnZOalJGOXl3aU81WUJFSXhhQ2wxTFdlUTc3bkpFZWF4LWdMVmZwN2VNek44ODE0bW5KY0JLUDhZQTcteHVoOG1OaGY0eFd5VmhmWGo3YkF6Q0pXMllqVnBlcXJONW15S0JYRUFZaHh4bGhCQ3dOSF9TeGZ0aEF0amZQYlJQQ0RqWTFQa2NJLVlhalhHMDlhN3NwLWF5NVdOc2FtbkJiQ3QyamxpRDUzY3M?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-18T10:18:08.785Z"
     },
     {
       "id": "c01525b613d1d7e0",
@@ -831,6 +872,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-14T11:04:55.553Z"
+    },
+    {
+      "id": "0e0f57dee792384c",
+      "title": "AVEVA and Wood launch new industrial solution to accelerate digital transformation",
+      "source": "Global Mining Review",
+      "date": "2026-10-13T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeEhCVVhjMmgzcG16anRzQm1FRnpPWERneWo2cndEdEpKMlpaczk3YTlXUEhZeXF2NnhSdFhxV1AzdVU0V294X3VPT1dndzF3QUx6X0x4aDFiOGxCUVpxeEFESnE0aVRJSHg4X0JyZnVoTl84T2RmdE44TnVzV3dHMEdxbzk1RTJrOXlmYzhTUWNaZklzNkNjQXd5emU3WExoNUhhOWZqblh1b19EbG14TjFHQkZXMzJGYVROOVBfTGhjdURoaUo5azNqVDI1d1ZuYUE?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-10-18T10:17:47.498Z"
     },
     {
       "id": "56d85901bf950016",
@@ -1931,6 +1982,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-05T13:27:53.366Z"
+    },
+    {
+      "id": "51b3ca9d7e97ed95",
+      "title": "NielsenIQ Adds AI and Automation Capabilities to NIQ Spaceman",
+      "source": "Yahoo Finance",
+      "date": "2026-10-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU5DR1FiWUxwTk0wSHRtMlo1ZjYwcDU0RTZaZVBRUmRxd2Z3bUpfdTlIWENEOVJ3cW5rR2M5VnJEU0xrRTdTMVRpcDNMbVphQ1BXU3FOajlhd3BZVksySlVFMHJOVHREZUtCdGVUN0VheXptdmlDOVBqZDEyYmkyaUNUSTZSZDBNaTdWWHBLZWJuOTBGem9VdlBpYzEzYXFLRHdsa1pDVVY?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ Snowflake",
+      "firstSeen": "2026-10-18T10:18:04.813Z"
     },
     {
       "id": "b62486c54b5ac71e",
