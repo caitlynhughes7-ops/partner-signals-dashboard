@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:18:15.795Z",
+  "lastUpdated": "2026-10-19T11:58:32.985Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1430,
+  "totalEntries": 1442,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -260,9 +260,90 @@
     "75c16fc77672f46c",
     "f814c28af6f3538e",
     "c37cdb119052f6ac",
-    "79090fff0d78eb46"
+    "79090fff0d78eb46",
+    "bc6db4f6a92336a8"
   ],
   "entries": [
+    {
+      "id": "baae3f2e6b61bc1a",
+      "title": "IntraLogisteX brings warehouse automation, AI and supply chain innovation to Singapore",
+      "source": "Logistics Manager",
+      "date": "2026-10-19T11:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTBOaDVZTnpLeDBpV3JoLTFRYmcyNGV0RkgzMmNPQ2FoLUJNVlBVNktITGVYR0lNQmdmN1FBeTFtTWVBbW14MS1NSEo2c0dreUNWUVV5NWtCNkt2ZFQ1VnFzcy0yM0M0UExNSGRFMTRLQzRORTVGNmlESktJQkJLUk1OSVlIYVVqbW82SHZ5UDZyZnBEV1htRFp1UUdQSW5xZHJvMXU4RmRsTFA5UEwyOWRyemdTZ2NBbXJr?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-19T11:58:29.300Z"
+    },
+    {
+      "id": "cd804a78adc35387",
+      "title": "Skyfire and Forter Enrich Trusted Agentic Commerce Decisions at Checkout",
+      "source": "Business Wire",
+      "date": "2026-10-19T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXpQNHQxbk1CY2VydVB1YWctYm16SXpPbWFrU2pqSU9zME5tc3c5LTJxaUFJSkthWlFyU19XdVlvMmdPYWxYUVhoZENuNEJ0eEY3Y2luVWhaT1lBdXFQZDNVbHE1OXdhc1hjZVFiNFBySklUNElZRlBqUEUtTVJmZWY2SThCTlM5TUx3NmZUckxtUjlHSkxrRmFnTWpUclNGaWh1VjByTlg3eDdoazVXMVlvajFEZ0VTbGhNRGYybHNzSlNSd051Ug?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-19T11:58:26.950Z"
+    },
+    {
+      "id": "9b8c622875d3a225",
+      "title": "Reply Earns “NVIDIA Physical AI Specialization” for Production-Ready Robotics and Digital Twins",
+      "source": "巴士的報",
+      "date": "2026-10-19T08:02:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDBBX2JFdHRWMUhRZnJiZDlpNEtMbzQwNzBwZFoyYmdVMWloZm9kbVU2MFZ6TEZvVUtwM1ozMHlYU0czdVNfQWZBSHB2NlNBdGpmWkE1YlhtOFN3dk01TFNnWlN3S3dSWGIyWmZqZ1BuT045R0Fzdzh3Nld3a1VISlgxV2dXZUp3Q3BVMFVnZ3FXb0NrRU5QLUMwQXUwclFUVkN6dV9UX01aRWdlbTRrMUNXTzNzczNxRU1lNEV3QUN6OFYzSElRSWloVXRGeVZZRlM4N0czNEQ0WFFZekE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-19T11:58:32.982Z"
+    },
+    {
+      "id": "6d8bb96bf1d0a2ee",
+      "title": "What Does Lightspeed Commerce (TSX:LSPD) New Agentic AI Mean For Retailers?",
+      "source": "Simply Wall Street",
+      "date": "2026-10-19T05:09:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWdaampQSFZ5c0hpbnc2U18tQi1CNlNodjI1Qk5hNjlESHZ2V3U3T2FENk5YdkZTajl1Y3hBeGRsTVBfdkFmaTlGRmJzS1g4NXBMVHU1dHhNOU1DS0RIbVlKaGhRazRDVWNlQkJ5Y1ZKZnVCR2s5ZmpkQmQ0b0xOaEM0Q1hLWUs4QVdvWmNTQlJ6ZTRjMlJtUWVNcEQ5bGstZlZKVEJlMjZneHd2enBGbGJWV2swUkZKMFgzRjRSU2FmbVZRbDA4VlpjOTBXWnRhbjBTcVZ5Qk02Z9IB3wFBVV95cUxNTDE3OEZRM1Z0amNSWV9SWXdhdGp2Nlp5anJLVUlnaF80c1VJVjl1dWR2ZUYwZHBaTC1jWkJFNWEyU0RIcDExVXhibVpKVWtucV9SOEw5aHVzVktrSkxSN3pLdE1fRnFjUDNNUmhfY0JnaGg1SnpteWh3bjdvWUU5bEc1aWF4a1Z1cDRFUnRYWk1peFJYejQ1ajN2MXlwQU1pY2Y2TUU1cWFXLWdIUS1OaEtJSjRqcDVhb0xaSWRIS0ZpeTZ0S0kzOFRITGc0ZE0xb0tMU1RrZEVDcW1iOFdr?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-19T11:58:26.950Z"
+    },
+    {
+      "id": "228bafd1bfef7e65",
+      "title": "Pixel Inspiration dunnhumby deliver Sony BRAVIA powered retail media roll-out for Booker Wholesale",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-10-19T04:39:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLVBoRC1NVTVnQlNPR2xadkd0ZGlFVlRIckZYX3JMUG8wQTByZTRBTkQzNDJ1ZloyS3BkUmRUSmN0Rzg0OGY3STNOTE1IcW9OSU1FbmFMMGZjcERlcHBKTjdOMEEzUTVaMng0RjVoSjJiYi1FSHZPYWxOeGE3RWhFQ201a2hPd0IyQmI3RVItOXh2eDZXd1FKbDN5V21vaHZERkF5c29ZMGF2MlozWEo3ZlMwY1I5cTk0U1Q3bktTMUxVeFZmQ2dDeVEwTDNjR1l0eVFxSTBFeFZXYVg0M2JpazlBYUVDZTdkTGc?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-19T11:58:11.515Z"
+    },
+    {
+      "id": "018af22e703884b1",
+      "title": "How Warehouse Leaders Can Make the Most of Automation and AI",
+      "source": "Supply Chain Brain",
+      "date": "2026-10-19T04:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjFXMEtTY3J0SDUyZDl3THZPbXh6a2pha0lzLVNyOG4waFMteUdSdDU4TVkxcFpYS2dEbmdaQVdoc21GeEY2TGotU21QYWFkNDFlNjZsd19Ia1NVWFgzQ1JUMTZLc1FWMUZYM19lV0k4Qm82ZXRYWWw4T0dtVmhsTm1JVlBFZk5ac2NBaXJnQXAwN2Q5RUNSMUp6VlZuY3ktbF9hbG4zM3I0b3QtQmh5VjlXVURmTHByT0Z3cmM3N24?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-19T11:58:29.300Z"
+    },
+    {
+      "id": "69cacb6038eecfea",
+      "title": "How Investors May Respond To Amadeus (BME:AMS) AI Risk Valuation Debate",
+      "source": "Simply Wall Street",
+      "date": "2026-10-18T16:16:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaDY0X1NWUXdkLWgzcG96NXVCbkJPTFJWZnMyTW9CZ1p5MXdYS0U1U01SZ2tvQXd1aEhCc1JvM3JDZFpnb000bUdSQTBINl9xTGNUYUpSa2VZX0xTbDZDYzhhT2dFS3M0bktWdjdCMDZ4Ni16aUhMazlVcmxWQUNFdGV1eDhGS3hYUDJtdzZCVjU1aUJVSWJkVGh1ZWNJN3RKQjUxSW1mRzdSVXRrQmpRa2lVWFhjMUdZNVd4TndtSjlTVkVidHlFTGF5TG5lQUwyMVVqTDFWNGRMV3gxZUE3SkFYbXl1d9IB5gFBVV95cUxNaDY0X1NWUXdkLWgzcG96NXVCbkJPTFJWZnMyTW9CZ1p5MXdYS0U1U01SZ2tvQXd1aEhCc1JvM3JDZFpnb000bUdSQTBINl9xTGNUYUpSa2VZX0xTbDZDYzhhT2dFS3M0bktWdjdCMDZ4Ni16aUhMazlVcmxWQUNFdGV1eDhGS3hYUDJtdzZCVjU1aUJVSWJkVGh1ZWNJN3RKQjUxSW1mRzdSVXRrQmpRa2lVWFhjMUdZNVd4TndtSjlTVkVidHlFTGF5TG5lQUwyMVVqTDFWNGRMV3gxZUE3SkFYbXl1dw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-10-19T11:58:15.755Z"
+    },
+    {
+      "id": "4dd31114384bd45a",
+      "title": "Transforming Technical Assistance through Process Intelligence and Agentic AI",
+      "source": "Tata Consultancy Services",
+      "date": "2026-10-17T21:15:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcG5mQlFYSm9WUmljTjZBbFdOYV96dG5IR3czUUJCcTdobHVER0V6VXZFOVZ3RzRBUGRLVklRMUhBVHRQVVNxbW9sU19RTmJ5RU5aaFZTZmJNUkxMdzFXOEU0VWxOS3dSU3JJNlBmVEJnQlRJb0t0aXdpOWZJakNwTEIzcDB2blE0WG55aHFFV2p3Zzl1ai1adlVyRjlVTWNDeGZSU0V2WU5EWjdNcDhPZ0ZNNEtQWXRLT29YWjV1Z2U4N3IwOTE4?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-19T11:58:25.754Z"
+    },
     {
       "id": "b9bedd60639aae85",
       "title": "Pacific Arena selects Amadeus as partner. Amadeus IT Group stock last stood at EUR 54.06",
@@ -282,6 +363,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-18T10:18:08.785Z"
+    },
+    {
+      "id": "a58b7f0c51fead39",
+      "title": "Agentic AI gap persists between executives, workers",
+      "source": "CIO Dive",
+      "date": "2026-10-16T20:39:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXMWlRUzk1TFZqSkN6VkJZanJkUjkyU2hrLVJBXzFObkdBb2VzckZaXzJGanZ0MEx1aEROZ3ppYzBfd2xpbzlSMXQ2M2tfcTk4ZkFTZktZTTBOcmt5eldSclJOanZ5b2JKY0wwc1FGc1lNR0J0VkE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-19T11:58:31.772Z"
     },
     {
       "id": "d6913a5bfd1c7469",
@@ -392,6 +483,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-16T10:35:24.588Z"
+    },
+    {
+      "id": "d8444dd16e7d3f1f",
+      "title": "Everpure Unveils Data-Primacy Architecture for the AI Era",
+      "source": "HPCwire",
+      "date": "2026-10-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDh3MG9sa3BramhIakVBcGREVlN6VU90Tk96Rkd3djFzRjQ0RHNJQU9ET1BfMXFQOWVXSXZOUVVRS1RZVnk2MVlYYm1IQlhjSlhpM0VNb1FrQXkzcmxjZVZRdVdDLUwwVHJJNmtEVzVXYjVkZGo3Q1J3ckZWdW1vWjNlNWc3djNGVGJCeHlDOFg0Q0Q5NUdQTzRWUTVBamVzcWdyVXRPZ0oyXzg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-19T11:58:31.772Z"
     },
     {
       "id": "548d3fd2b7414bb7",
@@ -1504,6 +1605,16 @@
       "firstSeen": "2026-10-15T10:47:12.784Z"
     },
     {
+      "id": "93e37900089d925b",
+      "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
+      "source": "Yahoo Finance",
+      "date": "2026-10-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFViYWg2OHN5SmYtOWlVZl9oWVM3RTNzN0htNnhOYW0wT1c3bXpBUDFuWjlDOHZtTUc1SHRmNDI5V0xMcVAtVjcyQ1dMZERlQXZTakljRWQ2YWw5NlJmZ29UX1I1cXZaZEIzV1JZRUhnazVxaHZzNjZJUWlkWXVQbkFNZTV3X0xRbjJTU2x3NjlXdmR6TWI2dkpOek83LUhQR0NReS1B?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-19T11:58:29.300Z"
+    },
+    {
       "id": "b0059afae35e80b3",
       "title": "Quad expands retail media network as analysts target Quad stock at USD 13.00",
       "source": "AD HOC NEWS",
@@ -1822,6 +1933,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-10-16T10:35:26.834Z"
+    },
+    {
+      "id": "a1ad78efe20b01a2",
+      "title": "AI in Logistics and Supply Chain Management Market Size 2034",
+      "source": "Market Data Forecast",
+      "date": "2026-10-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1pmazhTZk9OUHdiYUZwOGNScmdDRG50bndaTjU5RWEzX1FfVDA1VHBlVmItd1A5c1M3bUxqbXUxbzNxMmo0bS1YNVNRaUpIRTZ2Vk94T2JCLXlBUG16bUVQZnFDLWVGS1ZVT084YkZOV3p6cWlYeTVNVG5KWUZVLUM3SDgybWVNT3RHMlFqcElqak1HRVBfYlhsQXlDeGktMkE?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-19T11:58:14.810Z"
     },
     {
       "id": "096d7d96e86908b9",
