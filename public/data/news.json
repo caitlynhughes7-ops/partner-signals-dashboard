@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T11:58:32.985Z",
+  "lastUpdated": "2026-10-20T10:52:19.485Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1442,
+  "totalEntries": 1460,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -265,6 +265,136 @@
   ],
   "entries": [
     {
+      "id": "7cc68f8a9824eafd",
+      "title": "Teradata Expands Sovereign AI Across On-Premises and Air-Gapped Cloud Environments",
+      "source": "TradingView",
+      "date": "2026-10-20T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX2lKX1kxSzNBY3NHRDJ6ejFlS2lqVHFBa19JSEdCZEVNcXhFTmtfWUtoa3NtbGJNY2V4RkgySzA0ekh4NktWak13LWZIR0FjX2hBdWZlYk8xR2JmVl9WcE1FaUVwRnp1U0psZE94eDJESUY4RlB3Q1laVTV6Z2pzV045TDdKMXF4dDJiR2x2UVo2S3dtaVdLMGtMekZENDhqdWhObnpISlJmdWpmUlVHUFJIdTFaSWhvSkgwVnZsRGlHZ2ZlZnV1cG9ZMFhsdVlyRmgzZThvdXJLNzg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-20T10:52:18.266Z"
+    },
+    {
+      "id": "c7fc9349bb275b1e",
+      "title": "TCS offers industrial intelligence foundry to boost agentic AI scaling for enterprises",
+      "source": "Consultancy.uk",
+      "date": "2026-10-20T04:51:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVZwZ1JtRFQ4RlMzQy05cUh3VWlXSnZqRDFTc0loOE12Z3RaalNuaHAtR251VGVOenNJS1Q2Wk5aQ19jTk9FQ3N1cFR1Y2xIdzRiN3hCQUhHbE04OURxQS0wZVBIVzVLVGRiOGY3RzN5ckVmOWE0VmRXSG1TcWRqV2pwOHFPMTZqZHZ6aExkVTlkVXJublFCckNJYUNUNkYtb3p0OVQzT3BTdUtwWHhpRWRrWjNlNVZxSW8zQml0RlNaZ2ZrSGg40gHHAUFVX3lxTE1xVnBnUm1EVDhGUzNDLTlxSHdVaVdKdmpEMVNzSWg4TXZndFpqU25ocC1HbnVUZU56c0lLVDZaTlpDX2NOT0VDc3VwVHVjbEh3NGI3eEJBSEdsTTg5RHFBLTBlUEhXNUtUZGI4ZjdHM3lyRWY5YTRWZFdIbVNxZGpXanA4cU8xNmpkdnpoTGRVOWRVcm5uUUJyQ0lhQ1Q2Ri1venQ5VDNPcFN1S3BYeGlFZGtaM2U1VnFJbzNCaXRGU1pnZmtIaDg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-20T10:52:12.493Z"
+    },
+    {
+      "id": "9ac59e5e6bb31a87",
+      "title": "Could Agentic AI Tools Alter The Investment Case For Lightspeed Commerce (TSX:LSPD)?",
+      "source": "Yahoo Finance",
+      "date": "2026-10-20T02:12:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3B6aTg4bW5fTnhDd1ZjWkVwNi1wX3RiOFVvd191R3dtNi13TmV6cGpsU2NscTBtb2lDR2o3RmdBSk1FcER5Y1lJSW9yQnJvTXAwXzk5QzhNM1N2X1lkZ0tWMThkR2VZRlpGZ19zZDlPN19iWEcwSFhST2d3cGpTcjdncm5QallhRy1BaVhkZWFIY0dTdWc4?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-20T10:52:13.626Z"
+    },
+    {
+      "id": "044fccdea9b87a90",
+      "title": "Is Bright Data Partnership Altering The Investment Case For DigitalOcean (DOCN)?",
+      "source": "Simply Wall Street",
+      "date": "2026-10-19T22:52:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGtRR01WYm9kVmhNVnQzSkRqMVVlSExST3FGYk1YQ1FFZndVQ3VlRl90aktOUWZGNjlGVk1hUFBIQkRLSFlFWDMwMzVnY0NVR2xuaWJnVkZEZDFyZ0FsZ2xjR3B1ZTVDLW9GdlBvQzBCM19hS1FQeVI1WmV2NjdaY3B6OE0tZ2hUZXlZTm8yVWFOYTdZTFR0VDVsMERvLUtpZzNWN1BueGRBUHVkcEpLUVN2dHZlOFV4QVhBdEFzendGblE4VHRxZHhxNkJOWkJKZlBj0gHYAUFVX3lxTE01c2JlWUhOT1VpU2FFbVF0QS1JSUxCMHVtYlJaendaY3RVZUJqS1AzWklVSU5zMWw1Zk54dDVlbGF3cnNOS1FtUk4yVVhqb3R1ZUgtTGdzbTBwMGpwZTE4ZU1hNDBsQThNSV9HUnZzckpUZFhsVHc2SVBHLVNIYkNzSmZId1ViM0RJZlc3SnFoTmRldFVXbE94bnJ2X2lFWTZVZ0NobjI2bnlYUWtyVVVwX2ppT2Q3REVlUGNIWFBoMm54LXVjZVNHejMtYWxnQkw5TWpuMnFOaA?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-10-20T10:52:05.888Z"
+    },
+    {
+      "id": "60417bbbb2d98128",
+      "title": "Is Bright Data Partnership Altering The Investment Case For DigitalOcean (DOCN)?",
+      "source": "Simply Wall Street",
+      "date": "2026-10-19T22:52:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXNiZVlITk9VaVNhRW1RdEEtSUlMQjB1bWJSWnp3WmN0VWVCaktQM1pJVUlOczFsNWZOeHQ1ZWxhd3JzTktRbVJOMlVYam90dWVILUxnc20wcDBqcGUxOGVNYTQwbEE4TUlfR1J2c3JKVGRYbFR3NklQRy1TSGJDc0pmSHdVYjNESWZXN0pxaE5kZXRVV2xPeG5ydl9pRVk2VWdDaG4yNm55WFFrclVVcF9qaU9kN0RFZVBjSFhQaDJueC11Y2VTR3ozLWFsZ0JMOU1qbjJxTmjSAdgBQVVfeXFMTTVzYmVZSE5PVWlTYUVtUXRBLUlJTEIwdW1iUlp6d1pjdFVlQmpLUDNaSVVJTnMxbDVmTnh0NWVsYXdyc05LUW1STjJVWGpvdHVlSC1MZ3NtMHAwanBlMThlTWE0MGxBOE1JX0dSdnNySlRkWGxUdzZJUEctU0hiQ3NKZkh3VWIzRElmVzdKcWhOZGV0VVdsT3hucnZfaUVZNlVnQ2huMjZueVhRa3JVVXBfamlPZDdERWVQY0hYUGgybngtdWNlU0d6My1hbGdCTDlNam4ycU5o?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-20T10:52:08.222Z"
+    },
+    {
+      "id": "b91ca5a3f5b20222",
+      "title": "Will the 2026 Shopping Season Go Agentic?",
+      "source": "PYMNTS.com",
+      "date": "2026-10-19T22:39:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdUZzYjM1NzI3djZ6dkpxeC01dy1yZ1Y2QkhsY2ZnQmxIWC1zcEo5cEJFZmlDT3Y2WXNZOE9sSmpCSHBTdXZiRy1WOEZWWHpKT09iLWE5ZnJwZVEzZnRwaHdLa3hvMU1ER19UVUpJWkdYNHBUblBLSDl3em1SUU1TUXZ4TQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-20T10:52:13.626Z"
+    },
+    {
+      "id": "501c42d622988f4b",
+      "title": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents",
+      "source": "HPCwire",
+      "date": "2026-10-19T22:19:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRS1jcWRlQWVlRlVvUGk4RXJCVTZNZ00yUllJemdjSkZuMkpza0Z1bDNkTmxpTTB4ekRaQkRDcXFtVXkza1h4YkFUUWNnNGJwM2t0aDFXQUhscEpGODZkSDdBWjVaTFRDcGJOODJOVnptQ3B4S1dFWkNzeWxtS3dYUzYzOURGTEJ3YlR1WEtIWktTSHZ1VGtoWElIdURjNkpDM1lzQlphR0EzMEkwSDgwZV9RclBJSS1YOEE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-20T10:52:18.266Z"
+    },
+    {
+      "id": "9af13848ee55ee97",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "source": "NVIDIA Blog",
+      "date": "2026-10-19T19:33:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-20T10:52:19.482Z"
+    },
+    {
+      "id": "fa55ce8f0bc5949c",
+      "title": "Skyfire, Forter Enrich Trusted Agentic Commerce Decisions at Checkout",
+      "source": "MarTech Cube",
+      "date": "2026-10-19T18:18:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEtuRGF1QXhXblVGWjY3bFloRDRYamdDcXhhWGhzSVBOSmp1NlBPOTRHRVBreE54Vm5TQnAwOGFqSElwaWVyOGg2SGxoWG4tMlk3MDA1VG1sNHV6RlUybnJ3c2Jaa0ptSDBMTF9lbE1XbFgxNy1CYmFfMzI1aXRTRm1TQy0tZHdvbVpMQ1FneFJTWW9nNEVpdVktU1g5QQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-20T10:52:13.626Z"
+    },
+    {
+      "id": "32640c0d2b97b292",
+      "title": "How AI, digital twins and real-time simulation are accelerating manufacturing innovation",
+      "source": "Manufacturing Dive",
+      "date": "2026-10-19T15:48:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeEdHRUsxb2UxYWEzQWJyQzZXZ0VYS0ZabllNMjRZbnlpSXpGUHVpWjNPakRjODN4eUFKSEltTGhKZFh5akF2UjlTSXlITW1fN1ZjUEhtWkdYRFl2SnVkX1RPN2FRZ2xGYUZPSkhKdzdCZXNTaVVsTmJDancyTTRiOERQeHdPWEhGYWV6THY4RkwxNXh3QmxXOTNuaEpVRFFBQkxGejNYaHFiQzlUUzBreVpyMVZKNWdZbF9iTTh6QQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-20T10:52:19.482Z"
+    },
+    {
+      "id": "5b6af46ac3d6b155",
+      "title": "South Korean auto giants showcase 200 solutions for smarter factories",
+      "source": "Interesting Engineering",
+      "date": "2026-10-19T14:26:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2wtSnhNQWtGVHNPNzdwaGdKTnJJZ0VoSHBjRjJqVFZTcmowTklJam43VTJDb1Zwd2NZZXo1LVFic1FYOEI0M1paNHcwa3NZVURMTDlEOHg1b1FKdmRHelJHRW5CZ3lnWUtWY1BzT3J0TXhtbWE2UVBDWEI0YmUwZEhKdnV5eUZuakh6dlRUQ1NDQlBnMk10NQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-20T10:52:19.482Z"
+    },
+    {
+      "id": "84eb77c14ec4896b",
+      "title": "TikTok Turns to Shoplazza to Power Agentic Commerce Offering",
+      "source": "PYMNTS.com",
+      "date": "2026-10-19T14:04:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTg5U1hGSVptMkRtRU45Zng3U0NNcTFseGtYVXN3QzFBZGp3UzJCZ0xUMWJ3ak9POENfN0hTVGl5S0JYWTg3b0xLbFFFR2xXemJhdHBGS0NQNFVrZGRsRVJyeVpnNTN6em83SllZMFJTM0drRkJlZTJBZXZLTHRNczNWSVFla2pQWTZUaXFudFZXeWZnVE9EcHl2NGtHXzU5WDNudThaVTN4V0tYNDJOamJuc2ZVNWQtUUE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-20T10:52:13.626Z"
+    },
+    {
+      "id": "6ff279558f1a46bb",
+      "title": "TraceLink Expands Global Operations to Accelerate AI-Powered Supply Chain Automation",
+      "source": "citybiz",
+      "date": "2026-10-19T12:45:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVh3V1pLX2dXNWRmSzExdDA3UlBldUxhU01iUm55Ny0tdy03dGNPYzNORXF1MU1vUDBHaVA0NEJzMnNIYW9sV2xrdTQwZnNiUWQzUFBENXhQWUdpazBqalgtOS1wZ2M0S2hJVkdXRnpLVnl3Nnl1enNPdnE0SGxTZXk3OVpHVTNUZWpreVBUVmdqRGJrQU5EalphWWVKYU4zTzNNUGlYeEhIN0RtUFpTTnMydTBLb2JKRy11MTAxMGk?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-20T10:52:15.860Z"
+    },
+    {
       "id": "baae3f2e6b61bc1a",
       "title": "IntraLogisteX brings warehouse automation, AI and supply chain innovation to Singapore",
       "source": "Logistics Manager",
@@ -293,6 +423,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-19T11:58:32.982Z"
+    },
+    {
+      "id": "3be818c9524bcf05",
+      "title": "Reply Earns “NVIDIA Physical AI Specialization” for Production-Ready Robotics and Digital Twins",
+      "source": "Business Wire",
+      "date": "2026-10-19T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcTFXNk1PWDdHUERoeWd6blBpdVkyUW9YaHBGMHg5bl9vV0M3T1JyeV94YVk2WU9vM3BUWFA5QnFVTDRTQjZTZTdEM3pwT0x0UzZVNW1vM2RZendJcFlOcjhLWnB0WXRYSVV3TW9jNmd0NzdCc2hwWWkzc0J1SDg3UUNkWEh4NzlpUy10cmNEUWZLbFljNWZHSXl5Q08wRXBYeENnZjlxR2c0U0U3N0NnVDBjNmFvTWVqLWx6YV9GaF8ySHRwN0V1R3NnblROSnd2VTduY1FiYjlsTkE4NFB5NEQ4bW8?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-20T10:52:19.482Z"
     },
     {
       "id": "6d8bb96bf1d0a2ee",
@@ -465,6 +605,16 @@
       "firstSeen": "2026-10-17T10:04:41.924Z"
     },
     {
+      "id": "5b1c4a23f695b251",
+      "title": "Retail media budgets are growing. Advertisers’ patience isn’t.",
+      "source": "MarTech",
+      "date": "2026-10-16T12:47:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3NwWmEzQjdiVWdzS3hqSjJNOTZYb2paX1p6QU9qbWFpZDhRUkkzMHlUbUY2MVRPRkRRZThSQllENzJFdlV5SW1oWmUtWmNuREttOWl0bW85amZqaC1LRXhBUW9POWF0ZGo3UnlXb0hkOUdLMmt2eERrNk5IMDRmYk96VU1Rdw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-20T10:52:17.050Z"
+    },
+    {
       "id": "d4009eea7f3964d8",
       "title": "Tim Cook in Shanghai Dialogue with Bai Chong'en: In the AI Era, Questions Matter More Than Answers; Health Monitoring and Supply Chain Automation Accelerate",
       "source": "BigGo Finance",
@@ -565,6 +715,16 @@
       "firstSeen": "2026-10-15T10:47:08.550Z"
     },
     {
+      "id": "0dfc83cc61335673",
+      "title": "Connected Intelligence: Operationalizing secure, cost-optimized graph architectures across multi-cloud AI",
+      "source": "Neo4j",
+      "date": "2026-10-14T19:29:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFd5QmF1bmRydVBQd3F3bHVVRnJVV1FoX0xlMlhXSUg3cVRxX2hXeUFuYUFaaTlhWi1UZUI2ODU2X2FSUWpSQUJkLVZpRmNYVEFyYUJQQWZUdVlWbzBET2FMT1lIbHdiZWtIaDRzNXVVMW01OXVlTTJCVy0yYjhoXzBfeW85ejNLSWlISHhDMGQ2aVNyME5pZA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-20T10:52:18.266Z"
+    },
+    {
       "id": "54a6f6183a1555fc",
       "title": "Quantiphi and LangChain Partner to Scale Production-Ready Agentic AI for Enterprises",
       "source": "HPCwire",
@@ -573,6 +733,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-10-15T10:47:08.550Z"
+    },
+    {
+      "id": "d2561615ff97a437",
+      "title": "Your Factory Already Has the Data. Are You Getting the Intelligence Out of It?",
+      "source": "A3 Association for Advancing Automation",
+      "date": "2026-10-14T18:09:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUV9WNC1IUk5OS2xzSEdnMUQycDczR2VXTm5FWkg2M3FXZVd6a0FZM3g2LUNTcU9BbWFUalN4R0Z0ck9rZHBIY3RPYzBYLVJieEVQeUpxUl9yekE4ajJwQ0xqa1RXbWtaUXBnU1dmVWVaNDBKcHpHZnVJWE8yNWhRWnVqeU0xelQ2NUYtWXZkMjdhXzdBa04tbVIwdkFuU3haTnBERHFUMA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-20T10:52:12.493Z"
     },
     {
       "id": "150c4f14a4d4a779",
@@ -1013,6 +1183,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-13T13:26:56.241Z"
+    },
+    {
+      "id": "e282540252b8df78",
+      "title": "Agentic AI in Manufacturing: Scale From Pilot to Production",
+      "source": "Snowflake",
+      "date": "2026-10-12T19:00:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2I2RkdmR0hUVnVwc2t4QVdSWHRRSlNVRkk3ZEhycEpwMDJzbTU4VHBBdmQ0Q1JxR1FJeGRSU2NRWW5xMTZVMzFPVE5TcHhjejRYY01hdzMya2h2MWp4NFNaWm05eVItbHZxcnlVMnp6V2xHNlBXSnlHeldUb0pLNW9nSzVzcHFCdmc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-20T10:52:12.493Z"
     },
     {
       "id": "0e0c7a186efe7d91",
