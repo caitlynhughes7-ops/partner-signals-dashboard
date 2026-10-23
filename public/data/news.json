@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:03:59.748Z",
+  "lastUpdated": "2026-10-23T10:56:51.910Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1529,
+  "totalEntries": 1551,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -273,9 +273,91 @@
     "9e2c6d74a5cbbeaa",
     "4914ba3547eb18d5",
     "8806be9f70ddba48",
-    "5e503c93aa21594e"
+    "5e503c93aa21594e",
+    "657b6bb940122810",
+    "2bfd87543aa28c9a"
   ],
   "entries": [
+    {
+      "id": "1c48acbf01b13ace",
+      "title": "Amadeus, Nvidia to partner on AI-assisted flight search technology",
+      "source": "Telecompaper",
+      "date": "2026-10-23T07:31:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSE1pMWFmbHFPUzkyLUstWnE4RnB2MmlYNUJqTkFPWkdxU3VNXzU5V1FjSEc4THliR1h6RC1xWDFURnhpRGhOLXowc1RTRFdiTlMxWjZ2ekk0RGlSX1gtQm9xbS1XS2F6bUNTT0JaVC1pZ3l6NjExeEJLTEt3WDhRd2JOU1IzOTNJRjdkeHNfTUp0TWl2QmIyRTlkTWVTVnY2aXg4UXZwSHBnNWhE?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-23T10:56:37.164Z"
+    },
+    {
+      "id": "0ddfc4bae69717be",
+      "title": "PhocusWire travel tech news briefs: Expedia Group, Amadeus, JetBlue and more...",
+      "source": "PhocusWire",
+      "date": "2026-10-23T06:03:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNVNHb1AweEhzcjVoR0cwemhWZ3F5RmdkRnQwbUR4QUtxUzZOSG1Bc2tud0RyV1hwMUtHTUw4Njd5cGxYMktpTnhaQ0ZSaFRxUVE2aTRUQVRPM2JCVU1Zd0VTVzYyX0NSdkFWSHd3anNhSmJ1?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-23T10:56:37.164Z"
+    },
+    {
+      "id": "6d956bc0f33bf846",
+      "title": "Who Owns the Customer in Agentic Commerce? A Four-Layer Framework",
+      "source": "HackerNoon",
+      "date": "2026-10-23T06:01:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTNoMUxHNnZSRURnZWk1SXpNZmVURUFBc1RMVWlDV3g4dDJSLXpjSnlTdFhOT2x6Y0hfdXVCeHBOV25fWmpwQ1RKZEJGMjYybHBuYl9zbkp2bDhYaWtWamUzNVlHbzJBNTk5LTZCcWNabXE3djFpYUFibklqOHQ1cUtxNlRTU0dGb0hKWTNXeDY?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-23T10:56:45.945Z"
+    },
+    {
+      "id": "8db07ab148e4aded",
+      "title": "Siemens and TD SYNNEX embark on global partnership to accelerate IT/OT convergence and physical AI adoption",
+      "source": "DQ",
+      "date": "2026-10-23T01:00:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTHJLQUpKN2RIX19zd195eVViREdNckNqcWpDVUZhblVuT1ZIOGpmUnA0bGxMM3JzcngwQ1NhdVp4WkpZYU05aTJrWFhMSm5oTUkybDRXTTRrTHZRODNzOTJ0ejM0Yk9XbXlwZmcxLThZeFg2YTNjbWdlQ2h3bFJwSHQ5RzhMQjUxTUJpbG1iZjJsakxiN1c3ZUU0eXNzXzZoWDZ0ZEQ5VlpRbjk1eE9UbFpTWnB0bTFNSjZ3MHl3WV91Y0xCNmF3Wk5vbU5Fb2dYUWNvSU1XakgtRTZOYldWeHk1aklyeWcyUUHSAeoBQVVfeXFMTkxyS0FKSjdkSF9fc3dfeXlVYkRHTXJDanFqQ1VGYW5Vbk9WSDhqZlJwNGxsTDNyc3J4MENTYXVaeFpKWWFNOWkya1hYTEpuaE1JMmw0V000a0x2UTgzczkydHozNGJPV215cGZnMS04WXhYNmEzY21nZUNod2xScEh0OUc4TEI1MU1CaWxtYmYybGpMYjdXN2VFNHlzc182aFg2dGREOVZaUW45NXhPVGxaU1pwdG0xTUo2dzB5d1lfdWNMQjZhd1pOb21ORW9nWFFjb0lNV2pILUU2TmJXVnh5NWpJcnlnMlFB?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-23T10:56:46.996Z"
+    },
+    {
+      "id": "6fa14385c0f0edfd",
+      "title": "Amadeus, Nvidia to collaborate on scaling AI flight search capabilities",
+      "source": "Business Travel News Europe",
+      "date": "2026-10-22T20:14:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1ZRQm9MeGFzd3NkNTFNN1RpRldmNGN3RWZNWjgtTkhxczZPQ1g0b2VvTVB2SVFxT2dRN2tRMUxxTEF6elRZZ2NNd18xNVRKeXZLWDM1RmJ4NDJiZ1pPOXJDVVBoNUJLVzdVSVF3MHVoN0gxRlRFNmpKLTNqQjhXRUd0ZTJJZ0pMeHlTa19TWXRnNFlrLVEta3hkREhhRFpfdHZucUVaRjVpaVlmWnhSZlMzQlhsQkVleDdzMjZKMA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-23T10:56:37.164Z"
+    },
+    {
+      "id": "5d9009ef6bd9105e",
+      "title": "Walmart builds a gateway for agentic commerce",
+      "source": "Mass Market Retailers",
+      "date": "2026-10-22T19:32:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkd4X09GMFBQcjJDbTlLRlFpWENJdEZTZmpHUmt6V0JsajNnWjFxZzFybTJpbDNqejJMQnlmVXJHVXcyRER0U0lsbW9DeXJhUjNkaHYyNkF4RFBUWHBRd2xnQTJrd2NvUWt3STJiNmRua2JnT2NXeTZObWNKSHhWSVpOQzY?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-23T10:56:45.945Z"
+    },
+    {
+      "id": "67ad2f5002bc55c1",
+      "title": "Agentic AI: The Future of Commerce?",
+      "source": "Tech.co",
+      "date": "2026-10-22T17:30:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xbGo1ZXpiY2RpMzlnVXRsTU44c1BPVDI0Y3NQa2hGNDNZa0NndUR2MGRIZGs4SWt4Q0ktTEV4WDZ0ZW5HOFhoRFZQTGRucDZHZVlHa1QyazU2bUN3YV8yM0lqWHBkRlhJVEFudmVrY0UtR09BRUJF?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-23T10:56:45.945Z"
+    },
+    {
+      "id": "522d4d95e976ecd8",
+      "title": "Kevel Announces $52M in Funding to Scale AI-Driven Infrastructure for the Future of Commerce Media",
+      "source": "AI Insider",
+      "date": "2026-10-22T17:08:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnNNQ185S0dLS3dTelowTHBGMTZIMTM4Tk1DM0tEWEpLN0VTaTJqNzZfOTNJVDlvOXNMXzNWLTJjSUE4YnFsOWlGbDRzZjlwTXRiRmZxQjEyamhORktwbjRMMEEyZElXWWZhZEtSMFUtcFZ3azdaSlZzZkVUb1pqMjk1b2kxa3VFR3pUcG9GcFBlSVVYczhYS3ZZT29PY0xpRV9xWXRZek9PVlprZkVzSXN1OHFnNUlKajFSb0phdlZTVVlZeFN1QXFQMFNvd3pG?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-23T10:56:29.970Z"
+    },
     {
       "id": "d1b3fc00d56c5390",
       "title": "Precision Media launches AI-powered platform at inaugural retail media summit",
@@ -327,6 +409,16 @@
       "firstSeen": "2026-10-22T11:03:59.745Z"
     },
     {
+      "id": "9d6137ef112a157d",
+      "title": "Home Depot Acquires Warehouse Automation Startup SIMPL",
+      "source": "National Association of Wholesaler-Distributors",
+      "date": "2026-10-22T04:52:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTMtSTgzVzBhQWpzWTFpTnZNWWY5T3VIYlh6WUdCTUlRU2gxZk9MLWQyM1JNTTJmTmI1ZVdUSy1iNVZ4OElzX0dYUjFuUUZ2cEZianlhU2E5Z0tIb3ROY1E3VF9kYjV4a2NDVHJuclplUngwY1VGVXZfVlpyOGJjSVpXb2Y0cFBCZGEweA?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-23T10:56:48.225Z"
+    },
+    {
       "id": "7b436e0d7b3489ad",
       "title": "Agentic commerce platform Azoma raises $11.2 million in Series A round led by Puma Growth Partners",
       "source": "Retail Technology Innovation Hub",
@@ -335,6 +427,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-22T11:03:53.366Z"
+    },
+    {
+      "id": "0d69d4d82676693c",
+      "title": "Retail media technology platform Kevel secures $52 million in firm's largest funding round to date",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-10-22T04:33:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3owODdaOHNuSGFSWU9FOXRpRTYtTjF2amY1QU9IV1hOVHdnR3hwOFlYLTVOOFV6dnBDVUxXZ2dvOWFOZ00xbk1KTVl2WFNYdnRlY0ZyTE8xUzUyalE2QUYtMU05QWNMQ0hWSGxFamktOWR1bTVMQVhKNWJfeXNKaE1KaWNYRkcydXMxUVY2ajdTTjNzVEc5WGJzV3MyOTMxZUYzZW85eGZSUUVtb0dQZXJnRFdibFQtUEdOWUdDVEw4UW1YNHBraHpnRU9Ub2staXlVanFOUW8tcGo0T3REX3V3?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-23T10:56:49.488Z"
     },
     {
       "id": "d0a7a80305c707fd",
@@ -395,6 +497,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-22T11:03:59.745Z"
+    },
+    {
+      "id": "bf0e3f84eec53626",
+      "title": "Epicor Debuts Agentic AI Platform, Promises 90-Day Cloud ERP Deployments",
+      "source": "National Association of Wholesaler-Distributors",
+      "date": "2026-10-21T20:02:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0xzNTk1dUNXbkczcmJCcFkyZUNNaktSQjRTMzN4b3l1U28ybmtBenpub01lVGRhTGtUbnh0dE8yeUwzZmdCb2xvS2Y2SExES0hCa0cwdGprZ19ub09tWkZqZ1g4NWZmblE3cWNtMFlhUVlaSk52ZUdvZG1lMlNtRlRjMjBPR1l6WFFNR240ckc4b3pWVWw0cTM4TVNKN0dlTkN3?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-23T10:56:44.790Z"
     },
     {
       "id": "6255c8f83c7237e4",
@@ -517,6 +629,16 @@
       "firstSeen": "2026-10-22T11:03:37.690Z"
     },
     {
+      "id": "6a67e02fe3bca8a9",
+      "title": "Kevel secures £39 million to scale AI-driven infrastructure for the future of commerce media",
+      "source": "Wigan Today",
+      "date": "2026-10-21T14:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGQ1cF9wTFFwNzM4OTgtUWRUWjJSYXBGU0l1b01hT3JWX29Hdm5XeHpzeDBaQ29Qd1Fwb2NFal9NN1BjbmRlREhvQ3g2TnlDMUhWSzJSSkVwVVh6Nlk4Mng4RXd3MVlkNjZobkJkUDRtMjlHR3lBZVVTbDJBbnlFOFBBbjQzTjlQakZaZ2pCdVotN1hkRUNJOE5YV05hRktFTGlkQkdySk9obFFpRG1DNGZtSHJEQk5Cd0hRTzBtbjhvQ0hFZG5iWUEyLXJUalpzSHRjZQ?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-23T10:56:29.970Z"
+    },
+    {
       "id": "4688d014177bfbf2",
       "title": "Kevel Secures $52 Million to Scale AI-Driven Infrastructure for the Future of Commerce Media",
       "source": "markets.businessinsider.com",
@@ -537,6 +659,16 @@
       "firstSeen": "2026-10-22T11:03:58.356Z"
     },
     {
+      "id": "4a315802ee31c1d0",
+      "title": "Retail Media Platform Kevel Raises $52 Million With M&A On The Brain",
+      "source": "AdExchanger",
+      "date": "2026-10-21T14:00:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1Y3NDYteTU3dnFJUldoSDEySzVZZ1JKdWx1ejZTdmpwNVYyZWE3eDhuUXhhRldRTG1QMDI4OHBHLWFOUFp6bFBvMThBS3UzS2xKWmJyZHFCTXhBRHRyZWFjUlpqSGdydEZXNWcwOUxYVTFoSnR5amYyX1U1ei1ZM0hDSjJFdUFxTDFBSDItYUxmeVplc01FMWh5b0VWTTlqOHBKWl8yWQ?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-23T10:56:29.970Z"
+    },
+    {
       "id": "48715ae2a0629559",
       "title": "Retail Media: Spar Integrates In-Store Channels with Footprints AI",
       "source": "Sixteen:Nine",
@@ -555,6 +687,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-22T11:03:59.745Z"
+    },
+    {
+      "id": "d46545fdaa788162",
+      "title": "Visionaize Demonstrates Million-Dollar Operational Benefits from AI-Powered Digital Twins in Cement Manufacturing",
+      "source": "Yahoo Finance",
+      "date": "2026-10-21T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWFzRENFd2kwM2MwdEFHQXdEZlFhZFpKbGJHbVJKTWpqRGRkdmR3eXhJSXRDN2tqRUhBamdCZVpSZmpiLTlzVm5BaVVUSHRMZW91d1lRTnNLWWZWbWRVWDBYb3pJa1VPcVdKYXYxRU1INEx1bDRGZnRkMTJDeDFZZkZWRVFncHpIMVFObFJWbjZRMmlfT0otZVZzM2hjX3BBYXJIMGprZXZTUHk1cTFZd1g4VXA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-23T10:56:51.907Z"
     },
     {
       "id": "f0a62c085dc24c73",
@@ -755,6 +897,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-20T10:52:12.493Z"
+    },
+    {
+      "id": "60faa77d401c0ae0",
+      "title": "TCS offers industrial intelligence foundry to boost agentic AI scaling for enterprises",
+      "source": "Consultancy.uk",
+      "date": "2026-10-20T04:07:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUtSQ0RkV1hzZzZMQThVSFpLaF9INGQ2VWczVkdQVTFOZ1dqOWhnQmc1WjViWGNJYkJOcjJsVnlMaW9SYWlNWF9ObEVEX1o5T3hvalZxSXNUVHF0Q19MdWFoQUNQZGZqa0pQZzhCNUR1TmlGYlVfNGphaHpyUXZ1V2ZieS13VXJmelZlNnBqNElPdjFkLTZiWTFicU1VQm5PQmNDNHNtMkxFOHF1SDRzOUg5RmFkUHdRczVpdHRGVFNiZ9IBxwFBVV95cUxNcVZwZ1JtRFQ4RlMzQy05cUh3VWlXSnZqRDFTc0loOE12Z3RaalNuaHAtR251VGVOenNJS1Q2Wk5aQ19jTk9FQ3N1cFR1Y2xIdzRiN3hCQUhHbE04OURxQS0wZVBIVzVLVGRiOGY3RzN5ckVmOWE0VmRXSG1TcWRqV2pwOHFPMTZqZHZ6aExkVTlkVXJublFCckNJYUNUNkYtb3p0OVQzT3BTdUtwWHhpRWRrWjNlNVZxSW8zQml0RlNaZ2ZrSGg4?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-23T10:56:44.790Z"
     },
     {
       "id": "9ac59e5e6bb31a87",
@@ -1195,6 +1347,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-22T11:03:58.356Z"
+    },
+    {
+      "id": "bfbac16850588b64",
+      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+      "source": "Google Cloud",
+      "date": "2026-10-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnhpeHFjVVFiYWJCMWJWWFh0TnJpd0JxZENhLW0wUEFwajhMTlJIeU1XajNHWUhjVURCc0RTZ2RPNDRIbFp0ek4tSVpSeldsS1FIYXJ5UV9fSXhqSHBkX0IyMk5LU2JjZHdMMnFEWXJ6TzQ0aE5rN1dPTHRIbEF5ZjFHdlhHLVFjbzVLQmxETVRfT3JCM2I1RFpqeFZ4dw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-23T10:56:50.700Z"
     },
     {
       "id": "cd48eb85996e3205",
@@ -1895,6 +2057,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-10-12T14:17:33.451Z"
+    },
+    {
+      "id": "ac1c42e61487175c",
+      "title": "Workday and Snowflake Zero-Copy Integration Now Available",
+      "source": "Snowflake",
+      "date": "2026-10-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORC1oTkktSXdsVnJ1bVlUYVVrYmhOUTYyVjBteURmMmpUM2JOVTUyUG5zT3JSOUN5dnltbTJqTXN5bExLVEY0ck0zRGRPd3BrLUZYQUx5MlRkVXBITFpGTjlPVk9KaFQwSmxNX2d3V21qX0pXYVBnWmUyV2pwZmNLeGpNekdCcThBNy1lcDBR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-23T10:56:50.700Z"
     },
     {
       "id": "b97dfea6f7c88747",
@@ -5047,6 +5219,16 @@
       "firstSeen": "2026-10-22T11:03:52.112Z"
     },
     {
+      "id": "3d4dbd255332a58c",
+      "title": "Focus on agentic commerce as customer data science firm dunnhumby wraps Retail Innovation Forum in USA",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-09-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1FjeFNlcDJxNDA3eG1XTlFicmVmQmZ5Y055THpRNzBJOWFkSmswc1Rhb0dJMjVTRXdDc0hOb1hVTWMwTU1OeVZ1NzE1bmFkU1U2RW5QZnN1Ylp4ZnJqc0NHLThxWWR4MG5tUXhoai15U3FsSUVlWnB5S1BvQU9tTUZaU2VrMFZCR3lSZ283WXVTd0ZNREI3WTgyWW9sdWVxWklLMXRheVlaMVN5azA4TjNVZGl3UXJGWEI3VUM3MmFKeG00X1BxaE1yNWdEZHJMTzdN?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-10-23T10:56:29.970Z"
+    },
+    {
       "id": "5cbb8afc1da187c0",
       "title": "Focus on agentic commerce as customer data science firm dunnhumby wraps Retail Innovation Forum USA",
       "source": "Retail Technology Innovation Hub",
@@ -8087,6 +8269,16 @@
       "firstSeen": "2026-09-13T11:00:47.953Z"
     },
     {
+      "id": "1ab38486d7a4583e",
+      "title": "Scaling AI agents with trustworthy data : New findings from MIT Technology Review Insights",
+      "source": "Google Cloud",
+      "date": "2026-08-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVkxUlU5a0hqNXJuNmhneU1kX0lCYXhhTmdPWjJsTHpWN2FJeDdKSTVVWklLNXRwQWFxaUtTaWlsTkk1RkNWVHd6RFhWMG5lUmJMM0Zpa0pkdFZ3Q0tfSExVM19FR194UjVieVZjX181b0xDZzVLYkVsMVIwX0N1QS1fdHhFdnptQlh5NVN5OEZrUmJYZFFrMnFyb1FiZ2o0YmdQN2pJai1hNDg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-23T10:56:50.700Z"
+    },
+    {
       "id": "b0f00c4d5d5c229f",
       "title": "L&T Technology Services Launches AgenticIQ, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
       "source": "ELE Times",
@@ -9575,6 +9767,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-08-18T07:58:08.978Z"
+    },
+    {
+      "id": "f7d0dc29cd1719b7",
+      "title": "Bright Data Number of Employees 2026 | Employee Count & Headcount Data",
+      "source": "Revelio Labs",
+      "date": "2026-07-29T00:43:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SGE2SVZOLV9PeXRlZmpUazNmTVBFRTQzenIweFBnTldJbXpMZDdfc21tc3c1TVE0MmRSaV9iSTN3eVc2eTVQNGVpdEFzQkpmM0hCVnFTaDYwTlVVdS1nRjhMTkdWMFljSkhn?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-23T10:56:39.293Z"
     },
     {
       "id": "fdb8b8a93287d15a",
@@ -12107,6 +12309,16 @@
       "firstSeen": "2026-09-24T11:01:10.040Z"
     },
     {
+      "id": "c178cd91b248f942",
+      "title": "McCourt School’s Massive Data Institute and Bright Data Partnering on Big Data and Public Policy Innovation",
+      "source": "McCourt School of Public Policy",
+      "date": "2026-06-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWNWQ2owOEtGdVM2Y1RpOTVLQkdLX0FoU1FyTU90dGtydkRHdFRxNzJIT3J4WFh0Nl9fX2FiRlh4VnRoak9yZ05Uai1jalVIS2twV1Y1WWpNVkhnbmZvVkhhNllRcGtnZHlEVjUtYnNzTGlpbGsxRklrb3FqSUl5ckZGY0xRbkZMZUlUd0tDbDg?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-10-23T10:56:40.433Z"
+    },
+    {
       "id": "3deabeb2385a5a18",
       "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
       "source": "Snowflake",
@@ -12195,6 +12407,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-09-22T10:52:31.833Z"
+    },
+    {
+      "id": "59c9455a99e7a8d1",
+      "title": "The State Of Agentic Commerce In Mid-2026",
+      "source": "Forrester",
+      "date": "2026-05-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGejVaLWFEcXZDMUhaVWZuV1BiQ3Z2bE14amFiZmpWX2tnb085eVFnZWYzVkg2bDcyM2Q3NlA3WUJaTTZyYklIM2VYUFBMYW1YbE55eG5hY2k0aVB6LTN6WE81blozMHlDYU05VXdmVGxhSUtYQlpRUXN1RE84Z2c?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-23T10:56:45.945Z"
     },
     {
       "id": "f49b4bab95b44c6a",
@@ -14087,6 +14309,16 @@
       "firstSeen": "2026-09-03T10:35:44.170Z"
     },
     {
+      "id": "f8806d46933e4851",
+      "title": "Schneider Electric, Nvidia extend data centre partnership to scale AI Factories",
+      "source": "Capacity Media",
+      "date": "2026-03-17T11:04:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkQtRTFrQ1RzUk96YUpEOVhrYi0xNFUwYVpHeXNyZGMxMEgycTRsaFotU2xSelRQQ3dYRkFEZW8zd1U5LWEwbGNOUXhBZVBEWFlsdlo2OHBxWXhaemFBNFo1a3kyQ3FtTnpYaHZETkNEMXFxaVdkNmxGaXRIWVJRcnNBSGZ5SmVzYTlWOU9xTXc4SnFJTGtB?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-10-23T10:56:22.360Z"
+    },
+    {
       "id": "5da70cdb84bc6b19",
       "title": "Contentsquare Launches New AI Agent And Analytics Capabilities to Understand Customer Journeys Across LLMs, ChatGPT Apps, Web, and Mobile",
       "source": "PR Newswire",
@@ -15555,16 +15787,6 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-02T19:17:07.960Z"
-    },
-    {
-      "id": "657b6bb940122810",
-      "title": "Contentsquare scales customer experience with Microsoft Marketplace",
-      "source": "Microsoft",
-      "date": "2025-10-23T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVRKVThmZzNmaUM1MWxyeDZwVmtxckkyWWRSb1k3bG0xYzVMaWpqVzFjZFg4Qnd1V1dDRHFaZ3Z1dHl1aGtwRXlFc2FRZW9oN0xNajhuOUZERWdlc3c0QTlOcWpyemI1Z0IzTUdjVG1LQjQ4Tk5fMUdYekEwTnlwUV9YN3RxS0d1ZVBaQnlKYkdNdw?oc=5",
-      "category": "Contentsquare",
-      "query": "Contentsquare partnership",
-      "firstSeen": "2026-08-02T19:16:56.796Z"
     }
   ]
 }
