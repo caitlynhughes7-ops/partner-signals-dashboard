@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T10:56:51.910Z",
+  "lastUpdated": "2026-10-24T10:11:59.773Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1551,
+  "totalEntries": 1562,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -275,9 +275,60 @@
     "8806be9f70ddba48",
     "5e503c93aa21594e",
     "657b6bb940122810",
-    "2bfd87543aa28c9a"
+    "2bfd87543aa28c9a",
+    "1e90fc8823d8e35d"
   ],
   "entries": [
+    {
+      "id": "0cbe4f9240b4c08d",
+      "title": "How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights",
+      "source": "www.embedded.com",
+      "date": "2026-10-23T21:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGdpaUl1Yi1BRjBZWGxsSHFqeV9Oa3FYQ09SLWdBSzhJcF9CX1hRM2ltbVdYbHdYYlBxdm1RU1lqWEo0bjZsSHlVNVRjSnRFa0VRb01KakQyanBqeHVpZVB6QURJQVJtS01NbFU5azJpeDZSUE1ieVNvdnRnaHc4WUluVHNtZ2c4T2VaZzByOXByUlBxMkdxSklib1p1YlE2QWoyd1g3bWFHdnpYdDlHcVd1STA1R1dwOFI0cmJ0ZThkOWtCc1dvV090Z2d5M1l6cEpSWlFxSGJhQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-24T10:11:49.132Z"
+    },
+    {
+      "id": "d5a5700038ca1e03",
+      "title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort",
+      "source": "TechTarget",
+      "date": "2026-10-23T17:43:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0VpRjB2dkUtcmZOX2pQcGltZnI4LWt3ZXpZSjNoMHY1SmxjbkdKblVmTFNlVHhpYWl0TXJkRTIzUmluVnNHUGJKampzSUVGc1lrMVd4UHVRLV9ob0xVdGVnTkdVa0VFLTc0NHhScy1SNVdhWWtyTXFaSzktUlFqX0hZb09CZWVwV0w4QWtDUzF4enh2eFRqUlU4dVBWc1BCWTBTZ3NLN2cydzB1VkE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-10-24T10:11:59.771Z"
+    },
+    {
+      "id": "1b18e41d9ea261db",
+      "title": "Shopping is Muse’s top task: Meta",
+      "source": "Payments Dive",
+      "date": "2026-10-23T14:05:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OQXNONW5VODNyWU84Ti1KWFp1bnZrM2tWOGw1NzJyUk94Q0Y4MHY4M0RlYUNRMG5iUXZHTVFPT05YOXUwTkphTDRHb3djb2ZFOGJKTTdtNXBJSVViTVlxaVJuQmszVk0xWXhnV1Jnd0Z2RjVaZkhhTDlQZzgwQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-24T10:11:50.312Z"
+    },
+    {
+      "id": "c77216df51246c82",
+      "title": "Korean Air confirms partner-linked data leak, probes scope and safeguards - CHOSUNBIZ",
+      "source": "Chosunbiz",
+      "date": "2026-10-23T12:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlFYeUJsWV85RXJMeGFQNlZvT2pTekJGd3ZqSW5hTnhsRnpfcE5FU1dLaU84UUN2anM1STlneVZ3cE5WZ3ZYbVlndFN0b2prVnpkN0ltZFV6OFEwODlwQm1Cakh1N3k2dDJNT000OHlSQ1ctZHFpWHJfMTBJekcwN3p30gGWAUFVX3lxTE5tWUpDRkJ1bldEd2szbHdsN0g3enRrZDlsNUR3NVRUNVBMT1JiRGtJU3J0TGVBdURpSnZMcWRmN3ZhNmh2X3AxaWpRcGR5VkpfUzIxTEJLYTJnZWRWRE55c2pSZjMtUy1zYkk2eXQya3pTbkpDcFRTcE5kdnFCUUZSRno3N0VBaDNQVzJFbmItZU5Bc0U0dw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-10-24T10:11:40.372Z"
+    },
+    {
+      "id": "85001d6822a6fc69",
+      "title": "Amadeus Explores Next-Generation Flight Search with NVIDIA",
+      "source": "Breaking Travel News",
+      "date": "2026-10-23T10:27:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWENkQklGQXJ1Q1JXT0VkXy12Z2JyS2k2cy1IaVlic3RRS3d6UnNNV1o3Yll5QnU4eEQxQ0ExaFdacnJCZU5VekZucjJXcW1RdmpycWlfeEVFOFd5SWpPZF83WlZwbnM3NEJtUFo4Mm9LVllibnJ2bGZweVg0SUZYSVB2ejhkYklIcHQwQ1NHQWFFVWstU2J5X2V1ZV9HNncxTTVva2t4S09sb1k?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-24T10:11:41.519Z"
+    },
     {
       "id": "1c48acbf01b13ace",
       "title": "Amadeus, Nvidia to partner on AI-assisted flight search technology",
@@ -357,6 +408,16 @@
       "category": "dunnhumby",
       "query": "dunnhumby retail media",
       "firstSeen": "2026-10-23T10:56:29.970Z"
+    },
+    {
+      "id": "7da4384f24da479b",
+      "title": "NIQ Expands ConnectAI Charter Program with Mars Snacking",
+      "source": "STT Info",
+      "date": "2026-10-22T10:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckh2YzRCX3FhcHBkTVhfOWZwQ2dFTnhxQ2ZFZjQ4SEdFY2xyaEZTWlRhTXpqc01OLThwRjhXZWN1b0RRT0hQaFBDQS02MnVlVUp2dHl0aldPWVVxQmZ3X0hkR3k5VWdzOUk0R3Qyb1dNSFdXN0FRWlNhVklwUkVHLVdFdDJ5S0dVVEZmbDRvWEVRR1RRZjNJZC1CQy1sRjFKUHpZZlRqVHFoR2E3cVNTMkZzT0R3YTBzLTVOUjB0elhHYUk?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-24T10:11:47.892Z"
     },
     {
       "id": "d1b3fc00d56c5390",
@@ -729,6 +790,16 @@
       "firstSeen": "2026-10-22T11:03:59.745Z"
     },
     {
+      "id": "7d10aba008c96806",
+      "title": "Honeywell launches agentic AI platform for facility operations",
+      "source": "Engineering.com",
+      "date": "2026-10-21T09:52:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDduZG5nQ09LLXQzbi1CRUp2LW5QVVlRY2VENXdnOWtuemxGcndhM3Q1MndWYi1IWHhQLTQ1TE96Ul9ORm5TYWQ5RjYzZHhUSGxIR2RXYjA4bXFyZ2YwM0RJM2c5dVRlRkp4Ny1SN1dpcHdBMVlWWXdTekdpQkhtOHRJaXlhVm1FNktJOVMyMzRQaDF2RlE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-24T10:11:49.132Z"
+    },
+    {
       "id": "c132886f0549cf80",
       "title": "Top 10 Biggest Supply Chains",
       "source": "Supply Chain Digital",
@@ -787,6 +858,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-10-21T11:04:17.807Z"
+    },
+    {
+      "id": "376dc2b706840e66",
+      "title": "Predicciones sobre IA para 2026: tendencias en retail y bienes de consumo",
+      "source": "Snowflake",
+      "date": "2026-10-21T01:04:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlNmg3N0RZM3N6OUt2SDIzVmVYSlJBM2FZZXFJNEY2clhxOUJ3MFRnRHgwS0dJM3pxSERNZVlMWWJrUzU2QzlIREFEb0E1V0tMbkh0dFF2cnhuZVhSZWM0NHl5TjJHVEZPbGJTbEEyU0hFa2pSRmJVZy1iNUs?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-24T10:11:50.312Z"
     },
     {
       "id": "f45d81d5b6d7a06d",
@@ -4327,6 +4408,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-22T10:52:40.817Z"
+    },
+    {
+      "id": "83d04c9cf8527afc",
+      "title": "We asked 8 supply chain leaders what impressed and surprised them most about AI. Here's what they said.",
+      "source": "Business Insider",
+      "date": "2026-09-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmpHX2d2d29iQVhXbGR2R2wzeGtCbHB1MGVqQndpUzVwdDhUTThEekJaOW10RFU3Z0JpcUlhRERuSzRZWWJ0bm9VNXFpZ1VnOE5CTXFSeG9yd196N3BCbFk3azJTbWRZUFZ4RThKYTVwMUVZR0RNS2RoQTdMZVZPM0N6TGd2X3dfN0Q3dlc3RXl3TlVkb1FHbg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-24T10:11:38.340Z"
     },
     {
       "id": "0976c91f976d2a70",
@@ -9367,6 +9458,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-22T11:03:58.356Z"
+    },
+    {
+      "id": "26b726687afff7e4",
+      "title": "NIQ Returns to IFA 2026 to lead industry conversations on growth, innovation, AI and consumer transformation",
+      "source": "NIQ",
+      "date": "2026-08-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbDVFQl8tVXd1SjRmd2h1TGZBQmJrdGZYRE9lN1MtYnlLWG9mMmhZZ3daanNDMVktZkpfeGlDdWpFSTN6V2hQS3RJQU83Yjh4akM1bmdTN0ZEdkw1MEtlejl4SnF4TDFRTTZndTRrY203QmY1eU1TTHRlQm8wYTBKVGNjQS1DbXFOeUlkakZucmplejBxbExRb1VMNE9IaW9SbDJ0VmFHLWU5dzN2ejJvcUtWZzBkLTdzaDhFQUdnS3RFdGJvQVVmS1RVcFVJamJHbXJZb3Q2WlR5czl1Z09MYnJQYU4ySDZqQUJxUw?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-10-24T10:11:47.892Z"
     },
     {
       "id": "c746bba98b7357e9",
@@ -15647,6 +15748,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-30T06:04:52.373Z"
+    },
+    {
+      "id": "15617a852ae3bef6",
+      "title": "Schneider Electric, AVEVA, and ETAP Join Alliance for OpenUSD to Advance Digital Twins and Simulation-Ready Infrastructure",
+      "source": "ARC Advisory Group",
+      "date": "2025-11-21T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pqdlE1cHh3emxuZ0p1b202VEtaTGRkS19sSDVkbzNGemVpanZYWTU3U0M0a3NNSU1qUDN6SDZSNnlCQ0xuM3BYdGFwWkpaSExWYm16Sm03MlR1dFFUQV9pMl9INGl0ZmMyWFhPaFpsWG84ZGV3UHUzTWU1WUR5dlNUUGJRT3BURnN5eXdsd2w4ZjdNNERvTFA2dlh6anRucUg4bmUxZmpyMGlaN3lZZlRZNWlvUFdLNUE?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-10-24T10:11:27.565Z"
     },
     {
       "id": "c3d3b4ae4a13f67e",
