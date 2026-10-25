@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T10:11:59.773Z",
+  "lastUpdated": "2026-10-25T10:37:05.722Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1562,
+  "totalEntries": 1570,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -276,9 +276,34 @@
     "5e503c93aa21594e",
     "657b6bb940122810",
     "2bfd87543aa28c9a",
-    "1e90fc8823d8e35d"
+    "1e90fc8823d8e35d",
+    "e52593767cbf8e65",
+    "c45a90c921cb4a19",
+    "cc0ec4dab55edbed",
+    "b4269bccc082b51e",
+    "d45acf999e7fed22"
   ],
   "entries": [
+    {
+      "id": "e74e1dec2a94197d",
+      "title": "South-Korea Agentic AI Market Size, Share,Trends, Growth Analysis Report, 2030",
+      "source": "MarketsandMarkets",
+      "date": "2026-10-24T16:27:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzlURnd3cWNiX0pYOVh6MzZsaWR0MldzZVdwcjBRdHZIaUUtOVZncnd4T1BYQUhmQjR5SUlxTHdUMG5lUWhncDBEWmFFVlZ3TllhZUl3bVlFUXYxMG1MUzhUVGUxS0hlTU1pWVloSEVkTUoxSHVwaHRzSjQzdzN1UW41Vy1rUUFReE93ZlExd3lIZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-25T10:36:58.661Z"
+    },
+    {
+      "id": "5b15dbb7ebb599f2",
+      "title": "How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights",
+      "source": "www.embedded.com",
+      "date": "2026-10-23T23:33:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGlBQXNDN1dBWTVYVGVkWkdWOW9GYkpzUlhPNEhzdUdHOEREdHJ0cTA0c0lhcVg0bUgtOUY1NkF2WUpBcU9JZXVKeC1sdGNDYkVUdVZOWDNqSWFZNzZlYW92MlVBcTRxOE5mSkVaaVZ5TjJzdnVQQkN5R2lGNDJGTV8waFFWdFVLUUFMSUQzX3M0M3hXLUNYbnM2UVZrYlFaSEZmMEY4V0VPRFNMS216c1RpeDY0SnN4VE93SGNlOEFneFFiNFAzbFdIbGVxd1N4Z2ZqbzFmU3Z5emM?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-25T10:36:58.661Z"
+    },
     {
       "id": "0cbe4f9240b4c08d",
       "title": "How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights",
@@ -528,6 +553,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-10-22T11:03:44.334Z"
+    },
+    {
+      "id": "db63895a4b2235a4",
+      "title": "Dell AI Data Platform: 3 New Layers for AI Agents [2026]",
+      "source": "tech-insider.org",
+      "date": "2026-10-21T23:16:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjZLR1g3ejdoaVZQeGtQWm1LaEZxT3cxOVFOM1hISi01dFVmUVE3alZUdERUTXBxMG1LX09HWFJnREwybXVXcUdCdG1IcDdMV3hNazYtMG0wLWFZWW5HUGdVR05ZZ2xIbTV5c1Y4cERaMVMxeXp6cDFlY05IbmRTdTBkZW4tWUJh?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-25T10:37:04.523Z"
     },
     {
       "id": "14ed6b7937d0ac9f",
@@ -868,6 +903,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-24T10:11:50.312Z"
+    },
+    {
+      "id": "950853d50f34ff07",
+      "title": "How retail will need to adapt for different agentic futures",
+      "source": "EY",
+      "date": "2026-10-20T22:41:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnVZcjc0NWcwaGJvMGx2enRCVzRZSEswVFhBNm5CdkV6Q0JhQ2JibjQ3amdHM2VuZ3hvajFoNjZqaGIwcFZnMVc2ZXdnY3NKX1VsNmpkX2EtOXYtOXMyek54WjZOenVubEJZVVpBYUh0ZzJyUWRieV9OMGFDQW1Cb1BzaWlmcXpLOTF1RGJ3T3d6eXMzWVBEZmUxdS00YXNheFE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-25T10:36:59.812Z"
     },
     {
       "id": "f45d81d5b6d7a06d",
@@ -2458,6 +2503,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-10-09T12:30:05.221Z"
+    },
+    {
+      "id": "715798960071f92b",
+      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+      "source": "Google Cloud",
+      "date": "2026-10-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHJkYURWVE9paG9HMUJJRWxXeEYwa1FHMkhIVllEVUFjRGkwYUNFXzVTMEdRNWVtREZjdlo5WUpiNFdCdHBmS21IRGNZRnNTcHJpaEN5M1BFa1ZEM01SajZEa0U3b2VCM2ZHOEFURGdQNVNlODQ5Y2l3d3NiRzF4TktIbnVha2NTTHVaeDVDSjNLeHM?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-25T10:37:04.523Z"
     },
     {
       "id": "71310f64cbc2cafe",
@@ -6448,6 +6503,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-15T10:47:20.056Z"
+    },
+    {
+      "id": "76115ca8946b2ff7",
+      "title": "Amadeus's President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls",
+      "source": "Skift",
+      "date": "2026-09-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFpnWFVOQzRVQ0E5STZuVGpOUVNBT29QVUlIU0xGeDk5Z0tHVzBVdTVDSndZckhDaDYwWndVM2xCbkYtQnMwTU43Tmd0dDIyeGszMUswcEFnTDVLNGxLSzNnRkVMdEhYUnhqeHJlZGZGcjl4OGxtR1R0WF9KM0JyLTVXOTdXb29hV21xSUkzUFA0WHUyNUE?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-25T10:36:51.013Z"
     },
     {
       "id": "59989bf1bc66c94c",
@@ -14890,6 +14955,16 @@
       "firstSeen": "2026-08-02T19:17:07.960Z"
     },
     {
+      "id": "6734cc102de39a8e",
+      "title": "Visa Renews Partnership Across Red Bull Formula One Teams",
+      "source": "usa.visa.com",
+      "date": "2026-02-19T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDVodHAtZkpWRDZhSTRfYWQ3VXgtTGdrWkYyMGx1ck1qWFp2cFRGMTZFcy1xMFZNVnRONVk2WDdobUF1SUt2bWVPcUVITzhzVFItZktfd0ZyM2JGMk9FcjZENXExR1dHTHRvV0FFVVVUS3ZNdVNnVUJibHc2Z1pWdkN3?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-10-25T10:36:40.297Z"
+    },
+    {
       "id": "bf9542a8b3c90149",
       "title": "Big Village, A Bright Mountain Company, Joins Indie Agency News as Preferred Data and Insights Partner",
       "source": "GlobeNewswire",
@@ -15228,6 +15303,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-09-03T10:36:02.951Z"
+    },
+    {
+      "id": "a16e0297ca2bb310",
+      "title": "OT cybersecurity: How IT/OT convergence and AI are changing security architectures",
+      "source": "IoT Analytics",
+      "date": "2026-01-20T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iTTNwWHBkZ3dHdWlsdm05aXpCaE1FeW1FbGtfSnZacjdUMldlSGlpWHl4WVh0cXR3eUY0WlBxOVhKVEZkUnU5S3U4VWtTOGVPdHhmX2pCQjZvMXZYOGUxTzJhc0k2ZWd1ZzBnMFpFYk5BendfcDFBZGpTMA?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-10-25T10:37:00.821Z"
     },
     {
       "id": "96e202c5526f9368",
