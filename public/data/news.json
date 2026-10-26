@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T10:37:05.722Z",
+  "lastUpdated": "2026-10-26T12:10:04.051Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1570,
+  "totalEntries": 1583,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -281,9 +281,31 @@
     "c45a90c921cb4a19",
     "cc0ec4dab55edbed",
     "b4269bccc082b51e",
-    "d45acf999e7fed22"
+    "d45acf999e7fed22",
+    "f8ec80f224596885",
+    "a60cd753dbfd8c0e"
   ],
   "entries": [
+    {
+      "id": "f0a43eb69bde7b71",
+      "title": "3 Retail Media Playbooks: Kroger, Sam’s Club & CVS",
+      "source": "Placer.ai",
+      "date": "2026-10-26T09:04:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MUzBvdHFwRzNYaDBNakpiUE96RDBIZTF3Zkswa1gyYVEtQldzMGdkOWJTaEtWR0RCTThsVEJRLTZYN0ZESGpGclNEVmtCWmUzYmFTel81V2l2d0wwNGJvT2hvQm9aU3pUMDdZdVdlcFJ6TEE3V3V0VTBB?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-26T12:10:01.686Z"
+    },
+    {
+      "id": "0c9664e4d19a57ea",
+      "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+      "source": "Retail Dive",
+      "date": "2026-10-26T09:00:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzlZdmlTS0VFdVEwLW56LWUyZWxSWjQ4SnFraXkxTk9Lc09kbXJOUnpJWTJMREp6bkRjMWtROXIxdEdmMi13VF84djNxeEt6M3NleDJzUW5RNFEzY0I2TU9ISzJhM2FaUGRQMmdKS195X3JOWXBiNVdTN0hURUFId1lURFRDVnJ3Z2NuZnEtZ3JubXdMM2txcy15R0VLSnY4dU1oQV9pWmtreldRVFRUemR1dw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-26T12:09:58.089Z"
+    },
     {
       "id": "e74e1dec2a94197d",
       "title": "South-Korea Agentic AI Market Size, Share,Trends, Growth Analysis Report, 2030",
@@ -293,6 +315,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-25T10:36:58.661Z"
+    },
+    {
+      "id": "ac9a2d9fc96c5b3a",
+      "title": "RETHINK Retail Expands Executive Communities Under Canadian Leadership",
+      "source": "Retail Insider",
+      "date": "2026-10-24T00:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2EzcGV1eExoYVFrdS1GVXRzNExtLUh1eU5aUF9FUVZQUEFJc2c3enl0RXNjOE1BYkltTnVMbzZzZzltczZnVEtMM2dUMWdJWndQOXlEMTZDcjhvMUg1YVI3dWNQWTEwaE1tTmVQRm1Ca2c2cXFibEtOOEdyM05CWHlrZ0J1LUlUTnFWWGFGOGRuaTFqSE9reENGTHBraWdfeDlGbVBiT2lqRFVxcFkyazAzVWNGVEUxTDVkU1pB?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-26T12:10:01.686Z"
     },
     {
       "id": "5b15dbb7ebb599f2",
@@ -805,6 +837,16 @@
       "firstSeen": "2026-10-22T11:03:44.334Z"
     },
     {
+      "id": "ac3f66eec5ec7d5f",
+      "title": "Amadeus Explores Next-Generation Flight Search with NVIDIA",
+      "source": "Via TT",
+      "date": "2026-10-21T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFBjbjZwalFxV3FrSkJ2NXlHekEyOUJVWWo1TWZOY2Y5MHpHcEZaQVJxNzhzT2FsajJHTHNDV19QMENxUnJCZjRGVlRUMnZsZmdLbEN6ckdSNFZhV2lpXzNnS3JhX1d3Tzhlcm53VU1aZDNzSUZ0YkVNcTNqbEN4eHU5Mk1QZ1RBcjE5WjFzR3hNQ3NHZWszOVhIRkoxWi1FbmdoaTFpVkRiOXljY2RUdlBnenJfOUlENXlBb3AtWjY5Tmtld2c?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-26T12:09:48.981Z"
+    },
+    {
       "id": "539f0272248be185",
       "title": "Cognizant and Google Cloud Expand Partnership to Scale Enterprise AI Agents",
       "source": "HPCwire",
@@ -1063,6 +1105,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-10-20T10:52:08.222Z"
+    },
+    {
+      "id": "8d8a3f3457348835",
+      "title": "Is Bright Data Partnership Altering The Investment Case For DigitalOcean (DOCN)?",
+      "source": "Simply Wall Street",
+      "date": "2026-10-19T22:52:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGtRR01WYm9kVmhNVnQzSkRqMVVlSExST3FGYk1YQ1FFZndVQ3VlRl90aktOUWZGNjlGVk1hUFBIQkRLSFlFWDMwMzVnY0NVR2xuaWJnVkZEZDFyZ0FsZ2xjR3B1ZTVDLW9GdlBvQzBCM19hS1FQeVI1WmV2NjdaY3B6OE0tZ2hUZXlZTm8yVWFOYTdZTFR0VDVsMERvLUtpZzNWN1BueGRBUHVkcEpLUVN2dHZlOFV4QVhBdEFzendGblE4VHRxZHhxNkJOWkJKZlBj?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-10-26T12:09:50.103Z"
     },
     {
       "id": "b91ca5a3f5b20222",
@@ -8605,6 +8657,16 @@
       "firstSeen": "2026-09-27T11:17:54.451Z"
     },
     {
+      "id": "a7f9ce4aaa678b93",
+      "title": "Integrating Looker and Gemini Enterprise",
+      "source": "Google Cloud",
+      "date": "2026-08-11T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVZlc2JrdnZsaFR6TXNPUEVjQlVmeFZfN1NwVEdQRWxZckpaZGpWZW1FclBwTlcwT0JvRmtjclBFOE83WEpBWjBubEYxRGIzcHNzTEFSTVJnZ1p5RjRMVHo5elVwXzVHMDJMSDNzVFgwV0l3ZlEzXzFQTkN4X1ZSSTF4OVlhdHNES28zMC0tYXlEYjcyUVB0MmkyZ3ZTOVBMRVpr?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
+    },
+    {
       "id": "a5dbf3b4733efb58",
       "title": "L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
       "source": "ThePrint",
@@ -11945,6 +12007,16 @@
       "firstSeen": "2026-10-13T13:26:32.621Z"
     },
     {
+      "id": "acb6ff58eeb2011f",
+      "title": "New data agents across the Agentic Data Cloud",
+      "source": "Google Cloud",
+      "date": "2026-06-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3QzNHlicGNra3ZhMGNLWm1mcUI1R19CSWJiYXV1elBNTFRlWlJuaEdtZ2g2eFA4dlJoYUQ0RkIwMjR0U0dBOHVmZWNhTTZJYkZEaEN5eEtWdVpfMXNlRXU5MVl0SlNLMnJHNDhuejRqTGd2SWxBWmpjNHpmQy1iYVptdU10cV94N2RuektiaHYyRGl6Wi1fVGt4ZUpkN0ly?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
+    },
+    {
       "id": "f4dfc4ba8d5fa098",
       "title": "Myrealtrip, Amadeus team up on AI-powered travel services",
       "source": "TTG Asia",
@@ -12695,6 +12767,16 @@
       "firstSeen": "2026-09-04T10:28:22.632Z"
     },
     {
+      "id": "f608384e9a3b3b15",
+      "title": "AVEVA announces new product innovations at AVEVA World 2026",
+      "source": "Technical Review Middle East",
+      "date": "2026-05-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTVBcDR0UU9OblBjbWlLUWFvMXBtR0FOalp4R1piM2VpcEIycU82U1BEZ1MzZFd2bWtUTHpLUld6dzc4TzRGNEpkMGJaMW40RmhVaEJrWjdacnNDcVdHUk1LcmN2OXFlYkxvcDVfZlYwWEFJQ2FkdmdfZkVhaUo2Z2pLM1gydzdEdExGRk1aVnRGTGo2NlJ4TW90MDl2b2YwYndMaXJEdGJBOEEzdlBiag?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-10-26T12:09:33.825Z"
+    },
+    {
       "id": "466f90d51ac40c4b",
       "title": "AVEVA and Snowflake Partner to Advance Industrial AI and IT/OT Data Integration",
       "source": "ARC Advisory Group",
@@ -13355,6 +13437,16 @@
       "firstSeen": "2026-09-03T10:36:08.506Z"
     },
     {
+      "id": "7b1e5b1a0a4e0e39",
+      "title": "SAP SAPPHIRE 2026: The Future of Google Cloud AI Agents",
+      "source": "Google Cloud",
+      "date": "2026-05-13T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUJFak81RjJDZ2pOTzdiT2NBd1BGeFhyT0dGSktJZTRWdmxDVHIwU1JIYnBBV1Uxd3lBY1dyZUJGMFNTemg2dWNYTzdjbExQWjFDTWNLZFdWMVVoZjI5Y0NrcEVGNE5lYURnUDNleUp6dllCd2NzRjFHNmZDM1FFZ0J1ZjBZbTJUU2twcE8tSkxDT2J2VF9SVUphcXJ6cVpWVzRNcjA1VmhPZjl2RG5R?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
+    },
+    {
       "id": "3b8154b4953245cf",
       "title": "PwC’s 2026 Digital Trends in Operations: How AI Reinvents Enterprise Performance",
       "source": "PwC",
@@ -13403,6 +13495,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-22T11:03:58.356Z"
+    },
+    {
+      "id": "2c11795e4439856a",
+      "title": "SAP Unveils the Autonomous Enterprise",
+      "source": "SAP News Center",
+      "date": "2026-05-12T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbU1kN0RVY05JWk80N2wtTmZyc3pkb1VFTGtuZk1sSVRxcFROdG9MR2haOGl2NG1TUnFvRmtHdGVVRnZGdDQ4M2NCeFN3WGY4SXZjdDhvdlk2ZTNEVndfLUdmY1hab2l0d1J3N3ZWemFHUGFkZFJWT2txMmNmSlo3c2VR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
     },
     {
       "id": "9bb8f1905b78e770",
@@ -13885,6 +13987,16 @@
       "firstSeen": "2026-10-22T11:03:58.356Z"
     },
     {
+      "id": "c77164dc06cfb20d",
+      "title": "Welcome to Google Cloud Next26 | Google Cloud Blog",
+      "source": "Google Cloud",
+      "date": "2026-04-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUpuVlZzVlZlcTFMcmpTNnk2NW5mWDIyYy1keXFVb0FCQzhaMmVIUTZxMWJUM0hZU2laak95dTVpY1VNTVIwd0poTWgtbjlFcTZQZ2paYkNMRWlLY0dxc3FXOGJxYWlzR3dOYUswN0txejFKaHc0RnEtelJseEQyeld2NVdHSGI3RnUxUFhB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
+    },
+    {
       "id": "ef248825a782e145",
       "title": "What it takes to make AI work at scale in travel",
       "source": "PhocusWire",
@@ -14003,6 +14115,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-28T21:28:55.327Z"
+    },
+    {
+      "id": "c7b909ebb6b743dd",
+      "title": "Thales’ new Tandem OLED-based FlytEDGE Aura IFE shines bright",
+      "source": "Runway Girl",
+      "date": "2026-04-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkJKWXI4LVBFVU9VSnVNcHkwX2NIZFdSbDNpVnNTWEJ3d0JTUGROR3hTeEgydmpId1RfNzF4eWUzazRjUXdaRHJBNlB6d2NZa0pqZndNRFAyWjkxN2xVS3dBTWR4RGlLdHhJVkI1SlF2UjgwZ3REY29yb3pDZklmXzlyR3gweHFEbk5PNnZROVpESllFRzQ0cGtMYms2TTN4NUt4VzF1ZzZqQQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-10-26T12:09:51.219Z"
     },
     {
       "id": "b3722ed215b82707",
@@ -14963,6 +15085,16 @@
       "category": "Contentsquare",
       "query": "Contentsquare partnership",
       "firstSeen": "2026-10-25T10:36:40.297Z"
+    },
+    {
+      "id": "a3d833808ad82c52",
+      "title": "Unlocking enterprise data to accelerate agentic AI: How Ab Initio does it",
+      "source": "Google Cloud",
+      "date": "2026-02-19T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2FuTUhaXzhCWW5GSHlfWFB5NF80UVRZellhY1JsSGNSWDhxUHBkNWJLWFN3anRIblk0R0gtZkdwdTl3N2p4VzVXSF8yMWp3cFoxVjBXRXlVbkpSa3QzakdseFIxQjlYbEh1NzU1V1pldG53WGhuRWtyR2dHRlRLWE5uclBPWWN2U1ppR0kzTF9hTW9jd3d2OUVNb2lIMnROYVl0Z3UxVWVRV0Y4WlpnaDc4cVREdkNXbTVuQjhJM3gxVFdK?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-26T12:10:02.808Z"
     },
     {
       "id": "bf9542a8b3c90149",
