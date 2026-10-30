@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T12:11:59.050Z",
+  "lastUpdated": "2026-10-30T12:02:29.019Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1662,
+  "totalEntries": 1677,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -309,9 +309,136 @@
     "9c4f80069e0dbab7",
     "09dd3d0177f894ad",
     "a992614edeac0860",
-    "eb02fdc411da56dc"
+    "eb02fdc411da56dc",
+    "efd10743e14dfbc5",
+    "4ea66308d577e47f",
+    "742e4f39c3ac4380",
+    "fda45984a9846d8b",
+    "27e80d019cebfa81",
+    "ce8054d65b334beb",
+    "cbc0e1741780e9b4"
   ],
   "entries": [
+    {
+      "id": "bd11d4f99703cad3",
+      "title": "Forging agentic value chains - TCS fires up its Industrial Intelligence Foundry",
+      "source": "Diginomica",
+      "date": "2026-10-30T10:05:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDlIUjh3WVRSU01PM3dxVC1yR1lwdTgyd0h3QkV6ZDVWSnR4cl9qWEhsamxIZDhWbWU0ZHNYSnlaLXluNlI5MW1KMVlLLVkzYmxhVHFVZ2tmVUk1STJseDR3ZnlCOEZmblJZcmFCYTk4MFl4SEpSdW1VN0x0YlYzcjgyOWZpY2RlYnVyV3dOay1yMlhoaF9rcTdwaV9lZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-30T12:02:22.379Z"
+    },
+    {
+      "id": "566b72409ef695bd",
+      "title": "Is Amadeus IT Group (BME:AMS) Undervalued On Its NVIDIA AI Partnership?",
+      "source": "Simply Wall St",
+      "date": "2026-10-30T09:42:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMktOQWJTWUpwbnBKR3FVZHh3VGR3SlQ4Y3RMc0t6d1VLaHdld09NLXRlOWZPTkVfeEhIYVUwajV4alBtLVRvWFpMMDFkQWxUTThRcTVGencxV0lvZzVBZzZkSXFpTWQ1bGRERklZSVIwd0dyQ2k4eFVZV051dk1MV2V6UWFnQUQ1R3hPekpoZ0NUeGkzY1k1ajJnUkN5WldXbTFoSXFjRG5FTDlTZTNJaFJxeVZNYnBEYjc2Y1ZjR1FkV2t2SjlUVW5KS2ttSXRMZFpMVVhPNXJ0ZlhFWVhXUXZWQUQzZ9IB5gFBVV95cUxQMktOQWJTWUpwbnBKR3FVZHh3VGR3SlQ4Y3RMc0t6d1VLaHdld09NLXRlOWZPTkVfeEhIYVUwajV4alBtLVRvWFpMMDFkQWxUTThRcTVGencxV0lvZzVBZzZkSXFpTWQ1bGRERklZSVIwd0dyQ2k4eFVZV051dk1MV2V6UWFnQUQ1R3hPekpoZ0NUeGkzY1k1ajJnUkN5WldXbTFoSXFjRG5FTDlTZTNJaFJxeVZNYnBEYjc2Y1ZjR1FkV2t2SjlUVW5KS2ttSXRMZFpMVVhPNXJ0ZlhFWVhXUXZWQUQzZw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-10-30T12:02:14.751Z"
+    },
+    {
+      "id": "73a2456c1fa4e0c7",
+      "title": "Is Amadeus IT Group (BME:AMS) Undervalued On Its NVIDIA AI Partnership?",
+      "source": "Simply Wall St",
+      "date": "2026-10-30T09:42:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeVNkOVJQelV3TzlQUC1xbmJHTlNkQko5VFItTUtGcGZFNzJYd3RoMXh5cjByV1pwSXZUMnR1ZEIwaEZXRDVEdzZhN1pzTzY0YVg0NXI0QzhLUUh2eWZjTklSclpxeVlKV3kyZ2NFZEhBbktaVFBJbFNkRE5qT1NicDFoZkhDNkdrLWxZdTVRN0UxQnBaUDh5akhZU1lpd21WczEtYWtIdkJDckhWcE9MbU5mdkQzc2ozZTdqT0xWb3Zxb2hZZXVRUXFuWE9QOFViSjJ4ZDhXcDV2YkZxMS1BZNIB5gFBVV95cUxQMktOQWJTWUpwbnBKR3FVZHh3VGR3SlQ4Y3RMc0t6d1VLaHdld09NLXRlOWZPTkVfeEhIYVUwajV4alBtLVRvWFpMMDFkQWxUTThRcTVGencxV0lvZzVBZzZkSXFpTWQ1bGRERklZSVIwd0dyQ2k4eFVZV051dk1MV2V6UWFnQUQ1R3hPekpoZ0NUeGkzY1k1ajJnUkN5WldXbTFoSXFjRG5FTDlTZTNJaFJxeVZNYnBEYjc2Y1ZjR1FkV2t2SjlUVW5KS2ttSXRMZFpMVVhPNXJ0ZlhFWVhXUXZWQUQzZw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-10-30T12:02:13.582Z"
+    },
+    {
+      "id": "9645e72b0a318cf4",
+      "title": "Zero100 launches Peerworks for agentic supply chains",
+      "source": "IT Brief New Zealand",
+      "date": "2026-10-30T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFN6QmtXYVpFQllWejEtR1A1Zm9hTnJvOUhzTlBLVHJvbmpRNThiWExrTnB5U3NYdnhJdkhUdXZ1bF8xRmd6ZHFEeUpVMTZta1BFd0hXWFhXUHVsbWs5M3c5Uy0zQXlOX3lfR2NTSkUtV29XS3cwdGh5TkpfRWpaNmZyR3lpQUk?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-10-30T12:02:22.379Z"
+    },
+    {
+      "id": "61d8f0a4d7b3bec4",
+      "title": "Walmart Commits $6 Billion to Expand AI-Powered Automation Partnership with Symbotic",
+      "source": "CXO Digitalpulse",
+      "date": "2026-10-30T06:34:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYV9hYUZCMmg2UElTbFp1TzUzQ0RzMkhmR3pfOGIwQkRsSTlPaFM2dnNJMGN4MU0zM1JMNkg0VGhrbFFzd2Y3SU5kWFZIelk4SEVkMzZTc19KSEF0TGxDanpzLU9rOS1fUGVNZjFvbVJKTkZKNHBBclQtcEhPOWlrTTh1bUZVN2tFQ2ZNUkF5Z3pqaUpyT2tULU9IcElSUlFTWDNmOGp6YkM2RUw3LWM1TEVGclZEZk0?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-30T12:02:25.546Z"
+    },
+    {
+      "id": "1060411c47d90822",
+      "title": "Walmart and Symbotic ramp up automation and AI powered supply chain transformation push",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-10-30T05:45:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzkwTVd5QnBUbUxmYU05anlCRXJqNERxeldIOE1LdkNGS3E5dmxGUDNIU054QkJJSTF6MWFjU194X0ZEcDZ5d3RiYVhQN3UxTlA3V1RPc3BPckZKNTNsOE1YVW0yNTg4dkhSb3NZd2xSTjVMRUhqWUd3UDVhNDExZWRqWm9FWEF2SUFXWmZPVFdHakc3U2ZSVjgwMTN2SVJuOWZPTXdXbU5yUlBtUjdhX3BFNnUyZ0RDVUN2NEtCUGdQQk1wYjdzS1R0NDBCcmxTYkJMRU1iQm1pdUk?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-30T12:02:25.546Z"
+    },
+    {
+      "id": "ed860760e0cf8494",
+      "title": "Blue Yonder: 46% of people who shop with AI have returned what they bought",
+      "source": "DC Velocity",
+      "date": "2026-10-29T20:13:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQmEycV9abi1Qcy1Eb3lZOG5leFdUUWxhTjBQM2tnV0xWc2gyZDNIT25JYUdwb2VuS0VjQWZ1bXFORU1ZOGVCSGJzVXJmT0liTXU4QWVVOHJDZGR5UV9fUlFzTnZ5RzlVRmNqdmF0OUQwakVCNVVkdzN4S2JLRTFOR2VJM3EtV1FaQmJrTmpWTmozSkxsNHhCeElxRlFDRjFRQ3VZODBfTHJSb3lOS2ZqbmFPbDNyWWU2Rk42RzZBbmdpMG9JSHVuUkVuX3NLWmxDT2F3X05QT3NfeWJJeFE?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-30T12:02:11.544Z"
+    },
+    {
+      "id": "d0f684237989487c",
+      "title": "Monte Carlo Launches Bayes, an AI Teammate That Fixes Production AI Agents and Their Data",
+      "source": "HPCwire",
+      "date": "2026-10-29T19:25:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0F4dDFSdnpVRnRzbGViejlzeks2M2ItcTljU2xFN19ILVNoeWZiTjVnUWlWSDR1QURMQ1FzN0VEYTZDcGhTNGtDOWdNX3hCd01PZ0pub1l6SkJHOTkzSnh5b1J4RlJCT2IxMGJQVkNIWU1wWHBEWDVJM3l4c3pfTXdITWdsUWl0WXFNMUVyMTUyMDM1SE5KSnpMT2ZfOHRzbFVKa19mSGVXUGY2dnB0TFh5em9KT0dCbHNXZ2g4S2VyV3ROUDU1YllPUlEyQkUxTTBrYw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-10-30T12:02:27.924Z"
+    },
+    {
+      "id": "a7a7c1422f733b19",
+      "title": "How Agentic Commerce Could Shift Power to Consumers",
+      "source": "CX Today",
+      "date": "2026-10-29T15:01:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LNG0yNm5BZDhudzJPWkFob0w1VFU5WGJHbG9wQTV5WFY2Ty1zaDZGQU5FSUw2NUJwTFdmTU94Y0ZPbm5SOHpidHpuNjV0VWNtN3l5TzFzcWZBdGZiWXZBLTFhbndaZ0xBQ1Brd29HUzFkOXFmQjlXTGVoQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-30T12:02:23.484Z"
+    },
+    {
+      "id": "d133e1e3a815934f",
+      "title": "Mirakl exec at Money2020 USA: how retailers can thrive in agentic commerce era",
+      "source": "qz.com",
+      "date": "2026-10-29T13:20:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DT2NpNk81VElMV2FUVVl5UnRCMXBvb21aUGRIQUdScHhDY19zeWtmTEZCcS1aN21wSFA4S3VYc0VDUTZ4VFZMYXZWVHc4b3Ntam5PS083aFFiel90NndndUZtSHZZbm9wb1lXYURZRFg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-30T12:02:23.484Z"
+    },
+    {
+      "id": "5d0dd81411ff1fbc",
+      "title": "SupplyChainTalk: Why unified, AI-powered supply chains are pulling ahead – and what the rest risk losing",
+      "source": "Business Reporter",
+      "date": "2026-10-29T13:13:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa3dDQTZpNlZnVFFwUnBPdHJtMndpME0xNEZySlo2TEdxcS1wdzdvQnlKQWd5WXVzYmlKT2gxMDBETE1ERnlpeFJmUmhucDJSSk5QaC1MZkswNWFmX2plLUtORDd2T3ZGdVd2cHQwRXJONGJ1eHRIaUxYVTJKTklNZlVvc1RCalhjRkpibkt4UjRaME9wYXJ6cVI5WUtqU2UwQXQxSkcwY3QtQy1mcGhTeFZxdlBQR1l0ZkJpTXRjcU1yR0ZQdGlSOU5HdTRldEJRLVFITWNENTZ4V3NKN3lreEYxaw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-10-30T12:02:11.544Z"
+    },
+    {
+      "id": "ab7f6392f57bd2b6",
+      "title": "What Agentic Checkout Is, How It Works and Which Retailers Let AI Agents Buy For You",
+      "source": "Miami Herald",
+      "date": "2026-10-29T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0R2VsaVVRcERGbEstM2xDbWxJTVptUzIyalRGal9XeEhiTDVJd1Q3eHFCME1RSzd1eXBscW9WR1h5N21NMTdrb3RrWml0ZzB0SVRSaUE5V3dNQkMwZUloQmhzZ0Q1UU3SAWdBVV95cUxPYjNBRG0zdVhHWUZxakhURWVVMEdWRVlpa3pidWh1ZEdSYUZTejhfa1JPUE12VmFvY2xOdzlpVFVqeHR4eVM2Yktmd3lPSElpaUt3M0FPNGh0aDNqYmdSN2xpYV9lc1dF?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-10-30T12:02:23.484Z"
+    },
     {
       "id": "6cf0c76dd12bd277",
       "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd",
@@ -451,6 +578,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-10-29T12:11:56.964Z"
+    },
+    {
+      "id": "28ea5b8d5ddc4888",
+      "title": "Money Moves: Apparel Supply Chain Investments Shift to AI, Robotics and Last-Mile Logistics",
+      "source": "WWD",
+      "date": "2026-10-28T12:04:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmlSWkktaWhxNE1SOXZTaXRXaHBzNjBvTW9ENy0yMkNTaHk2VDR3andZUkp5ejhFQ3N1OXlOeVUzSEhRU1NuRFBBVEFwRHRQLUhtY09QUFhfejRUNGh3YWY3UlpCcWJYWlZZZG5zdEVoTTVIOHVfUkpKMGdQUXpJTWtyaU5raTBfcEZRTE5zZG03akEyamZXUHM5alQzNXBUdHhmd3hGWQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-10-30T12:02:25.546Z"
     },
     {
       "id": "4579e9d135e09d23",
@@ -681,6 +818,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-10-29T12:11:57.981Z"
+    },
+    {
+      "id": "5f0566096acf7921",
+      "title": "Spar International accelerates in retail media with the Footprints AI platform across its entire network",
+      "source": "Distribuzione Moderna",
+      "date": "2026-10-27T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU2VvTU0tLVFndk9RcWtGZlJsbEtGeEdDQVNfLVFNWGNVbFVhWjcyRVFhSGtOWDZuMXRQOXFLaGpDSXlKVWRTRUI4Zi1kNHN6RFQzX20tUEhNbllPWVVGclF1QWx2TzFBcjZNa0JJU1IzVlZuMDZUMUxRWnE5blZ1VzNCdFJsSXhpdjNoZlNsVmR6TGs1ajcwR21iRnhTdEMydnpfTjJrSEZLTWRncmxoR0xNdFdXek9hZEJadVJEVjk2VW1aSThtVmtkLVpQRUdKM1ZHMGVPQkx2U29aRnNlU1FRMHFnOFVDaE8w?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-10-30T12:02:26.856Z"
     },
     {
       "id": "af010407851b0a26",
@@ -14911,6 +15058,16 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-05T12:27:36.302Z"
+    },
+    {
+      "id": "82dc9cb9b7768329",
+      "title": "Amadeus IT Group stock gains as AI travel platform partnership boosts outlook",
+      "source": "ad-hoc-news.de",
+      "date": "2026-04-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNendVelFyMVBPQjFDcmdDRl81MVo5NDRuRnFnZmVoa04yd1YxMW4xTHVLQ0Jjam80QU84Qnc4VjlmWEhOMmwwMEhzNGwzSHc5bkZ1QmtjbVBYa21mcmt1T0xQZU5EaTJyWFhXSlRIbGJpeHg4eHdaeUstdnFOSTh1VWx3bHc5T0FpelJYc3R5S2dYQ29KdWR6Q2xjTGxpVzJ0UWtzVlNNdVhYMkhTMmFweWZXaEtPQUpMS1FMMHlpVTd1Qm9FaExXaGV3NWlCZ1lpU2p5aHFkQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-10-30T12:02:13.582Z"
     },
     {
       "id": "e8a9d2f7be4d4015",
