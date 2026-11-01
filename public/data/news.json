@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:37:50.729Z",
+  "lastUpdated": "2026-11-01T12:36:01.457Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1696,
+  "totalEntries": 1711,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -320,9 +320,35 @@
     "4f61bc685b86c365",
     "625bd5066a30f085",
     "46a57003862d36f9",
-    "5882a502a31de66f"
+    "5882a502a31de66f",
+    "f40da16a3d4e33dc",
+    "65d46eeb2244cd32",
+    "2128a41c75a552f2",
+    "a2a2519b7928f28f",
+    "5c76b3c733a5bb62",
+    "c23373bc540db502"
   ],
   "entries": [
+    {
+      "id": "7871db8499248206",
+      "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach",
+      "source": "Newswav",
+      "date": "2026-11-01T05:56:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT244REVTT0Vha3k3OFRoNkZnQk5MNGprZHBjaG04NWxmVEtDR2xoeFJqUF9LZ2Y5OGxMUlRISktwN3RNd290NHJlR0l4b21nNTBqcTlTME5HVTJQWmY4dEo0Xzc1VlR4NlIyUEJVNWNCRFJiN05LVHBzeWtia1VTWGM4UUFoZGM0MVRha3l5ZVNTcHFKVmhseXA2ZkNSSF9QS3NUZzQ2WExGaVV1V1Z1ZjVlemplU2s?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-01T12:35:45.626Z"
+    },
+    {
+      "id": "ffc296f2d0391347",
+      "title": "DBR77: Interview With Torian Richardson About Industrial AI, Digital Twins, And Manufacturing Innovation",
+      "source": "Pulse 2.0",
+      "date": "2026-10-31T14:17:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSVc3ZnU3VDZSdHNrMENxUmlXemVySHlIcmNjTHM3cVpkcWlSbndFOG9MdU51RHdlbVNvcnBOaDVPWmRCRTBScU9jdjVQNDJvb3BZWmRmdURlWDVzTEYtNTRWRFVqVDM1NjlEUl9R?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-01T12:36:01.455Z"
+    },
     {
       "id": "625872f8faf56da7",
       "title": "Walmart expands Symbotic warehouse automation deal with $6 billion commitment",
@@ -362,6 +388,26 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-31T11:37:44.608Z"
+    },
+    {
+      "id": "8074c78be0bfaa07",
+      "title": "AI, Agentic Commerce and the New Rules of Chargeback Management",
+      "source": "WWD",
+      "date": "2026-10-30T13:02:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlU3Y3Z1eDZ3S245VGJCV3ViMElGNUxFZ3lYenh4MkRIWTF2TVRwUXMyZzFiTXU5VTlkaFZFMXMxM3JMX3lSbXo2eHVkc0tWbldFYWJiZWNZT1ZxT3BoaVA2RWMtcERHRi1WWWVHbllXNEFTajNtWlQ2TmFhb3lkWVpVMnh6YmZsUXdFR1dpczdFcDRzcC0wTU5adjk3UHVsUEltcU9PbDR3YkdJOTVGaDhVYmFaOVRl?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-01T12:35:56.120Z"
+    },
+    {
+      "id": "11d97604dc1f5f91",
+      "title": "RentRedi Partners With Bright MLS to Connect Listing, Screening, and Property Management in One Platform",
+      "source": "GlobeNewswire",
+      "date": "2026-10-30T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOS2FkaHVadVNiTEZrdzBKVmFieElOcHg3c0R6VTNVVWRBdkd5eGZPczl2TUdKMDMwcGpORWREMGZZa3B1VTRyNEpobGZYTWN4RDlJOFJoX3J1M1FQVlRpODltZWx1SkU5c1VPeUlfaHk2QlB6S1A4M1c3TWpXcnFDSU1lU2lLNjhwVkh0blZ5WWhJTzVVZk1lOXJzX1h0U0JGV1BudFZUUTlnOGJ1b3dVQzIxaTZVODJMOXJjYmh3VjJGTVA1VlF6U0pDTlV4Y01SclhLWHczREFySHZqZVBhUjlJMWttT3VUeDN6VkdmQmhSZl9McHRET2FpR2hpLWF3ei05aQ?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-11-01T12:35:49.984Z"
     },
     {
       "id": "720723bc5920fa84",
@@ -972,6 +1018,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-10-29T12:11:48.127Z"
+    },
+    {
+      "id": "4d91fef896708dc9",
+      "title": "Advent International buys NielsenIQ",
+      "source": "PEI Private Equity",
+      "date": "2026-10-27T04:06:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkRWempPM2JnUWYwY3doVmV0V3VwellqRE1LRUJlRUg3ckFxa3NZOFQ1TXBtclpKTk9UVEcwMjNnNXY3cDJLTF9UVGlDd3RWRlJrZDNEY2lMcjNrbS12aGt3TC1fcHZFM2FYbWFjMjNHX3h6UTIzR0hCWS1JSWZzOWozU2tqZw?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ partnership",
+      "firstSeen": "2026-11-01T12:35:53.004Z"
     },
     {
       "id": "65485baf99cb5e87",
@@ -1794,6 +1850,16 @@
       "firstSeen": "2026-10-31T11:37:50.727Z"
     },
     {
+      "id": "0192ac8a0acb9458",
+      "title": "Supply chain readiness starts with daily operating discipline",
+      "source": "Supply Chain Management Review",
+      "date": "2026-10-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFF1ZkpzWGpOVXM3WFdhY0wzSmZ2YklYd3ZKTXVDd042dFJHR2RheFVoN2x4UnZaN1BXZHBSMzJnYWszVWNZOVk0dEpsS016a1dHNnZ4NndYZFR5WnROM245OUl4d1YwblN2RnhjLXhJT25EMW5CMGIzVG5ac29mRUNZQU4yT0JXU3VINTVVczdwOWVl?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-01T12:35:58.328Z"
+    },
+    {
       "id": "5e276087e05e27cc",
       "title": "Siemens and NVIDIA advance AI-powered PCB inspection from Digital Twin to factory",
       "source": "Siemens Newsroom",
@@ -1942,6 +2008,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-21T11:04:23.255Z"
+    },
+    {
+      "id": "b3ded347ec018b88",
+      "title": "AI and integrated mobility shape Gulf travel’s next chapter, says Amadeus",
+      "source": "TahawulTech.com",
+      "date": "2026-10-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUNOMmFCaHFaY2N5eFNhaTVrR1dOc2VOVFJJQXJJRTR0cWM0SGtjMjNyN1N3SzRyUjNaV0xaYjZRc0x4ZmtETFBIM25HNmhsQVdnWW9KdGFERWtQVzYta0dERnhXbWU3R1RrNWgxdVR0QVRrUDVJSW16aE5vbGkwak9HaDJRRkRjV0ZHNlJPaUNGdUJDMzBTOUJlYm9rRFFsXzBSOE43UkVHVHdjX0NNMA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-01T12:35:47.925Z"
     },
     {
       "id": "c7fc9349bb275b1e",
@@ -3812,6 +3888,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-10-28T12:01:42.851Z"
+    },
+    {
+      "id": "a23ee7ec10718d4d",
+      "title": "Schneider Electric and PTC Expand Industrial Software Coverage",
+      "source": "The Futurum Group",
+      "date": "2026-10-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTNPZmZTaGFsbGU2d0ExRFBkaVVrdFZUZ04waUtHWXJOeGNMTHZFOVd2aTMyYlVINXNJaUR4VTM0bDdVUnF2bGZlM2g3eUUzUmJzMGgwbWh4MElpRkpsS2Q1RWl3ZzZSMFVvUkJPMjdfNzhzUFhBVF9IcEdxTy1OaXFkUm5vMGtTMlIwSVkxbkNrY2U4ci10c3lpYjFvQQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-01T12:35:35.246Z"
     },
     {
       "id": "0e0d6c7b5897176c",
@@ -9334,6 +9420,16 @@
       "firstSeen": "2026-09-08T10:30:23.378Z"
     },
     {
+      "id": "f0a2951583a26975",
+      "title": "We Compared the Best Web Scraping Tools",
+      "source": "AIMultiple",
+      "date": "2026-08-13T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Oc290TjBoYXhwWkFvODMwMzBoODR1MWtLYUhndVQ4X21PUWNnWXFWa1hJVWVQb0wxUDFUaV9LWjMyd2M3R3ZldThFM2t2TEE3MVEw?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-01T12:35:51.015Z"
+    },
+    {
       "id": "0807bab4451cf609",
       "title": "L&T Technology launches AgenticIQ to scale Agentic AI across engineering and manufacturing",
       "source": "Indian Chemical News",
@@ -12524,6 +12620,16 @@
       "firstSeen": "2026-10-29T12:11:56.964Z"
     },
     {
+      "id": "f56f87d1c65440a0",
+      "title": "Assystem and Aveva Seal Strategic Partnership on Critical Infrastructure",
+      "source": "Idéal Investisseur",
+      "date": "2026-06-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWt1VGVHXzhvcXNldmQtX3VvYjlwQjhoNjVGejUtQ0tDWjZWMDlEWVpSSFhnMWExSjh0dHp2Y0xxQjBvcVdOWXZXTTBaeVdTSUhJM1RqQTRreUhzZlFha09YNlM5dmZnZ3dUZkxDMW1GdjBFTjhUaEYwclhHbnpEWUE2RldSYVFzRXlyU3RZT0NYWmZBZ2xZRFVhMXJ2TzlZOXRrWkptYlFGeWxxUjFfX3FLM0ZOLS1FT19Nb01UNVpRcUJJUWJrMG5GSQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-01T12:35:34.076Z"
+    },
+    {
       "id": "937577d5c40b1a74",
       "title": "AVEVA, Schneider and Heriot-Watt in net zero partnership",
       "source": "Enlit World",
@@ -14034,6 +14140,16 @@
       "firstSeen": "2026-09-15T10:57:25.228Z"
     },
     {
+      "id": "50f3670625344593",
+      "title": "Jet2 expands Amadeus partnership",
+      "source": "Aviation Business News",
+      "date": "2026-05-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDNhMGxWMEZ6clM0NEN2WFJJYnpCV3p2d2xPbGNoYi1ob0pqMC1YQndMcVJENmVtTDR2U0ZMRFBsWjlZNjNkVW9USnc2RVg3R2pLZHlFWWNwYlNGOFE5cC1XVk5JV2M1UGllQ055N2JBb3h4NFlSMGZVUWVvZFdZY3dhQ0dHTjhtY21r?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-01T12:35:46.777Z"
+    },
+    {
       "id": "c8bfdf1b1bef7ddd",
       "title": "AVEVA partners with AWS and Snowflake to accelerate industrial AI and cloud transformation",
       "source": "Intelligent CIO",
@@ -14422,6 +14538,16 @@
       "category": "Amadeus",
       "query": "Amadeus IT Group partnership",
       "firstSeen": "2026-09-09T10:41:11.668Z"
+    },
+    {
+      "id": "f8454ba874c8faf7",
+      "title": "Brick Cognitive: Agentic AI to scale manufacturing",
+      "source": "Reply",
+      "date": "2026-05-13T09:47:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS29DV2hZWU9YVko0MzZDMWxSRnB6eXRxamJUOGNfV0hReDRGdWxJT19qZnpxVzZGdVNZd3N5MlBhZkVISkUtNEpCSGxiRzRXbVBjSEtoazk5RzZzR3dZcVZNRllHLWF2bXNoU09ZYnd5S1pvUlhnbFVnelpCdlVYN29lUUhIdkFmbDVFZjVwbw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-01T12:35:55.051Z"
     },
     {
       "id": "499c8c1f836315ef",
@@ -15074,6 +15200,16 @@
       "firstSeen": "2026-09-04T10:28:35.883Z"
     },
     {
+      "id": "453013b40676d3d0",
+      "title": "SAP at Hannover Messe 2026: Operationalizing Agentic AI to Drive Resilient, End-to-End Manufacturing",
+      "source": "SAP News Center",
+      "date": "2026-04-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGdxVlhEX0JzaTItRWlIMzRsdnlnVmNycXVoRVhwNzJqbWo2MmtVNHRGV3d1bXZuVFpUeDZidGRsQzlhSVQtWWJMeVd2dDlrWS1ZQzhhN2dhb0hQSUNFQmNWYTc4OU5BOXNjcThyRVZuOUpRSGZkOHdENTVITHVCMzZRWWFGZlprcmJ1Y1F0NkZySWR1RkE?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-01T12:35:55.051Z"
+    },
+    {
       "id": "e75445057c58c9d9",
       "title": "Wipro at Blue Yonder ICON 2026 for Supply Chain Transformation",
       "source": "Wipro",
@@ -15372,6 +15508,26 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-08-28T21:28:55.327Z"
+    },
+    {
+      "id": "8d1ac066bd401713",
+      "title": "Singapore's Agentic AI Framework: Practical Guidance for Market Entry",
+      "source": "Mayer Brown",
+      "date": "2026-04-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2FNT0RQaHlLaE1nNi1Zak9MMDJZWjRDbjBoSzU1a2xvWWhiRVNXdXU2M3BnMDY0SlVJb1Jodk1QWHhGVG0xSEZ3U0c4X1VZbFcwb19nWW1BZ3l1blU4NWdXdWdYaThUMENIUmN1YlYwUmd1bzBZWDd1NVVPQ3Rkd2ZSZU5NS1NGb3ptTHZTa0llQWgyOGp2enRXRmo3bXBVTUhBWG12VWx4LTBqUlRuVWg5ZGNjRXZLN2JkM2Z0SV9wY1BJaGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-01T12:35:55.051Z"
+    },
+    {
+      "id": "07c6e66fdd792f0c",
+      "title": "Scaling agentic AI for operational breakthroughs",
+      "source": "McKinsey & Company",
+      "date": "2026-04-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWxDZGhrZVQ0bm9lYzdCT19QcGVlbE43cFdRZFFYOUt0cVNNZ1E2bF9uTTExZm00X2tGR3pzMGhpcG9ud2dVekJKQ2pfelRtN2MxX2RlOGJhbkZoWXV1TWx6Z1E2RFZiWGZwU2JBeXBsNXJwaWFvZWhQSDlHMzlRQ2tqNGZBSERuVzEtLWNJR3p4cUgybWhFc2J2R2RocFpxTUIzVHAtMTJLQjBLVDAw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-01T12:35:55.051Z"
     },
     {
       "id": "9900335fae483330",
