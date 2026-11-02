@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T12:36:01.457Z",
+  "lastUpdated": "2026-11-02T14:39:20.084Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1711,
+  "totalEntries": 1723,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -326,9 +326,71 @@
     "2128a41c75a552f2",
     "a2a2519b7928f28f",
     "5c76b3c733a5bb62",
-    "c23373bc540db502"
+    "c23373bc540db502",
+    "f46c3768a6c908c5",
+    "330c87cd31a09558"
   ],
   "entries": [
+    {
+      "id": "cea0688f9a32d884",
+      "title": "Customs AI That Ignores the Operator is Built to Fail",
+      "source": "Global Trade Magazine",
+      "date": "2026-11-02T13:38:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDJPdTZMOGx2YVROUDBSTzFKclZuc2w1aUp3TmpDdW9jUnBQbzlMYzJxdUZXY195aW9Cd3JrTzdPakd3M1lJSmtOc2t5UmFHQmYyNEVZSDg4a3FFSVlpYVdfSVNKWDJnQ1Ezb0FvN2xTa29lQjRsOE5YSXhpYlJCTUh0ZTI4dHl6T3pPSnBn?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-02T14:39:16.367Z"
+    },
+    {
+      "id": "b11d1961cfa20a72",
+      "title": "AI data issue driving product returns",
+      "source": "Retail Customer Experience",
+      "date": "2026-11-02T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGhycDFhREVMa00xaGNPSEk4UEFXZU50a1pLT2VSS1hpb1ZXaUZVOFhtNy1ZZ3V5LTEweUpYS1lrOWFBdG54dml6ajFnMC1Bc0JNQk5wSlQ1THgzQjNKS0JLeGUtLUk5SDU2Yy1fVTEtdjZSRG9WWmdOWEZWX250Y3hpX1Vob0JHcWZ1NA?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-02T14:39:02.327Z"
+    },
+    {
+      "id": "eab637f0c55a9c26",
+      "title": "Siemens stock gains as Naver talks spotlight industrial AI",
+      "source": "ad-hoc-news.de",
+      "date": "2026-11-02T09:39:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWtYQjc0WHRqLVRUT1FBQTNoVTVtWGc1VVVaVUZtVUl0TGRMUWhOMWVaajRUOEFnT1BSRGJVWFd1RFY3SENxVndLczdhZVc4c1hobU9OUV90RHBTeTFYQUFFTnVMSUc3X2E1aGY3ZndLMkNsSGVBaHhBeHJNcjJzSmJYWmF1WlNIdEJETk5QR2RJM2ZCZUpJWGJ3UVNfeFlDUUR1cXp6T2xPcHdYTEYzR1J6VnROTjliRTRZb3Nn?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-02T14:39:20.082Z"
+    },
+    {
+      "id": "035378d548d1cf18",
+      "title": "Mastercard Signs Partnership With OpenAI. CEO Says Agentic Commerce Is Still in \"Early Days.\"",
+      "source": "AIM Media House",
+      "date": "2026-11-02T08:47:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnpnU2dSSmdDTVFBa25yRXpWSFRNcXM0N0c2cV9xcHFDSzIxSEtvUXdnb2VYLTNCdkFjbUw0UFFTSkNsS3Vkb3RRYVp1Zm1TaTI1ZVBCZ0J6cEt6U29wZkYwQlpBaFRJUUd4aGs4VVpPZm4xVlc0RlV2NTdWQ2U1SWhoU2VHSEo5QWFsbWJMVXVIVE9wRE5aZFlkQ2xWS2JqZHRGd25iR2F2YjhyNXNnOGVmSjFiX3VxcXdNNGpjUjc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-02T14:39:14.262Z"
+    },
+    {
+      "id": "942c054dd9c5e92a",
+      "title": "“We understand how critical access to public web data is for startups”",
+      "source": "CTech",
+      "date": "2026-11-02T07:48:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1la2FkTHR4WWdUQUt0NEZ0SHhKaGhhblc3Ykw3aGMxanExSVJ0NGliRGZQY09NY2RaZWk4MGR6SnNfTXV1aXJCM1RQaExNZWlSV2o1bkE2N0d1V3BXajAtdWdpd0g3Vk0?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-02T14:39:08.975Z"
+    },
+    {
+      "id": "2ef9d9493a240ad9",
+      "title": "AVEVA to showcases Industrial AI and CONNECT Platform at ADIPEC 2026",
+      "source": "Indian Chemical News",
+      "date": "2026-11-01T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlNyRnFCcVdLclotb1FHMjVUQ3U4VlVQbjRVd0NQZWhBR2w5ZTQ0aURCM2NQOHlvb2pTUjNXZVNiS1V6eTh2NkIzMGVlY3dyb0FyblUycmx0bXpTTTVldlNhVWE3YzM1WVhUY2JneW00UXppTWdpdnJkcHByekhkRkFseW9YNlFrV1p5bDBFTDE0Zy1NbHM1OV8wOFZYQ1JvYkNFVnFNMkduMDRvOW5QWXBKVHlkTFdVc0d4cF85cnY1bE13ZVHSAcYBQVVfeXFMTVZTckZxQnFXS3JaLW9RRzI1VEN1OFZVUG40VXdDUGVoQUdsOWU0NGlEQjNjUDh5b29qU1IzV2VTYktVenk4djZCMzBlZWN3cm9Bcm5VMnJsdG16U001ZXZTYVVhN2MzNVlYVGNiZ3ltNFF6aU1naXZyZHBwcnpIZEZBbHlvWDZRa1daeWwwRUwxNGctTWxzNTlfMDhWWENSb2JDRVZxTTJHbjA0bzluUFlwSlR5ZExXVXNHeHBfOXJ2NWxNd2VR?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-02T14:38:52.657Z"
+    },
     {
       "id": "7871db8499248206",
       "title": "Malaysia Airlines warns customers of possible data exposure in Amadeus cyber breach",
@@ -358,6 +420,26 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-10-31T11:37:47.020Z"
+    },
+    {
+      "id": "f803d209415c63f5",
+      "title": "The AI ROI paradox: why African business leaders must ditch the pilot trap and build agentic assembly lines",
+      "source": "CNBC Africa",
+      "date": "2026-10-30T21:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPclduS3RXbHpGX3hKdUR5TWZjdUJaXzdjbF80UDUxLVI3ZjhfOC1OeUtJa2kyUW9PYUdFY1NfQW5QUk1jdGJRdmFSZ016N3N1bWFDeWtOUXBNb3dJRlpSVlhWVVl0dl9KMjdUblJRUFJDOFdpdDFwam1FM3oxS1drazBjcUJLWHQzdHIwRnZOUWkzUnpEbEhTcmx3Mmhod1d1R0NYRU5TdlNESS0zMy1MQVgtMFlwMkhnTXhOTWVZSF9zV1BpT2c1ODFzenVvbGcxbDByTA?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-02T14:39:19.023Z"
+    },
+    {
+      "id": "7ab613ccd5c578cd",
+      "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
+      "source": "Databricks",
+      "date": "2026-10-30T21:13:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGxMQm0wNnJLNWVfRUl2RXh3NmJwVW0yZWN2ZFo5THl6UFFsbXI0bjNVZ1R5MWtVZlFsRHBIUUhDSUR4dGViaU1lXzJWcnkzYXFxS3pLd1pPV2NsdkZkUXc4Y24tNHN5NDVMT0x1bVZsQmkyMFFGcmJIZW9BYjlsRFZxbkcxVGdQZ1FFSUVyQk1ZdW43bEtoUk9qazNDYld6ZTYtb21yTXRERXhfZnN0Z2xQLXFUMnNZUTFLMFpYZw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-02T14:39:19.023Z"
     },
     {
       "id": "62da0c804a1836f1",
@@ -2220,6 +2302,16 @@
       "firstSeen": "2026-10-29T12:11:46.962Z"
     },
     {
+      "id": "243488afeb4bd42f",
+      "title": "Are We Looking in the Wrong Place to Solve the AI Data Center Sustainability Challenge?",
+      "source": "Unite.AI",
+      "date": "2026-10-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lS3pzNEdqUjgzMmFxaDUwRms5TlJrT2hTQU51NnNQdDhlcWdKeGVDdUNNd2R0ejFoWlRWSXVRUDlGQ3VZRERCaEszRU1zTkJVN21IYkpIdDV5ckRDNmFwRUNRZzBORlYtazdkbk1xVVBYQXhEX0E?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-02T14:39:02.327Z"
+    },
+    {
       "id": "6d8bb96bf1d0a2ee",
       "title": "What Does Lightspeed Commerce (TSX:LSPD) New Agentic AI Mean For Retailers?",
       "source": "Simply Wall Street",
@@ -3310,6 +3402,16 @@
       "firstSeen": "2026-10-11T12:01:09.438Z"
     },
     {
+      "id": "530f3e0c4a617b42",
+      "title": "ASOS Breach: 72-Hour GDPR Clock as Snowflake Denies Hack",
+      "source": "shattered.io",
+      "date": "2026-10-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZTRjeXp1YmFjNzV2aUMwOXkxZTQyQmtjVWlLUHpmMjROUC02eVRGbUhERU5GN1dKRzV3azdQcDVIQzZhdmo5VlNJVUxMUjlfSkdEMHRlV21sVEk0SzlHSTJlSzFfSFBKaFN3SjlxdVFVc1dFUmhEWk1pVkxNY3c?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-02T14:39:03.389Z"
+    },
+    {
       "id": "db7ea0841d534752",
       "title": "Building AI Agents with Real-Time Web Data — Yohan Raju, Bright Data｜AI Engineer",
       "source": "finance.biggo.com",
@@ -4078,6 +4180,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-10-29T12:11:32.009Z"
+    },
+    {
+      "id": "3297f4c851da84c6",
+      "title": "Schneider Electric to Acquire PTC in Industrial Software Push",
+      "source": "IndexBox",
+      "date": "2026-10-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWZmVmpMN18zVHZmY1FoXzhtN09HRHBWWndyOXFsaGh2cHBNMmFBeXZhbVFEU3hmbFk5dUUzMVJ3V3dMNE1nNjFxWDFlQnRzak5QUEJGNXR3RWtxM3JiWmc5UVMwNENlSk9kSTR4NGtFNjIzZjV6cDI1TU0yTUVpNlg0QmVBdTBOWVRoUHNzMlIwS3AtWmc?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-02T14:38:52.657Z"
     },
     {
       "id": "096d7d96e86908b9",
@@ -9948,6 +10060,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-05T09:54:04.104Z"
+    },
+    {
+      "id": "e40d9db3a36d1387",
+      "title": "How Retail Media Networks Work for Small Businesses: A Strategic Blueprint",
+      "source": "Columbia University",
+      "date": "2026-08-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbUNwRnZrOWRCRjFxX2RQWlBxNzlWenFKSTdaUmd5eE5hWkNtdXZJbG56enczNW5HNXFuVFlRY2FyWXJhamRWVlZJaXBIOGZFY3Jqb1dCdHl5OTBZdmxSZl9oVU15YWFDRk44bGtjSXZNM0tE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-02T14:39:17.795Z"
     },
     {
       "id": "7a5a677ebbc2256e",
