@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T14:39:20.084Z",
+  "lastUpdated": "2026-11-03T13:31:47.894Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1723,
+  "totalEntries": 1733,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -328,9 +328,71 @@
     "5c76b3c733a5bb62",
     "c23373bc540db502",
     "f46c3768a6c908c5",
-    "330c87cd31a09558"
+    "330c87cd31a09558",
+    "99e867f760901ca7",
+    "4f5c316ee56331c7"
   ],
   "entries": [
+    {
+      "id": "0cd6cd6164ea3440",
+      "title": "Agentic Commerce Statistics 2026: How Many Americans Let AI Shop for Them?",
+      "source": "ClickPost",
+      "date": "2026-11-03T10:31:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MdDNQVENXV3c4WnV0dzB1WXlBNEF0UlFBYndoRGxtdzdaZFhwSGVfamdNRDJUNHhYUnhhY3BtbnRtcHV1NVVMbWlhNkhhSmFfbEhjUkltV0ZCWEhJX0JFX0FhTTJBdnhtbmhPbjBaZ3k?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-03T13:31:42.078Z"
+    },
+    {
+      "id": "231b4d0502f177ed",
+      "title": "CRM and CDP Platforms Open up Customer Data for the Agentic Enterprise",
+      "source": "CX Today",
+      "date": "2026-11-03T09:05:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0FxSXhKcldsQWlMM1FBVVB6UEpydnQwMFhOZm9KSnpocmowMzZZMEt1TFE3dUFRQ3JuQUFFMTg4UmpIX2JWcnJBMU9yRUFvWVVDQ1huNVVVbWJZUUdsRWpPZ295NVlWSEJVTFkyLU1rcC1UWmFaaEtlU2RPNUhwOERYV29wRGcwSGlkWTd0WWJTZUVvOGR1ZHBn?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-03T13:31:46.390Z"
+    },
+    {
+      "id": "052ad03a4dfe7aee",
+      "title": "Contentsquare New AI-First Experience Platform Optimizes Human, Agent Journey",
+      "source": "Demand Gen Report",
+      "date": "2026-11-02T20:30:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUYtQmlGSzF1TVVQTFVZYXp5R29EdTZiWFBuQko5Zl9qVjlVa1lwZ3RHeVR0azVFZGQ1bENpMVZ3MVpvT3dYeDZaMWlIMTE1S1NnN0dhdmJEVGZPVzhWOTh3dmc3ejNQUmUxSExDMGhINVYwVzdrTHc3OVE4b1EzV0xLNGN5cHZGVEtpLWV3WG9HV25EcHVvT2QwVnBieTNHZUxPZ1UtckxiMnY0cDJHYnlCLWFqaHRkZFlaNjNkZjhNcXMxeDJPOXRMZ0Nldks2R3AwNDJVOA?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare digital experience analytics",
+      "firstSeen": "2026-11-03T13:31:23.435Z"
+    },
+    {
+      "id": "b27bedd370aecd28",
+      "title": "Amadeus data breach affects multiple airline partners",
+      "source": "PhocusWire",
+      "date": "2026-11-02T20:07:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalFuVGw0UUN5QlU4eWNzRjdnNkNpdDRvdEhSTEI5bG9YVkxidFNuMXJfTk5xcnc5azVaU2YtaHhWTHdzblQ1bFRLYm5UVzRmNDFjV0lGYXJPRGt1UTFqeml0WVR6c3FTMmFYLUpSemg1WThsd19BckVoUXNfZEVGV2NZOTZMWUQ5bFQ2UWZaSlFQSG9jZmt3?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-03T13:31:31.798Z"
+    },
+    {
+      "id": "a1214a1451f46b70",
+      "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
+      "source": "Retail Dive",
+      "date": "2026-11-02T15:11:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXIyN3RPSUtXanJpNzZxa1VMNTdnWXFuZWUtY2d2YWx5QnFpd2dLbGdyNU1GRFZMOTNJdnhqcGdkTzZmcTFOZktsRlZnNU5fUnoyV2xjaEkwUHdNWnM1TXJkWV9vamtrd0tzYl9PVFUwRG9ncXIxTF9QWG9aMTZyZjRYQ1J1X3BGSDlpdmdZaWlZWnJzRXQwbldBV1hIdlkyYUMtelNwbUc4YmVtWWtoelcyZ2s?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-03T13:31:42.078Z"
+    },
+    {
+      "id": "b704339a52b58e63",
+      "title": "Elizabeth Donovan is making commerce media networks more accessible to advertisers",
+      "source": "Ad Age",
+      "date": "2026-11-02T14:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDBtcmg3aU5yanBCMEFwcTBURkIwLUZhVVA5cS1MNEhFTFVqVHpBUElCdkI2d1VFM2R6bU9rQk5hTTFYV3FxVVFEVWxpRFd6cUYxaTIySDFKYkhJUy1vQ19GcmJ4ZWtIbFF4ZXhOUXdENWZDZzRHWWpOenZ4YjB4cWpJOEVKelFueFdTUnZzSU9EV294?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-03T13:31:45.215Z"
+    },
     {
       "id": "cea0688f9a32d884",
       "title": "Customs AI That Ignores the Operator is Built to Fail",
@@ -440,6 +502,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-02T14:39:19.023Z"
+    },
+    {
+      "id": "3ca06bedfe1f60b0",
+      "title": "Workday Rebuilds Data Cloud for AI Agents",
+      "source": "ERP Today",
+      "date": "2026-10-30T21:13:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kd0FfTmRyQ0l5WTJRSm1QdDU1NUdqMzROa0VpMW1aVWlpUUd5anA4bkx3amY1aWJianRtNF9BeU94YzJCSDJZaHhJWEVzemx5WmNodGZydHJRZ1dRampCUlBleEZYa29xZU9XQg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-03T13:31:46.390Z"
     },
     {
       "id": "62da0c804a1836f1",
@@ -620,6 +692,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-30T12:02:23.484Z"
+    },
+    {
+      "id": "fb305e4a7baec123",
+      "title": "Google, NIQ Partner On Agentic Commerce 10/29/2026",
+      "source": "MediaPost",
+      "date": "2026-10-29T13:47:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3VQOGlRYkNzeW1nSlI4QUI2aFZFVXJHcnRabFdCbW9IeGFlS00xMDU2LTNiRDBscHB5MEVIdjRTUVIzOXFneERrQVdqYTdaY0d3U3gybU9RdnJMQURLWC1FRUljWXl3UEpoQ0pPT1JVSUtQd0NpZUwzUlRuLVltREFUdU1aaElUbUZlQzZ5SDFHZ2l6SVhMSkViNHM2UQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-03T13:31:42.078Z"
     },
     {
       "id": "d133e1e3a815934f",
@@ -13652,6 +13734,16 @@
       "firstSeen": "2026-09-19T10:13:50.855Z"
     },
     {
+      "id": "b4c9edbdf1df7b4c",
+      "title": "Top 10 Price Monitoring Tools: Bright Insights & Competera",
+      "source": "AIMultiple",
+      "date": "2026-06-04T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VVXpoYjMtaU1Tc0lWeE56cVdQYzMyMHV4YnFWdG41QlJyT2luOTdUcnFtbmtzcjhrZFFlWS00dFFZWDVlNUFhbGZjUW5LS1NTdWJDbzhZNXY?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-11-03T13:31:33.968Z"
+    },
+    {
       "id": "448c03ace1569b3a",
       "title": "dunnhumby ventures Returns to Bentonville for Retail Innovation Forum, Debuting U.S. Startup Competition With the National Retail Federation",
       "source": "01net",
@@ -16820,6 +16912,16 @@
       "category": "AI trends",
       "query": "industrial AI IT OT convergence",
       "firstSeen": "2026-08-02T19:17:16.521Z"
+    },
+    {
+      "id": "be7940585d547d06",
+      "title": "Top Retail Media Trends for 2026: AI & Agentic Commerce",
+      "source": "Mirakl",
+      "date": "2026-01-22T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TandIZzk1cEx0LVdQSFdZMGJWU0Zsb1NJdnhQY2Q1U1pwLUc5WGxEUWZBRmxEZ0VPd3lhdUFIYy0tbnVqZTExNml5MWpMVVJ6YWtoSlNydmVHSDdCMW85TjNZa2dtNkphdV9aYk44eVlMWThIRngteVFKaw?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-03T13:31:45.215Z"
     },
     {
       "id": "6459c4397c1374ca",
