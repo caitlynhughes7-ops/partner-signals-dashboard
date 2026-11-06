@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T13:55:02.203Z",
+  "lastUpdated": "2026-11-06T13:40:30.701Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1779,
+  "totalEntries": 1799,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -337,9 +337,170 @@
     "b597debbc4713b77",
     "51032b3f7e66ad1b",
     "c8e6c4e086f69099",
-    "4d09382c81793e11"
+    "4d09382c81793e11",
+    "08eefb03fded7147"
   ],
   "entries": [
+    {
+      "id": "0c3bbe1cdf9bfd09",
+      "title": "Blue Yonder: AI Could Transform Food and Beverage Production Planning",
+      "source": "Food & Beverage Outlook",
+      "date": "2026-11-06T09:27:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzNMRzJuVHVUQ1N1SU1RS3BteVlHY3R1UVBmcmxsdXpiWU5YSm9fek41MGlfX0FzT1FRcTBpT1FNVHl2WExiNFB5QlVYVnNJUmRMcGZYWVhPLTZvZGg5eEhzNFFUTGNrMEtGbXhocHBrSjFza25TMWVWT0JjZDNxLUdVWE9ldGpaTlVsYmZxLW9aa082b0lUY3lZRHdTdmlod0pkemFxR2NKRllvZEhLQVk4Nk02X2YzVHJHV1psRGFfZTlTLWN3?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
+    },
+    {
+      "id": "2b5c5f1ed4514b3e",
+      "title": "Who buys into agentic commerce on the buy side? Dedicated followers of fashion, according to ASOS",
+      "source": "Diginomica",
+      "date": "2026-11-06T09:20:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczc2MDZkcjFGYzdOTmEtVVExSlFqN3dnbjlJdmpwS0tLOFJNaG9hUF9nWGVKQkVfV3MzNDJ0OEF3X1dQTTgzTFZEQWd1NDl1MUJWQ3ZJeDFFNndha29adnZ6a3VxY3NYYUxmR244ZXZxS2pOSGVrX3NtZ05WR0VNdlREc3d6OFZMSkxIY3d2RFhhd2FOeUdONkdZbFlxajQtRGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-06T13:40:25.359Z"
+    },
+    {
+      "id": "7c90a7dfbc511cb8",
+      "title": "November 2026 Issue: AI, Warehouse Automation and the Future of Logistics",
+      "source": "Logistics Business",
+      "date": "2026-11-06T09:04:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00anFUZmJ2VU5Yc19BUnZPNU0wNlFOMWE3YWprcVJHRnhpNFhOUFZBblFGcUx6WWdteFgzeV9ET1JCb3d1dGpWNkFqVDRwYmx4ZG5VbE42NGdWSFFPMjJZcHJhbEdsdDM2bHA3MkhjeG9KNzMtTUlV?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-06T13:40:27.478Z"
+    },
+    {
+      "id": "f89940fc024f4916",
+      "title": "Retail Media Innovation winner: Criteo Commerce Max",
+      "source": "Performance Marketing World",
+      "date": "2026-11-06T08:35:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkNBdnQ3M1RzUnh0M0p2MFlKX3YtNERaUVdmWEltSFM2eGd1NU9UbmFzSGJHMmFQTjR1VTNUa1ppdFM0eEJrcUtpdlU1MjVUZDBhaEdHN2pfZUN4QlNfd3c5ajhnMFV1QVQ4dmhRNnlrUmJRYURxR0VlMDZOZjQ4QUJNTHVMMGpBV3lWWmp1RGVNZDNaYWRJRm91cEhNRFluckZGTnlRejJMdmIt?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-06T13:40:28.539Z"
+    },
+    {
+      "id": "106e49506cd483a1",
+      "title": "firmly Raises $15M Series A for Agentic Commerce [2026]",
+      "source": "shattered.io",
+      "date": "2026-11-06T05:43:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVpsQm56Tms0Q3VXZlVJNVF1OC1Nc0doeDZGZUJlTnlLTlUxa3hMQnFtcEZrTnE2WUEySFl0TkZnQ2xCVWxNMXhsYTh5dm5INTItSWxUMTNRNVFLamN5NW9Nbm15T0dDNmJrVHY2dWRELUxQdE5XeGkwSFRoTl9pUUdQVEpzNVo2TUVmR29n?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-06T13:40:25.359Z"
+    },
+    {
+      "id": "f007abfcc2cc4925",
+      "title": "Agentic commerce startup firmly announces $15 million Series A led by Squarepoint Capital",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-11-06T04:59:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYndDblAzbGtNMndrQkpGZGpILWlIZGt1MGJncGg3WHZDOC1kYnVPX1lqOF8xZ1J3MHFnSlBKZ1duVXNuNy1wZXN4UEZVLUsxNzQ1N2cweFRxNVZTUUZuYzJSZXBIcWp0X2pCY3NPbm1TRlVWUTBzTktpSmVra0xfOC1wM1NRY0lwX2tTbzRTMXJfNTl4NDJoTjhLSjAwblpJWnVFOS1odjZ6emZ2aTJoRjF0TW91ZTB4Vk5UbHZMSFlNUzZMNlhLOTNHSVF0TnZMbnd6UkRn?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-06T13:40:25.359Z"
+    },
+    {
+      "id": "fa3bb96b024b50b4",
+      "title": "Blue Yonder launches AI-native order management tool",
+      "source": "Australia",
+      "date": "2026-11-06T02:10:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0hBTy1NMTlKUENodHhKQ21xTldHa1VDd1VoVEYwOXFkYmRmTWxCVGJ0azI4aTEzdDR5YWNqdTN0SzRaQjBFbkdLV0dKVTZEcThXSUlYT3paYmJYMmQxNFl6clFoUmJ3bmpQdFdIX1lmdGxIbGkzQmhuVmFjM2lJbGxDNFh6V2JzLXFycUtQVjY?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
+    },
+    {
+      "id": "65c3035aaaf01639",
+      "title": "Google Cloud Expands Agentic Data Cloud With Cross-Cloud Updates",
+      "source": "Channel Insider",
+      "date": "2026-11-05T20:41:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejBTSFpMRkJZRnRLRFdGTUYzQkI0Y2owcmczUXN2SXZhREVDeDVmZ0hqZjI0MEpMSzN1aTlhbjl3cXlZZGhJcGU5YV9zNDlaRzhuTG9ZREpMeGU0S3o3NE1vYm9jRDNlWllyVDJsWTRVNF9IcHRmbFNobGVVQUlkWUtDS1dzNmx5Z0U0QlVWRXVjeEdCcHc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-06T13:40:29.639Z"
+    },
+    {
+      "id": "c49b1db478e0bdfd",
+      "title": "Rootstock Survey Finds Agentic AI Gaining Ground as 77% of Manufacturers Plan to Increase AI Investment",
+      "source": "01net",
+      "date": "2026-11-05T17:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHpKYkhiVDlJLUpuRFBKcmV6Nm54WUJNcjJmc014YTQxMURaR0cxTFIxS2lPMDRYRUdrREdaclNuMU1uM3k5T2cwWFJ1alh0WGE4MktsamF0RVJ3eUlvV1BtMVJoYVZqdXp0enMwekp1ajFRWDgwYVdFZFFUNDJtbnRtS1h5U1Z2M0t2d1NIc2pyNkpqUEZkamFicG9oMHZ0VGlobDJULUdUdVM1cXNsSVRZSlIwd2wtWU9IdEdXY3dXUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-06T13:40:24.225Z"
+    },
+    {
+      "id": "d7953a9c18ba8862",
+      "title": "Blue Yonder Launches AI-Powered Order Management to Cut Fulfilment Costs",
+      "source": "EME Outlook Magazine",
+      "date": "2026-11-05T16:53:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFlBZUFvWVh4TW9ET1RrRldSeDhYVnRLc0tyMDJ3YWJpVXRjYllYQUZmZDByeVZsbThRTXlHNmpLNDN1cHhGS2NMdTJoWHN0QVhKcUlZNVdtckU2UXp5eXlwUjVQYzlVWlFUV2ZuWXlFakVQbjBHN0tqSmFtMWFjQ05BWGJtMFYxSmZ2N2JpWExqYkFObTQ4R1RpM3B1aFVKUGlmT1AzUUhfR3pkUG54WmlZTU5na0NGZEg0ZQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
+    },
+    {
+      "id": "b5c40cf272f8ec80",
+      "title": "Morocco Needs to Scale Industrial AI Beyond Pilot Projects, AVEVA Executive Says",
+      "source": "Morocco World News",
+      "date": "2026-11-05T16:37:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lWSEk3WDJiUmphV1hXYkZJOVRPZ3VNOWZ6d09mc0VMenFSZFp3Z2ZrTFlSM0N0eXdsU0xLVzZ1bHBaUGJONUVfRXoxdXJqQ2cyTFBobl8yN0xkSFZIQWltSU9FZF9DRG54Sm5PTHNIZTBfcUtSYktVeVRNOUdZZEI0MExJcXgycWdkX01sc014ZkxHOUlBU0VJOXJFQmVYT1JmbXF6cTlpOV9ZZC1mMXZSNWdja0hRMUgxekFhcEVxLTYxZUtJ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-06T13:40:03.903Z"
+    },
+    {
+      "id": "b294f0746222be93",
+      "title": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump",
+      "source": "Digital Transactions",
+      "date": "2026-11-05T16:05:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVBOWnF4dmYtXzBwbnFuUHpjcTIxN1o0aVVaakRhaE1OUUF3bUFIbC1VTVNoQVdxdDFwMUEwU3RRd3FLRk5vZTZoRDNseGFLR2lBUzZCTE1rRlNrOWZ6VTZSbXpiUzFvRF9JUFJzYnFHWlpfV3MzOXRNdFRLY3ZGX1BwaVI0RkFvWlZicm9lM01ra3VGb1BPVmtxWEh6RVNWaXo1aDBDUklfc1k2NTJUNHBGNUxQaVE?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-06T13:40:25.359Z"
+    },
+    {
+      "id": "281340a52e51fb03",
+      "title": "Blue Yonder Launches AI-Native Order Management for Retailers and Distributors",
+      "source": "Logistics Viewpoints",
+      "date": "2026-11-05T15:37:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1g2cnM0b2JTTTVoS1JTS3BzRXQyVWZSd25nOVY2OFdDSUFQZXcwRGRBSjQ4UUVYVDM3M1FYeTZsTFFmUGFkaHZ3cVVBcmFSWmJoZXpvNE9ROGtSVkV5VHc0LWQyek83aDRiMHc1cnh5a0dVM1NKQzBXeVdURENfeUxkaXdSYUJZX2lNR3RMZnR1MUtUYmd2ZHhSN3Nha1EwOXN3YXM5VDBDUDdVRXFGWlJhVVJiT2UzWGxPQk5KTQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
+    },
+    {
+      "id": "20cca64780fe4405",
+      "title": "Bright Data’s web scrapers heal themselves with AI coding agents",
+      "source": "TechRadar",
+      "date": "2026-11-05T15:36:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEJYdmNGSm9OeDBzdHk1ZVFKandwcFpWczBPYjhJMWVKRGNMSVFibkVtM1FsWGFSeDBpc0VaS05RZE0tOUVHUXAwemdVemRDV3JoNUlWc0RtZmg2dGh0X2ZZRGF2cURRcnJubjBuenRsZ09yUlpTT210R3U1aTZ6OWhfWXZkdWEyN1V5QXJBZTI?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-06T13:40:20.056Z"
+    },
+    {
+      "id": "8a90ca1083c9c594",
+      "title": "AI-Native Order Management Solution Launched",
+      "source": "Logistics Business",
+      "date": "2026-11-05T14:19:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTlERVp5cjJudFdQQW5xYTdKRnEtdlNsZzUzdUNubjQ5OXFrbTBxWGxjV0I2ZktpRjB2LUVQTFhCZ25HMVdzOVl5WjhUbHFWV0JvUkFvdXBuR1MxenIxZG9PczNnZ0JSeFQ3cng0OTBlY1dZdXhPVE9XNW1OMFVhLWVsSVhNSndoRjhFLWQ2UTFZYThXZy01a2gwTzRsaElsaXBLMEdsUkFxQQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
+    },
+    {
+      "id": "b2ebe9e0999cff21",
+      "title": "Rootstock Finds AI in Manufacturing Moving From Experimentation to Operations -",
+      "source": "Enterprise Times",
+      "date": "2026-11-05T14:00:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanVjcUlWSnl4OWVheW1LaTV5Q2YzT0YxTmtrdW5IelFKZ2VGYkJjNFVGNk1xU3cxdWlTcW1ULVlsZ0JVcUpjUjBVeHFGTlV3SUxmOXRtVEpabTMzSUk2Y2FSeTd3Ympqa3JwLXg0S0doNDN1UFlmUHkzOGZuNTRMVGREekZ2RjM5Mk9LNHN0RE5MMlU5d1I2WGc1Y2hDQnlubm56ZmZUV1k2UTJtbld5UUVWVXY2ZnR6UUdBS3ZhNks?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-06T13:40:24.225Z"
+    },
     {
       "id": "fd1541361861a6d0",
       "title": "Blue Yonder Launches AI-Native Order Management to Help Retailers and Distributors Protect Sales and Lower Fulfillment Costs",
@@ -359,6 +520,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-11-05T13:54:55.728Z"
+    },
+    {
+      "id": "ad5fa7da58540b1d",
+      "title": "Opinion: How AI is Transforming Supply Chain Resilience",
+      "source": "EME Outlook Magazine",
+      "date": "2026-11-05T11:02:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcU40Zjl4b183RGFIM2VITlFJQUd5SGFHUFM5cVhUYnR4V08yY01IZXNzZWJDcjVsX0FiUnQ1bmViQ1dSOVdXM1lfOTF3U0hlTnBTbzNMYWg5QkFDYURKOEprWTd1Mmx3ZnNxUDVGTktHaEQ2OXI1clRjQWNHYXE1aDFkQmNXVEc1YjFvZlNaNlRFTzBDTHFCUUpEdm9NUURpdFQ2dg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-06T13:40:13.628Z"
     },
     {
       "id": "595290ce77d58fdf",
@@ -521,6 +692,16 @@
       "firstSeen": "2026-11-04T13:42:29.424Z"
     },
     {
+      "id": "f30145d4d40ee47f",
+      "title": "Vietnam-Denmark Healthcare Cooperation: Shifting from Experience Exchange to Action Connections",
+      "source": "Vietnam.vn",
+      "date": "2026-11-04T03:39:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmtDRnU5OVhTSEVfTkpRUmpfZTVGMHlqZEd6SWFzakd0XzhDV1hCR0JPWnRWNWhHS0tvYXFDUDlJXzhpRF90bUZhWkRDZGpvUW42UVR6RDZVOVMxeEgxaEpPaG9uTGp4MENxLU9mTThBNk9fLVV0LXlkUkkydU43SEUySGhCUTMzbjVtQ2h0YktMRnI3VmJlSnp2aEZJVThyMXI1NmphMktzQld2XzNn?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-06T13:40:02.915Z"
+    },
+    {
       "id": "31019c5d805df2be",
       "title": "From Automation to Autonomy: How Physical AI is Reshaping Warehouse Operations",
       "source": "SupplyChainBrain",
@@ -639,6 +820,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-04T13:42:30.506Z"
+    },
+    {
+      "id": "43c0bdb645ff085c",
+      "title": "With Ontology, Snowflake wants enterprise AI agents to understand business context before they act",
+      "source": "ET Enterprise AI",
+      "date": "2026-11-03T13:32:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONENhNFY5RmpoNXBEQ0RybDBtdjgxRXZDMTM1MVFaeGNPYVdLZU9lcndaX3RNcTN6aVc5RkxzZ0U0MDdVWV9qbFpKQ0ozTUV0Mk9sY0Y2bDVWYlp0bGVnZi1MSGk0OENJWXJHWVNrazFGalNkYkI2YUtXUjdLZkIyVmFiSWEtVE5UVTZGcjI2dTVoWlRfb1VRQS1XeTRFenNsT3FNWXByamlTTnFndmxTejZmNXk0clUtS09xYnhrTnJzb3NVWkZ4c2hjZ0pZd3FtYU81elhOUW9nbW9RODVpYnlQcTA4SUp0Uk5jUThJRC1lTm15UGFSM09wc0g4Wmdl0gGGAkFVX3lxTE0tU3RqVUVBdGgxV25TMHdseWlpZ3VEZzNPa1k3V1JDRnBPb2hOaW9WYUtVSUtTSm01Rks5eGIwSXJDT3JaeXpCZ092S2xBSnNfbVVkUGFrOExRUGYxT2RZeXRmVUNhZ3IxS0Fja1IwMFpPNlhnQlF1eWZXNFZtRTc4Rk93YUJvZlkxVjh0YU9zQ2l3YzlYWnZRVXlMTjF3RTlhMXBBQjl3SnB6bzhEdTNMSXh1S19pVjVrajhIUGpKdkw1bXNoOWpwZlJ2bkZ1RjM2VjNsWUZzT2RWZzVCR0kzVTlPOGdrbXJnVU4wYXJhZ01SN29rYlh1cjlLTVJyWE1zejZ6WlE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-06T13:40:29.640Z"
     },
     {
       "id": "0cd6cd6164ea3440",
@@ -16829,6 +17020,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-03T10:36:06.310Z"
+    },
+    {
+      "id": "02aaab4e6578255b",
+      "title": "Sure, seems like the perfect time to bring back BattleBots with an Israel-based AI company attached",
+      "source": "A.V. Club",
+      "date": "2026-02-28T20:00:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHlDVjh3M0hnNk04Z2VndWF0VXFsU1l6bUtDQUdRVTBtUjc0cGVZLWx5VGl2cTJWNkxUcmJ4NWhIWFZmdWUzcUxwWXR4UnFyZUF6TUhyM3RvdEZsZXhwZ1RIWVdwTmFoeURzQ2JlYkxHdXFXdWVsYXJYekN6ODU0VTlhOHU?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data partnership",
+      "firstSeen": "2026-11-06T13:40:18.952Z"
     },
     {
       "id": "8fe962b0b1bd71ba",
