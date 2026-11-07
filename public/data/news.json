@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T13:40:30.701Z",
+  "lastUpdated": "2026-11-07T12:21:39.445Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1799,
+  "totalEntries": 1807,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -338,9 +338,50 @@
     "51032b3f7e66ad1b",
     "c8e6c4e086f69099",
     "4d09382c81793e11",
-    "08eefb03fded7147"
+    "08eefb03fded7147",
+    "6d927eb69700458e"
   ],
   "entries": [
+    {
+      "id": "2c71731fa56ec9ec",
+      "title": "Walmart Expands Symbotic Automation Use In Ecommerce Sites",
+      "source": "Supply Chain Digital Magazine",
+      "date": "2026-11-06T20:38:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXdZbmNXcGRXY0tvUGdNWnNIXzFaaGZZelBVVmhkMjNmV2FSS1o1OW5EUWs1bjlFTHJPUXhocFNEWkV5cHoxOTB3OU95N1lDVGVvOFZ5Zm4wOWRqN1E2WkZfZGxvSld5N0FMOW1qT1BRN0lZWWF0YmppSmY5Q29yRlRldmQ3Y2xQODBSQWQ5RG1WXzRZZkY5NXVCdWg?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-07T12:21:36.358Z"
+    },
+    {
+      "id": "5019063d32460c21",
+      "title": "The Data Stack Consolidation: Confluent, EDB and Google Take Different Routes",
+      "source": "HPCwire",
+      "date": "2026-11-06T15:29:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYy14TXVQV2ZCN1lsSlE2eFdkMmttc3JPVDNsdG5iUHV6SVFkaGIxOTJ1Tm5GWHhWM3BJMG51a2JTX0FVc2RnYjZXQUpCRW1STU53cGl2a3BINE5YZjNLMF9WLUJFTkRrQUVuQ29tMW1LUE02NEN2NjZzREZBejM4S25FaHRjV1hBUS1GWnR5aXZvbTVPd2Z5b2RCQ1U4Vkhad3NPcXRPTWdoN1c0YlYzbEFmNno2TGFIU09IMWFUbnM?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-07T12:21:38.378Z"
+    },
+    {
+      "id": "b29d8bd768b42c58",
+      "title": "Blue Yonder Release 2026.3 Introduces New AI-Driven Supply Chain Capabilities",
+      "source": "Logistics Viewpoints",
+      "date": "2026-11-06T15:01:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpBOE5vcVVpQmoxYzJjcElPUC1McldQcDQxUDJvYW9qdk5pWkx3Tl80LUNUOUM5OWluNHB2VW9Ud0ZOdnA1aHNjZ0IwdzJTVWRTUkdEV0ljOVg2R0ZsUkJVN0hzSWNPbjJTaUQ2OFNSMFljR1IzVkdCSGF4RVp5Yy1CTUhDRHhjZ3JQVlNIcTYzM3BqbVlES2MwRDdrQWFURWVYVnZCcmpkaGxMVG4zdmRfaGM1Sl9YN0RMMlBR?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-07T12:21:22.963Z"
+    },
+    {
+      "id": "0a1cd91b02f38811",
+      "title": "America’s biggest stores aren’t ready for Agentic Commerce this Black Friday!",
+      "source": "Tamebay",
+      "date": "2026-11-06T13:57:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnU3WVBldlE2b3NxTUxFYUZCdmNhTUNZLUNWM3M1WEtybUJud0ZsQk8zLWgtSEIxZGc5T1RmaldnWklJcjN2QVg2YlNiREVQQzFzYzVLT0dxMl9rbW16Z1ZRMlJVS0d1YjVrblZLX3RZb2EtTGVUNXA1ZzYyQzVmcUtybkVsZmN4TUhFbDNJRXBKZUNxc2pWOWg2M3Y2Xy1LQjhlbWtSU0xndw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-07T12:21:34.248Z"
+    },
     {
       "id": "0c3bbe1cdf9bfd09",
       "title": "Blue Yonder: AI Could Transform Food and Beverage Production Planning",
@@ -780,6 +821,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-04T13:42:30.505Z"
+    },
+    {
+      "id": "031784309504cf58",
+      "title": "Snowflake CoCo and CoWork Power the Agentic Enterprise",
+      "source": "Snowflake",
+      "date": "2026-11-03T14:20:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY01rcktnZEV5WFFZV2JCV2NwckFQZFRnU1BlRXFiamhzNlZYSURhd1Y5SWE3algwaGN4ZWNDSURXVFRwZFc2dzFiYkJGZm11V0YzdTJhUWRpWUR1NUFRaENhWXlsa0lwMXNIZXUyekdpU1NOeHZSTHg1OFBDTHhMYjN2aw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-07T12:21:38.378Z"
     },
     {
       "id": "a27d92776da98266",
@@ -13722,6 +13773,16 @@
       "firstSeen": "2026-08-31T06:05:33.779Z"
     },
     {
+      "id": "aa4047d058047602",
+      "title": "Blue Yonder unveils new AI tools for supply chains",
+      "source": "CFOtech Australia",
+      "date": "2026-06-19T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTk5zZkNmQTJaWGlOWUQzZkRnVVRHdTV6TTBmMURiQ0EyaVZ5TmE2ZkV0RHY3NG5EbUYyMlZGOGY3eTdRd09vNjNvejVKUUJ4dDloYVcycFBVa3BoR1dpMFBLcGRyZTI0MUozVDFQRXkwOWhsWDlOTTRBekwyUHRraEtrd0IzQQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-07T12:21:22.963Z"
+    },
+    {
       "id": "666e70dbe4ffa184",
       "title": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence",
       "source": "AVEVA",
@@ -14430,6 +14491,16 @@
       "category": "AVEVA",
       "query": "AVEVA Snowflake",
       "firstSeen": "2026-09-03T10:35:43.146Z"
+    },
+    {
+      "id": "708faa4cdf9e0937",
+      "title": "NIQ Named 2026 Retail & Consumer Goods Snowflake Product Partner of the Year",
+      "source": "Yahoo Finance",
+      "date": "2026-06-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajJWUkQ5TGRGVlRvVjBXejI5QUJhU3lhZmROREk2eXROb29GajJBaXJvblJWQWJDREZaaUFRbDkwU0dLcTFqcS1tRmstRi1sTmZqRHEwZzI5SkZibHpPLXVzdlk0dTVOZThTaXFZdlFhOC1RaC1wSE5sX2t6VC1VYldNZ20xUGZ0UlQyOEhJdkgxZURTM1MzTEtPOVk2MTRZ?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ Snowflake",
+      "firstSeen": "2026-11-07T12:21:30.143Z"
     },
     {
       "id": "e8697c7809a5f8a1",
@@ -16942,6 +17013,16 @@
       "firstSeen": "2026-08-21T08:04:00.129Z"
     },
     {
+      "id": "aefdf7ea4bc507d7",
+      "title": "HBX partners Outpayce for travel payments tech",
+      "source": "FinTech Futures",
+      "date": "2026-03-05T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHh4N3gxRlNSNU03aWdOWnp6RjV4enVMX3Fka09lMTVwS19jdVlBRVBmdFNkUWtxWEdYQVAyQ1N5WHR6QWZiSVUzZzczdGNHVV9ESVltTm9UaFZhRXNtLVlvMFlPMXd1andzY2s2bUZTWFRzODJlYkdYcGJiS2xoenRYcm9QUjJYUW5KcVNNekpPdW1NZ1J2bU1n?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-07T12:21:25.018Z"
+    },
+    {
       "id": "c6384beba2bde93e",
       "title": "The agentic AI revolution in retail | Strategy&",
       "source": "PwC",
@@ -17892,6 +17973,16 @@
       "firstSeen": "2026-10-06T12:40:39.509Z"
     },
     {
+      "id": "ee0b988534e29b92",
+      "title": "PepsiCo Deploys AI-Powered Digital Twins of Manufacturing Facilities to Test Expansion Plans",
+      "source": "Retail TouchPoints",
+      "date": "2026-01-07T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1VQT1R0M2hIYmZmWTBUY2U4ZkZ4SHFreEdTY3g3cjdkR2dhUVM3Ri1mWF9sUkhaVEhLalFma0c5LUh4eERGcUdwZFJBQTFZTkItanBGWERIUTZ1TDRKTFliNXJNdTZXN3ZkcXo0UzdxckREUWhoRlQ4NFVnMmgtRFFPcjFvWWNLWERxakoxekxmX2s0akFZRkllWDBhZmtHcWZ2QlVNYV9SeFNYbkpEVWlmdHJfQjkya2dIekxDSm1aTTRyTXlWTkw5am9Qc0ItOTQydi13?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-07T12:21:39.443Z"
+    },
+    {
       "id": "057143a8e0650a9a",
       "title": "How does NTT DATA's Edge AI platform revolutionize Industry",
       "source": "analyticsindiamag.com",
@@ -18320,16 +18411,6 @@
       "category": "dunnhumby",
       "query": "dunnhumby retail media",
       "firstSeen": "2026-08-02T19:17:00.763Z"
-    },
-    {
-      "id": "6d927eb69700458e",
-      "title": "AI platforms not danger but opportunity for Amadeus, CEO says",
-      "source": "Reuters",
-      "date": "2025-11-07T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVk0SUJEVmV6LWlCUi1ZSHVzcV9MWUlsMDZjRUlTX19MeTVRUGJmdVY1UjRza292WFF6NTVhSm5Ec3g2akJpVWtYZ2h1RmJxU1JNYlBTR3dpUUNFSF9ybFZjWllWVkR6QzludzB0d0ZKZjRSMmZyQzBkVDM4Tl9GdzBZVlZ5Yk9Xakk1UEpzRjJaQVBXZGxqR0hHVklUQQ?oc=5",
-      "category": "Amadeus",
-      "query": "Amadeus travel technology AI",
-      "firstSeen": "2026-08-02T19:17:06.971Z"
     }
   ]
 }
