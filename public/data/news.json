@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T12:21:39.445Z",
+  "lastUpdated": "2026-11-08T12:40:36.117Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1807,
+  "totalEntries": 1808,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -339,9 +339,21 @@
     "c8e6c4e086f69099",
     "4d09382c81793e11",
     "08eefb03fded7147",
-    "6d927eb69700458e"
+    "6d927eb69700458e",
+    "52acb51847e06588",
+    "f2d331890a7f0d38"
   ],
   "entries": [
+    {
+      "id": "56205097114cc356",
+      "title": "Learn Why The Bull Case For Amadeus IT Group Stock Could Change Following Earnings Update",
+      "source": "Simply Wall St",
+      "date": "2026-11-07T19:27:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbk1jeno1WExqNGZyajhZQkVjZWlob000Mm5rVHMwZktocGFhb2N6bi12SGR4NEwyVjNPM3Vzd0p4eWFocVNFTmF0ZExlOGNUNHJjS2FTS1hERVUzbVpENDJiMG95WURkcW5LQkU0OWFTNlh1cmJ2TkFxRzlhb3FBVnVMRVRjaXl0b091QWNWNW5DdHA3LUpoOXVadmpkQjJvTFI2UjRlRFl2RVg5NDZlZlRMSjRsUDBIQXF2aXBkZm14dl9CMXFhUTBNY2Ffc0F6ZlBSYUh4RVdlbjM3Z3l4azVobkdwQdIB5gFBVV95cUxNbk1jeno1WExqNGZyajhZQkVjZWlob000Mm5rVHMwZktocGFhb2N6bi12SGR4NEwyVjNPM3Vzd0p4eWFocVNFTmF0ZExlOGNUNHJjS2FTS1hERVUzbVpENDJiMG95WURkcW5LQkU0OWFTNlh1cmJ2TkFxRzlhb3FBVnVMRVRjaXl0b091QWNWNW5DdHA3LUpoOXVadmpkQjJvTFI2UjRlRFl2RVg5NDZlZlRMSjRsUDBIQXF2aXBkZm14dl9CMXFhUTBNY2Ffc0F6ZlBSYUh4RVdlbjM3Z3l4azVobkdwQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-08T12:40:20.430Z"
+    },
     {
       "id": "2c71731fa56ec9ec",
       "title": "Walmart Expands Symbotic Automation Use In Ecommerce Sites",
