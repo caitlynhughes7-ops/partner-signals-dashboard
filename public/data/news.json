@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T12:40:36.117Z",
+  "lastUpdated": "2026-11-09T15:00:40.566Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1808,
+  "totalEntries": 1818,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -345,6 +345,66 @@
   ],
   "entries": [
     {
+      "id": "2e0226340f7c7c76",
+      "title": "Blue Yonder Releases Q3 2026 Company Highlights",
+      "source": "Business Wire",
+      "date": "2026-11-09T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmctREp1VlpQdmFhTDFtV3piRDBvZGVkT3p5TEVnZ0Q1Vm1YblBVcjFsX09zSkxVem5ScDhjVDE1aFlQSHA1ZVRHTF9OdHJQVHk5bENTSGtZWXVjTlpDcGxHY0N5S2FaNl9yMUJyZk4xRzdJTHNnTWsyYUdFM1ZoZ21CaVphWXZlQjVKMUpWQXd6V1U0NmVSV3dHLXZrdWpjeVFmd3ptSQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-09T15:00:23.713Z"
+    },
+    {
+      "id": "01cf632774c08c7e",
+      "title": "Agentic Commerce in Mexico: AI Visibility and Retail Growth",
+      "source": "Mexico Business News",
+      "date": "2026-11-09T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemZKbUxsaGhHY290U0tBMEdwYXc2ZTZnWnhwNm0tWDZLd3dJc1NWVC1DMzN3SjJRLWV0YWY1T29hak9maWZpR3hBNDl2QllXOHg5WDZoRmJyaHRzZ3p2QXpKMUV1QzdzS3ZMRTVScDNOdThxZlZpTElQYzhhNDZIRmZEMFM1ckRyZksyUDJnOFlHUlBYellQYW5GTnNQNjQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-09T15:00:35.294Z"
+    },
+    {
+      "id": "c802fe15152060ea",
+      "title": "Tech Unicorn Mirakl Gets a Rebrand for the AI Age",
+      "source": "ADWEEK",
+      "date": "2026-11-09T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW9CUDJGSzFBWnJfaHk4MGpvLUpHLWJjVl8tQ08xTHNIUjluUTFiZ1IxelNmZ2pkZVljcmZKM2N4VXdaVDQ2WWRySThTdndlblZ0MlJOSXpBbk9PUUhaVHA0Z0xwVXBxcnBINzNLVFZVX3lILUdvRnpHTXpXYURNdlFEbF9JbE83M0E?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-09T15:00:38.449Z"
+    },
+    {
+      "id": "965d76f694a324e8",
+      "title": "Sri Lanka’s Hayleys Retail to launch supermarket chain with Blue Yonder",
+      "source": "EconomyNext",
+      "date": "2026-11-09T10:07:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHA1b2dpQnpMN1RuTF9WalptNU1Tcm5Uc0JJc3c1S2dxSno4RFRQa0NWSFBleldNWTBGdDJ0NDZxd24ycWFkMHUwRl9PbHBTaURZb3VFSnBsb0J4Sk13OGpGWVJjLS1HRUljU3A3N21VZW54eHJYSWZvVldLb1VVbC1vQ01Ed0pLOHBWWVNod1NCaEtBWG44dHc3RXRiQVhWWWgySg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-09T15:00:23.713Z"
+    },
+    {
+      "id": "8191a02a606abc18",
+      "title": "Amazon launches AI shopping through text messages in agentic push",
+      "source": "Retail Gazette",
+      "date": "2026-11-09T07:33:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHF5VE10ZlpVWEd4bUN0OEszdWxfd0RHcGxGejlZTFdWTEJSTmhhZTJwcEVTN2ROWGh5RDdqYlA5LTJSdmdTZkl6NlR1RDVWTTlndTlTQ3k3LVQ2cEgzUy1nRmxGX3RiMUNUb2xvM1N1dXROa2d4M2NPNzI1cURXQll4bmVGZm9Ha1ZJ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-09T15:00:35.295Z"
+    },
+    {
+      "id": "6bce5fd8e7de28fa",
+      "title": "In order for Korea to maintain its status as a manufacturing powerhouse, it must pass on the experi..",
+      "source": "매일경제",
+      "date": "2026-11-09T07:11:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtSGpkTTNSajRJLU44U2dsS2hfOWRzNWEtR0p2dTl0UG1QbXZNc2d5WlhLUF9fX3ZONW8xWTBjblMxMjZxN2tmWGhIUQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-09T15:00:40.563Z"
+    },
+    {
       "id": "56205097114cc356",
       "title": "Learn Why The Bull Case For Amadeus IT Group Stock Could Change Following Earnings Update",
       "source": "Simply Wall St",
@@ -383,6 +443,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-11-07T12:21:22.963Z"
+    },
+    {
+      "id": "4f5e46e3b2d8b0e5",
+      "title": "Zacks Industry Outlook Highlights Nexxen International, NIQ Global Intelligence and National CineMedia",
+      "source": "TradingView",
+      "date": "2026-11-06T14:17:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYlRKdFpJUUpIbFlQdXU0Sk16ZWgtaVlCdEpUWTE3d1MwZ1RZeXJQRWVNT0FET0dWcHhiYjV4TFo4VnFoTkFyNWFZRzBqVWc5R0tweC1sWFBTbDZibEp0d3paLWpGdDBHQUVqRTloSm9jZVhuRlpzRmFNeG9VNTJxM3g2QkxraEh6WGpnTUlvWlE1MW5aa1ZWLTdiTmFSa1RxY21Sb2xoekZuNjFsV2tWR0txZjhTMTV0YkdQWVFZLXBxNHhzRGhINFpoSzB0cnZxTklBZVJfcXF0bWJudVJxY1lhb1k5RUJNcUtKbmx3?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-09T15:00:38.449Z"
     },
     {
       "id": "0a1cd91b02f38811",
@@ -603,6 +673,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-05T13:55:01.133Z"
+    },
+    {
+      "id": "fd3ed34c773ff602",
+      "title": "Google makes big plans for wallet",
+      "source": "Retail Dive",
+      "date": "2026-11-04T21:57:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQW9KN3l0TU1KYUhJb29FNGJYWlNRRjFCZS1BUlFieWFJVGdXWkF6RXJXNnY0N1VfRTRDQ25Cbi1jTVd5dWpFYlJLYUJNZXZIc0xDcTlmdjVMU05pSDlsTzJ2YV9TdnF4MWJmdllIeVFjZjRGQlRJYlAzbFhpQ0ptRW1n?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-09T15:00:35.294Z"
     },
     {
       "id": "73f1b9f0f253b08d",
@@ -9305,6 +9385,16 @@
       "firstSeen": "2026-10-22T11:03:45.376Z"
     },
     {
+      "id": "8267ed2787b032ea",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "source": "McKinsey & Company",
+      "date": "2026-08-25T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkNzT2lMcURPYXQxQmh0azdzbjVrNFktNzZFLTZacnFlR2xZYXczRnI4MHh2amsya2xOOEh1QURSbFUxU0ZUWGQ5WE5kVHJtbEFJb0NOdTNVUVhPeC1iVVJOZk1VbXpwLVBuYzVod0tMVmlYbVdzNjgwcF83MTVJTWNvVFRaZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-09T15:00:34.218Z"
+    },
+    {
       "id": "be587556a4134e4e",
       "title": "Hancom pilots agentic OS at Namyang Dairy to expand Korea manufacturing AI - CHOSUNBIZ",
       "source": "Chosunbiz",
@@ -15683,6 +15773,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-09-06T10:10:45.204Z"
+    },
+    {
+      "id": "6b5f7fc7f62a7d65",
+      "title": "What AI agents mean for retail media: 4 lessons",
+      "source": "Mirakl",
+      "date": "2026-05-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORlZUVEpTYlFXcjd3NWZjZW1pRFdQd183eHlzc3JUX1lPN0xGa2R4eXoyeW1YS2NOTFVDOVl0MVNMX0ZWai00ZF9qZmFxcGFpWmFYZXRqR2pURDAwRFBZWlo3Sy0zbE9oNDhFamRMNDNGU09CN3l6dER2ajBKdnNxUENGaDIwQkFlUDlRcjFmLVlydlJxTmxuQ0I1c2FhY09rN0lGZUN4a3Jla0pBcldqc2hBUlM3VWU5MHZOY0hkdTVucmkzVnFGSXMta0RWMmQ3U2RESg?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-09T15:00:38.449Z"
     },
     {
       "id": "ad6d4249f067147f",
