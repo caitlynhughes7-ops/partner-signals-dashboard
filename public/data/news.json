@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T15:00:40.566Z",
+  "lastUpdated": "2026-11-10T14:14:15.495Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1818,
+  "totalEntries": 1826,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -341,9 +341,91 @@
     "08eefb03fded7147",
     "6d927eb69700458e",
     "52acb51847e06588",
-    "f2d331890a7f0d38"
+    "f2d331890a7f0d38",
+    "342c0269cf3dfd3d",
+    "7fde7a06dacefe45"
   ],
   "entries": [
+    {
+      "id": "9c340991c434d3d1",
+      "title": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence",
+      "source": "Robotics & Automation News",
+      "date": "2026-11-10T14:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTFqSzVyZThzY0MyeXE0OHFRb2hnRTZ4T0N5SWhBeTZZbU5seXlQMVNUc3Zxa0oxZ2h6UVZvZWdmZURVUGdsQTczYTc0X1E1aVZadEtvcjRUQVdLNC11QlMtakdGa24tVng5TEg2alNRR1l2WlcwcmpPb3BtN0NSelFHaFVPRmZmV1NrWmRJOVU3Y3I4ZXlGaTJWT01TR1M3TTFKVUJ5TXlpZ1JWOEt2RjJCTVRIeWZtVHRSdzhPbmpZWlVURzdORWIyWHNHckZ2Y3BsOWRKYlIxY09t?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-10T14:14:12.325Z"
+    },
+    {
+      "id": "0a8d9e4e18e337f5",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+      "source": "Microsoft Source",
+      "date": "2026-11-10T13:09:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-10T14:14:14.432Z"
+    },
+    {
+      "id": "5cc44a8f23e3c7bf",
+      "title": "Schneider Electric explores technology convergence in mining",
+      "source": "International Mining",
+      "date": "2026-11-10T11:59:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamNnSVR2Y1ZVN2RFeC1uZG9FY2dEbk1Lc0k2b3MxSlFaZ3VOc0ZNTFI0Vl9NX3AyTXdYZkhjUFVIcVBaR0ZYXzV0aGZoNWlUX0tidW9NVFloMm53dlVzZHVXRkhheFg4UXdSRXppRTBOVE1YWjN5MWlUZ2VuYXo4SG90TXRXMy1nNlFFOFJTbXRwb240M0RwSlZ3?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-10T14:13:48.479Z"
+    },
+    {
+      "id": "c5e2c4f80b400eb0",
+      "title": "Agentic Commerce Means Companies Have to Relearn Their Audiences",
+      "source": "International Business Times",
+      "date": "2026-11-10T11:06:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13X1VXS2kwdHVmSkR2enNQZ19WNndaaGtobjN6LWdhbThCdks1a1UzNFhIWVBFWkUwSWppcjNqbXBkN3ZOQmhWQWp1M3B0dTZfNUtFZE5FQ2JBLXN5Ty1sM3NfYl9MNmVyU2NNTlhRc1dyVFE1Z251eQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-10T14:14:10.213Z"
+    },
+    {
+      "id": "261de1ad8d01d00c",
+      "title": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores",
+      "source": "Business Wire",
+      "date": "2026-11-10T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbkdWTXl4cGNhNElqUjYyUzk2VTNlT0xvaVdJdEtHdXlmVkRoN0dfMUNTMGFrY2dTcHJCSE5GSFlfS2gybEdIb1cxQkMzUUk5bFFsakIwbmNINXlia2R5aEJEaHo4bTBtLXZaVmRTbXN2ZlFDYTE4RW0zVElaZzVlc0FDblowNTNiU2E3WVY2dHJrOExYU3A3dTR5TVk4dDE5c1JvbkRJSEEyZG1RcmwycGtmaHJqNWNqQVZlVlR1dkZHVXRTc1p0NGxJY1RGVmlXVTBhcVVibGdLNTRMbkJfbmE5NWdjbUlNQ2JndWVBMjJJVWFSVnhscHFSZTl5QQ?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-10T14:13:58.819Z"
+    },
+    {
+      "id": "7e86fdccdbf94152",
+      "title": "Industrial AI and Virtual Twins: Unlocking Vietnam’s next phase of industrial growth - Vietnam Investment Review",
+      "source": "Vietnam Investment Review - VIR",
+      "date": "2026-11-10T02:00:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFRpODd0em1iYVVHMmZYRnM4MXJUM1BRMXdING5WTll2YlR2bXQtZkxEZ2liMlVTWHB2VDBaZ0hQcEdXY05EZjJRWXZuOU9tZ2lTbHNfeUt6Nk5oUm0tNDRkUVgzMFlad1hySFdDV3J3UWt3SS1oN1RRd1kzVVN5OEV3SWpEWXd4aWVRZDlEcFdTbTNSa3N6WXBENW04aFRveDV6cktoSklUck5yTENFcjg4WQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-10T14:14:15.492Z"
+    },
+    {
+      "id": "a78c77764dfdd9c3",
+      "title": "IBM's enterprise AI operating model takes shape",
+      "source": "SiliconANGLE",
+      "date": "2026-11-09T23:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlEzaTVDRS1CN0tlcDV3TTVLQzhMUTNxcVJNRDYyaWZ1X0c4aVV4RWVhZG4tWFVxTFlYZmU5c0x2MUpTMGFDNWZLaWVkQVBieDZHZDByVS04TXMxUjhqbXk4Z0EwY3VOZHhya21KWkFQWFIzZHJpVXRHQ0tHczhLel9UMG91d1FCT1hRaHBfM2dKME1mSzRUa1h1YmVBajJ0d0xoaGRxWE1yaWQ1TmE3b19kWVpuQy1kY2c?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-10T14:14:14.432Z"
+    },
+    {
+      "id": "bda7de96a4008409",
+      "title": "Snowflake Powers the Agentic Enterprise, Giving Every AI Agent the Business Context, Controls, and Autonomy to Move from Pilot to Production",
+      "source": "Biz Today",
+      "date": "2026-11-09T19:13:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NbVNvc0dZLTlKNkVCd24zdjJ1bndtNm93czBJUjFaUUVoZ2ZXN3M3a205MjhLZUVWeFBGSFIwY1c1XzU1NXpSSmFvVzdXMEt3MDU4cER3?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-10T14:14:14.432Z"
+    },
     {
       "id": "2e0226340f7c7c76",
       "title": "Blue Yonder Releases Q3 2026 Company Highlights",
@@ -8715,6 +8797,16 @@
       "firstSeen": "2026-09-12T09:59:31.427Z"
     },
     {
+      "id": "84339c50b524890b",
+      "title": "NIQ and Morrisons collaborate to drive smarter decisions through advanced market and omnichannel insights",
+      "source": "NIQ",
+      "date": "2026-09-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZU54bnRESGRyQkNfWE9RSWt3VTEzblRCNFo4RE9CdjNXZ0ZvTmdfdHM2SmJ6S0RVWm1xSjZWOXM0MURRa1VDbnlUNHpKak5wX0VaSnp5NllzUnhyRHNXek4wMVRnS19PNmdqdzN6Zkh4ODd5cWVfeFBiY3NOdUFreGxJYzRsNnZEOG96UXVOcmZ3Z05wclhyZTJNT2JaTm1GQVV5bU5kSE56dw?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-11-10T14:14:08.074Z"
+    },
+    {
       "id": "b535508969121311",
       "title": "Escaping Data Gravity and Infrastructure Debt: Why the AI Era Demands an Agentic Data Cloud",
       "source": "DevOps.com",
@@ -15925,6 +16017,16 @@
       "firstSeen": "2026-08-28T21:28:55.327Z"
     },
     {
+      "id": "ae35a687e5648ae8",
+      "title": "US agentic commerce revenue forecast to reach $1 trillion by 2030",
+      "source": "Retail Dive",
+      "date": "2026-05-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTE9EcHlSdUJiTElLRHZEUlV3dkhrejZJYjZvRE44VmlRbnJtSExfX2NmWHp1YmVtV1Z2OWF0c1pMMmZRQ3gzMnpXQ3BFVU9aOC00V252QzVQWnJqUzVCSVB3VWdJYk9ObnYwb0RFWGhoVHQ4dXRqNDk2R29QaDgtbTRmOA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-10T14:14:10.213Z"
+    },
+    {
       "id": "6f2b61c294df6f13",
       "title": "5 truths that will redefine interconnected supply chain management",
       "source": "IBM",
@@ -18503,26 +18605,6 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-09-12T09:59:20.356Z"
-    },
-    {
-      "id": "342c0269cf3dfd3d",
-      "title": "The Medtronic Model for Supply Chain Resilience",
-      "source": "mddionline.com",
-      "date": "2025-11-10T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0hOcTc3SzhrcDlpSTNNWmVZdk5McHNkSS1BVVlzdml1bExMOWtIbnRLRk00dE5NN3BkTkt2N2YtNTdtUGs4RjZ3UkM2S3kyOXNFSlZMak40T0toRk04QU1DcTZ5NHBaeVRCT1ZSYUZUVG5XS0ZMbmZfdmNrNUwwV2tGNjBZb0RKaGFaMXZsTXRlQQ?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder Snowflake",
-      "firstSeen": "2026-08-06T12:30:54.015Z"
-    },
-    {
-      "id": "7fde7a06dacefe45",
-      "title": "With Dunnhumby, Walmart launches a new retail media platform",
-      "source": "Groupe mind",
-      "date": "2025-11-10T04:08:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGlYVTBNMXpCTERtVnJHaGFURmRqSnJsRUFPWm9Qcmt5VzVpY2k5clBSMFlIM2NlRjFYd0lmYU92Xy1tRHRnQnlRRVNLZ09aYUZnbldvQy0xVUxwQWF3VVNZcUMxeUZkRHVHeWEzNnU5QUlMVWU2Z2NZc2RIMDcyUEY4Nlk0dGphaDNjZzdmdk9QVnVUUTVCYWNZQUNDNWxUR0hQaA?oc=5",
-      "category": "dunnhumby",
-      "query": "dunnhumby retail media",
-      "firstSeen": "2026-08-02T19:17:00.763Z"
     }
   ]
 }
