@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T14:14:15.495Z",
+  "lastUpdated": "2026-11-11T13:28:28.261Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1826,
+  "totalEntries": 1837,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -343,9 +343,90 @@
     "52acb51847e06588",
     "f2d331890a7f0d38",
     "342c0269cf3dfd3d",
-    "7fde7a06dacefe45"
+    "7fde7a06dacefe45",
+    "6f363e664ff04d88"
   ],
   "entries": [
+    {
+      "id": "a2aaa07375d6a356",
+      "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-11T11:30:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-11T13:28:27.171Z"
+    },
+    {
+      "id": "8318dd919f3757e3",
+      "title": "IBM And Microsoft Launch Imagine Enterprise AI Agent Platform",
+      "source": "Dataconomy",
+      "date": "2026-11-11T08:38:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjJrRmxCTXdIVkpzOW96RzNndmlaWVJMTVpaaXQ4SGc0RU1vMmhxVGluVExLSFlpdUVnSXJobW90V1lUZDBRdGs4ZkJhM0JfYUxxN1ltdzdwdWdBZjd5WTZsT2lwcUNPUXVSaEJrN2tSTmtqUjRPZ2J1ME9HZ1lXLTV2aTFha2pJVWVfUlpZOC0?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-11T13:28:27.171Z"
+    },
+    {
+      "id": "61bf864cf72300b1",
+      "title": "OBI Group taps Blue Yonder technology to unify demand planning and replenishment across European stores",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-11-11T05:36:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONS1Qa1JpT1JpcnhHWWtrSk5QQmpkWjd3Ync3cHNFUGpDN2J5Sk1kNUY5bXpuN3N1SHRPOFg4eFRROUF3TGk1NEN1MldUZndUeFZsVDJsYkxDZnlQR3M0QjFsM2dfVUVsX2ZMUGNUTTVqalk0UVo2bGZkZGZlTFAwRV9MYXhZX0ViemNSREdMWEN1VXBqLUlfcklHSm9FMHRyNElEUWhQNFRHYWZ4dnRlUkFucUFCRXlWa1NMd3dpUjZwbklXU3FHRVpwT0F4UERxTms0VFFlTEtjb280Q1dLZXFjRFpEVTBnbGlJRWxYVHg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-11T13:28:11.327Z"
+    },
+    {
+      "id": "283dee415706e4ff",
+      "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation",
+      "source": "HPCwire",
+      "date": "2026-11-11T05:07:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT2FrX3ZKNS1sSmlWQW8zV2FGZlVkZjVKeVVNd2k5VkVuQXBMVWpuTDFHazducHFYRXMxTHE4ZUtqUS1QV2Q2UTlwc0VYNVRnd01DbGgtTTBwa1BXRTJKaUxyWXk3OWg0TDJHNkQ2bWFNZF9NU2Q2Z2lOMXQ4YllQWDNBT0FGWGw3RFhEbGdGdlhGTDRBSHRETzQ1YUk1OG1hR1NzTUVJb3QwZ1dRMUdXU2I2X0x6OTVqWndNaDlaMEZERkNnMDRReU5lbWl4b1dwd0R0MVZn?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-11T13:28:27.171Z"
+    },
+    {
+      "id": "5351bd14aa90455c",
+      "title": "France's Dassault Systèmes to set up ASEAN Industrial AI Virtual Twin Lab in Singapore",
+      "source": "TNGlobal",
+      "date": "2026-11-11T03:28:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalBEQmtRVFBXNU9Sb1FlcWM0YUZUNHU5X1U4QzNhVWlkZnhEN1E4MC0xa3RGLU1iYzFIclktc1AxLTBLRG5fd1BIaHpiXzN6Q21fcTE3RktaWWRmLTllemR3UFo3MUU4TVREYlRPaHNWbzBvRndTbm9VNGRyUjdyaU43QmxFY0RwUkNYM0h1dEFMVEN2cVlzaW81X0VZd0tTOXZDamF2TU9jbWgzN3c4VHNZZUNWMnRlendvRFhR?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-11T13:28:28.258Z"
+    },
+    {
+      "id": "e7e58d617d2dcb9c",
+      "title": "Supply chain data systems not ready for AI, new automation investments",
+      "source": "Modern Materials Handling",
+      "date": "2026-11-10T23:59:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnJybW1MbTRJcGh6WjBrR0R3b2ZlYW8yQkwyeF96QWxBNTF6RE5oR05meWNoclFJbllIclQ4VmZGUXpfbUU3NktUREJoS1hfSVBxOXpmckgwZ1U4aHJ5YVBLWnlOSkxsQmpWMjlPaFgzREFtNjVzblUzLUpmYnRuZk9FVVFObGhhVU5WOGdEaXVfLVZETEt1YU5Fb1cwUQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-11T13:28:24.888Z"
+    },
+    {
+      "id": "728c1701ece51063",
+      "title": "CrowdWorks Joins Government Manufacturing AI Project",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "date": "2026-11-10T23:32:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3ZC1FWFZCcS1nUXZLSFduLXRvYlBlWm9RTTZWVURya2wyWVNfd2NfY091MFBWODduTUo1M2RTLTlrYTBWZmQ5bXFSNTEzY1NTVlhidEtmaVRJTF9oN0JzSWFLb3pTM00?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-11T13:28:21.721Z"
+    },
+    {
+      "id": "6bd06da26c798fad",
+      "title": "Agentic AI and National Security: The New Architecture of Industrial Sovereignty -ADNOC (Abu Dhabi National Oil Company)–OpenAI–G42 partnership",
+      "source": "https://debuglies.com",
+      "date": "2026-11-10T15:00:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUzZjUUVrOWZyUmYyMEpoN1hMZUw0M0dSQzZkQTRJbldLWDlDMzlUZXBkMUFWOEgzTWRrVVZmYm0wejNnc3U2aXpybk1KOGdrQkR1WDMxRkdXb2YxOU56a1lnWF9lQmVsd3BXMDNpUjBDc2lkN1QySU10QTlzWjBKQVg1alNiaFRTQVdhYUEzTXZqQmRkRjhPUVVLVlZkNnFuZDdVcEVHVW1pYi1LcnczM0pnc1VsbmJsdmQ5ZVNjMVhScVFIeVNiSW9LQWQ4S2dCMldzd0RjMjVOMkNvckRKRTRvRGNZX3J0SDJxb183YWl6Q3VGQnZEaElDTlFzVkQ0NTRj?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-11T13:28:21.721Z"
+    },
     {
       "id": "9c340991c434d3d1",
       "title": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence",
@@ -387,6 +468,16 @@
       "firstSeen": "2026-11-10T14:14:10.213Z"
     },
     {
+      "id": "7912a9a760d2dd54",
+      "title": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores",
+      "source": "01net",
+      "date": "2026-11-10T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXhJOVVTb1NZQ0R1elRLXy1fOUtOUU9vTkZZd3VUZ0pzd0ZGSlVUWHlHVkEtTUdzQjdlVV9tUnE2MVB0OE9HbFV0bXlkcHgyZlRhUFc1ejZvZm4xMk5hbXZsOXRNVzJZZExmcWh1azVHTkpQZ0syQmRhTUEyVUR1Wk12eEZzRjZQWXFYWVpfdXFFTVd1X0ZPRG5vLVlFM002U1lsUU8yMVVncDhCX1VzYV9SVGRpc3BCaXdxTlZINHVHMWlLeDJZaVYwWVhfMHM?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-11T13:28:11.328Z"
+    },
+    {
       "id": "261de1ad8d01d00c",
       "title": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores",
       "source": "Business Wire",
@@ -415,6 +506,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-10T14:14:14.432Z"
+    },
+    {
+      "id": "76a6bf86589f60bf",
+      "title": "How Agentic Commerce Could Reshape Retail Fulfillment and Logistics Real Estate",
+      "source": "Prologis",
+      "date": "2026-11-09T21:20:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzhmNUxPZmlkQ1FrS3cxN0ZFQUVIVXhPTTNPbGZjMDl1WExnZktGWVZPeW9DR2t6SWQ5XzYzbWRITlFMbERiV0tQSEh4SFhjcm1QMWdxMXE4d2VoWGVqbXUzYUZESllObkhKUHhqemFiRUI0M2l3SlVldjRxbjlLWnl2NkQyNm1GNDM2bVRrT3k3ZGZ3V243cXp2UW5pOFB4Z3BCMmZnVjZYZWJQWTI4WWRIejI0MVNzNnRMdmxMazM?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-11T13:28:22.760Z"
     },
     {
       "id": "bda7de96a4008409",
@@ -4695,6 +4796,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-22T11:03:52.112Z"
+    },
+    {
+      "id": "a7f5c01478567813",
+      "title": "Industrial AI moves from pilots to scale as IT, OT and engineering converge",
+      "source": "ET Manufacturing",
+      "date": "2026-10-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYTg0NDMtT1g5WVMyUEkwWFFwSzZzUTFYSzR1eFhRSUoxZWpJeTdIVU1OUHRoM1ZKdEtia2txUlhjcTJHMlllN2NucXM3MkNfdjhtY3hTcmZmaXVGWm03ZEkwNTZKaHZCcU5tbjJHZTY0Vk5jOGVjNDNJbXpoakg0MkdibVdBMTMyRDFRaHZHVk10eExFRWl4ZnZLN09BRnhvQS12aWJjS1UxSG80bGphOFVjOWRYUUhjZFBEU01IWGdtS1o3b1ZVWnk3STl2dVczcmpUNWNUNnJQdkRURW1GN2h30gHmAUFVX3lxTE41TmlRX0tXbldRSkpGVEQ3WFJwTnd4bEkzMnI5VjhCSFp5TV9BelFjd1FzXzdYdF9KdUx6akVQWEs3TGM3cVJYd0xZQjZybkx3X2pQQ2dQdE40X2ZoNVdLX0pfRnlacDNGNG4ybHRjNTg5SmRxZGJVS0NqVUc0TGhVcG50Vi1MOVlKVlJLUTVzaFBvc0djUFVsRnRLRTBtQUYtb1BUazZFQmJ2WENWM2VBVm1IRVFmcGtyNnhUNFFkUm1mQ0JRTk5pcXdPdlRMaHVjbWloa05waUc0TGl6SlFHNTlHYkNR?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-11-11T13:28:23.801Z"
     },
     {
       "id": "b0059afae35e80b3",
