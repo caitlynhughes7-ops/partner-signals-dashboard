@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:28:28.261Z",
+  "lastUpdated": "2026-11-12T14:32:24.700Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1837,
+  "totalEntries": 1846,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -344,9 +344,103 @@
     "f2d331890a7f0d38",
     "342c0269cf3dfd3d",
     "7fde7a06dacefe45",
-    "6f363e664ff04d88"
+    "6f363e664ff04d88",
+    "b39f8ebd9085b9c7",
+    "e534c5a173af1e5a",
+    "1ca098ad05c65f21",
+    "88399ed0d76b5db9"
   ],
   "entries": [
+    {
+      "id": "925a0c083890870f",
+      "title": "AVEVA Named Finalist For 2026 Microsoft Sustainability Changemaker Partner Of The Year",
+      "source": "Tech Build Africa",
+      "date": "2026-11-12T13:35:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBidUU0QU5YVWpZY3pQR2pFdXlEdDdQbU43OGVrWUtwWEFTUFlWN093YkNOelNpU3N6SWpzUFRYazR2SHlGTFBYd3RDX0RGM3QzMnhmSUI0Y3hYdTQ0UDBLXzc2clNGNHZ3RTZyLVhmLXhkNnpiR1ZwODFrMXVRZw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-12T14:31:57.086Z"
+    },
+    {
+      "id": "2d2ee0c27e901642",
+      "title": "Agentic Commerce: Are AI Agents Actually Buying?",
+      "source": "insights4vc | Substack",
+      "date": "2026-11-12T12:09:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMkJkS2ItV0pGdmIyS1BjOU13LUJDYmpPOGFlLURoRmZRYzFpMm1ISXF0T0otaVVjZGNITnJCYXZyVml4R25oSkF2eUxPZVVOdlJyWUlvbWRhWFl6VVRILTgteVJzeVowUm96b2tPS0RvSVFhaEtrSXQyRjdoMzg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-12T14:32:19.184Z"
+    },
+    {
+      "id": "8ffe35856117f041",
+      "title": "Your Inventory Data May Cost Brands The Holiday’s Best Customers",
+      "source": "Retail TouchPoints",
+      "date": "2026-11-12T12:01:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGx3V2V1V2NiNjItN0h1cVBpd3F6d0NpTGVpM0ROblgyZ2dCUkRNZlA3a0NwVXh6eGliQnZOa214dEJKSnU1VXFXQTJDVUtiZ2c4RnJuanZWQzVnV2dHYjFrUm5qVlFNY1JFQkdiWUJnV0phaWxLaWxqU0M2d0U4R0VhQ1Zhbi1sMmc3NW5IbUZLRmp4VTM2VGFXY0pIVXFfbl9paXE2UmNSTzZyR1Jnc2J6dWM2WFgwQ2lRc0Rnblh0TTZy?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-12T14:32:19.184Z"
+    },
+    {
+      "id": "23efd43c134df80b",
+      "title": "Texas Instruments cuts software migration time with agentic AI",
+      "source": "Manufacturing Today India",
+      "date": "2026-11-12T10:56:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkJzM2NDaTFEN0tpOXlDN0I3YV9OT3pvemxpYVMtcjZrbW95Ql92NTFyU1pjb19rMXZTLWFLb3pYdGtVUEViTTljVmxZRjdmb3Z2Q3JadW81eWRveVVDUFFhRXR3NnVuQ2FRaWF4Z09XWlJWUGVGeFZzTC1mS2xCc3JxZUY2QlpYNGVaNjZqYUlTNG9heXhOTkw2b0FtN0RFbHg2Zw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-12T14:32:18.085Z"
+    },
+    {
+      "id": "88e3f573eb5443dd",
+      "title": "AI agents cut Amazon ad analysis from weeks to hours—what changed for media buyers",
+      "source": "Ad Age",
+      "date": "2026-11-12T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVRPZmJBZ0JfM0RkZ25mcFdTeW1CTGpGUDRQOHpmSWUwa0ZvNjV3eHFWMlhPOVVwenpTLVFQYXJCOC1jQUFNa1JKMWZxenJLd3Z5TDN0blJOeGVvLWlLLUJwcndyQlF5alFqZEV3OXJTdDZZOHMzbk5pdm10U1ItTHJ2Mk5OR0Q3bXhoUg?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-12T14:32:22.531Z"
+    },
+    {
+      "id": "c673cd9e01b44488",
+      "title": "How AI is changing procurement and supply chains",
+      "source": "Sifted",
+      "date": "2026-11-12T09:23:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUpPSzk2MHJUNmlvclVvMlhaRDhjazBHT3dIVnFOZTdDZW9nVm9neWVLaXpsUUpzZ2J4OUN6dlZUWkF3WlRYT0hEd0dsc19seFJFeDVLVG9IbzVPRmpfNXRhUGlSekNjUEpOanoyaWt4NUxicXJETFlSSk5CQ1Q4Sw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-12T14:32:21.383Z"
+    },
+    {
+      "id": "36f1e05c022767b3",
+      "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents",
+      "source": "EdTech Innovation Hub",
+      "date": "2026-11-12T00:26:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-12T14:32:23.591Z"
+    },
+    {
+      "id": "9f0923fd219e2385",
+      "title": "SMU Awarded $4.2 Million to Advance AI-Driven Manufacturing and Workforce Training | Newswise",
+      "source": "Newswise",
+      "date": "2026-11-11T21:45:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTJtOEdObjF2OGJ6NWJaUU5QX1lRLXlhQ2tFQnBKNzJlLVZnM0ZDcFFCLTU5WHZPdWlTZ21WTlFRMFNLVGxWVzlJbjBvUUxraWhVd3VnOTM1VkN1LVlKTHBnRmp2c2phZ1BKS0dwMXhoY2tqNDE2SWotMFV6YTYyYWdVUEwwR0o2OG9vWlhGSW91NVBKODduX1YzSFB2Mnc2anpkTlJXRWlCVDU1UjJpUkROU3RkUdIBtgFBVV95cUxQWTJtOEdObjF2OGJ6NWJaUU5QX1lRLXlhQ2tFQnBKNzJlLVZnM0ZDcFFCLTU5WHZPdWlTZ21WTlFRMFNLVGxWVzlJbjBvUUxraWhVd3VnOTM1VkN1LVlKTHBnRmp2c2phZ1BKS0dwMXhoY2tqNDE2SWotMFV6YTYyYWdVUEwwR0o2OG9vWlhGSW91NVBKODduX1YzSFB2Mnc2anpkTlJXRWlCVDU1UjJpUkROU3RkUQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-12T14:32:24.696Z"
+    },
+    {
+      "id": "3601e11b255aa02b",
+      "title": "Instagram debuts agentic shopping experience for direct messages",
+      "source": "Chain Store Age",
+      "date": "2026-11-11T20:04:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjBoRnRiRnNFVUh5WUVhdHBBZExkNDdjQUNlR3oxRlh3V3oxUVQtUVZ6Nm01WlRLSmtMalJxMjlTd3ZZV05XSWVVeFVOOFJPQ1RCRldobUZEbl9NSXgxUHJUZ0JRSktSLUdhSXdoWjBZN19oOUVBa1dZZnREOEJib2V5OHA4TkNuUGNVZ01DQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-12T14:32:19.184Z"
+    },
     {
       "id": "a2aaa07375d6a356",
       "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
@@ -936,6 +1030,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-05T13:55:01.133Z"
+    },
+    {
+      "id": "99c71c7c4af058d0",
+      "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
+      "source": "Google Cloud",
+      "date": "2026-11-04T14:10:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVNzT3dYalRZaERPbUJ4QjE4UjduSlRWdDBsajNIQ3JwNWdoQi1fOU1oc0sydzljOVBsTm1TOGE3bF9hdF9yblkzQUlETExQRVJWSEhNTkxkM3J4NngwcGx6QWFycklpUC1ka1pDNDJBbVNIU0lqVTJFZV9ZVF9nTld6VHlFLW5kNGd0c1VOT190UGFBdDdr?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-12T14:32:23.591Z"
     },
     {
       "id": "0fcf7e719a5cac37",
@@ -14928,6 +15032,16 @@
       "firstSeen": "2026-10-31T11:37:37.974Z"
     },
     {
+      "id": "b2e5705f446ab58c",
+      "title": "Former OrganOx CEO Craig Marshall joins Amadeus Capital Partners",
+      "source": "Cambridge Network",
+      "date": "2026-06-02T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczl2TnFhWWc4YVBPdTEyTzlmWk92ckR6SUxKdUdfenlXYkhkVjg4ZHB6MTh3UXVSMU4tT0Qzdk1XMW9IdGg4VVRlMi1BX0JVbnVfVE9XX1ZCMHRLWV9vdEZvUDc1YkJSdTdBRmFySzdiVzR3U0V6SGJKRzZrV0tVSFplYTdWYmswQkhBV1kxdnRrZDYzTlgxNktsQ0Vzd1VRaXRlcU9GWQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-12T14:32:09.541Z"
+    },
+    {
       "id": "3deabeb2385a5a18",
       "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
       "source": "Snowflake",
@@ -18696,26 +18810,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-02T19:17:12.124Z"
-    },
-    {
-      "id": "b39f8ebd9085b9c7",
-      "title": "Buc-ee's Ranked America's Top Quick Service Restaurant, Edging Out Kwik Trip and In-N-Out, dunnhumby Reports",
-      "source": "PR Newswire",
-      "date": "2025-11-12T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckZTdzlWbURPQjNFV3lIYUhKVHdHc3lrMkdYT01hNGpLYzhhejZiT0MxUUZMTjRQemtIOGtDZFF2eV9oeGVuVTNWVEZSWXhEM1pLU2YySlBkQXdNSmFIRmZweTRrS0hwT3l3WmIzX3RfeTJjUlowd2F5THhjS3l2SDRjcmU0ZkVSMjgzMFBhYXNrdU00cER2QkluX3BCem10Y2ZOeHYtbWFDbFFmV2ZvZ2J4S010QkdIc2tOeFNOazZxTDZyRjRITkNCV3lhcmxrSDdoLXUzVHBERWtGVl9CT0I2Z2ZsVFhQTEh1R2pBN1dndw?oc=5",
-      "category": "dunnhumby",
-      "query": "dunnhumby retail media",
-      "firstSeen": "2026-08-06T12:30:53.026Z"
-    },
-    {
-      "id": "e534c5a173af1e5a",
-      "title": "From Snowflake to Sierra, Every Enterprise Software Firm Is Selling the Same AI Agents",
-      "source": "The Information",
-      "date": "2025-11-12T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkdGLURPWXdoN2taM2k1OWRLWTh3eWxnUjNTTVVLdlZUT3c2VFlnWlZaMjN3eW9Ockhxbk5XRXpKNkExakhONDA2UGxHTmlWQlNmSlhoWTdyOFBvZ185OFZ5RXBESXVNakZxM0JMY2hZVkRvTzFOYlM3TjlPOTBON1E3TTl6WFV3ZkR0WmtDN0hTeDF6Ml95bU8tVWVwSFg1YnJZZ2s4RFc?oc=5",
-      "category": "Bright Data",
-      "query": "Bright Data Snowflake",
-      "firstSeen": "2026-09-12T09:59:20.356Z"
     }
   ]
 }
