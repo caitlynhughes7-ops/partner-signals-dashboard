@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T14:32:24.700Z",
+  "lastUpdated": "2026-11-13T13:51:07.864Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1846,
+  "totalEntries": 1854,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -348,9 +348,106 @@
     "b39f8ebd9085b9c7",
     "e534c5a173af1e5a",
     "1ca098ad05c65f21",
-    "88399ed0d76b5db9"
+    "88399ed0d76b5db9",
+    "8201092d5ff78a52",
+    "e884067e3319ccc1",
+    "8f7006ea69494a7d",
+    "7444c6df3d1a6699",
+    "7865fd1e3dbff6a6",
+    "a3c73401e89c2dff",
+    "71a0f7b44c38e7f1"
   ],
   "entries": [
+    {
+      "id": "8f9800382893a0bd",
+      "title": "Agentic commerce",
+      "source": "PPC Land",
+      "date": "2026-11-13T13:01:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DakVOMldRbVctMW93MGNMb1FhckppdlRJUXVmcDBNdkwxT1NJNTNORmg0MjZ2d1dDZFltMV94cjNOYjJkNGJZRVlB?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-13T13:51:02.608Z"
+    },
+    {
+      "id": "0a3ebbf8309448bd",
+      "title": "AVEVA Named Finalist In 2026 Microsoft Sustainability Partner Awards",
+      "source": "CIO Africa",
+      "date": "2026-11-13T11:51:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFuNWJrakZVOEs1ck5jTEh6OHVPR085dkZZaFRXRGNaaURWVzdsZFhoQTN4aE9rbTBLWXd1WTFPWl9WTXJia216WWFOYjJldzN6WjdwX2g3dXdMa09WWGx5NEVGR1NSWm90MkdWV0trcTRfeGRfWE5pZ05mY29sSXMtMlVXeTljOVFlVk90RmFfcW9m?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-13T13:50:41.984Z"
+    },
+    {
+      "id": "e25e97dcf5d709f1",
+      "title": "Vercel: Not enough retailers are agentic commerce ready – but it’s ‘not a crisis yet’",
+      "source": "Retail Week",
+      "date": "2026-11-13T07:17:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONURSbFdoZGltSmhMWnpRU296MlhTY0RsZ3BJMEZFck9nN1RmZGZwamp2bjhadlkyVk00b0xScXFoMlJORjBDVTZqVGhNVFV5VkRBdjRVaWhrVEhuYnI2ak9aWlNmanR6NFFlWVZvNjB4Ml80Z19iTEc5XzdtUEJpNC0yRjY2VGhFZGlFTkVIaXBjSlo1RXEzVm80SDFtZjNpQzgyZGg5XzV4MndibXJYYUZhSkluR3pIYXl0dHFObjhmUkExVHRyU0dsbEc2aWM?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-13T13:51:02.608Z"
+    },
+    {
+      "id": "8ba64f5d301efc1c",
+      "title": "AVEVA named finalist for Microsoft Sustainability Changemaker award",
+      "source": "TechTrendsKE",
+      "date": "2026-11-13T05:02:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVFxN0JhSFA0ajlacUQ0R0xVVTZvcGNqZ0FQcnZVemFfMWc2c0p4ejZoWVBmOExVaWgxTmxndTRxMkM2YkN3Uk1zQU5BY3lFVFh3Wmo4UzFtNTJSZEtVbjQxRWNvWjVZZUh1X2NNeUpZbm9DOUdRMV9iX2NnR2lfQkNJYWU1UHYzZUN3YWJzdnNQR2VILW45VjBTYzdubWllako2VlVlMXNjUQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-13T13:50:41.984Z"
+    },
+    {
+      "id": "5d06880d75e0313d",
+      "title": "AVEVA named finalist in Microsoft’s 2026 sustainability awards",
+      "source": "Capital FM Africa",
+      "date": "2026-11-13T04:22:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1I1dnVKNXZJUVVoeDlhdlFYNkU5YVNreHo3ZFpmNzhLN3czMUMza0R1cHptZzd3MmxKNkhoczlLbm1iQTdzeWtwT1lPeWV3MkRYVDlLTmVJRDQ5QjMzYXktcEJUZ1VLR25tazh4VDdyUDFpSGNtTXFmcFdlNF9Jd1RkSWE1cXVVMEFHZ1dnTGI?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-13T13:50:41.984Z"
+    },
+    {
+      "id": "9e80469515988479",
+      "title": "SMU Awarded $4.2M to Advance AI-Driven Manufacturing and Workforce Training",
+      "source": "HPCwire",
+      "date": "2026-11-12T23:55:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWtQV2FpUnRfMGpEV0xfS2JNalZraGVVS2FTYUdUeEJscUoyUUpIMUw2RU8wWTU1dTBfYVRGZ1B0bEtkVHNKYzh3emN3Z2M5cnlMemlJMFBOVm9NR2M3ZE4ybWk0X1AxLU15YnpIOWpjWWcxMTRFVWhvdzAxclpaV2IwelV0SUc4OVlXcGVJR2pScG1fbmFkZ0VMWGZvc3g1VWljcEVTZ0tFandMVGVKNFV3?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-13T13:51:07.861Z"
+    },
+    {
+      "id": "dad64cdb0970349c",
+      "title": "DuPont Partners with Microsoft and NobleAI on Agentic AI for R&D",
+      "source": "Unite.AI",
+      "date": "2026-11-12T23:04:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1hHS0N3XzlVdkZnamtvdkFvb013NHVoc2xZbklXdU52ZzFRcFhRSWFKcmREVjVIM1BrajZFS0VFcjhnWVRiNGFNcU5rc0pwQ29td3JkUFcwZE5iQVFPNnpWcWNWbUMweGdNZUtzTTlwZjJ0c1JySEdLS3BBa1NMTXdxbjBVQ3RZN0hPTWh5Umc5Q081?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-13T13:51:01.547Z"
+    },
+    {
+      "id": "8e702b068ebe74fe",
+      "title": "Retailers Step Up Response as AI Takes the Lead in Shopping and Agentic Commerce Gains Momentum",
+      "source": "아시아경제",
+      "date": "2026-11-12T22:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KMWFocURXN05Ick1mem1na0dvVFZ4My1zd185a2NzSWZaZzQ3SzA0UjNZX1NrNG1WQ2hpc181M0NUajlMNUE1T2ozQ0VsRXVTWmFJSG1JYWxBWGRTWDlPc3ZqTWlqTDdH?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-13T13:51:02.608Z"
+    },
+    {
+      "id": "f9c4ae7b4963444b",
+      "title": "Microsoft & IBM: Inside Imagine Enterprise’s AI Agents",
+      "source": "AI Magazine",
+      "date": "2026-11-12T20:11:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjRBQ1hDSWstN2hLMEVMT1BVNUFWdFZsaW1DS2FoeDJ3NXlwQUdHUVE3NUx6M3BXaE14Rzg3WTlTVmtIU1VNUVlYVi1CWEZkczhvR0YzN093WjhyOGs2VEYtbEs2cUE1QnRIWUFJMmQxSDBPVU9MSDNnWk9XQlZ5czZWaXo?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-13T13:51:06.819Z"
+    },
     {
       "id": "925a0c083890870f",
       "title": "AVEVA Named Finalist For 2026 Microsoft Sustainability Changemaker Partner Of The Year",
@@ -360,6 +457,16 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-11-12T14:31:57.086Z"
+    },
+    {
+      "id": "2685fe498c6124a9",
+      "title": "When AI ambition meets infrastructure reality: Enterprise leaders reframe the cloud conversation",
+      "source": "ET CIO SEA",
+      "date": "2026-11-12T13:27:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYWRTeTBDQ2h4aUIza093WjVHMW1qRU9Ub2FieUR2QUFRMGtSNW1JZVhqODV4b1ZOTVpWU0NyNHlnaXhsWEFHcjNmNjRiYWxTX191a2R4ZENlcTJCdVBBMk80ekhfLTVjQTJJZ1ZJSm9KU0F3c29rSmhuQ1RVR215TXNkQnliTFdJS0l4dUhyQzA1SUNrcUEzS0hzN1JxRklmajNKZGRNVGpMTUF1NWNCSHJvcUV1OHJtUjRqUS1fMzRzRWM2M21NOTRuY1oyNmw1UV96OWxPam5nSXFCc3ZPRmtnOUItNnB3Y2FGdlFXQnFhZi1ib1NZ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-13T13:51:06.819Z"
     },
     {
       "id": "2d2ee0c27e901642",
@@ -18790,26 +18897,6 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-09-04T10:28:23.641Z"
-    },
-    {
-      "id": "8201092d5ff78a52",
-      "title": "Almosafer, Amadeus strengthen AI travel partnership",
-      "source": "TradeArabia",
-      "date": "2025-11-13T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjk3TDF6YlVZSURTRUZuckp5Mnk2aGY2TVR0eTkyQmhoSUlhSUZBTUpYcmNiMWV3ZTAydGYxR2xKSG1iZjZKUEdIMUVmUFZNeEU4MUV4cDRfRFIxT3BZemFlNGFQNDduazlhZHdhY0ZLby1IdlFvZXFkWEtGNDB3WVliRE5PSkRTUGJOR1E3OWg4eWwydlFoNEdB?oc=5",
-      "category": "Amadeus",
-      "query": "Amadeus IT Group partnership",
-      "firstSeen": "2026-08-02T19:17:05.879Z"
-    },
-    {
-      "id": "e884067e3319ccc1",
-      "title": "Lenovo Indonesia: A Journey of Innovation and Growth with NielsenIQ GfK",
-      "source": "NIQ",
-      "date": "2025-11-13T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3poODJlTzFVMlRqbG5iZkExVzQ5TENjYzJhTkZwcXJ4NklVRkxoTk9vOXRybWUwVTQ5MlZMbG5QOWtlMTRRVXdlRm1rRTVMWGpnLWczZlV5OW5YZ3hVZ25raUk3cnVxQklhdzJENjhMUzg0ZmVVNEJTNlFlSU1mSUF2ZjJ0eVMwa3VUcHFWMm55bmw4TlhuXzBSMFpHLVlfUkVCUW9vTUFWamw2UGNZVUx3czd1U0kwX2ZrVkEyMDJZMjFwZ29zMnhXYw?oc=5",
-      "category": "NielsenIQ",
-      "query": "NielsenIQ partnership",
-      "firstSeen": "2026-08-02T19:17:12.124Z"
     }
   ]
 }
