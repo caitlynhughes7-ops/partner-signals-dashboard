@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T13:51:07.864Z",
+  "lastUpdated": "2026-11-15T13:22:36.785Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1854,
+  "totalEntries": 1864,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -355,9 +355,60 @@
     "7444c6df3d1a6699",
     "7865fd1e3dbff6a6",
     "a3c73401e89c2dff",
-    "71a0f7b44c38e7f1"
+    "71a0f7b44c38e7f1",
+    "67f652fb4985b392"
   ],
   "entries": [
+    {
+      "id": "a586fa495504f215",
+      "title": "IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets",
+      "source": "MarketScale",
+      "date": "2026-11-15T11:28:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-15T13:22:35.725Z"
+    },
+    {
+      "id": "340114952e7d8764",
+      "title": "Why Intelligent Supply Chain Execution is the Next Frontier in Warehouse Automation",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-11-14T17:33:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc1pUcVQwWktiSFdsTUhjVENNTnNEbGx6aGJ1V1BnRGZrNjlHUU5FN01FVF9jTjVpVElZamxlX2NYUmZhM2g2STlNUk9qV2lKVWt0RGhZWkRBMkgtcVdDS1p4TlRyX254R0dySkFrSlNPQWlPd1VzNV9QTGhFLVBJYXRGM0VWeC1lZkh0bXVSRC1iOEJlMkNTLU9FX3JNbTRrczZub0V3eUt6TFpPdEF4OVFEWDQzMDNMbDhRNWFIMFJYUnJlMThRcHdhdVR6OGQ4WVRlZ3EyUlFFcXk2dzNWUll0cmRoV21uSDlRaEV6Sk5PQ3NmMXhiSnRmbVBLMUhjS1RsS3RwOU8?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-15T13:22:33.579Z"
+    },
+    {
+      "id": "bcdd6a9d459f61d2",
+      "title": "Blue Yonder Introduces AI-Native Order Management Platform",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-11-13T19:32:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVJSUVl5SUtMTlhXdk85RnVWNDlWYkdKdjhSci1kTk41MnJuRWdlZndYZndBWlN4UDQ1dlhYS0NGd2ZFTjgtY2ZudGpDQXFfTVRYV1BFeTF1ZGl6UWVFN1RBUWFmbGU3a01xRHNsdFRicHJqUHBPTG5Db1kzYUVmSEhWQ0J0UV9TMWIwUkt0Tm5iNWFvSVhMUTVmcVg2YzBPTVAwdkpXTGlQUEIzc0JMQWh2UnloLUJfek1fV2p2MA?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-15T13:22:20.303Z"
+    },
+    {
+      "id": "deb8f151ddd27e06",
+      "title": "Enterprise AI agent observability with BigQuery and Looker",
+      "source": "Google Cloud",
+      "date": "2026-11-13T17:22:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmt3Mm9Rand6bzdPZjFoNWR3eEZ6ZE5wRTlwcGtibkdQV1BrbEdjc2pvMDZ2YkwwY3RPa3ROZGhRR1dQcGxBTW9zeko0by1ISDNKRUdRcGlZMllORHpLUHA4aHVEZ2FQMDRWdF8wa19fNE9jNGxKazIwcUt3M05yaGljbzdOUlNRYVd4eFg1V3hVdVQ5M1BrN25SMGd2RnNEY1hXTFNOVlhiVlBhVjhKNllR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-15T13:22:35.725Z"
+    },
+    {
+      "id": "63490fe6b9c1b210",
+      "title": "Generic AI isn’t cutting it for manufacturers",
+      "source": "The Manufacturer",
+      "date": "2026-11-13T15:39:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1ByVGV1MnNRaHdDbExrRXk3VnBNa0xlVEFFWmNkSTM5cWlQR3FjWmlKQ2pub0Itdk9nU1JGcHc3djdrMm1aLUprZ1hSdTAwRlFHTEtkcGh1aEloZFBOcGdZeFdQZFhlLWh0b1BqaEpGRzRfamN3NlJUai1BLUg2enZEVDZiTlRnak9wSGU4dw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-15T13:22:30.512Z"
+    },
     {
       "id": "8f9800382893a0bd",
       "title": "Agentic commerce",
@@ -489,6 +540,16 @@
       "firstSeen": "2026-11-12T14:32:19.184Z"
     },
     {
+      "id": "9cb11b28a27661ec",
+      "title": "The Case for Being a Latecomer to Retail Media",
+      "source": "Next in Media | Mike Shields",
+      "date": "2026-11-12T11:47:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCdzl1SGMyRUxMVlRGY2ZxWnN6UHZkcDhMVGJ2Z3l6ZDd2M3ZQQS1hN1Q0dDlLcjh1Y2xpb1V0UEtlVlpGcGtPZ3dOVEl5OGFjai1xZUNIZUk2eTQzWS1FSVMzR21Vd0hSYUFRb3RnaDAtOHZyV2lr?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-15T13:22:34.670Z"
+    },
+    {
       "id": "23efd43c134df80b",
       "title": "Texas Instruments cuts software migration time with agentic AI",
       "source": "Manufacturing Today India",
@@ -517,6 +578,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-12T14:32:21.383Z"
+    },
+    {
+      "id": "d0ad5e755056a0f5",
+      "title": "Dassault Systèmes to Set Up ASEAN Industrial AI Virtual Twin Lab in Singapore.",
+      "source": "CXO Digitalpulse",
+      "date": "2026-11-12T05:32:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDUtRndjMF9oOTdhME4yNXNwbFB3VUxna3l5czJxSDVUeV9kejdrVnNFQnlCNU5ieE9ET3VXb0hqUW9YZFBvTU10M3UtOWc2aUg5aW93cFdRRmJkeGpCY2tjSzJfZXJmUGpub1ItbmZfb1dyV1g2Yl9ZVGJTaWZhWmd2XzI5SmpndXBkd3FBTml4TFdoaE9jdTUzWnJBamxKVXM0Yzl1bV9ONWhJcjdj?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-15T13:22:36.781Z"
     },
     {
       "id": "36f1e05c022767b3",
@@ -747,6 +818,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-11-09T15:00:35.294Z"
+    },
+    {
+      "id": "3f98f3420d8348f5",
+      "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
+      "source": "Retail Dive",
+      "date": "2026-11-09T11:45:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWFMWUExeVdRUEtMYi1hMVNCblFfOVlLMGN4T3ZPZXEyZmZmM1ZxVXZNTlpZb3g1UzRqMjdva2VidlFNZjRIcmNWZXowSFB2OVBqRW1OVFhiSURhWDNDZkVVTVdhWHlTQm11MUwzcmhwTmw5MHFhR21jWHl5OGMtMXIxRk5ETGt5TUkwdXltcFp5VUVaaDBEWEc0M0ptbmtYVnUyd3ZYOGd3ZC1SMnc1WGZST1g2akU?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-15T13:22:31.600Z"
     },
     {
       "id": "c802fe15152060ea",
@@ -1897,6 +1978,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-10-31T11:37:43.352Z"
+    },
+    {
+      "id": "cb77f98caa8649b1",
+      "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd | SAP News Center",
+      "source": "SAP News Center",
+      "date": "2026-10-29T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXk5bjRZUXhRN05JMGw0Mnd3MU15TDhCVkdXNlhsQXJYMF95NmtnTVBZQW9GTVVwS3hsLUJPSlpXMVJCOWhlYlJBNjRTTHJVdTZIQjlWdnZLLVlCd284MkVwTEd2VjJSOTlOd1NjSW1ZRmRjM2h5Y01fbjNDNGRhejkzZDlXZGZMaDluc1NoODlYdzBiNUROd3ZLczBISzFFTDNF?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-15T13:22:35.725Z"
     },
     {
       "id": "391dcb846d58f225",
@@ -13567,6 +13658,16 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-09-20T10:32:09.143Z"
+    },
+    {
+      "id": "0e83cd89aa906c10",
+      "title": "Will Ace Hardwire RedVest Into An AI Retail Media Network? 07/08/2026",
+      "source": "MediaPost",
+      "date": "2026-07-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1RXek1aLTdRNXBoS2thdVNqcjRRb0sxeTlsS0xNaDhrYXNQcnA4TTlWVFJJUVhNTUZLc1AzOER5c3U4YV9KU1dWTkJhYllJMlFTalRLVHEzLUJzNUhmTlYtZDg2WFowQ2pERW4zcXpzaGdKUEVYVGFIN3ZxUUgyY3dWQU5hQU42bHg3aEphcVF6eGZUWEhGZVBUd3ZLVHJveWlpNDJyNEZHdHZ1MlRac2QwbC1xWFRvODVzTy13bDQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-15T13:22:34.670Z"
     },
     {
       "id": "3e4260a23ca9ed39",
