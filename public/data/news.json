@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T13:22:36.785Z",
+  "lastUpdated": "2026-11-16T14:37:24.576Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1864,
+  "totalEntries": 1871,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -356,9 +356,54 @@
     "7865fd1e3dbff6a6",
     "a3c73401e89c2dff",
     "71a0f7b44c38e7f1",
-    "67f652fb4985b392"
+    "67f652fb4985b392",
+    "d5bb1c7e766b5c33",
+    "6c7452b981ce5901",
+    "e4e99d6feecf9b12",
+    "a8b96a38ddb3285a",
+    "f38813d6c343dbb5"
   ],
   "entries": [
+    {
+      "id": "19c6cc6c7ac52c32",
+      "title": "Blue Yonder Named a Finalist for Two 2026 Microsoft Partner of the Year Awards",
+      "source": "Business Wire",
+      "date": "2026-11-16T13:43:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTdPVmpzQ3ZkMmtVYk5fVlNJQ2NIQUltQXI5WVpBOUExYkJyQU1zV1JyZ0xYTWYwcW9jQkRybjFvOFBzalBHSWZmV2dldFJWRHY1MDljZGhnYi1sdEU5MkVRVmx2b3JvY1dSVG1wc29WWjA4NEVJbzgtZHdWTER5NC1KUXdhaFpseU1mZVZMOGxjMmd1X0cxN3N4dWYzbDJaUXhQY1JhRmhZZ0k3azlEUDhFVVVGVnNnMDNxLVRpTmREbk9UUVJRNEJadFR0MHdn?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-16T14:37:08.719Z"
+    },
+    {
+      "id": "6e8d5de5a07397d3",
+      "title": "Celonis White Paper: How Physical AI Is Changing Operations",
+      "source": "Supply Chain Digital Magazine",
+      "date": "2026-11-16T10:41:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1RZMFRHSXdZMmlGLVIzRXYzajBnR3BKekFGMlpybzFlaElkWW5waXRfUnNyeE56U29OaHVwRk1LMEFWem55VVkyN1FOMDhYRklNa3JJdkVpV1NTdTU0UHpLUUZtOHpieUJXTjhKbm5nRmpIRVhWRTExcElOZWQtSWVjRHZYbFNDQ2stX2dMWmZWS2dMa0lzNEZ2MEt6NFE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-16T14:37:21.548Z"
+    },
+    {
+      "id": "20026bc1f5afdbee",
+      "title": "AI Training Data Companies Overview in 2026: 10 Vendors Compared for Buyers",
+      "source": "Memeburn",
+      "date": "2026-11-16T04:12:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRRVNwQTJqZFlScjhxUU9tNW5iOTh2RVNRVEQ5c2lIdzg5Nkd4Sk1SN3pCYzFPUFNIeU5OWFpZRmFscGxad3VXeTFPbldkX0NFbjhjTGVoYmROSlh3?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-16T14:37:14.621Z"
+    },
+    {
+      "id": "601ca91040788612",
+      "title": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations",
+      "source": "Robotics & Automation News",
+      "date": "2026-11-15T19:17:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGVWbXZiOTZvcWcwY3JIREExUzMxaFg4QkxORHU1RlhBbUc3dDlUeWVTS0dMOHhfUUxYb0oxMjRRNVZVcTJyMG5wR3pMZkJ0MmVRak5FUkhrcWg2T1hCbGJRUllvY3BwS0Zpbl90RF9UWHlxZjdDTVJSaGczazgxWXZ5Slh5WEtCRkdUR0VNalpiUXI2Yl9ocmVhbDFRbjJLSHNoTlp3cUF3bUpoTzU0ZFFhdUtFS2NIbTN1SjFiNjlZeVAxT0wtVGJOWkptSzAzX2NXdS03dmYxam8?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-16T14:37:21.548Z"
+    },
     {
       "id": "a586fa495504f215",
       "title": "IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets",
@@ -428,6 +473,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-11-13T13:50:41.984Z"
+    },
+    {
+      "id": "d248dbb92e554ab2",
+      "title": "What retailers should expect from agentic shoppers this Black Friday",
+      "source": "Retail Brew",
+      "date": "2026-11-13T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlh6d2hHeUxYLUxBTVc5dmZtUGpxMjVNdU5UalpwWHA3a2lHd1dkZG9wdGUtTXBHdjlSYnlDOENQaXRXTkpfZEJ3MzI5UUZFbGRDbDJwWjJEMXZjbkVxQ0dEYl9Rb09BS3RRTTd3bFNDUDJ5eHBRVmJ2TGZpV2dGVA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-16T14:37:19.544Z"
     },
     {
       "id": "e25e97dcf5d709f1",
@@ -2168,6 +2223,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-28T12:01:41.841Z"
+    },
+    {
+      "id": "350290d07d04d570",
+      "title": "Should Earnings Downgrade Require Action From Amadeus Stock Investors?",
+      "source": "Simply Wall St",
+      "date": "2026-10-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFRBdTZ5S3hkUm5GbUI5ampydmhJempyX201c2JvVzl5WXVEdkZPQk9pckVzaG1UUy12U2dCMUN1Vi1STXpOTUVzaVgyb056WnNoUXFkZF9Kam9TdFdtVi1rZkZhRmhsSURSR2lOdW5jT1ljMjBlYzBaNGRzdF9WNk9yemtQYU9pRmloaDFGa0lwbzBwdEY1OExRVjJVajk5eWZhOFBLM3UySGFXZjRFdm5MTkZuQzZ3Q21zQmFYbmJvY3RvR3kyd1B2VHN6YlcyRlhaZ3pKRzJzVFFyeF9B0gHkAUFVX3lxTE9pSGdyaWJocWcwbTk4cDJ3SGV5dlhXVGNpQk1aam1WdjdNWkE1N0RUU1JkWmNOQ28wMHNOQllLTFJpNHpLbXZaRDhQanE1TkdsYmNUTkRtWFdqRl9ZclJVZUhPWS00X1pORkFGam1LMkJCM21oajBPSzdEZDhRbURZUHd2ZFJlWTlwTVpmZW83WVQ5VHUtRkFVM1ZnTm5kUExJa3B0X2Y1RlZnUXFHR1I3VGRLdWsxZWZYMUhkOGlnd2RONFh1Q290cWlUMTYwU0ZQdlBSQ1luYlFUWWVTR3JNaWhKTA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-16T14:37:09.637Z"
     },
     {
       "id": "e057a1639b272949",
@@ -17908,6 +17973,16 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-09-03T10:36:00.972Z"
+    },
+    {
+      "id": "5198c628fc8e517b",
+      "title": "Amadeus IT Group: Overblown Fears Of AI Create A Huge Buy Opportunity (OTCMKTS:AMADF)",
+      "source": "Seeking Alpha",
+      "date": "2026-02-24T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazlNYWg0WnJsb0FYc2lMUVVvSnVDN0ZCaURFZUxKbTZIU0l2TjJ3U1VCT1Vkb29DOHctdXhsYkN4QmdoM3U5RTJweE1JVk1INU5lYUw5T3VyUi1nYVNKRWc4N0FaNXFXc083WUY3RGJDTGR4dWVwNWNQX0JXZUdrSjNZbUozMFV4SHl4SU5kYnV5SGRxX2JJdVFlZ21KZk5NV3c?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-16T14:37:11.651Z"
     },
     {
       "id": "d2f907e617b6ee57",
