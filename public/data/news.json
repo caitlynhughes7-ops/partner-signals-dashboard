@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T14:37:24.576Z",
+  "lastUpdated": "2026-11-17T15:26:38.736Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1871,
+  "totalEntries": 1887,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -361,9 +361,132 @@
     "6c7452b981ce5901",
     "e4e99d6feecf9b12",
     "a8b96a38ddb3285a",
-    "f38813d6c343dbb5"
+    "f38813d6c343dbb5",
+    "3a5da1693914de37",
+    "2f0212897654c4c3",
+    "9c287df120f70e8d"
   ],
   "entries": [
+    {
+      "id": "27c9efb7bbded1bd",
+      "title": "AVEVA and PROSTEP Expand Technology Partnership for Industrial Integration",
+      "source": "IndexBox",
+      "date": "2026-11-17T12:50:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWURjMGJUcnkwUVBmV0VvMUhEV2dzRUk0UDJWU095UVFCeXlkUHFqeWhMaXViRHRmMkJTX1FRZXFhSnRZX1VoNDNJMVNKTG41M1dHaHdjRThwTjJNbjhBdFp0YmVZM29SNGhkMlFFajlsbjJPRmhIWURDcmZUWFp5NFd5aHJHbjBQNkNZUlV5aTh2Z3NwNXZwTkpYQVRaYkZlMFYwRDNCVQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-17T15:26:12.296Z"
+    },
+    {
+      "id": "9b9d62e6545afeb1",
+      "title": "Siemens Combines Industrial AI and Additive Manufacturing for Adaptive Production",
+      "source": "ARC Advisory Group",
+      "date": "2026-11-17T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVI3MEZadWlfUVZJY0huS1RPTWNRSXFaVTllckJIWkNMYUp6YlpSekEzQTE4MTZSUEJYaTBBS2lsUExCLTJxdWdMVHMwWmFMQWxPRFNacWF3alVVT0VpS0x6QVJtYU1Kbmt0bFhrMW44eUVYR2liblAxNVNNeUlueEhySC1PSlZBSlBfeHN0dDVxSWE2NkVaUVJQZHdpcXhPVE4w?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-17T15:26:32.462Z"
+    },
+    {
+      "id": "c00eb9a7ac492c76",
+      "title": "Rockwell Automation Scales Up Its ‘Virtual Factory’ With NVIDIA Omniverse [Automation Fair 2026]",
+      "source": "매일경제",
+      "date": "2026-11-17T08:21:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tLWRjcmZkTl9GekIxRklzdU4yeURsWndNWVhfc2I4THIwSnRGNUF0SmwyQ3psWkVRWUpvOEVfMGhGTWQtWGUwV2ZrSWZfbEJwWFFj?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-17T15:26:38.732Z"
+    },
+    {
+      "id": "09b6d1e1b66c528f",
+      "title": "Retail Media Networks: Different Strategies for Different Shoppers",
+      "source": "Connect CRE",
+      "date": "2026-11-17T03:41:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSzlFUlo4X1Rrd1NQSVhJcE1LLUtZdnNQMFltOGtVUjJjUHVwRlFjSHl5QW1hakc2SFl3UU1qN2lwUUZxOF80WS0tUVhmN3ZkVnZyUzI4eTBBeDVSaWpMVUNNNjRzVktoRklQT00zSWdXYkc2VDR2ZGk2TmE3NGJiTUZGM01qZXFWVnNUMndJLU9VUkhweDlJZHFfM3RpRjBveEg0?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-17T15:26:36.633Z"
+    },
+    {
+      "id": "fee489618b68bdc9",
+      "title": "Industrial AI and digital twins could help Vietnam escape assembly trap",
+      "source": "Báo VietNamNet",
+      "date": "2026-11-16T23:33:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2E0d0xqOVFoVldpaDl2TlZEZkl5bHAzZ1h3Z1NnZWc5T3dkWEJ4V2FLX0x1bWh4SWNnRlJndnF6aGE2Xy0wUHJ2WDlVWWMxYnhGUUNjb19jam1rRlo4NGZfYXY3b1NQU1drdThudDBwYW41bHNQRnlNX3YtV3d2aTN2S3dnbXpuLXBYWER1ampxU0stajJvbjVQM3Nqd2JwZWJtcjE3YmdFbGo3LUE?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-17T15:26:38.732Z"
+    },
+    {
+      "id": "7973aaa640a35102",
+      "title": "Retailers are turning their stores, apps and websites into connected media networks",
+      "source": "Techli",
+      "date": "2026-11-16T22:30:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDUzaXo4b1JvN3ZkdEt0Wm54YWwxb3FjTFhGcUZYQXRzTHFhUk5OT1puQXhZcml4Q3h0RmpWTzJIN3AyQ3NTMjhNWjdaMDFvVEMtSk56THlJYVo0SFNSaC02YktxV1RibWc3c1pjWUVlY0tLX0xybDQ1SjFOaHRHMWY1QWloaERtSldiVmhrdVdTSUVJZ0Y4eHhzd3BTZnI4ZkJ3aXdRM3Q2RVN2?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-17T15:26:36.633Z"
+    },
+    {
+      "id": "2fff0a265d4c9197",
+      "title": "Siemens combines agentic AI and additive manufacturing for adaptive production",
+      "source": "ETMM",
+      "date": "2026-11-16T21:09:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRrOXVVZ0pqcXlHNXhkLXhoNlYzX2ttb2Z0eTNYeTVPeUh4UlJScWk5V3R3MFZaMEIwMFZ3bTR5N1pEa1c2SnU2YW81aFJvRFpjV0M1UHJ0a2ZCcHFMMVZfM0ZVcDFiUHN2UWp4dEhHMlNDdFI5RHQxMFkwSjFqZ2RuZ1hqZVZDVXhHTEY1d1A4Ykw2QUxZQmoyQVBPTWVKMHUwUnRaTVlKcC1OOVA1X3lCdFg?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-17T15:26:32.461Z"
+    },
+    {
+      "id": "1ce11497e2316b34",
+      "title": "Newsweek Webinar: Blue Yonder CEO on the Future of Supply Chain AI",
+      "source": "Newsweek",
+      "date": "2026-11-16T20:58:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSU5QM0dNbnpBY3RjOFNsWUM4Z19oNHJVOFJOdzRzMXZ1Q2VvYlJUd1BwUG9VZFJCa3JaNlp2RGIxUEtteUEwNFNhY3gwdlRTcUlRbUNaTE1DRU5LdjJVVWQ3dk5iMVdVUGhSWUI4aVlTUTljTmhweFZNSHBIdw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-17T15:26:22.435Z"
+    },
+    {
+      "id": "a3edb06b53ff88b0",
+      "title": "Mastercard pilots AI travel purchases",
+      "source": "Payments Dive",
+      "date": "2026-11-16T17:11:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOai15LXhTWEFjNThhMl9rTEZXbHk2bVdyNmtGeHhnTE0xVGtMQk9JNmdwdDJhM2RHbC1HX0Z2cjRwS3YxaWh3RzZEWUsxT2p5YlpGbzdidnJVem1yaEgyd1RJaDloamZyUzUzZ29Ha1dfaWRJTEZpTk5tOEpzOHdOb0ZDTzVDQQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-17T15:26:33.539Z"
+    },
+    {
+      "id": "51d4b4438ca876bc",
+      "title": "Researchers building manufacturing AI that can explain reasoning to engineers",
+      "source": "The Pennsylvania State University",
+      "date": "2026-11-16T15:57:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3l5LWZxRXVqOHAzVnpLUUl0R2g5UjBfdmlxNi02QldOQ2VsOHd0N3RNS2hvM0U3Q2ZQUy1ObFJhSXEwYlVoakQ2Vmg3TnhhcE9sMGN1Q2dfaUFlS3FPdW1yOGtPekVDQjRNQUR5bkJoYXhJcklINHhaZUpuWjh3LWVfY1pyOVBIWlRsalpDdnNYTlQwT2xEWktiQnB5YkJuZXNfaXdHWGc3YV81VllJZlZzVnB6dFk?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-17T15:26:38.732Z"
+    },
+    {
+      "id": "c0d5810886719e0e",
+      "title": "AVEVA, PROSTEP Expand Partnership on Shipbuilding Digital Integration",
+      "source": "Marine News Magazine",
+      "date": "2026-11-16T15:26:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XZy1mZ29ReTJKeFJqQ08yZUxlQ24zT1o3aDYwUmR2WUJDaDhXWWRrTTFDSFZTc19wc0d3RmtFNXRVd1hDdWZTVzhtTEtYWGhibDcwTEFuNjVIOUpLeWtZSDJIQ1oxVWhXTE0ya2xUVGhPM1lvN1RPRGZpUQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-17T15:26:12.296Z"
+    },
+    {
+      "id": "287a30828c266868",
+      "title": "Commerce launches AI Shopping Agent for BigCommerce merchants",
+      "source": "Tamebay",
+      "date": "2026-11-16T13:45:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmI3ckFnTHJWZkh2YkhDUDAydWpia3hVQlRpUG12Wng2Rlh2dFdnOXl2MUVtYUVISVFLM050dDg1MjlDS21wcnJTcUtTVG1IcUNyLWVsRXFfSzBqWTJvZkVCdTNiWG8wQVF4LWYwZXlabkJIQVNIamlMeFMxdFl6NXpsbExTWThiTjZaMUhsQUF2c3dfM0VDTA?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-17T15:26:33.539Z"
+    },
     {
       "id": "19c6cc6c7ac52c32",
       "title": "Blue Yonder Named a Finalist for Two 2026 Microsoft Partner of the Year Awards",
@@ -373,6 +496,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-11-16T14:37:08.719Z"
+    },
+    {
+      "id": "41e2c122e4da2bc8",
+      "title": "Aviation Business News",
+      "source": "Aviation Business News",
+      "date": "2026-11-16T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcm04dVNsZnNUUy1Xdk4zNnZkNnZoN3dvdlNBWWhSa3Jpa2U4VDg0U2Exa1REVnQ2Z2JQTVc5YW9qOEZuMUp3bTFBVmZtSVZESTFMNmx6T0FJTmJnVDdldUthVHNFSDU3TnJNQUIwUlVqVXhsa0x3cVZBSE9xSHZ1aUFpNzl2YWZnMnVyYnR4UEpVYXV4OVBhLVBWMW5rT2tOV0FtZ25DMTlvQ2F4RjQweVM2Ul9sSlJWdjVfVGNvajJ1WWJJLTd4LVRNdFY4M0lkUFNSb05mM0swMUZpT3c?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-17T15:26:25.427Z"
     },
     {
       "id": "6e8d5de5a07397d3",
@@ -473,6 +606,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-11-13T13:50:41.984Z"
+    },
+    {
+      "id": "a7b546bd9c171c00",
+      "title": "NielsenIQ at CES 2027",
+      "source": "NIQ",
+      "date": "2026-11-13T11:45:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nbGdQaDNoamh4RGlhZFA3aFFOWTI3anBSX0xEQnJsdlF2NFRGMFQtRjZadFZGSXN5NE9CLUxsbFVWdnBvTUhyVEExQ0tFRHJrNEgweEpCdVN3ZWRWNDFpZnVPQ3hKVlZRN3lGX1NxbmszVVRY?oc=5",
+      "category": "NielsenIQ",
+      "query": "NielsenIQ consumer intelligence AI",
+      "firstSeen": "2026-11-17T15:26:31.421Z"
     },
     {
       "id": "d248dbb92e554ab2",
@@ -1023,6 +1166,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-11-06T13:40:28.539Z"
+    },
+    {
+      "id": "01d38bf1b4755c2d",
+      "title": "Query enterprise data in Gemini with Data Cloud connectors",
+      "source": "Google Cloud",
+      "date": "2026-11-06T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjBQUDl5Z1YweUNCSWpaMm5mT1hlRXJJeU5JQlROc19PelFoVy1pV0lYaEJjWDFyLTFqTHl4RzVydDBBMS1udy1kTUd6dDlzSGlXbHlGRUdGZ0xKSnVRYWN6WTFrY1RnVjJzQ2hDRzE2ZG5LOTNoZ1BNSVJGdnBIUF9HbzJhelU0OWtJOFpqNzlaR3pzS0pSZ2RxYTBkWlBxWW04NDkzSmN6dDJpM3F2NktB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-17T15:26:37.690Z"
     },
     {
       "id": "106e49506cd483a1",
@@ -3493,6 +3646,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-10-20T10:52:13.626Z"
+    },
+    {
+      "id": "d1058130ce5cc81c",
+      "title": "Enhancing performance using Lean PLM with Agentic AI",
+      "source": "Atos",
+      "date": "2026-10-20T01:00:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHNxN2s3T09FeVBwbV8zSEFNUEZxLVliWDRSNXZuWWx3Tkw3bHlPQ0hpdjdjWEQ0SlJEWkNIUEVwak9NekUxaWdkbDBMUVEtTXhDekg5SHdrbXg5cExXN1lJLWlnMzBJc0hNQ1Vaem1wbUlmYUNUN28zcFBHREdINTFLX3Z2WGpFM2wwRXZxemJrTjA?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-17T15:26:32.462Z"
     },
     {
       "id": "044fccdea9b87a90",
@@ -13805,6 +13968,16 @@
       "firstSeen": "2026-09-18T10:28:17.384Z"
     },
     {
+      "id": "05eb94e5b978588a",
+      "title": "Mirakl Ads at Cannes Lions 2026: What commerce media looks like when AI is doing the shopping",
+      "source": "Mirakl",
+      "date": "2026-07-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTVfU2JGbjk5TGhqNjYxc3pxN0dZbG5IM2FqSUpxbFB6bEtSbWlNMUU3OGdoc3lLb3RXcFMzSGFmaDFJbllYVjAxM1VwZXVIMmd4ZDVkOHc1UDJiU1lybVNDbzNDRXdsTWl0N2lzb0p1SWFnY1lkdzlQeUVTZl9uM1RZR2VQVk83SG4tLWhKaVF6MnlaQUY0MlQwajJJc2ZvVW5JWVMyRm9fdy13SEtZYzk5MTVnSW51aHo2WDltLUhMM3lYMDd4Ql9zUQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-17T15:26:36.633Z"
+    },
+    {
       "id": "a134a066fa2edb26",
       "title": "SoftBank, Altimeter, D1 to Invest in Thrive Holdings’ $2 Billion Financing",
       "source": "The Information",
@@ -19063,16 +19236,6 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-09-01T11:00:02.472Z"
-    },
-    {
-      "id": "3a5da1693914de37",
-      "title": "Microsoft Ignite 2025: partner spotlight",
-      "source": "Technology Record",
-      "date": "2025-11-17T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGNCNmZtVTNpXzdKaTgxb3NEY1UzdW4wZ3hzYlZUN1R0NXZ5cklRMnlLWjRVRDN1UEd0cUJ6QVhXSVZ4WHFJSHZNaERJZHZWRkZ2VG5BZTlWNlRmV2hQVzFEOHkwS3MtbHRxbFRZZDVHcHZzQ2JMUDJaS2Q3U2pBcWtJV0MtREE?oc=5",
-      "category": "AVEVA",
-      "query": "AVEVA partnership",
-      "firstSeen": "2026-09-04T10:28:23.641Z"
     }
   ]
 }
