@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T15:26:38.736Z",
+  "lastUpdated": "2026-11-18T15:00:09.969Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1887,
+  "totalEntries": 1903,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -364,9 +364,162 @@
     "f38813d6c343dbb5",
     "3a5da1693914de37",
     "2f0212897654c4c3",
-    "9c287df120f70e8d"
+    "9c287df120f70e8d",
+    "be2b20ffa0543a80",
+    "574ca053e08509eb",
+    "4e7c7103453d9a52"
   ],
   "entries": [
+    {
+      "id": "eefacec8bae90159",
+      "title": "Blue Yonder Appoints CTO Salil Joshi as Interim CEO, Succeeding Duncan Angove to Accelerate AI Supply Chain Innovation",
+      "source": "citybiz",
+      "date": "2026-11-18T14:16:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUFRtLUotbE5hNGNWTHNUNjFhOUIxT0hQLVF6bnNEeFg2TUpNQjcwRVFyNm02RElwMnptTHVXT1AtdTB5dHdxZ2E5LTZpZHg0WklGZnZIWlZ6RHlFLTFYV1c3OU9melVzQWphZFBLMVI5MkFxbl9RX2ROQ3ZKbHFHT1o0ZnkzenFlUERQZEdCM0NuTkd4dXo0WUV5RjdEMGh6dXRiMDhlbUJ5ZWtxWlZ4U3YxeGZjN25FeTByY2c1ZTRCRE5MeUlKdTQyX21ZYWtvdEZ2QTRyUE5iVTZQMmRCV1c3Uk5EaUY4M1QzVg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-18T14:59:52.404Z"
+    },
+    {
+      "id": "b20409536a956c9c",
+      "title": "Aegis Software Brings AI-Driven Digital Twin Simulation, and Advanced Planning and Scheduling to Manufacturers of Every Size",
+      "source": "Business Wire",
+      "date": "2026-11-18T13:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSS1HYWJ2SUU1NGFNeGxJdWlqV1B6bnFqZENYQlY0NXBZV3B4bTYxejVheXdMSXJjRE42SXQzN0FCREVRbFAxelctQjFicXBFcFVkU3BqOGxKOWIyeGc4NmR3bWR3VDhISG8wUmZsM2Z0b2NqSGVnNS1aNWd1M2VfM1RqUkUtYWVta3EtVEVPLTdOLWxtTldvTXRGal9MZmUxS0I3X3NFR2ZFMkpTREMxRnMxQUZ6ZHZFTThnUE9ia1dUT3hlWE5DS1l2ckhZZHVkWjZINXNaYUVuYW9XN1RVUm1wUW9ranUwcjktNFRWUWg0bnVocU9ueGRlRUtGelpnWEg4Y2RWU3pMMUR6?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-18T15:00:09.965Z"
+    },
+    {
+      "id": "7a43e6fcea8ac8ef",
+      "title": "Blue Yonder Announces New Leadership",
+      "source": "Business Wire",
+      "date": "2026-11-18T13:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkJVN1RkZlE3enZkYTZ2aUJzbjBBUGZmVTRLcHZfUER2MTVrSWxvam9ocEl0SVc4S1pQeWQ2UkRBd25SXzQ3NUZLZFlOMTRTVkJ0LVA2cWNpeFFGczVIUjNzVHExQW9oSU9RcV9sQXdjMlFpaE9RcjhObm44VmdtbjVGc1JQaDBMb3QzcFVPZ2FQTFVoTEVhcA?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-18T14:59:52.404Z"
+    },
+    {
+      "id": "c7687a3e9f8e170b",
+      "title": "Mercanis Launches Agentic Skill Studio to Bring AI-powered Expertise to Procurement Teams",
+      "source": "EME Outlook Magazine",
+      "date": "2026-11-18T09:24:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFlyM1ktalZ2X0RwZGhLVVh2V1Z1b200czBWdTVjaFlQa1Z0SkRsUFVma2owbDhkTXhVOGE4M3JtMlRhOXlQSDQ4MzU1a0FTck9tVk1wWmF1bGdQaHZQS0tOWTI5bEo2bko2Tzh6cjQtV1M0STVyb2F1RUpmZlVCVEFGR1JxVHRPcEFDWTNmMVVSeGs3TTZQa3VCakZKdTF1YmY2MEF4OGY1b1lrbE8yOGFBZnA0YkRqRzhJZ2E0dmw4b3FJempSSzlLaExJeXlXd1ZF?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-18T15:00:03.076Z"
+    },
+    {
+      "id": "3cae97d9faf9378e",
+      "title": "Future of AI in travel: The Intelligent Journey",
+      "source": "Hospitality Net",
+      "date": "2026-11-18T08:59:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN05UZ1Z4MEdSZTZOMnFQMlBFdTY1ZkZhbWVyZ091RlgzYmp4djFuMnZxZk9kSTJtbzYxTldUVGFfOGxpTnZCcTlPOVRjblIwQXFGc3hncnMyQmZPNWtUSFhJbHlaanZ3UWpzWlZ5bkNVcUg2ZmszZzltZHJxV1NjRU5ZSEVjMGhOcGdoRm1QZDVTSmRPMmZ4Mw?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-18T14:59:55.661Z"
+    },
+    {
+      "id": "8df1f9f2c35cd630",
+      "title": "Workday to acquire Honeydew to improve AI accuracy across business data",
+      "source": "TradingView",
+      "date": "2026-11-18T08:02:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVFjMVlydnFjWkVyMldvLTFxLW9aVGk2cFczMmg1aEM1cXAwTTdtaWgwb2J3WV9NTUVkcDNTYzA5MExpX08wVWNmQXF5YjBwX04tUjdHWnh4RFg2aEZTTGlaV3NzTERfZjVxRXFCX2tlaWY1Z3U2VjRfcW1QYnZPc2xEdEE1emZjSWdhRFpCQjlaMEY5bFhiYTVySmdRT1dkYS02MnRBVTJxcHEwS3dUOHpBdFc1cWNQZjNSVVktRFZjeE53WFVwUElxWF9xQ0E?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-18T15:00:08.597Z"
+    },
+    {
+      "id": "7e1f56b53796176c",
+      "title": "Workday Announces Intent to Acquire Honeydew, a Semantic Layer for AI and Business Intelligence",
+      "source": "TradingView",
+      "date": "2026-11-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ2xQS0VQdHllTHJTV1ZqX3czNTlRQjZKNnFZTm5xWldpY0dCWDItOUFONko0XzdWWFRydmU4US1yUFIwd0tWU2syTXkxeHNmSHEycmgzR2FoZU8wMkYtcVBTd1h4TFpPeGRSOWdZbE9jaFREVjNQSjRWTU8yZGJpLTRfRWROMXRxd3N2b1IzMzZyWDZPbnI3a2lYXzVOYUE3US1kbnFXQnRLV0FBMzVmV2FXZ2M5VXFXakEtVU43RFdpYUNPU2Q0MVcxR0FuLWlaWWFJZnVJSHFnRDNsbFN6NlNIczhvM2U4bFYw?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-18T15:00:08.597Z"
+    },
+    {
+      "id": "10ebcecea4fe1b7a",
+      "title": "Azure Cobalt 200 VMs now generally available",
+      "source": "ET Datacenters",
+      "date": "2026-11-18T02:10:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVo4cnBtRHdzbFdhTXRuQ2t4UzNzdm5hZS1qTzd5aWJQM1dYNUcteV9uTGM4WU9HV05YQTR4QWwtZTR4QzdSQTZWaWZVbG9wTEo0eDZEWkxjcEZoSWVwZzFNZkVoSXJDbWlFekhJa1gzWE5ZaHpNT2NxSEVtNVBIN2o2d255X0F3T0NOY19YS3VnNkROZUVoS0M0N0JDV3RLX29jX1JRSlBITzdiMW9EbDRaLUVyT1VDa0k5R2JJUVdTTHBya3JDczBpNkhfT0NvNnU00gHTAUFVX3lxTFBlWjhycG1Ed3NsV2FNdG5Da3hTM3N2bmFlLWpPN3lpYlAzV1g1Ry15X25MYzhZT0dXTlhBNHhBbC1lNHhDN1JBNlZpZlVsb3BMSjR4NkRaTGNwRmhJZXBnMU1mRWhJckNtaUV6SElrWDNYTlloek1PY3FIRW01UEg3ajZ3bnlfQXdPQ05jX1hLdWc2RE5lRWhLQzQ3QkNXdEtfb2NfUlFKUEhPN2Ixb0RsNFotRXJPVUNrSTlHYklRV1NMcHJrckNzMGk2SF9PQ282dTQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-18T14:59:53.377Z"
+    },
+    {
+      "id": "c0285f0f85362545",
+      "title": "Rockwell Reshapes Manufacturing Engineering With AI Agents: \"Start With One or Two Questions, Not the Whole Factory\"",
+      "source": "BigGo Finance",
+      "date": "2026-11-18T01:56:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kLXBvdFV4STJyZm1CZlJJRXZuWU1YWVk3cHNHbUFfVkhHYmZpSXF6d2FiYVJpUDRXMHBnbzA4Qlc4NUdqWFQ3MDdMOGUzdmc5eHpHQ0htTmxiUnhyUDByc05zVGVpMFdyM2dwSVZEb0o1RUQzcnc?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-18T15:00:09.965Z"
+    },
+    {
+      "id": "56b7695cab7ff486",
+      "title": "How Retailers Can Prepare for AI Shopping Agents",
+      "source": "E-Commerce Times",
+      "date": "2026-11-17T23:40:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG9leG1kc3kyYnk3ZXBteG1YZ2Znbm5kQkxCWWxsNWhOMC10UEFVTWdkZFpKZm9aR2pUSW5jbGttN0NWQnlESmRxTDRwUmg5S2c0OUtCbXBneUt5VTBBcE1HMHphQ1BWVGFTN21nLTRVb2ZlOUh6WWFrbmJmUlZKd09ISzdHODEwc01laDItRHhycE9xTm9uc1JHekM2Zw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-18T15:00:04.198Z"
+    },
+    {
+      "id": "e38d2d015653d913",
+      "title": "Ad Buyers Embrace Retail Media’s Honeymoon With Streaming",
+      "source": "ADWEEK",
+      "date": "2026-11-17T21:34:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkNQQk5aYUx6VDV5ZjJPUzV4Wk95aGlLeVhLVHNvWGF1S2gydkNtNkNYOUNaNmxzWFRUWlRmNXRpbFNKemgzT2NHZ0gtS2Q4bWVtOVRpSERpblpoM0lpa1Jmel9DZDlkMkRVaGFpLU5OZ0F6T3FDTFFTd0JsdlJLV1VRQ0lHQ21KZ2plU3JkV3pSY1U?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
+      "id": "eec8086027327848",
+      "title": "AVEVA and PROSTEP Sign a New Technology Partnership Agreement",
+      "source": "https://megaproject.com/",
+      "date": "2026-11-17T21:10:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYi01UHVrWmNtcTl5S3RlUl9CSktpZENDR3oxaWtZTENNdjJuOWFPcE0zSHlfRkRSLWFKZFR0N1FvaXdjU1RucVZuVU95QzRLZlNuTGFlUTkxOEZLYlFQWlYzVmg3eWxHZ3cybk02Qkt2UFRjZXhhcFlqc3NxNjY4THV2N1NxUUxKbUxNWTNNS1U0Q25rWGNOXzNPdjRkWWc?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-18T14:59:41.754Z"
+    },
+    {
+      "id": "76b7cb02e5574915",
+      "title": "OpenAI Introduces ChatGPT Wallet for Secure Credit Card-Based Agentic Commerce",
+      "source": "HomePage News",
+      "date": "2026-11-17T17:02:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDJBVDJoZWhDWl9VYnp4ZElCbDljMTBRdU9nU2hXZkxNMnREX3RuQlpBR0FhblctVFRNY2xrMzVhRzJzVFlQVDAxNS1oR3JSS1hlNDRDcXRPaHZmUWJwRW1uTHNTN1dQcGY0eklLbmRXOU8wNkR1NDlMbE1vVEFUVDZlZzBGVFZ1TDdFYTQzYUNoeTBnSVdIdFBPOHBEdzQxcGpWa0pTTnNLbFFBQU5SelJTQlFMQjdqTG1vZW85S3VsUQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-18T15:00:04.198Z"
+    },
+    {
+      "id": "7ddb7cda57152ab2",
+      "title": "Soriana Media Chooses Kevel to Power Its Retail Media",
+      "source": "GlobeNewswire",
+      "date": "2026-11-17T15:52:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNbGlkeFRqc20zWmN2NXNzRWV6dmktbDBib25LdWhIVWgycWR1ZjZESE9yOFUtaFBSanpFZmdSR0pLTC1nbzdoWGdhT1hXckZYdVl1UTFrNUJRZklDVktEOXI4SldNeHRzQUpKNGt4czhsYUdsWVd6QUx0NW0ydWhZU0ZxbUFKOW00TzBvNzBQZklxWFlDOFhGamQwT2FoOUtOMlQ5b2NtRTJ6dDdTa1R2eW1kX1ZrU3ZsdjBNXzI0SWtFWExrcC1vakl3ckhQeFV3X1VUMFlXSHhxUGg1NlpTZ2xkY21jSTczQTFfbHVxcklrVzBESy1YRm1ROEhXLTQ1ZzhBNHB5cFU3bHg1TFRQYnNSbVhuTEE?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
+      "id": "f5ea8a2a7fc1d4a1",
+      "title": "Freight Costs Rise as Warehouse AI Advances: Supply Chain & Logistics News of the Week",
+      "source": "Logistics Viewpoints",
+      "date": "2026-11-17T14:23:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkR4UnRLYVM0NVlCRklmaUF4Y0VySFl3U0tOMnRuT00xdjMzMEVVSnBCUjNBYUpTYzJPUTFsS3AxSFFPU0I1VDB1cnRhZExWU1ZBSXpwZlFPM0dFbWZVajRrLUVRZmpXMm1pMFc2V1FQMzZveDBsWW13Ull2LVYyekV0MW0xdHNRYmZBYkJ5dFp6dzZ2cFNoRUlQcmpBS2ZKWldXU2hwUld6Wm5qRHhGOEJpc2xnd014ZEJHMW9pZ2FwTDBBMVE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-18T15:00:06.281Z"
+    },
     {
       "id": "27c9efb7bbded1bd",
       "title": "AVEVA and PROSTEP Expand Technology Partnership for Industrial Integration",
@@ -9988,6 +10141,16 @@
       "firstSeen": "2026-08-31T06:05:32.755Z"
     },
     {
+      "id": "db2b5a9590ffb8f1",
+      "title": "Perion Acquires PRN, a Leading In-Store Retail Media Company with Exclusive Multi-Year Partnerships Across Some of North America’s Largest Retailers",
+      "source": "Business Wire",
+      "date": "2026-08-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNnRrRW1wQ0s0OG1mVU41bnFzaWN3dG1Ub0t3UklkVXhyMTF6cUhtMk04aUZ2S1FtTEZuWUdJWm9TbGJtV2xEZk1yaEh5bGNwQXVqYjdFMDdIUms1alBnX25QdGpZaTU2bDRoSG9FVFZqMUlNUkJvclN3RldxdzJjUF9YVG5tb0d6RjItQU0zNHgySmpfd3BSUEFzRXJKa1d3dlBuREttdW9WZ29adkdxSE1sSG9XQm4xYXBUMlk4Wmo1TDdzR1R2RVZNR29OWEF1R3lGUThveFhOOVN6RkNYOXNYbklhMWJGV2xqT1hTUDV1SkV1WHNaNEFKNDJYOUpzeEJwa3hRYXdiMnVlRWlYbENGOG9HNHF0SHdfOW1qNzVIM0tjZ19lNHdyTQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
       "id": "58ddcf2bf3b5d471",
       "title": "Plugging the data leak – a blueprint for deploying safe, POPIA-compliant enterprise AI agents",
       "source": "ITWeb",
@@ -17518,6 +17681,16 @@
       "firstSeen": "2026-09-10T10:30:01.812Z"
     },
     {
+      "id": "2405350c0cefa4d5",
+      "title": "Supply Chain 2.0: How Microsoft is powering simulations, AI agents, and physical AI",
+      "source": "Microsoft",
+      "date": "2026-03-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWmJLekI1RUtHVWNCOXMxQ2ZfOEhJYjJkRmZ2ZlNNMkpSbUxVZHM1bEN5WHJrMlJfSm4taGhtOHZWTnJzcDM3bHNxRndkdVhCeWVQSmxqMFZQTGVwQUpXVUZ3WjRRTnRJREJKa09SaE5oZzcyS2VyeDB6VWoybEpsWUxOUGwxOTljYzBVb1B4clBaSVdmR1RfMVRsdWZvWWdtb1J6bGxpYVFOeElnRnh3MWlleXgzNHJnSkpHMkZWSWdvYWw0M2ktcnhOVDR2LU9ST1ptT2JVdzkzb1l2T3FCTlpPaFVzTmtrREE?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-18T15:00:06.281Z"
+    },
+    {
       "id": "a2192056531cad84",
       "title": "Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping",
       "source": "Accenture",
@@ -19226,16 +19399,6 @@
       "category": "Bright Data",
       "query": "Bright Data partnership",
       "firstSeen": "2026-08-22T07:45:57.144Z"
-    },
-    {
-      "id": "be2b20ffa0543a80",
-      "title": "Schneider Electric, AVEVA and ETAP Join Alliance for OpenUSD to Advance Digital Twins and 3D Modeling for Industries",
-      "source": "PR Newswire",
-      "date": "2025-11-18T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUXpBeFVWRkRFbUpqRWx2LUlvZVluYkktMmNxLW5sTkRYalB6bFA1RVoxeGt3dERQZEpVOVhYV2tLRzBNTG8zbXJuRkdILVZBYm5CcjdhZklCcF9PYlN0Ykl5ejA0OUZKODNlVEFPU0ZlU3F2dFkwY0pqaXVHTlFhcG1ZLXpXWDBWRnRMeXdpdUhyTHR6eE5RcVFlR3dHMXF0MjlCMmpta3B1VW1kRFE4YmMtZGxuMlRsUzQ2NTNSNVFZNHFQdktoOERmNF91V0dMeWs5Q1F2cWRQVm1HUGdPWW5RQkhWV0JBSVpTbjNUdnNMNURDTmJWZ3lIU0ZHY0ZW?oc=5",
-      "category": "AVEVA",
-      "query": "AVEVA partnership",
-      "firstSeen": "2026-09-01T11:00:02.472Z"
     }
   ]
 }
