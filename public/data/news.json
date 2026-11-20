@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T15:09:33.192Z",
+  "lastUpdated": "2026-11-20T14:49:19.304Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1929,
+  "totalEntries": 1940,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -368,9 +368,73 @@
     "be2b20ffa0543a80",
     "574ca053e08509eb",
     "4e7c7103453d9a52",
-    "d4542bc5a23b0a7a"
+    "d4542bc5a23b0a7a",
+    "c3d3b4ae4a13f67e",
+    "1328075e315baf5b",
+    "99bb13eaa33b9a09",
+    "d04a29817dab889c"
   ],
   "entries": [
+    {
+      "id": "abf81e88b686d90a",
+      "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-11-20T05:43:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.081Z"
+    },
+    {
+      "id": "98699619b8792756",
+      "title": "Industrial AI Moves Toward Scaled Deployment: AVEVA Connects Engineering and Operations with a Strong Data Foundation",
+      "source": "The Manila Times",
+      "date": "2026-11-20T04:13:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWTB1b1cyRkg4d21xMUNsdzNXZnI5cWExeEZISTJPLXhIOUxzcFluTDUxSU55dHNoT2FvbEREeWtqLWc5Z1g5R3BNdXpUVWNJN1RObkJmRlpXQU8yZFRUQVpyZ0hjYk83ejBPdTdJUTVRUHN1OTJ0dkxRS3BMMDIzblFSbGtJZmhmX2YzT0t3QUFyRUwzYzc1QjNNdUJYYlk5MHBNZHdIWXZFRE0za0piM1lEdW96YjJfX2h0Y1NueEh5eFJLdjlSSFpyV3FWUnB1WVF2OXBtU3AwSzJLOXhPTUcwRTF0S185LTBCVlZwSU44M0V5NjJkcXladDAtcU85UFAxT1JVbjdXZk1lNzU4UDJCV2JzWGfSAZwCQVVfeXFMTkFKNFVtMW1tUjRzMmRlZ1hlMEpvNjRkUkk5U1ByWHBCclpMUE5NdkhoeHJVcm81d0tvMGdwbThFZ2V0ZUN6dHRoU0JpSWJPUmFzT1huRE85ckFUVklwVkJRTVJ4WVlXOU1nRGdwMjZ2RlBITDVwdkdER25UbW85MXo1X2JpYW1CZTFITnowaGhwTUE0ejZnQ1lZTHhnQkdoNENQR3VHcm5QcGpxc0JuOFR4WV9nX19NT25VYV9NZm03bmZYS2RMYzZ3bUt0OU5RZ0tkRjBuVUJ6NFd3SHotVXU3SFdfb0ZoRTN0MlhNUUhxNHNRRzNHR0REUmlMMy1IcG9tbHg4YWdmbDlieTlZc0EzTWhWNTJjTFVXR0c?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-20T14:49:19.301Z"
+    },
+    {
+      "id": "8db3fe664399f159",
+      "title": "AVEVA and PETROJET Partner to Bring Digital Twin Technology to EPC Projects in Egypt and Beyond",
+      "source": "Tech Build Africa",
+      "date": "2026-11-19T21:14:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jeDdObF9UN3J5dWV2RGd4M0loY09TdjZCU2hjajVNR0lZM2ZfbnFVMnpTdTNSeHE2QXRpcjZsRzJnQ3dET293YUVIa2dSTDh6a0dHTUJaNi1WamhMR2RvRXZuMUVkUEZfNnNIV2NrU2Z0T3lkNlZUQy1PVm1HOUU?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-20T14:48:52.801Z"
+    },
+    {
+      "id": "036e449b4ac25247",
+      "title": "Walmart CEO Furner Touts Omnichannel Impact of Agentic Commerce in Q3 Report",
+      "source": "HomePage News",
+      "date": "2026-11-19T19:28:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEpxUW9LaTJiTTZUM0hQT05zU19McHNZN28tRU9JV3hUNjlZTTFMdlZvcC1fRzVnZWlKQkdwRGVEOGNycE9iTEJnVzhrQnJ5NFVmdnhlVlloa1E2bVlDeEVNQ0dNTGpndzVZQ3JiR0JpcEFmZ2ctc1FaRm1ldGRkR3hQZG5MbXB1MjgyMjhibHlBV0VEMGI4WDhqQnBFdkt4RWt2bmFtclBVWC0xT3BwQkx6QzJJd05jMGRSNmRGYw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.080Z"
+    },
+    {
+      "id": "6ba390790f2cc7cd",
+      "title": "Google wallet returns to Apple",
+      "source": "Payments Dive",
+      "date": "2026-11-19T16:34:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NOWFxcmE0VHViTUJTeDRFTHQwbU5Zem80NmNsTzBSamx5eUxtcjZ1RWlwZmFETm0ybDdzZGlxQTBvV0dONVpneHBLRlhERlFDemxmd1BtOVdzWlplRERyS2stVlRYdUptSGVYbDJ4UXltMzdQaEJUT1AtZTk?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.080Z"
+    },
+    {
+      "id": "af3c0d217ee45937",
+      "title": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop?",
+      "source": "Forbes",
+      "date": "2026-11-19T15:42:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1NoVk5haG1jbkZQc0p5eklTTldTRnBaNno4NjdNTnpybWZEVTdMSGYwdzRpQjc0bDk0WEw5X3hIenNZV0tvX2Y5enhPTjdTNmJuVDZMQmktOFkybWRtRE4xamZjM2pma04zcEtBMHdFLTZJeUoySEtTOTNtdko2dFJfMF9CNXg1S00weU9DQXFBb2JoU0EwdnZRQzdLcVROc1BsWXJrNnR2VXVXakgwNDEtRFBGUng3ci15ck4wTQ?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.080Z"
+    },
     {
       "id": "32a01c19675984dd",
       "title": "Blue Yonder Property Group forms strategic partnership with GCM Grosvenor to scale high-power manufacturing real estate strategy",
@@ -382,6 +446,16 @@
       "firstSeen": "2026-11-19T15:09:15.349Z"
     },
     {
+      "id": "379c7e253fa0d2ff",
+      "title": "AVEVA, PETROJET partner on digital twin EPC projects",
+      "source": "Daily News Egypt",
+      "date": "2026-11-19T14:23:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQW9mZUhvd3N3bEVmb1BwTG9hMFA4MGVIenM2YWszQXJkUWN4YUw1OHR6SWpXcVg4RlZVUmVxUGs3Ukt0ZGs0R25qc1ExeFdpbWoxRy1NVHM4cUg4Tl9xdDZpV1pUdkExUHF0bTdzUlpObEN5RXI3X0xGU2ZHd0o0ZktESjItQjRTcmNWdVFLMEdZSXBy?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-20T14:48:52.801Z"
+    },
+    {
       "id": "68230d4c87124c9e",
       "title": "NielsenIQ Appoints Danny Lange and Chris Tung to Board of Directors to Advance AI Strategy",
       "source": "citybiz",
@@ -390,6 +464,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-11-19T15:09:25.627Z"
+    },
+    {
+      "id": "fe75b748d95b153f",
+      "title": "Rockwell gives AI agents only the simulation tasks a validated digital twin can support",
+      "source": "MarketScale",
+      "date": "2026-11-19T13:01:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXlXTWxVOUhiNXd6Y3hTaFQ3Ykc3RUhnVlNFc2NRVWo0Zjc4NGpLOHdNR3lsR0o1X29Pel9kUHY0aG9LaGFWT1h5cHUzN2labmN0dTFXV2RVZWN4SmswRzI3bXRVQUdHbXRveWQ4aWlOX0daYWtpWnJHS001NjRBVXpqbzNuaEg2bnNDWUtXTmVyd0lUR3A0U1B6dzNiSUpUbEQtUUhQV0FvSlJNLXBpSElXeERRTDVkS1VjWmxFaHJ1Wmx4WDFRWGFIa2lMMC13NmljVDk5UkQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-20T14:49:19.301Z"
     },
     {
       "id": "2093d74bff6a1007",
@@ -410,6 +494,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-11-19T15:09:07.044Z"
+    },
+    {
+      "id": "fbaf602e14ff36de",
+      "title": "Agentic Shopping - Maybe Nobody Wants This",
+      "source": "Next in Media | Mike Shields",
+      "date": "2026-11-19T12:01:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKRnBSb1NidEtrM2Jqei1rYWI1blhVWW16YzJCYzYtOUw4a25CWXA1OHpTSWJDVERrVDZXUEk5VlBFdkRydjAyWFhCZ1B5MkdGV1pUNVUxRXlnd09peUhFZzJQRldKUzNRTkdDZzN5aEJQRkh4QjluS1Fn?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.080Z"
     },
     {
       "id": "22648753ff7dee4d",
@@ -500,6 +594,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-19T15:09:29.898Z"
+    },
+    {
+      "id": "e5ec2c2a5ad17fc2",
+      "title": "Trusted AI by design, not by default",
+      "source": "CIO",
+      "date": "2026-11-18T21:37:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGh6OWhUbW9vazVISV85clJKYlZSZ3dPQVR6WXdldXN4VXlUSFFtVWxla0wtWW1LbjA4ek9hUm1RMF9qOTFRZXVkTjg1WXpHZ3o3N1RKckZ3bWg4WV9PTzN6cXRZYjBiaWt0TmFudi12OTdpdlhHZzZPYzd5WFQyYlhB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-20T14:49:18.234Z"
     },
     {
       "id": "00059779f751795e",
@@ -732,6 +836,16 @@
       "firstSeen": "2026-11-18T14:59:41.754Z"
     },
     {
+      "id": "5c073586e5a954d8",
+      "title": "Retail technology predictions for 2027",
+      "source": "OpenText Blogs",
+      "date": "2026-11-17T20:53:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81MGctRXczbkh0RzhHVEpzZ0NoUXdiTC1Vb3hiOTluakFxOFZrS2VCWmdQOXAzZ2QyenZyeEZneEdpNFRMQWJUVVRqWWl6b1lKdUEzTm9oSDlKQlh4TlptV3hZNi1MQTktVjVGSG5MeDlRSGM5?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-20T14:49:17.209Z"
+    },
+    {
       "id": "76b7cb02e5574915",
       "title": "OpenAI Introduces ChatGPT Wallet for Secure Credit Card-Based Agentic Commerce",
       "source": "HomePage News",
@@ -750,6 +864,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
+      "id": "8ac321012699cdd0",
+      "title": "Klaviyo CMO Jamie Domenici Explains Its Edge in Agentic Commerce amid Holidays",
+      "source": "Yahoo Finance",
+      "date": "2026-11-17T15:06:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGV5RHFmZ2VfaUZ4QjlBTU53M1NuRWtGUDBOcERQOGtPbjdybnJnQ25XR2ZuLVFsMlRIdkc2V2o2b3c2MGFQZWR5ZmwtYkw5bEJzSWJzRW8wajFkSWo1T1BfR2ZLeDljaFdaX1NJb1U1UmlhT3Nrd2tMUmxQek14eE5GZTh1ZHN6eGc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-20T14:49:14.081Z"
     },
     {
       "id": "f5ea8a2a7fc1d4a1",
@@ -790,6 +914,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-11-17T15:26:38.732Z"
+    },
+    {
+      "id": "86eecc7a8aeef71e",
+      "title": "2027 Manufacturing Industry Outlook",
+      "source": "Deloitte",
+      "date": "2026-11-17T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaExYSjNBLW1OTXdrTXBMazNIdEp6LVFYSUl0aWt4cUY1dEIxVFN6Q1plNm5KWUd5eDJHbk9BSVpLX01FdktXMl9JOG4tVnVpU2dhX0ZxckVOOVdQejZXWk1FTXdvMko0cmJCTld4QmNHWDNyVjBqSU1vMkp0RFNIb05oWmVMTVNSRk1ra3F0bmc4TmtwcFoyUnl0X3lfTk9WbEdGU3BKRmxRSmlwaTJqRzRoZGozVmlZMnc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-20T14:49:13.014Z"
     },
     {
       "id": "09b6d1e1b66c528f",
@@ -6930,6 +7064,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-09-28T12:46:28.712Z"
+    },
+    {
+      "id": "f1992bb24bed69e9",
+      "title": "Contentsquare to open offices in Madrid and Barcelona",
+      "source": "ICEX-Invest in Spain",
+      "date": "2026-09-27T19:53:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGVtQ1RUV1RteHVtMUtrWnNQTk1xeHpWemZrc3dIVW9Eb1F0STJPNGstOVhBZzJEeGhzUEkwcnVkNXNrbm45MS16czJlRE1VSkhYeU5EaWVJVl9xQmhnMTJydFFLUVhITEtjUFJoRTlXN2ZJRkRxSzFKYmhGVEJTQ0dLYm5sZXVFYWlxeXdaZWdvZDNL?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare digital experience analytics",
+      "firstSeen": "2026-11-20T14:48:56.765Z"
     },
     {
       "id": "db6fc70736cfd1a9",
@@ -19630,36 +19774,6 @@
       "category": "AVEVA",
       "query": "AVEVA partnership",
       "firstSeen": "2026-10-24T10:11:27.565Z"
-    },
-    {
-      "id": "c3d3b4ae4a13f67e",
-      "title": "Agoda on Samsung Wallet. Protect Group's offline refunds. SmartRyde x Amadeus. Sabre's GenAI concierge. More.",
-      "source": "webintravel.com",
-      "date": "2025-11-20T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzBJZUJPX1BQX1RTQmNlZVhOUWNIaFpBcXVhaTVHdElQOGxWVUk0NmNGeXVlblBQTW9aYlNKcXBKSzdGX21FT1B1MkJuWEcwSlRpSW45MXJaZ3dhUVI4X2NZUzZSYWpnRWZuQm9Nc2VrVFU2T3pjV1UyR2dKX2gtNF9MczhhMHgtNGZ5RmdJeHBMZ3ZHZ2ViUVR4bE5ib1VIY0ZEQ21tMzVwd2N3a1NuX1RHaGlnYXZ5OE9oVndvVjJVNmZScHVQck5Ncw?oc=5",
-      "category": "Amadeus",
-      "query": "Amadeus IT Group partnership",
-      "firstSeen": "2026-08-02T19:17:05.879Z"
-    },
-    {
-      "id": "1328075e315baf5b",
-      "title": "Inside The $209 Billion Battle Powering AI's Web Data Infrastructure Future",
-      "source": "Forbes",
-      "date": "2025-11-20T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGxzdkFjV3otdk5xb0U5Z2pDVHBsMFNvMVlhNFRaNmZTeHV6anRzWkI3WXZSand5NjJWMUllNU9DSWk3Ynk3VlNkTjN3djFCYVQ2VEFpUjhqSnUtMUMxWGVkR1UzY2N6Z05uUGM3RVV5Rlc0M015ckFZQVhMMElJRWJOWEUtUEsxMG1UNndsY25BaVVwUF9CbjNxbVM3b0EtY1FZRWpjZHl4eGY3N0xHTHVOcFlYcUxzLXBtaTU4blNRandJ?oc=5",
-      "category": "Bright Data",
-      "query": "Bright Data web data AI",
-      "firstSeen": "2026-08-05T12:27:37.470Z"
-    },
-    {
-      "id": "99bb13eaa33b9a09",
-      "title": "Schneider Electric, AVEVA, and ETAP join Alliance for OpenUSD to advance digital twins and 3D modeling for industries",
-      "source": "Business Review",
-      "date": "2025-11-20T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSGdFLUFxOFU0RzliQ29xNmhTbExyUjg0ZHN6SERGY0F0M3M3S0czbTAyRV9YbkhQVVo3Q2tiOXVkT1FmQkpXRTUzR3dLTmtnUnRXcTNfWW4wSEpaQVliWV84RFlLWTdXdGc4eDItMlBVYW1tWF8zWXZ2R0xfNG56TDkwTjBZOEE4aE1VUUJZVlpsVFZJSThjRTR2WGNZemZEYUpkMi1oMW52NXZfZWhtUzRmck5kTGprMHpaRzZWZ3U0V0RpOVBSTmhJOGJJZnFxNUpWV0tpeWZkLTJqejZ2MXFuaUtIbU1uMl96YmZSQQ?oc=5",
-      "category": "AVEVA",
-      "query": "AVEVA partnership",
-      "firstSeen": "2026-09-04T10:28:23.641Z"
     }
   ]
 }
