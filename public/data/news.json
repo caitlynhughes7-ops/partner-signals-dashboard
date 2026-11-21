@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T14:49:19.304Z",
+  "lastUpdated": "2026-11-21T14:06:17.240Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1940,
+  "totalEntries": 1952,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -372,9 +372,84 @@
     "c3d3b4ae4a13f67e",
     "1328075e315baf5b",
     "99bb13eaa33b9a09",
-    "d04a29817dab889c"
+    "d04a29817dab889c",
+    "15617a852ae3bef6",
+    "3e0d0151c9047e6e",
+    "7bff57e9ea706676",
+    "b158d7cf72ad0608",
+    "4b95cba60ac3248d"
   ],
   "entries": [
+    {
+      "id": "778cb189f6a0e263",
+      "title": "Best Common Crawl Alternatives: Bright Data & Webz.io",
+      "source": "AIMultiple",
+      "date": "2026-11-21T11:03:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1T3loZnZUVmNqdjc0V0w4WlBPQU9iTVZXVmNMbGR2YlI1ZmNHWWR5Q1laUXA1QzNxNktpT2xLOHUzUGR5UW8tNDRBUmd1aUN3YU5EYWQ1WGpWWHVp?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-21T14:06:06.847Z"
+    },
+    {
+      "id": "fe07cca2a1193083",
+      "title": "From AI Pilots to Plant Floors: The Case for Digital Twins",
+      "source": "Automation.com",
+      "date": "2026-11-20T20:08:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1B5VFlQeDJyVUZsMjRFSENmZXp2cEQyc2VMTHo4azNrSlJMY05ndDRTa2MzRlc5RzJyRzlrYmJoYWZtbkJ2R05wZGozaktfa0J1bUh3dmdOYlc2bnBJdm5HeHJwZ0dtQ0NMZjE1Sl80ZUh5d29SRGhVNXpxcjctMVZXd2YtcFNwR05ubFk2SUk3Zw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-21T14:06:17.236Z"
+    },
+    {
+      "id": "a7633d9f2880dc07",
+      "title": "Reality Check: Agentic Commerce in Retail",
+      "source": "Bain",
+      "date": "2026-11-20T19:08:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzJuMGdDb1NUU3RybjVENG5rTHE2b1hMbmlEUWhrX3lHN2YxMzRnVnhVR1laakRTYkU0VVBlOFQ1Zl8xWjhvYnNNeE44aURNRG5maTNKZjhUS3BLY3ZZM05rbHZFMmdmZjVUWEo0TWVpRXZkelpyU0tVN2lMOFRxQzQ1SW1tSnRHS2xN?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-21T14:06:11.962Z"
+    },
+    {
+      "id": "18e15bff965fc50a",
+      "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
+      "source": "TradingView",
+      "date": "2026-11-20T15:58:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUhUXzJlNnh1ZnFXQ280bTZNM2dTaUlseDFHeXAxX0RZS25NcFpDVWZCOUYxcDNUMm16MTk5RVIwTVhIc3NwWFA5RUlPakxCVDVlRnBRdnhhY0NuX0pFeTFCekVGcW5rN2dJNEgtQ1ItV0YxaUlxVldzNFdZRmVvWjBmWGZ5dUlOYkZDM0VqS19SSnVFLXdRcllRUThpOGRHSHpzSnRNQ25wT1NYcUVrWTFlaDN1enc?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-21T14:06:16.204Z"
+    },
+    {
+      "id": "aff5995e23a65fea",
+      "title": "8 Leaders Putting AI to Work in Manufacturing in 2026",
+      "source": "AIM Media House",
+      "date": "2026-11-20T15:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVdva1pITXEyMUhlM0RCN1plbDhsUGtucXJqTk5Mb1NTZkZLR05TNkh1SjFrRW1pNF9xaWpSY293RDRLRWdYWk8tcFVTQkVWTVZCVzRZVVJSTlJ3WG5ncDFFTjRZR3lqbUVPenJDeWhXbS1uNG12MHRtRnNSUHlOaGFRM2I0Wjc0R1pISjNCR0tpV1dDOGdSZw?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-21T14:06:17.236Z"
+    },
+    {
+      "id": "f251a05aa1187d28",
+      "title": "Aveva signs MoU with Petrojet for digital transformation",
+      "source": "Oil Review Middle East",
+      "date": "2026-11-20T09:06:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2lOckdOamRBVzlxVFpURzU5Smk3VXRhckVpM2ZZck5jTmZJUkZaNXdDN2ZEWElCNldfdkZvNVVrdXhsVkZEcjQxaGk4NU9qMkhmWm5iY3VPMVVXMUl3clUwNlZrV0FiSnVJbDlDVi1MQ0VxMmtuUGJtZkxvTzNpVXFkOFZMeFhkT1lEMUVhZDM2NUh1dGI3MWljQ2NBRFJuSGs0YVhVcw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-21T14:05:50.552Z"
+    },
+    {
+      "id": "a6a3af927d95b3e1",
+      "title": "Procter & Gamble Targets Up to $10 Billion in Savings With AI and Automation",
+      "source": "TradingView",
+      "date": "2026-11-20T08:12:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDF3b2dnbWl4SVhGOFBKWmcwUHVvdWpwczZjYjF2bDNCWTgwUnFkSlltZk5xRUEtWEhETzR1UWJTbldZczJYQUpPSGh0QjF4Z1JEMkxmZ1gtc2JyOFhKcE1mcXZxdzdNMnh3ZU44SlA3djZHV0NwSHpqcHVrTDhxSEVid21fSVBtc0JHblVzQldZaDBCdUVnTDJ5c2Fyc2RELV9EM19nWm1SNURwek5jX3hONDNhUjBGMkpmcjg1dUJpbEIwNEFVSjdVdUJPc2s?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-21T14:06:14.173Z"
+    },
     {
       "id": "abf81e88b686d90a",
       "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
@@ -464,6 +539,16 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ consumer intelligence AI",
       "firstSeen": "2026-11-19T15:09:25.627Z"
+    },
+    {
+      "id": "87c06166478f4d7e",
+      "title": "AVEVA and PETROJET MoU: Digital Transformation in EPC Projects - News and Statistics",
+      "source": "IndexBox",
+      "date": "2026-11-19T13:53:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHdQbVBtM21lSi14ZGZIZ190YmZlLUg1TjVKNWxtRktaOTNxN2g3SVlmRDA1T09UVTNYQVZxemhYWlNGMXAtWTlsSHNLaHdnOFRfSzlHcFhaWlJ2UmZMRFAxOUJzNjg2TWpWMTFObk04NDNjUjllbDV2QXVwOTNFY0tiZ1ozdnVkTTBFUE50R1B3b0V6N1JRWmZ4VEpwa09NWEpXZ3l1SGRqVHM?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-21T14:05:50.552Z"
     },
     {
       "id": "fe75b748d95b153f",
@@ -976,6 +1061,16 @@
       "firstSeen": "2026-11-17T15:26:22.435Z"
     },
     {
+      "id": "b0a3da1742f42a25",
+      "title": "Why Donald Trump’s AI Pax Silica Project Prompted Protests in Philippines",
+      "source": "Newsweek",
+      "date": "2026-11-16T19:08:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYk5qOV8tLTh1VG9oSkpsV0I2S0hqV1dfN0FLZ1ZkMFJ4Ql8tMm5yOGNMWE1NUXR4RUtCQXpLUnZTRTNaOUFUVzUzOExiRDh1WVJqNElUenF6Y3BOTjFYN2Z6M0JoLUR6czlzazVLTl9yMHNKMXZKMTh5MEVMMXdrT0k1YWFqY3BPWjBjVmMtREx2V3BmS2pCTG1kX0pmVHNtME5KMTEzTFFIdw?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-21T14:05:59.709Z"
+    },
+    {
       "id": "a3edb06b53ff88b0",
       "title": "Mastercard pilots AI travel purchases",
       "source": "Payments Dive",
@@ -1306,6 +1401,16 @@
       "firstSeen": "2026-11-12T14:32:21.383Z"
     },
     {
+      "id": "36757b668b6e8392",
+      "title": "Amadeus: Revenue of €5.08 billion in the first nine months",
+      "source": "money-tourism.gr",
+      "date": "2026-11-12T06:43:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa29JT3Jac2dPLTJtNl83eEFXcVU3UUt5X3Z0cmJJRDNvQ29ydlVNUnJzdzhpS3RNb012dkpzdWE4akFoV083VmJJOHNtWWRlWV9WTHB3Qi1ONkFncmlBSFV1R0VyQ2xXVkRRTjQ1dGZjTnYzMVdzRXZ1eW9kQmRXQjZ3b3Uwa2hKbmtpREM5MnlVMWRGTy1qbmI3WWVZNXhxSFlTdnpFbHphN3NfZDdfeG5JeXRreTMzc1dzenpvbjVrc2RVMEtWdFFyc045ZWwzam1ObWk5VERBNzNKaHVYV2J5RkJjcnM?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-21T14:06:01.771Z"
+    },
+    {
       "id": "d0ad5e755056a0f5",
       "title": "Dassault Systèmes to Set Up ASEAN Industrial AI Virtual Twin Lab in Singapore.",
       "source": "CXO Digitalpulse",
@@ -1624,6 +1729,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-07T12:21:36.358Z"
+    },
+    {
+      "id": "0435a540e90e960f",
+      "title": "Amadeus reports 5.5% revenue growth as it deepens AI partnerships with Anthropic and Nvidia",
+      "source": "Travolution",
+      "date": "2026-11-06T17:27:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHNLR19yeFpqM3FvcWNWMWkzT1lMR2J5WS11Y19ZYU8yRGxEamk3UDlmUUhDc3Q3SE00VHVJODlNWTVQeHl3SFhpTEd1cW9hTktMQTJUelZ2c01IYXpsUnVTaENDZUZUZDJKNVc3ODhtWnJsWkJOVktvVjlRYXBuVG1pclFJQmhmU0szeGRuZzF1Q3dUeXprN012ZjZ0ZWJld2ZtaDhvMGxNSW04MmVZUkZCZEdkWDY1c1E3eXJ6MEJpQUp3NWdnQXVOLVA2U1k?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-21T14:06:01.771Z"
     },
     {
       "id": "5019063d32460c21",
@@ -11326,6 +11441,16 @@
       "firstSeen": "2026-10-29T12:11:59.048Z"
     },
     {
+      "id": "4d2045ed2cb2bbb0",
+      "title": "Understanding digital twin technology",
+      "source": "SAS: Data and AI Solutions",
+      "date": "2026-08-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWlKS0FFN3JVbUozVDBTWDVHOFBUYkI0aVVmRDZkb2hhc2J6UG5leUwteEtlSWR4dFFBaVgtTElPUHRmc2ZZWFFJT3dIOXI2bjhGSWh2R3hQSDVDV2x5dUZjTlJYOVlFdGxTdzJnQjdhRTY1VzdzWVYxampNOWFWRTJPTTFtTUNWSWpmMmV0dkJCcVluVWpfR3ZUZTM?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-21T14:06:17.236Z"
+    },
+    {
       "id": "56acd1e89fe61ca1",
       "title": "Is AI Becoming Part of Its Own Supply Chain?",
       "source": "HackerNoon",
@@ -11544,6 +11669,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-02T10:30:33.432Z"
+    },
+    {
+      "id": "119b9c8c35d07ffb",
+      "title": "Bright Data Is Building a Toll Road for the Machine-Readable Web",
+      "source": "yespress.io",
+      "date": "2026-08-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwWHN0MjFnYjVXOWp3aDh0dlpwNHhGNGdBaTJWNDFhXzdqYU9DVnBHU1MyRDVqX09KV0JSSUpMc0xHeWVOeGc?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data Snowflake",
+      "firstSeen": "2026-11-21T14:06:04.663Z"
     },
     {
       "id": "65ef0386f9a5c8e1",
@@ -19764,16 +19899,6 @@
       "category": "Bright Data",
       "query": "Bright Data web data AI",
       "firstSeen": "2026-08-30T06:04:52.373Z"
-    },
-    {
-      "id": "15617a852ae3bef6",
-      "title": "Schneider Electric, AVEVA, and ETAP Join Alliance for OpenUSD to Advance Digital Twins and Simulation-Ready Infrastructure",
-      "source": "ARC Advisory Group",
-      "date": "2025-11-21T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pqdlE1cHh3emxuZ0p1b202VEtaTGRkS19sSDVkbzNGemVpanZYWTU3U0M0a3NNSU1qUDN6SDZSNnlCQ0xuM3BYdGFwWkpaSExWYm16Sm03MlR1dFFUQV9pMl9INGl0ZmMyWFhPaFpsWG84ZGV3UHUzTWU1WUR5dlNUUGJRT3BURnN5eXdsd2w4ZjdNNERvTFA2dlh6anRucUg4bmUxZmpyMGlaN3lZZlRZNWlvUFdLNUE?oc=5",
-      "category": "AVEVA",
-      "query": "AVEVA partnership",
-      "firstSeen": "2026-10-24T10:11:27.565Z"
     }
   ]
 }
