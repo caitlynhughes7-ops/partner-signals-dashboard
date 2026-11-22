@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T14:06:17.240Z",
+  "lastUpdated": "2026-11-22T13:58:05.863Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1952,
+  "totalEntries": 1966,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -377,9 +377,23 @@
     "3e0d0151c9047e6e",
     "7bff57e9ea706676",
     "b158d7cf72ad0608",
-    "4b95cba60ac3248d"
+    "4b95cba60ac3248d",
+    "02d91c2ff74c4554",
+    "3e5eed663468c449",
+    "7799790a975cb622",
+    "9fcdd292630a9f01"
   ],
   "entries": [
+    {
+      "id": "1519d83c046ba2dd",
+      "title": "Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
+      "source": "Small Business Trends",
+      "date": "2026-11-21T16:59:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT003eVhQYkRsdll5QVN1bnlTZ0lrTlVFSF9jcDNSTDk4UFVHM05hRDkxUFlGVVlvZHJsWTNZSW5jUGhsektKV19qZW5KMjFFVWFiTkc2dFBNRjA1UnR2RGZhSllmRTM3cXg2V25iUFdXRWRVdnQwU1M3UFdDTW91dlQ3NF9HNllLa21TNWZ4bTl3YmlPV3JV?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-22T13:58:00.608Z"
+    },
     {
       "id": "778cb189f6a0e263",
       "title": "Best Common Crawl Alternatives: Bright Data & Webz.io",
@@ -439,6 +453,16 @@
       "category": "AVEVA",
       "query": "AVEVA industrial software",
       "firstSeen": "2026-11-21T14:05:50.552Z"
+    },
+    {
+      "id": "4673e13a12923209",
+      "title": "AVEVA, PETROJET target digital twin handover to cut costly engineering project delays",
+      "source": "Business News Nigeria",
+      "date": "2026-11-20T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GNmJxM2xLNVJvYjNPWUh6dUNKYTBNSnF2V29ZT2pBbU5aM3NVYTNfTDUwWDZ0RS1ib2FSd25LaWp0ZzF4MDJ6Uw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-22T13:57:40.304Z"
     },
     {
       "id": "a6a3af927d95b3e1",
@@ -591,6 +615,16 @@
       "firstSeen": "2026-11-20T14:49:14.080Z"
     },
     {
+      "id": "5ee354f3abc2128a",
+      "title": "Blue Yonder Names Salil Joshi Interim CEO Amid Broader Leadership Changes",
+      "source": "ARC Advisory Group",
+      "date": "2026-11-19T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSzl3eDZ5eEVkelJ0SzhINzRCVmFvYWQzR1BBZkVlcWxpTHhmR3ROcURldE9waXExR0lDTC1lNmdRWHg5bE9UbG5BaTVGSHkyVERNT0gyVnFaa0xtS2JQN1k0SHRESXdBVU55LW1BaWFWYWhRX0pIcjZVbGVPMDdSQVJtSmlBVXZPa21qeUVRWkE5eXJ0cFd0TmJWZ0hmTFE4RjFj?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-22T13:57:49.226Z"
+    },
+    {
       "id": "22648753ff7dee4d",
       "title": "AVEVA and PETROJET sign deal to digitise capital project delivery",
       "source": "Utilities Middle East",
@@ -619,6 +653,16 @@
       "category": "AI trends",
       "query": "agentic AI manufacturing",
       "firstSeen": "2026-11-19T15:09:26.736Z"
+    },
+    {
+      "id": "efefbbdd459e8619",
+      "title": "MCP in travel: What it changes and why connectivity is only the beginning",
+      "source": "PhocusWire",
+      "date": "2026-11-19T08:03:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUFFRFBleGZ1UVpsVWZ0T1B3eU5HRk5mZnVKd0xPa1QwYXJ5T3kyTWRMT05HbHVkdHJOMFZZazcwZUJLY05lMjR5NGxVVWwtOVVJVnloeUh1Y1h5QkM2WGhvUmZLM2JUQ2laeXNBT3ktczY5OGRZTkE4MHZSQVBpaDFrckw2a0o0OGh2VFlDWTJlVTJ5bHJxcmhlOGxzVDFKc2x6eExn?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-22T13:57:52.423Z"
     },
     {
       "id": "d76bf89e2120e8bd",
@@ -871,6 +915,16 @@
       "firstSeen": "2026-11-18T15:00:08.597Z"
     },
     {
+      "id": "881a98300401332b",
+      "title": "Azure Cobalt 200 VMs now generally available",
+      "source": "ET Datacenters",
+      "date": "2026-11-18T03:48:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRlZkbl85d1djX0ZDcEh5RUJTRHIzVzNlcFRobUhNTnhmaW90SFFrNGFoYkItVm5TZGFTNXBFTF9DRV9UWTFraXF4cG1UX3BnYVRtUTFmT0lTQ08xUG1lRTJFeUlyVDBoOTRvSmk0MXktWXk5bTh0NjhOM0d0WmJPVXlUQnlRclpreHJoRVhJMUNIaGd2X2ZEcnVnWm9WcUcweDRNSDF0cXBFeFB2a0dJNVdxZlkxWFF0dDBJMEJkRkxJM0JOUFhOa0pzMHRDcnfSAdMBQVVfeXFMUGVaOHJwbUR3c2xXYU10bkNreFMzc3ZuYWUtak83eWliUDNXWDVHLXlfbkxjOFlPR1dOWEE0eEFsLWU0eEM3UkE2VmlmVWxvcExKNHg2RFpMY3BGaEllcGcxTWZFaElyQ21pRXpISWtYM1hOWWh6TU9jcUhFbTVQSDdqNndueV9Bd09DTmNfWEt1ZzZETmVFaEtDNDdCQ1d0S19vY19SUUpQSE83YjFvRGw0Wi1Fck9VQ2tJOUdiSVFXU0xwcmtyQ3MwaTZIX09DbzZ1NA?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-22T13:57:50.160Z"
+    },
+    {
       "id": "10ebcecea4fe1b7a",
       "title": "Azure Cobalt 200 VMs now generally available",
       "source": "ET Datacenters",
@@ -1121,6 +1175,16 @@
       "firstSeen": "2026-11-16T14:37:08.719Z"
     },
     {
+      "id": "53dfad1a0166f2e1",
+      "title": "New study by Amadeus explores travel trends in the next decade",
+      "source": "Regional Gateway",
+      "date": "2026-11-16T13:14:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV094cjhNM0VPZ2tOWEpzbXlDdk1FN3ozTEtLZUdEYlpKQ3JaZ2ZINmEzNEhSV2lsMVhtNGZROWtBYmltRHFTQjVSYWV4d2JuTGpnVG1CMm5nenczcGZmUE5PM1ZPbDZ1b29CWUUzS2xadmdnemhRZHNKWEpfREgtN2ZLbjc5Tk13LS0zRGZEc3JwZVlOanE5WDZDQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus travel technology AI",
+      "firstSeen": "2026-11-22T13:57:52.423Z"
+    },
+    {
       "id": "41e2c122e4da2bc8",
       "title": "Aviation Business News",
       "source": "Aviation Business News",
@@ -1129,6 +1193,16 @@
       "category": "Amadeus",
       "query": "Amadeus travel technology AI",
       "firstSeen": "2026-11-17T15:26:25.427Z"
+    },
+    {
+      "id": "e5255d397e7cab89",
+      "title": "IBM brings 6,000+ agents and assets to Imagine Enterprise",
+      "source": "MarketScale",
+      "date": "2026-11-16T11:39:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-22T13:58:04.835Z"
     },
     {
       "id": "6e8d5de5a07397d3",
@@ -1399,6 +1473,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-12T14:32:21.383Z"
+    },
+    {
+      "id": "e0a5b268b89a57da",
+      "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents | ETIH EdTech News",
+      "source": "EdTech Innovation Hub",
+      "date": "2026-11-12T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-22T13:58:04.835Z"
     },
     {
       "id": "36757b668b6e8392",
@@ -2161,6 +2245,16 @@
       "firstSeen": "2026-11-04T13:42:29.424Z"
     },
     {
+      "id": "ae8f52aef5023269",
+      "title": "Snowflake (SNOW) Unveils Autonomous AI Agents With Tighter Enterprise Data Controls",
+      "source": "Yahoo Finance",
+      "date": "2026-11-04T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFN5VElnd3U1N29iV1ExTVoxSG04Mjg5N0xYZEw0aGNRWmdYaUwwUHFBZ190bVRiQm5Zem5kV2VaRmJVbHBjSHo1amJrLW1DTnF3RFhGMlY0OWtScGRDek5WbGNCeE9WajJKbkhGQjA4U3RWaHEyTlFiRHp1Q1RUbW5PU2ZWY2txVnNGQ1R2eUJvLWhDRlYwZ2hxOGZiX21VV3c?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-22T13:58:04.835Z"
+    },
+    {
       "id": "f30145d4d40ee47f",
       "title": "Vietnam-Denmark Healthcare Cooperation: Shifting from Experience Exchange to Action Connections",
       "source": "Vietnam.vn",
@@ -2339,6 +2433,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-04T13:42:30.505Z"
+    },
+    {
+      "id": "845a59dcc0aa8b8e",
+      "title": "Autonomous Data Engineering for the Agentic Enterprise",
+      "source": "Snowflake",
+      "date": "2026-11-03T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUdwdFFmWW45OFZHbXVpTnhFVHBZSVBjay1ZdGRIcjl4c3pqcUNrZ2NHdGFwN0twbTRmay1Hc1VqRjVLd0hrQ19mbXFvUTNyMXN1V1ZjMGJYOEVnckFnZkdQZjdEU2dyanNWMTdNaFFEZENFT3N5d3JhaS1xVFQwcmRSai0zMFJIbXhxN1hqbmlNcm1lcmFKUQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-22T13:58:04.835Z"
     },
     {
       "id": "052ad03a4dfe7aee",
@@ -15871,6 +15975,16 @@
       "firstSeen": "2026-09-08T10:30:14.449Z"
     },
     {
+      "id": "153b50d4a05827a9",
+      "title": "Snowflake Summit 2026 recap: rebrands, acquisition and 25+ announcements",
+      "source": "Flexera",
+      "date": "2026-06-08T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdENpOW45VjFvUlIxazR5aTJ3SmlkR18tSTFzWVFNWnpGdzE1X1A0Y05WV05hWklkR2tUOVZVZU5PMS1Gd1ZyZG4wQTdtZENlU3VXTHd1MmhEWloxM2RPVDF4eW92OFZYakpzOXQzZHYzZw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-11-22T13:57:38.352Z"
+    },
+    {
       "id": "a65c107392f0fdab",
       "title": "Bright Data's AI Agent Builds Web Scraping Pipelines",
       "source": "StartupHub.ai",
@@ -16611,6 +16725,16 @@
       "firstSeen": "2026-11-01T12:35:46.777Z"
     },
     {
+      "id": "6f19a502e544f375",
+      "title": "Snowflake Expands AI Ecosystem As Partnerships Deepen Everyday Enterprise Workflows",
+      "source": "Yahoo Finance",
+      "date": "2026-05-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG1xTy1SSWEyUmNxWFV6U3V6cERVTEJlUElGVU5KUm1VRDkzS0lsbm82aDdTTGNscGlnWDF4YjdTUDJnV0ZXeFFLeUd2MUtYb054cm0xODZEMC15Y3dJYmNoSlVNc1h4TEtXYVJXWE9wTDk5MEFMTkcxMEJScFZwMGVrdl9tNW9VdmZmbEpkNDN0Ymw4MUxTSE9jb2JuZ0pnV3BJeENFT2FVY3du?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-11-22T13:57:38.352Z"
+    },
+    {
       "id": "c8bfdf1b1bef7ddd",
       "title": "AVEVA partners with AWS and Snowflake to accelerate industrial AI and cloud transformation",
       "source": "Intelligent CIO",
@@ -16749,6 +16873,16 @@
       "category": "AVEVA",
       "query": "AVEVA Snowflake",
       "firstSeen": "2026-11-19T15:09:05.030Z"
+    },
+    {
+      "id": "d840d9d045c74caf",
+      "title": "Digital Twins Powered by AI and Cloud Set to Dominate Industry",
+      "source": "Seoul Economic Daily",
+      "date": "2026-05-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejNxREY1NEhLTF82OWNfT3dHWHVIOFRwWnR2aFNhRnU1U3AyVnlGQko4M0hYaXMzLUtzRzIxWEpxTEtvMk9MZzRxdGJiaWNRdGR4TzNEWi1xRk9RdlVKcXdKVFJ3azFvTjRwWTA0aDhKM2lHZmtCRC1MSF9DUGJGVXR0dnUtQWhrYTdKaXUydTk1RTlQeDJQR2RpWmg?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA Snowflake",
+      "firstSeen": "2026-11-22T13:57:38.352Z"
     },
     {
       "id": "4736160dba32c2df",
@@ -19069,6 +19203,16 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-09-02T10:30:37.548Z"
+    },
+    {
+      "id": "7556e12bed9e0d95",
+      "title": "Albertsons’ Brian Monahan on What Happens When Retail Media Enters the Chat",
+      "source": "AdExchanger",
+      "date": "2026-02-11T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1dTdkpUejdaeDQwRVhsMWJwYkV0ZTBTTDY4WF83eS1NQWdpTlFPa1JTeTRyRnFzd2p5Y3JSOUZjRWk5azFta2ZFUlJSZDJQdUJyYWZDb2oxUGZMRl94SV9OZmIwSUdyV1FCNG94M1ltRXVaXzJFN2NEajdEZzZycmRmV3pXNXBaLXIwRVp2YW0ybWZJUkp5Z2lxZFhZOFgtTFI3a19PSllfN1p4a2MxNGFsS0t0UXM?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-22T13:58:03.688Z"
     },
     {
       "id": "8cef9463fbd62e6c",
