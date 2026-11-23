@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T13:58:05.863Z",
+  "lastUpdated": "2026-11-23T17:14:25.003Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1966,
+  "totalEntries": 1972,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -381,9 +381,61 @@
     "02d91c2ff74c4554",
     "3e5eed663468c449",
     "7799790a975cb622",
-    "9fcdd292630a9f01"
+    "9fcdd292630a9f01",
+    "5b1df37ebfd1ba84",
+    "5148d77c70a99b09"
   ],
   "entries": [
+    {
+      "id": "9454eecb3405fe6f",
+      "title": "AS Watson expands AI and robotics across retail supply chain",
+      "source": "TNGlobal",
+      "date": "2026-11-23T13:00:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUxfSW9TN19zQVF5MG1tNEc5YkVMZHRlRm9hTXFwQXBYWkpLMUFxQ1JsaGpmUURyaXl3SGcxaFBSQzlZckpGS0hVQi1YdDdiSGRmT2daYVd2MWlrTXZIdG92NTM2Ti1rR0xKTjVzaHVWVDkyUDY3RWxDNnNBTFRjNlJBVQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-23T17:14:21.826Z"
+    },
+    {
+      "id": "00aa38da47a5a731",
+      "title": "AS Watson implements AI and robotics to accelerate global supply chain",
+      "source": "Cosmetics Business",
+      "date": "2026-11-23T11:59:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTlZLQ3BrRVRvaF9FTldiMV93amxYVXFjS1JsODZTeFN4aWh1QnBudmF4a2VZN1pmNko0MU9XQl9NUkt3V3ViV193c3ozcllZUWVhM2lxNTEzMThsZURjYkZraGpfSkY2ZmZIcGRhWHIyU085ZmUwc2dZb2hlcThueG1fZGlxUkNOY3Ew?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-23T17:14:21.826Z"
+    },
+    {
+      "id": "55794c7f04991f33",
+      "title": "Agentic commerce is changing how people buy and how brands compete in consumer products and retail",
+      "source": "Capgemini",
+      "date": "2026-11-23T09:36:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2dQZ2UzU25tRFlLLVVRdTNNbFJGTUVJWWU5cEZPUHhodEpSdEMydjA4blU5Yjc5M3dWMG1zdElhTnE4Z05wUDZZbXJudmlHOGJkb25NVWNmRnMyZ1lJTHlwYk9SS2VQeUlwZGVpX0hBOVhPNmhqX0NmWHZqeU5LVzBwTktlaGV3OVJTdmpwQm1Lc1ZnUjVFaEVOMkttS05yZWc?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-23T17:14:19.739Z"
+    },
+    {
+      "id": "525ec562f76decdf",
+      "title": "From connected operations to intelligent manufacturing: Why OT-IT convergence is the key to unlocking AI in India",
+      "source": "Manufacturing Today India",
+      "date": "2026-11-23T06:41:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Uc1VubmtfRmlhR3NRZm9zXzl5ZnlwTUgwWU9XenJsMFQxRVlwVmVYMEM3YTd6V0xEdmc5QzlLYW9wOHFpQW56NTJIVTlqdENYOWtkSVd4RU9EMnZLQlp4LTBxanlRWHpCM19GSUFR?oc=5",
+      "category": "AI trends",
+      "query": "industrial AI IT OT convergence",
+      "firstSeen": "2026-11-23T17:14:20.739Z"
+    },
+    {
+      "id": "cd85749f09e6815f",
+      "title": "European manufacturers expand use of AI and digital twins in engineering and production",
+      "source": "Robotics & Automation News",
+      "date": "2026-11-22T19:54:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdG5QN29pVThrU3d2cndfYW90Y015WXFjdmFqYUdtX1M4RnVaUFFKT2ZTTzRDRTlOQkdSN1hPbGtUTFBCeFBTSlgwYThYdDNsVWcycFJsQ0YwQUJseVFpSlJCVFhMSENqSzFIdldRWllSaDhienVlVFpNZTJpR3dGdHNzdlFMSVhPQVowN1gxRXZKQ2R5XzhiUm5Gd1hPYTJ1MG9vUkdGSVdYUjVHTFprWVNNdXA2N2c2UDUyd3ZVcENrU1VrbEdoNnYxOWdnajJUUTR0X093M0cxNzVm?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-23T17:14:25.000Z"
+    },
     {
       "id": "1519d83c046ba2dd",
       "title": "Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
@@ -685,6 +737,16 @@
       "firstSeen": "2026-11-19T15:09:16.441Z"
     },
     {
+      "id": "f295cc7a1d033ec9",
+      "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+      "source": "Digiday",
+      "date": "2026-11-19T05:06:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbno5STNCcWViUUMxcHVYbDdxamd1NHRUWEZGRWphU0syS1lhMzNEZHlBWGcyZWFhU19lbERXYjlkVE10SkpEaDNKU2xvUHRpQTUySU5UcFNhMWdpdnJYZDJ5UzUtcW4tUXp5Nnc2TE9TZmFraF92UmhCMmtHSG54M3kxSzZQTmVLWkRxVTRhYkVSZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-23T17:14:19.739Z"
+    },
+    {
       "id": "7568af8e7ec07985",
       "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
       "source": "Modern Retail",
@@ -923,6 +985,16 @@
       "category": "Amadeus",
       "query": "Amadeus Snowflake",
       "firstSeen": "2026-11-22T13:57:50.160Z"
+    },
+    {
+      "id": "9b65ec550780b501",
+      "title": "Azure Cobalt 200 VMs now generally available",
+      "source": "ET Datacenters",
+      "date": "2026-11-18T03:48:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2llUDlwMk9VUzh0RnZZTFJBa3pERnFqdUNwUXlLX2VNVXhfamlFbmNZajJGRzQ3TGFTQ2NPMVdPVnpRb0J4WFZaZmlFSjZTMUN6RG1HWHM3Z2UtYmR4MkhQQmEzLTAxOGQxN091TmpoRk9MMk8zZjg3WHlSS0xXTDJYeVJEeERZeWtfWUF6clIzOGRyYU1PdnEwRjZIOS1mck12RVgtdlgyWlNBUnIwdm1TT2xzbmhNckdLSl9YTmQya1VfTGVQNDVtZjB4Z9IB0wFBVV95cUxQZVo4cnBtRHdzbFdhTXRuQ2t4UzNzdm5hZS1qTzd5aWJQM1dYNUcteV9uTGM4WU9HV05YQTR4QWwtZTR4QzdSQTZWaWZVbG9wTEo0eDZEWkxjcEZoSWVwZzFNZkVoSXJDbWlFekhJa1gzWE5ZaHpNT2NxSEVtNVBIN2o2d255X0F3T0NOY19YS3VnNkROZUVoS0M0N0JDV3RLX29jX1JRSlBITzdiMW9EbDRaLUVyT1VDa0k5R2JJUVdTTHBya3JDczBpNkhfT0NvNnU0?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-23T17:14:09.171Z"
     },
     {
       "id": "10ebcecea4fe1b7a",
@@ -20033,16 +20105,6 @@
       "category": "NielsenIQ",
       "query": "NielsenIQ partnership",
       "firstSeen": "2026-08-02T19:17:12.124Z"
-    },
-    {
-      "id": "5b1df37ebfd1ba84",
-      "title": "Bright Data crosses $300 million ARR, eyes $400M by 2026 as demand for live web data grows",
-      "source": "calcalistech.com",
-      "date": "2025-11-23T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TazdLVHpXMUhvS2JNOGR0SDNpUXhxNWVnSGc5VlFfMk4tMElsdzAzeGR4MnRKT0pRbnFFdTYwTnJsMGRNMkVINEs4dDVENy1xZ2pWTG1Qb0xYTUd0Nk9nS2JHal9odERD?oc=5",
-      "category": "Bright Data",
-      "query": "Bright Data web data AI",
-      "firstSeen": "2026-08-30T06:04:52.373Z"
     }
   ]
 }
