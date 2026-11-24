@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T17:14:25.003Z",
+  "lastUpdated": "2026-11-24T16:54:45.002Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 1972,
+  "totalEntries": 1998,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -383,9 +383,140 @@
     "7799790a975cb622",
     "9fcdd292630a9f01",
     "5b1df37ebfd1ba84",
-    "5148d77c70a99b09"
+    "5148d77c70a99b09",
+    "a1cf8085bf4fc156"
   ],
   "entries": [
+    {
+      "id": "34129f9ad740a26e",
+      "title": "CiDi unveils new cabless battery mining truck plus agentic AI solution at bauma CHINA",
+      "source": "International Mining",
+      "date": "2026-11-24T14:58:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDQ3OUstaU1YUnBvSlhNRmE5RWdLTjBGalRkUmZlUDN4bFR4RTluWDZ1Wmd6clJUVGp1a1Zid1pTNmNWRkI2T3RYekJ6eEoxcnlhNjBtYWY5RHNlM2hZWmw1aHhkZkFnVjZaYklUZ3dicXFiYzF2VkprY3BUWGNfUWNnbEpEaXBHZWJxeFBtN3p3cU1ocUItay01VE8tTFVUU0hyTV8tTDB3MXFSSnR6SENZZ0hhSnpwaUFN?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
+    },
+    {
+      "id": "cc315468d4df826b",
+      "title": "First Shift: Ocean rates, tariff risk and automation reshape planning",
+      "source": "Supply Chain Management Review",
+      "date": "2026-11-24T14:27:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWFROGp0YjZ6cEdmQVR0Sm42UWdlMGxtNHJzNndIQ1U2R3hZQWpyY2h2UmNTeFZ3d1QtUDJEeFV4bkdzOHQ4YXNsSHAtUWJlWEdjUkZuODJrZlgzSWJRMHhxOEswNndhUHVWeGtJZGpETlBGWjRwMGxNNEM4eTZfb3Nqemk2SmRBZkNpMjNYRURYUzU2YXFpd1RKZi0?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
+    {
+      "id": "ce74f1ebed1a9976",
+      "title": "AVEVA and PROSTEP Expand Technology Partnership to Strengthen Digital Continuity",
+      "source": "ARC Advisory Group",
+      "date": "2026-11-24T12:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2R5eGxfeTc1S1FhWDlRQ2ZJR3QzSTZwMXVZdFdienZxQ2ttaE1ON2JaNTJWVkRmcHViV01UQW5Rc0xFY1E2T2pVcS1LYmxLMl9Hd1pqLW8yb3VBRGxOcWItN0lZUFpPb2dLa1lCU2p2WG5ydzgxWDFPN1ZDZk1rRDF6bUx0WjQ5RVFLYXdJbGtVelZiVWE3MndfVjdCUVV5a0Fr?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-24T16:54:16.622Z"
+    },
+    {
+      "id": "5b8c23bfbd5b18e7",
+      "title": "Siemens brings agentic AI to process industry engineering",
+      "source": "Siemens Press",
+      "date": "2026-11-24T09:02:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTU0YUFqV0JycXc1dUhPTGI5M2dpZFhqa0NHVUQ2X3lMQ3FGZzl2cHM3WTZPcEZmVFpsd0h6aWlHZGVvc2R6OUZGVURIZzVieXFLMkhpTm1DNGgyRTBnU0VtaTVOcFhZM1puY1U2RlhhZXJoNzN5TWgxN2pqX2pzTE5hZF82cFgwSnZJRlU0LVRhTlRta1hLY0ZIeU1Fb2owSU5ibWJB?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
+    },
+    {
+      "id": "0119197109ec8bd3",
+      "title": "AVEVA, PETROJET Sign MoU to Deliver Data-Centric EPC Projects with Digital Twin Handover in Egypt and Beyond",
+      "source": "Techeconomy",
+      "date": "2026-11-24T08:59:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IM2tKWFdYYVFGSl94RWtDV201VHlHRjFqNjlFaVQ3NHFXOHBVdVBlYTk2WkVmX2FfeVR2YTBseld5VFJhckl0NVVVTmRzVENSci1NenByWktvQQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-24T16:54:17.805Z"
+    },
+    {
+      "id": "43dc10c24f1ffa3b",
+      "title": "AS Watson ramps up AI powered supply chain transformation push across 55+ distribution centres",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-11-24T07:44:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVlnY2JQTGlkLUNPVGtIajY2UmVLSTB4dzc3NUdVOU1PRlFxZnhMMlhPN1ljc0h3d3JOT21PQ1dxQUgwZXR0UUdVbS1OdS1qUThjYVdYaFc3R1hsX19sVng0ckFHalY0TWhSY2lIc3hwbmE5X1p2RTh5YTNsbFEtMTNFNEdEWHdKUmF0UFB1YU9sSldlTW9Lc3JWNjFudURyTTdIM3I1YVdFMFo4eWJuckFCQ1UyNnM4UDA3eng1cG9KZDBQTmlZQ1luVnBFQWFhemV2VlNJZUM4bUxkSkRjLXpxbw?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
+    {
+      "id": "2148fe854f2c2bc1",
+      "title": "AVEVA Introduces Advanced Marine Design in Malmö, Sweden",
+      "source": "intlbm",
+      "date": "2026-11-24T07:37:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5WWWIxYkhYRnZ1X0lYVDU3ZUNOeGRnNHdfZWozVFZQbEtOdFFYODZDbjJCUmdIVlh6UEY2b2xhSXFYVU1qZU9MQVk4TkZ3N3JTd0E3ZllzREtGaDBSVmJSUVVHUFlvQW1nODJ5TTNhR0JPeG5BVVJYeEZoRW9rM0U1SkJpQkRubnB4ay1faw?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA industrial software",
+      "firstSeen": "2026-11-24T16:54:17.805Z"
+    },
+    {
+      "id": "0bce9b618176c7f2",
+      "title": "E-commerce outsourcing Philippines: how agentic AI changes staffing, pricing, and operations in 2027",
+      "source": "Retail Technology Innovation Hub",
+      "date": "2026-11-24T05:12:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd2p6NWRHei1JRE1yOVBhS3daX2pKQVVJcjllc1kxN21rcFZSd3JwZDdRUjFkbjJ4U2lCSGpvUXFlMGpkMVgxUl9IRUtWLThVSEdiOHRuMkE2b2w2LTg1dktyUlpqbURpSGpZbEVlVTQzNS1WbW53dDRqd25KeU5pSmttcXUxNndqQVhEYmhkVk5EOGtNZkFHUU5TNFBpZFdJbDFYX0lXRUJoeERZdk0wTjJGaV9aOTVRSHk3Rnp0RXMtZkd4T21ITW43V1VucmNhbE43WVFSQkQ2TGF1MXJDb3VZN0g2cHdr?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-24T16:54:39.531Z"
+    },
+    {
+      "id": "c900e61170d6fc8a",
+      "title": "AS Watson expands AI, automation across global supply chain",
+      "source": "Retail Asia",
+      "date": "2026-11-24T02:26:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTl80UXpVbEh6WnVWYTRVR3FVRXJCV1ZSSDZpakJjakFWZXd0X1pPTEsyXzAybXphYWh1UFNCV01CMjRIUF94b1I3dmdQa3lDaGEzOVhwazlEd3hqOFptdG5fYlhBQWNpZHFvMHlDVG9HaGphZGhfYnB2eTZuNWRqdHBDUGd5RFhxQ0JF?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
+    {
+      "id": "95d971cd7031bea8",
+      "title": "2027 Predictions: Agentic AI in Manufacturing & Automotive",
+      "source": "IndustryWeek",
+      "date": "2026-11-23T20:38:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRm5VTGVTU2FrRnV3THlyNV8wN0l6OXRmMU41TThwRVlobGtrN251eHBaTUk5dE15a3MwczFMdWZRY3ZHamRqWHBhRV9jLUYxaDZQZXBfcWdvY2Q0QVR3UDFnOFpfYmpvZ3F6TGI2Y051R1Zqek80c0tITTNfWDEyYkdQM3VNZWNyNW5neVhDd0hEcU9ucmxENXU4em9BdWdmYnB4LWJIQUR0ZXJCUU13?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
+    },
+    {
+      "id": "3aa9b98b0884da74",
+      "title": "Zepic Launches Agentic Conversational Storefront for Consumer Brands",
+      "source": "Retail TouchPoints",
+      "date": "2026-11-23T20:00:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFRPY0NnbFJ5VDFidWVVQThDUXZRQWlLNVRrMU9DSnFrQlZzY3Z3QmU4UHh0a2N4amFjdnA0VnJOWl8wMTdRRFd6MFhfTTJkc2RNLVR1QURWUFNSNWhiMkxZekdZbXlfRmI5VlhMZjVuQ2t4Qk9iSkNYQ2k2RUhQanhmZmVqalo2aTBBV0FXSlR2QnlndkxRS3FnR2g3WE5oc3c4cG9xTDZoaVdRM1MwWU56WWMzZw?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-24T16:54:39.531Z"
+    },
+    {
+      "id": "a02beff544975411",
+      "title": "Rockwell Buys Agilox, Builds Physical AI Logistics Portfolio",
+      "source": "Supply Chain Digital Magazine",
+      "date": "2026-11-23T17:50:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkE4YzhBLXZaa3VHbHhFblFHNVl2U01CUXRiTnNub3paRUlQV0ZoTWljRmtvb1NxRTVabWZoNmt2ODMzUlprdldEN2F2eWVvaDhjN09qR3lrTGlQNFlBWFo2elZ2SktEV3U0eGNOTE5KaE1mdVAyNXU4QUY0V09lbUVYeWowQWJVVTNxMm05TzFMNXpp?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
+    {
+      "id": "3403f74a8fe7384a",
+      "title": "Task by task: How physical AI will reshape supply chain jobs",
+      "source": "Supply Chain Management Review",
+      "date": "2026-11-23T15:19:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WeXByeEthOTRnQ184VFJ3VklSek5jbC1XNnlNUXIyeXNnT1ViSnI4Rndya1dsTURaR2pMMmRtOEJKdHFVSjhtcDNzVDYwNEN4ODZpZlBUcTc0Q1ctZ1RtV0JrbHJlQWJlT3EtTjluWGZkT25qSFJSZFpMSQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
     {
       "id": "9454eecb3405fe6f",
       "title": "AS Watson expands AI and robotics across retail supply chain",
@@ -395,6 +526,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-23T17:14:21.826Z"
+    },
+    {
+      "id": "d0acaaae8287373a",
+      "title": "AS Watson implements AI and robotics at 55 distribution centres to accelerate global supply chain",
+      "source": "Cosmetics Business",
+      "date": "2026-11-23T12:04:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEFfQXRVWC1lMWhJTVFaZ0VPWGxhN0xWM2piODZjY1FRRk9TUDB6SkROZVZwYWdJeEJuRXNMWU8yOTNFaVBiYllCZTJoc1llcmZHZUFZWHpxNXBfQlNxZ1ZLNFRERjJHaE9pWmlicEY3RnZ6Z3F5WlE4ZjFDcDU0amJ1T2VLUQ?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
     },
     {
       "id": "00aa38da47a5a731",
@@ -437,6 +578,26 @@
       "firstSeen": "2026-11-23T17:14:25.000Z"
     },
     {
+      "id": "456219092bc0a00a",
+      "title": "Siemens connects agentic AI and additive manufacturing in an end-to-end digital thread",
+      "source": "VoxelMatters",
+      "date": "2026-11-22T13:39:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3BYTE9kb2dMZkZMcU9qU3ZoNXduSHJoS2pNb0w4eTZGUmlpT1BobTVkaktDU2Z6UzBoaVB0MUVSLWZYMTV1VmY3d05hVF9NUG5jZTFENWp1RTJERGVLMVNVNllRM2Z5dUxEMERhVVI0dzFtMzhOcWttVXRBaGJUcEhqaDJhSEFTbktIa0hlSFFRZ0thWFdaR0I4aVg1ZUsyWFVaeXE0ZDZYUTg0Ukt1c0Q3c29KNXfSAbwBQVVfeXFMTWdmbUttejFJWktPejUxcVJxQzZMTW80VGlLYzJRTDJ0cW9hS3BwZGMtTnpvc2YxNzBudEV1aDZOR21zbW5vcXZjZGdlcjF1bGw4TmdqOFRlYy1aa3FDZGJRUklKYnRoLWFkZEg2VXpNODZSNjhXU1A2dlZ4U3lGa0JLVjY1bXktWHFiYVBuZFpSNlNycEJMZ1ppZG1ZT3FJblltUi1td0RnX1lOV20tV01mOWZhRWlNWWEtQnU?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
+    },
+    {
+      "id": "a4201cee95da919d",
+      "title": "Roundtable: AI Starts at the Source: Building a Reliable Supply Chain Data Foundation",
+      "source": "Supply Chain Management Review",
+      "date": "2026-11-21T22:46:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODc2R3VoUTQxUUtnSVFEcFNCenc5d0h3Q1YtWlBSa1NfTnVZQTBGNVJBSjlmOVJrNHVDZjJFbVlLdkxROENaOUZnZVMyNmRWSjNoNUhiQUVEVVo1WldBZjJVcG5GUktVWnJoY0VfSUZaQjg5MFBYUFluMFJDRDFFVXYtcjdHb2h0a1FFNmFqQi0tUFhpWEo2cjNDVXFtU0ZQQ0EtZWlwcXFRQjIyM0ZQRU1R?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
+    },
+    {
       "id": "1519d83c046ba2dd",
       "title": "Visa Launches Agentic Ready, Uniting 140+ Partners for AI Commerce",
       "source": "Small Business Trends",
@@ -445,6 +606,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-11-22T13:58:00.608Z"
+    },
+    {
+      "id": "1c8d52de5f17b6eb",
+      "title": "AVEVA, PETROJET Partner To Drive Digital Transformation In Egypt And Beyond",
+      "source": "Trendsnafrica",
+      "date": "2026-11-21T14:13:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2p4TC1sTk5JSEtyejBKZUlUNXdscGptUW9uR1dScjcwMm5TUmVtQTNKNmhQSUtrMExSTzF5X0M2N2lMdElvTW83eXZkT1ptSU5mM3dDZ2JkUFV1RkRjY0s5UXBmUm1vWTRpMldmSk5Gc1lJV3J6bVpjb0RjLVVhTnpVUk5tS0l5dDBtUTlwZ3hKVF9fdkRYbDIyRTFwZlFzZm130gGrAUFVX3lxTE9kbTJhQ0lLYkpDMVdoenZyNWxfVTBQbE1hUzJPWHFQSkRPbjc5Z2ROUm5nZ3pFMWRZeV9pWjd0c3FHeEt4ekUwemY1QzFVWm1xVU9yOEx6dzUtOWEyQ0VSY0pVamhTREZGQXFQcVFaNXVOek94djVoa2tpTl9uYXdGYVMwUExPN2ZqdkdFaFNFYnJHSkZCU29pS3dJTWtGckdLTERGRUhaU1VzRQ?oc=5",
+      "category": "AVEVA",
+      "query": "AVEVA partnership",
+      "firstSeen": "2026-11-24T16:54:16.622Z"
     },
     {
       "id": "778cb189f6a0e263",
@@ -585,6 +756,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-11-20T14:49:14.080Z"
+    },
+    {
+      "id": "75bfdef87a3ee344",
+      "title": "Industrial AI: How Agentic ERP Is Rewiring Manufacturing",
+      "source": "Manufacturing Digital",
+      "date": "2026-11-19T14:42:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUtXSWJXTkJtOE9IcHNKQkt4SGlxTGVnVkNtdzhidlEzMVBaN3dzU1drQjZqR3dHbWFVQVpWRThfLWVXVjNncEt6LXNYb2M5SzlVU1NnSk1tdlpTTURsbm1ieEhTX3MxVmZTZUV2WTlBWHVTbXo1VlpzeEJtVlExWTlKSV80WFZnYTdPSGJJcmlJVFQ4eHc?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
     },
     {
       "id": "32a01c19675984dd",
@@ -777,6 +958,16 @@
       "firstSeen": "2026-11-19T15:09:26.736Z"
     },
     {
+      "id": "211dcaff05bd8d97",
+      "title": "Consumer Intelligence in the Age of Agentic Commerce",
+      "source": "Mexico Business News",
+      "date": "2026-11-18T23:20:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlRTRHc2V01sMDhsblpjbTlUd3ZlYXM4VFEzY19Hd1BDcDRaZ0c1RktVb2trWkNNWXVwNC1ZS2lPUE1INUtZTlhDOTRtOVhHN0F1RDU5blFRbktzeGYzNFFnY1d0dUhpbzV6c0ZaajFOT3d2TGpLRF8tM01pOGl6X19lUTdGam8?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-24T16:54:39.531Z"
+    },
+    {
       "id": "fc8ab9cc12c509ef",
       "title": "Supply Chain AI Agents Gain Momentum While Full Automation Expectations Fade",
       "source": "Supply & Demand Chain Executive",
@@ -835,6 +1026,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-19T15:09:32.129Z"
+    },
+    {
+      "id": "8b743375f0cebd72",
+      "title": "4 Data Management Trends Transforming Manufacturing Operations",
+      "source": "Supply & Demand Chain Executive",
+      "date": "2026-11-18T17:41:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3R3d1plN3JYS1oxVWZTRG9uMXFPY2VZWTkyMjM2bzJBalR1RDRLaTVsVHBTSXFiWl8tcEVKNkp2dkpXbjNBM25IVEtzTWtGaW04c0w4LXVuU0xUWHVSR3pnVzBvWndPV3FrMzEyM3hRdGVKdVVtX3dhc0FHRlRVWDVVVHNmUzFQOUJHSjNBZHUzMDYtVU1UaWFlR1ZCYWoyem9YbjB0LXE0ZzV3UWQtdFl0ZTBMdDhoVzZqTjZYTlJrem8?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-24T16:54:41.850Z"
     },
     {
       "id": "a9a1e0a8ac0dfe7c",
@@ -935,6 +1136,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-11-19T15:09:30.988Z"
+    },
+    {
+      "id": "e03a1bc43f63c68c",
+      "title": "Putting Agentic AI to Work in Pharma",
+      "source": "The Medicine Maker",
+      "date": "2026-11-18T09:36:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC05S05EYktROTlmRHJfNmF2OWx6dTJwZG5kNXBYeTF5ejExN3JaWlg5RnlWXy1YcGlZdGpCM01zRHNZaDhMeUFCV1pwalA3eUlUZlM3NkVDY25SQmVWcHBQSWJuc1Z6X3JSazdLeEQwR2lyVHZ2azJabWZYT0tOQmlkTWhOb2U4RERXRHpnMlQ5UUF0Yy1wMFJOaGo?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
     },
     {
       "id": "c7687a3e9f8e170b",
@@ -1057,6 +1268,16 @@
       "firstSeen": "2026-11-20T14:49:17.209Z"
     },
     {
+      "id": "3fc3b14aabe6c31e",
+      "title": "The agentic era brings new challenges for commerce. Here’s how to solve them.",
+      "source": "Salesforce",
+      "date": "2026-11-17T18:08:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Q0xSTFNyTVk0TzJWbFcyeTZFaGZxRTVvNTB4QjN6b29TQzJNZzFBdHVqRzVTV24tNnhlVHAydUZta0tsNXNvQ1MxTElDZnZBcTVDemctUnBfT0lVenRnbWstZk1wX3lhX1o4b3dwZmFPa1c5ZmFCT3JR?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-24T16:54:39.531Z"
+    },
+    {
       "id": "76b7cb02e5574915",
       "title": "OpenAI Introduces ChatGPT Wallet for Secure Credit Card-Based Agentic Commerce",
       "source": "HomePage News",
@@ -1075,6 +1296,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
+      "id": "8e5f284e56dd9b98",
+      "title": "Siemens brings agentic AI into industrial manufacturing",
+      "source": "Intelligent CIO",
+      "date": "2026-11-17T15:31:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWJYOEh0dlJvYUZod05wNmt1YXlFSGs2WHgzN3dxWllsdkZRSGVPR091aTVscF8xT1F2WmtreUZxSm41NGx6SkdsbF9vTEgtN3dYd1RrdWd6YVd6OG1ZT0RXS0I2bTBfZUNwZTFlcE9XVjRXTnR1S3ozVXo1ZlhkWnNibXh1RVJnblJRYzJ0Tjctck1FM1c4MkJ6TlZnVTdKVHMw?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-24T16:54:38.245Z"
     },
     {
       "id": "8ac321012699cdd0",
@@ -1285,6 +1516,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-16T14:37:21.548Z"
+    },
+    {
+      "id": "8277542ec497c336",
+      "title": "Best Facebook Scrapers: Apify, Bright Data & Decodo",
+      "source": "AIMultiple",
+      "date": "2026-11-16T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DelpFOEh0WjFVN3ZSQ3BVMHNEZmhTQnFxM0w1aDh5SS0yQ3V1cUtOUkcxVTBNYTBRb2tEXzczS3lfS3VFUk1Fa29SaVRoa1Faa0E?oc=5",
+      "category": "Bright Data",
+      "query": "Bright Data web data AI",
+      "firstSeen": "2026-11-24T16:54:33.661Z"
     },
     {
       "id": "20026bc1f5afdbee",
@@ -17947,6 +18188,16 @@
       "firstSeen": "2026-11-01T12:35:55.051Z"
     },
     {
+      "id": "280228b9c011c27f",
+      "title": "AI digital twin developed to boost pharma manufacturing efficiency",
+      "source": "European Pharmaceutical Review",
+      "date": "2026-04-19T01:09:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGNWU3AwR2szbS0taDRMbG9BdlhwZFFFR3ZCdUJ5eFBSMmRZSEtXZWVvQTd4UjMyU0ktcnNBcjl4cV95ZTJyTXMwMEhRTmR4TlQwbnhablRoTkVpSHJtVWo1NDNVS1YwWjEzXzRMMEdHd2VpZTZSQVU5Q1hUYlNDVDNZOTJhRXVMSXphcTBEWkVCNWloQmc3UWVGSlRvelZyZm84bVRYNFRPYnh0VWl1bHMzMGtHVlhpX1ZtRVFVQTBrZUhBQ2tERGI0MA?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-24T16:54:44.999Z"
+    },
+    {
       "id": "e75445057c58c9d9",
       "title": "Wipro at Blue Yonder ICON 2026 for Supply Chain Transformation",
       "source": "Wipro",
@@ -19695,6 +19946,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-08-25T08:08:52.791Z"
+    },
+    {
+      "id": "3d9b9500558e7d26",
+      "title": "Walmart Connect takes a play out of the Amazon playbook to make agentic AI the next battleground in retail media",
+      "source": "Digiday",
+      "date": "2026-01-09T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEtSeEFuYjhvYXR4aTNZamtKaTNERTFNYXZwSWg4aHlSd1loRUFXejdqc3FsY05mYlB0cTRHNm5LcGxjVUdaQnQxRXIwckxLV2FxTFZoOUU4R0FfbmdZTEY5aE5sOG5NVTliNTJNSVpVWE1rRkJoYVBfbTIyMUsxTVplTldyZjIwUll0U080ZF9DZkJubW1sRTNoNzJNanFrMkU3YU9TTTFyUlA2aWx0SlhhdlU4YTQ?oc=5",
+      "category": "AI trends",
+      "query": "retail media networks AI",
+      "firstSeen": "2026-11-24T16:54:42.898Z"
     },
     {
       "id": "00e991ec129c904d",
