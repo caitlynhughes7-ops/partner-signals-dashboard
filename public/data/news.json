@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T16:17:48.397Z",
+  "lastUpdated": "2026-11-27T16:01:29.160Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 2019,
+  "totalEntries": 2028,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -389,9 +389,52 @@
     "dcb2a5fa6d75ac31",
     "cf053a6625e5fa94",
     "9b675e1ab155b706",
-    "0ab5070efa5ebaf0"
+    "0ab5070efa5ebaf0",
+    "9f384220be3f90b1",
+    "24c88ef0af859930",
+    "057218a411b61e79"
   ],
   "entries": [
+    {
+      "id": "38cec048e648eec9",
+      "title": "NexCommand AI Joins Orchestration AI, a Live Digital Twin and MERP in One Manufacturing Platform",
+      "source": "WBOC TV",
+      "date": "2026-11-27T07:55:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPa2dEVWtmQXVGRWI3MG9NcDZxTXNjeWRjU3I4UlNyN1AxNWpLSnhtTEhRZThIR3ZtTUdmOUVZc29kUVlpY2xzbEw2RGlndy1aTTBzT3VlSUVxQlFYR2JjbGxNWFZNT1ZmN3l6RXdyOFRydEVWd0QwVVN2WEdKWEVCbm1WdW9pOEtmcVd0TEpFZzhXVThlcGFwUlBaUUs0emxqeUJ0MG1NdEtFd0dDa0Nick91ZnBxbkJOcXZBX0VQbmYwaXFaSVh0eU1YOU1pRGhIcUZnLXpSTEFybFY2NVdObXdCZlF2ZDBSSTJhQXcweVMwUFpjc2h5MlIySXVTT0lheVFNeXBpSFVqTGZZc2FYU3haWkh1MWJZS0pjcFNpUG52bXc?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-27T16:01:29.156Z"
+    },
+    {
+      "id": "cd85423fe917d2e5",
+      "title": "Digital regulators looking at agentic commerce",
+      "source": "Lewis Silkin",
+      "date": "2026-11-27T03:18:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEI1cENEWEU3cFEzbU9UUXpmdHAtelFybmVoRWZ0M1hvWTdlX3F1SWVYTmhyeGZrNkxQU2k3SmY5RFZndVRBVExSNThNUzg5V0JFNWdJVGVLdF9oSkc3Xy1TaVNTU29vU2Yyemp3dnZvU2ZmZXVndU9ub1FFZklOVDV2c0NJRmZYUDVHV3pZNWh1d2ZUSUFqc21ncXRSemlIcThzTg?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-27T16:01:23.113Z"
+    },
+    {
+      "id": "8e086f80149350db",
+      "title": "Headless, Open, and Secure: Meet The New Workday Data Cloud",
+      "source": "Workday Blog",
+      "date": "2026-11-27T01:46:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbGRuRDQ1cUVzcTE4WnhfWElrd1FnLVZPbWxBaEkxRTI0NnFVZG5zRTBOS0hkS0htN2V6MTM5NkJBOHFlemZVVGNIVUNmT29UMk5PWGk0T2J2cXpHa3F3T1JHeVE2Z01ZdEE?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-27T16:01:27.956Z"
+    },
+    {
+      "id": "34b661127c00fcc1",
+      "title": "Consumers want AI to help them shop, but not to take over the checkout",
+      "source": "Digital Journal",
+      "date": "2026-11-26T20:54:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0NHVk5iek94ZjRRenFoZVc2R0ZkMXdqQnhyTXhmWXR5ckVCRWFNLUFZVlVFYm1tNlpkbzlMNHFhajkzZWFnaUJRRV9GTHZ4dzduZHBNbEJOUkZFb2VzMjRiWGdYcnl1SXI4b3JJNmNJUktsaXZWRE5ZU182d3d3WVNULTVUdlFjNk9LZFFFYThiT1VYZUFqNE5ueW9WQ0FNMEJVZFRjc1NTNi1FV2c?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-27T16:01:23.113Z"
+    },
     {
       "id": "884c707876e156eb",
       "title": "Agentic Shopping In Asia: Alibaba Already Has The Loop, The Rest Of The Region Is Testing",
@@ -421,6 +464,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-11-26T16:17:43.228Z"
+    },
+    {
+      "id": "b2ace2bcac432aa2",
+      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
+      "source": "Help Net Security",
+      "date": "2026-11-26T05:30:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTZaMWtYeGtPZjhLSmtIQWtsaWVBSzBNRDc2bkxaczNYaDhxUUphLXMyR3VxV0gxVnpkakhnUWRRX0dCSGhya0I3SlRkbEdONlJ0cVBKcHJwQ0ozMklucURVY1NNUXBIT2RkZjZ1aWo0ejY5S2hTbHd0TXNSZzVNOVJZU25kVU9h?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-27T16:01:27.956Z"
     },
     {
       "id": "237c6e8b913fea4f",
@@ -471,6 +524,16 @@
       "category": "AI trends",
       "query": "agentic commerce retail",
       "firstSeen": "2026-11-26T16:17:43.228Z"
+    },
+    {
+      "id": "38c92450c91f33da",
+      "title": "Meta Muse hits the UK: How is agentic AI rewriting retail marketing rules?",
+      "source": "Performance Marketing World",
+      "date": "2026-11-25T14:06:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzFLMjJLNFZZM3NVc2RfRzdENFJFaWF5Z2k5dWVXWVhOM1ZfUFRyeU5ELUZkYXFURmRtWEN1ZFpRYlhOaDBOdzlZS1VwcWlqcDNJZm5sN0JNUG9fa1cwVUVHczZobXFJd0xmcWtfdXJpLUE3VGhkajFrVHYxRGs4eTNIbkxYeTFrajg3dmJfVHFXSnd0MlBWVTE3RDFFd3RLSmZidGV3MkVFXzRIN2ExNFdyNjFoYU9hXzFV?oc=5",
+      "category": "AI trends",
+      "query": "agentic commerce retail",
+      "firstSeen": "2026-11-27T16:01:23.113Z"
     },
     {
       "id": "c85660440813b92a",
@@ -1873,6 +1936,16 @@
       "firstSeen": "2026-11-16T14:37:19.544Z"
     },
     {
+      "id": "54e5b17764d61ccc",
+      "title": "Digital twins in the AI era: Real-world examples",
+      "source": "SAS: Data and AI Solutions",
+      "date": "2026-11-13T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUhGaFFUTkNiNEM2QlZubWlLRUVDb3BTNS1GU0RtVjM5VkM0SzJ5ZnZ1OW5sSlNYOXlnT0h6RXZMNDZhU0lGTGtOV055WXFQQ3RSSElQWDc5X0htMHNUSVpDaThycHRJcGN2TUtKdFhDa1JBeVhUZlZpTzFRdHBONVF1ajlQRFduSks3TjhGSQ?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-27T16:01:29.156Z"
+    },
+    {
       "id": "e25e97dcf5d709f1",
       "title": "Vercel: Not enough retailers are agentic commerce ready – but it’s ‘not a crisis yet’",
       "source": "Retail Week",
@@ -2363,6 +2436,16 @@
       "firstSeen": "2026-11-08T12:40:20.430Z"
     },
     {
+      "id": "925b02c395b168f3",
+      "title": "Learn Why The Bull Case For Amadeus IT Group Stock Could Change Following Earnings Update",
+      "source": "Simply Wall St",
+      "date": "2026-11-07T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDFFcFVxVmE1cG1lTlFFaEM5X0g1dVV1Um1ta0JwUUtMYlZ2SXRWazN3RE15anNmNTBLVHcxTnhWR1cyUG53WjFSeDdmNGU4MzlQNUlMV0w5WTdreFlUX3NPV3ZZZV9rMDJMM2o3R1dKSkk5UWswSVZCMHptcFhYUFFacDJMLWVJRnNhbHZaYzBnNk5heFBTaVh6SzNsUV94R0xtWGt4Sk51WW9XMEdtQlpDZDJVZWpaekNFVklsSGtqTG0xejNVYlUwSV9HUzF1ZVJlQzFyX0pMN3pfeHAxcdIB5gFBVV95cUxNbk1jeno1WExqNGZyajhZQkVjZWlob000Mm5rVHMwZktocGFhb2N6bi12SGR4NEwyVjNPM3Vzd0p4eWFocVNFTmF0ZExlOGNUNHJjS2FTS1hERVUzbVpENDJiMG95WURkcW5LQkU0OWFTNlh1cmJ2TkFxRzlhb3FBVnVMRVRjaXl0b091QWNWNW5DdHA3LUpoOXVadmpkQjJvTFI2UjRlRFl2RVg5NDZlZlRMSjRsUDBIQXF2aXBkZm14dl9CMXFhUTBNY2Ffc0F6ZlBSYUh4RVdlbjM3Z3l4azVobkdwQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus Snowflake",
+      "firstSeen": "2026-11-27T16:01:11.637Z"
+    },
+    {
       "id": "2c71731fa56ec9ec",
       "title": "Walmart Expands Symbotic Automation Use In Ecommerce Sites",
       "source": "Supply Chain Digital Magazine",
@@ -2471,6 +2554,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-17T15:26:37.690Z"
+    },
+    {
+      "id": "64f64cfa41d45c9b",
+      "title": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
+      "source": "Google Cloud",
+      "date": "2026-11-06T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjBQUDl5Z1YweUNCSWpaMm5mT1hlRXJJeU5JQlROc19PelFoVy1pV0lYaEJjWDFyLTFqTHl4RzVydDBBMS1udy1kTUd6dDlzSGlXbHlGRUdGZ0xKSnVRYWN6WTFrY1RnVjJzQ2hDRzE2ZG5LOTNoZ1BNSVJGdnBIUF9HbzJhelU0OWtJOFpqNzlaR3pzS0pSZ2RxYTBkWlBxWW04NDkzSmN6dDJpM3F2NktB?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-27T16:01:27.957Z"
     },
     {
       "id": "106e49506cd483a1",
@@ -7821,6 +7914,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-09-28T12:46:33.520Z"
+    },
+    {
+      "id": "d1b3587d2d84787b",
+      "title": "Contentsquare Acquires Hotjar",
+      "source": "CX Today",
+      "date": "2026-09-28T06:59:09.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQzZjcDVvRkJsb1hUZGNLWVlITjRYaUtvb05zU0s0SzVUYW9rUXpQWGJNWEMzZjQyRlpKMFZvUFVsZ0Z4RVRucVFmT0lwVUUwS05PODBfZzNzc0YxOHc?oc=5",
+      "category": "Contentsquare",
+      "query": "Contentsquare partnership",
+      "firstSeen": "2026-11-27T16:01:02.624Z"
     },
     {
       "id": "87187e90e9565e4f",
@@ -16723,6 +16826,16 @@
       "firstSeen": "2026-11-07T12:21:30.143Z"
     },
     {
+      "id": "c223285d54355a73",
+      "title": "Retail Innovation Forum hosts 200+ leaders",
+      "source": "VentureBeat",
+      "date": "2026-06-03T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNemdtWFE2Z1B5bTFUbUpsdl94V3NHNkh0Sklxc3Zpd1I2RHppU1ZZM3RkQl9kak9BWkdOc0E5V1c4WDJkaUhnWm5ManpaZkVoVGM3dHM2UFpILV9DM3M2VFhxWmt2VUkyak5iTGI2dkxEUmNIWGZYWjVTRHdib0VnZ2VVdnBZOE15NDlMOTdmOXZZRUVDX25GOEg5c1lyUk9IX2tfYlY3NEhYcDJ4Q3ZhaExwTWhpZ1ZTQ1hRcXFjeVpBOEhWT1M0TjhLaTA3RzRmVVpNaE1zNTBCcEN2QURwbTZPNE1TQmh3RXVVS2tIa25ueUdXVjZRS0VZUVA2MGc?oc=5",
+      "category": "dunnhumby",
+      "query": "dunnhumby retail media",
+      "firstSeen": "2026-11-27T16:01:07.342Z"
+    },
+    {
       "id": "e8697c7809a5f8a1",
       "title": "Snowflake Pioneers New Open Framework for Interoperable Enterprise Data and AI",
       "source": "Snowflake",
@@ -20561,26 +20674,6 @@
       "category": "Bright Data",
       "query": "Bright Data Snowflake",
       "firstSeen": "2026-10-21T11:04:16.572Z"
-    },
-    {
-      "id": "9f384220be3f90b1",
-      "title": "Executive Connect: AI-Powered Supply Chains",
-      "source": "Indiatimes",
-      "date": "2025-11-27T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4UGNxZUh6NF9Gc0VqWUVzc2tOWmhzNWNkVUpIY3Z3TURESTJ1YWhLNG5YdVNtcHhwS2k3LTh3eEJmTEJVZkw5djdzSEFWYW1Td3FZQ1dqa1NMSk14X2tHOXJyTXdfblpLUkJYSXV3?oc=5",
-      "category": "Blue Yonder",
-      "query": "Blue Yonder Snowflake",
-      "firstSeen": "2026-08-02T19:17:01.740Z"
-    },
-    {
-      "id": "24c88ef0af859930",
-      "title": "News: Digital Twins and the Future of Smart Manufacturing | Asamaka Industries Ltd",
-      "source": "A3 Association for Advancing Automation",
-      "date": "2025-11-27T08:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1pNMkNpLVlRUjVZbndWclQzdDgzNWVneGl3eHRBZ0RyMHFEdkZBYjlMMldyc1lrY2xJUEZZNmtrZ0czbWtKekx2ZUxrclhGQXlJWVdzcWF2M21peEVGNXJwOE5XWndvYUpYQ3cyQ3BjV2VCY09KQmRycElOUHFUbEcwM0o5eG1G?oc=5",
-      "category": "AI trends",
-      "query": "digital twin manufacturing AI",
-      "firstSeen": "2026-10-28T12:01:47.390Z"
     }
   ]
 }
