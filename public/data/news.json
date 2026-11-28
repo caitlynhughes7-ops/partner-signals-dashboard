@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T16:01:29.160Z",
+  "lastUpdated": "2026-11-28T14:58:18.856Z",
   "categories": [
     "AVEVA",
     "Contentsquare",
@@ -10,7 +10,7 @@
     "NielsenIQ",
     "AI trends"
   ],
-  "totalEntries": 2028,
+  "totalEntries": 2038,
   "seenIds": [
     "ceabc3033875aa91",
     "6d236715e969977e",
@@ -392,9 +392,40 @@
     "0ab5070efa5ebaf0",
     "9f384220be3f90b1",
     "24c88ef0af859930",
-    "057218a411b61e79"
+    "057218a411b61e79",
+    "e472931b7fcf02ba"
   ],
   "entries": [
+    {
+      "id": "e19562a34e1b1bb7",
+      "title": "Wipro, Culina & Rockwell: Top 5 Supply Chain Stories",
+      "source": "Supply Chain Digital",
+      "date": "2026-11-27T23:42:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3NzMUZSMXdILTg5RThKaHB5RmpxYnZrdG55cjJZenJsLUJBbW1KMHlRZy1FcW9OS1kyaHBSamhRTk4zU0w4SVAxeEMyQTFPVXJWcFY1WmZoU25DVTdBZnFiQTBMXzJzUGNuS2NmVlV5OTdlOW5PenEtQ0w2YkwwMnp0MF9JSWZqbXljS1ZIdGpHMzB6?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-28T14:58:15.636Z"
+    },
+    {
+      "id": "10a41163cce3fabc",
+      "title": "Workday Expands AI Governance With C1.ai and Honeydew",
+      "source": "Workday Blog",
+      "date": "2026-11-27T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0lkTGYyVzI1R041djhFOU5XSGNPZlhCTzdoNkhpRGtCSWxqZ2dSMy1vUktyYm5wSFMyS2xJNk55UVV0am1qNmR1ellDTERZbGtuc1VEMDBTWEZicDhFTWpUdmR6WVFoZlozNVZZTGdwQXpRbnY4bFBWNm5RLVZ2U1JGTVBpOEVvUndxTV9HYjNnTDQ?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-28T14:58:17.830Z"
+    },
+    {
+      "id": "68992580f15595e1",
+      "title": "NexCommand AI Joins Orchestration AI, a Live Digital Twin and MERP in One Manufacturing Platform",
+      "source": "StreetInsider",
+      "date": "2026-11-27T08:12:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOHV3V2NzQ2xzQ1M1cUtMR2JxR3UzTkhBVGMzbWV3TjFJNEh4MEZ4MjNBUk9BUDFWc3N3RFBXREZtT1N1THVZa1pzMUZrb1g5R2hGZjh0WVlSQWp2c0IxREdrTklzRUgwWVQxZ2IwZUJOV3ViWkhnc0gta2R1Wlh5eFQxN1RmdTR3SkpPSTFqX2F3Z3NRQzRrRHNOYzNzRTlyNDc0cVA0TE1OQ2thSnVKa0wyTkgxNGs3Tmhjd25tVzcwZzIwUU1QLW9RdjEyTFZHWEYwMnpER3RCZ0xMOG1GRVpFMEI?oc=5",
+      "category": "AI trends",
+      "query": "digital twin manufacturing AI",
+      "firstSeen": "2026-11-28T14:58:18.853Z"
+    },
     {
       "id": "38cec048e648eec9",
       "title": "NexCommand AI Joins Orchestration AI, a Live Digital Twin and MERP in One Manufacturing Platform",
@@ -404,6 +435,16 @@
       "category": "AI trends",
       "query": "digital twin manufacturing AI",
       "firstSeen": "2026-11-27T16:01:29.156Z"
+    },
+    {
+      "id": "5670c13cdcbe21cd",
+      "title": "How Sainsbury’s, Morrisons, and M&S are leveraging AI-driven supply chain management with Blue Yonder",
+      "source": "Retail Week",
+      "date": "2026-11-27T06:14:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGVxVVVwaEdlX0ZBOVJCbHZJeENkQzV0eDhoT3pYaVN5bGJXLUFNVm9OZDJTZFVXQi1JX1dDWVQ0LXFHeWU0Y0J2ZHB5TVB5UXc3RGRVVk02RE5PeUlfWXF6aEtwYTlkd3JvVVlyWGd2MDdGZlZjQ0Frb2ZaYjVHdGhhaE5XeTBaS2JFU2cxczd3LW1hT3dQSm1MRWVkYXozVm1UOTB4UzNmMVQwZGxSZkF4TDk4S19TZ040TkJWQzlCeEwzVVRDWG5IU2cyRW90cGwzaVBrLVg3c3diQzQtbDZMYnJJcFJQakow?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-28T14:58:02.337Z"
     },
     {
       "id": "cd85423fe917d2e5",
@@ -1826,6 +1867,16 @@
       "firstSeen": "2026-11-26T16:17:31.569Z"
     },
     {
+      "id": "ea74a21760deb1c9",
+      "title": "Blue Yonder Named a Leader in the Inaugural 2026 Gartner® Magic Quadrant™ for Supply Chain Management Suites",
+      "source": "The National Law Review",
+      "date": "2026-11-15T20:16:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUliUUp5b2pjeVBoQVpkVWtuZmlzUkROV1VWSkR0V0tzMF9LeXl2Z19pZHVmMlZnNzRPUU1WZWNBQ3QtSXZ2QWx2d2VuLWY1WUxXek04OWxkSlV3b0l0eHZWX0d5RkV1Y3hlUUxvNzNYVGpRUGhxMHp4NmkxVFl2UDhzSG1FZUNQYzJ3bEFZYllDZWdZZHQ4eVpZcE5sQTY4MllmM3NobkVhVjJFQVBmZUFvMmxseDg?oc=5",
+      "category": "Blue Yonder",
+      "query": "Blue Yonder supply chain AI",
+      "firstSeen": "2026-11-28T14:58:02.337Z"
+    },
+    {
       "id": "601ca91040788612",
       "title": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations",
       "source": "Robotics & Automation News",
@@ -1864,6 +1915,16 @@
       "category": "AI trends",
       "query": "AI supply chain automation",
       "firstSeen": "2026-11-15T13:22:33.579Z"
+    },
+    {
+      "id": "77d72b4ab1776e05",
+      "title": "New AI agent observability and governance across BigQuery and Looker",
+      "source": "Google Cloud",
+      "date": "2026-11-14T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmt3Mm9Rand6bzdPZjFoNWR3eEZ6ZE5wRTlwcGtibkdQV1BrbEdjc2pvMDZ2YkwwY3RPa3ROZGhRR1dQcGxBTW9zeko0by1ISDNKRUdRcGlZMllORHpLUHA4aHVEZ2FQMDRWdF8wa19fNE9jNGxKazIwcUt3M05yaGljbzdOUlNRYVd4eFg1V3hVdVQ5M1BrN25SMGd2RnNEY1hXTFNOVlhiVlBhVjhKNllR?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-28T14:58:17.830Z"
     },
     {
       "id": "bcdd6a9d459f61d2",
@@ -2564,6 +2625,16 @@
       "category": "AI trends",
       "query": "enterprise data cloud AI agents",
       "firstSeen": "2026-11-27T16:01:27.957Z"
+    },
+    {
+      "id": "7cee44ff0c297ad7",
+      "title": "Amadeus IT S A : reports solid Q3 growth, while broadening AI partnerships with tech leaders",
+      "source": "marketscreener.com",
+      "date": "2026-11-06T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOelh1bHBKTG5hTDd1UXRZNVNCTm9tdHl5SjJidEFTZ2x1ZTJDSHZ2WWZFRzZhWVNpNTBMMEY3VDZhekxnbVJqY3ZXam9oakpWS0VhSndTbWpNNjVRNHV3MDgwREJxZGtKeG5NZ3hjSDZmN2dEVVp0dXhBY1dDaWVHRG5WZWZSNmhBR0lKZmJxTXkwNWE2Y1hLWlZCNEZNSWNKcURmbHhVV1dBT2dJQnpmWE5qNEhNckZnV0dEdmhqdUdvZUwyem53WHVnLU1hR1dwWkpQRkM3Z3BIQQ?oc=5",
+      "category": "Amadeus",
+      "query": "Amadeus IT Group partnership",
+      "firstSeen": "2026-11-28T14:58:04.334Z"
     },
     {
       "id": "106e49506cd483a1",
@@ -6746,6 +6817,16 @@
       "firstSeen": "2026-11-11T13:28:23.801Z"
     },
     {
+      "id": "de15f917e1489d11",
+      "title": "Advanced agentic AI in manufacturing service",
+      "source": "Roland Berger",
+      "date": "2026-10-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEVxenBBbHpLQ2s4bWl3MzFGYmNMMURfcW1QMHktSG54a0NzanU3N2VlTVdvTHdvMkxMTlBQNlJFMUZabml2U1hlQ3p0UnFjdE1maWtkTERlZkxpbDI5WC16Z3I1RV9BM21fTXJMR21qaGRIWEc0Wmt3aG5ZTkJPd09OMDhBeUpRT2p6bjhTeXZ1VEJ3NERCR0I4S1dabzZoQ0dEY0FqakltYnlLa3RxQ0tVRGwxWmdSV29qUFNnSURjQWdZbW5zWGN0ZThBWmVGd3RTWC0yc1g?oc=5",
+      "category": "AI trends",
+      "query": "agentic AI manufacturing",
+      "firstSeen": "2026-11-28T14:58:12.406Z"
+    },
+    {
       "id": "b0059afae35e80b3",
       "title": "Quad expands retail media network as analysts target Quad stock at USD 13.00",
       "source": "AD HOC NEWS",
@@ -7994,6 +8075,16 @@
       "category": "Blue Yonder",
       "query": "Blue Yonder supply chain AI",
       "firstSeen": "2026-09-27T11:17:36.738Z"
+    },
+    {
+      "id": "45c5ac82f04e2c3f",
+      "title": "AI Agent Use Cases: 10 Real-World Examples for Business",
+      "source": "Snowflake",
+      "date": "2026-09-26T01:30:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oNldxdUUzS1NHNzhXZGZQSHBKNE8xa0UxRHd3N21jYVl2eWxvZ01rRVpMMldhakVZZlNpMmQyaWVtV2FIQW90LUYxM2VMeEh1aXcwY0wzVklYa0dkWDE0bkMzQXhtZmtRUm83SmdqcVRZMFRoc0FPVg?oc=5",
+      "category": "AI trends",
+      "query": "enterprise data cloud AI agents",
+      "firstSeen": "2026-11-28T14:58:17.830Z"
     },
     {
       "id": "d6655fe0bd8eb8d7",
@@ -11424,6 +11515,16 @@
       "category": "AI trends",
       "query": "retail media networks AI",
       "firstSeen": "2026-11-18T15:00:07.527Z"
+    },
+    {
+      "id": "a9557fe6d55a8882",
+      "title": "https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/images/tile/autonomous-supply-chain-tile.jpg",
+      "source": "Gartner",
+      "date": "2026-08-26T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aTDZ6TFNQZ1MyYzBwSHhTWDN3eFdYdzJsXzBuZk1BR09SR2x3VlljTFJ0NWwwdVR1ZUJrT01QNWlnQkFBUXJ3WkNydUtBZGJVZEp3bXdHb3FES3gzRjFsTkdvd3BCN1VHOFlj?oc=5",
+      "category": "AI trends",
+      "query": "AI supply chain automation",
+      "firstSeen": "2026-11-28T14:58:15.636Z"
     },
     {
       "id": "58ddcf2bf3b5d471",
